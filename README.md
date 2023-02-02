@@ -113,8 +113,24 @@ To use the Plugin:
  Once these steps are complete, all Components in the Plugin will be available for use in Studio.
 
 ## Reuse through Modules
+Users may find that they use a certain combination of Components often across pages. For example, they may often pair a Search Bar Component with a Results Component. Repeating this combination over and over, for each page is tedious. That's where Studio Modules come in. A Module represents a named combination of Components. They can be added to a Page just like a single Component. 
 
 ### Creating a Module
+Creating a Module is simple and can be done entirely within Studio. No Developer intervention is needed! To start, you will need to add a Container. This is done by clicking the same Icon you did for adding a Component:
+
+![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+12.38.01+PM.png)
+
+As the name suggests, a Container groups a set of Studio Components. Once the Container is in place on the page, add the Components that you want in the Container. The Components will initially be siblings of the Container. In the `Layers` pane, you will need to drag the Components under Container. 
+
+![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+1.07.06+PM.png)
+
+Once the Container has all the necessary Components, click it and you will see a `Create Module` button appear:
+
+![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+1.00.17+PM.png)
+
+The button will open a modal that prompts you to name your Module. The Module is then available for use on any page! The TSX file for the Module will be under `src/modules` in the repo. 
+
+
 ### Modifying a Module
 
 ## File History and Committing Changes
