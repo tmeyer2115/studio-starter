@@ -8,10 +8,16 @@ export type Address = {
   countryCode: string;
 };
 
-type BannerProps = {
+interface BannerProps {
   name?: string;
-  address?: Address;
-};
+  address?: {
+    line1: string;
+    city: string;
+    region: string;
+    postalCode: string;
+    countryCode: string;
+  };
+}
 
 const renderPrettyAddress = (address?: Address) => {
   return (

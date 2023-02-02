@@ -1,6 +1,6 @@
 module.exports = {
-  isPagesJsRepo: true,
+  isPagesJSRepo: true,
   paths: {
-    pages: "./src/templates"
+    pages: require("path").resolve("./src/templates")
   }
 }
