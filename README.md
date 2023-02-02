@@ -22,20 +22,52 @@ Your Site currently has just one page: `IndexPage`. You'll want to add more page
 
 A modal will appear, prompting you to name your new page. Under the hood, a new TSX file is generated in the `src/pages` directory of your repo. If you want to remove a page, simply click the `x` icon associated with it. You can toggle between different Site pages in the Editor. To do this, simply click on the desired page name under the `Pages` header. A check-mark will appear to indicate this is the active page in Studio's Edit Mode.
 ## Working With Components
+### Adding Components to a Page
 Now that you have a page, you probably want to do some things with it. Specifically, you'll want to add Components to it. Adding a Component to a page is simple. Once you've set the desired page to active, click the icon in the top-left and you will see a drop-down like the following:
 
 ![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+9.18.10+AM.png)
 
-These are the various Components that can be added to your page. For now, you can ignore Containers and Modules. Those will be described later. Once you select a Component, such as `Banner`, it will appear in the middle preview pane. To configure the Component, click on it under the `Layers` Section. That should highlight it in the page preview. Additionally, the `Properties` shown on the left-hand side should be populated:
+These are the various Components that can be added to your page. For now, you can ignore Containers and Modules. Those will be described later. Once you select a Component, such as `Banner`, it will appear in the middle preview pane. 
+
+### Configuring Components on a Page
+To configure the Component, click on it under the `Layers` Section. That should highlight it in the page preview. Additionally, the `Properties` shown on the left-hand side should be populated:
 
 ![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+9.49.08+AM.png)
 
 These are the props of the relevant Component (in this case `Banner`). You'll notice that the Props have a toggle between `Literal` or `Expression` above them. When `Literal` is used for a prop, that means the value is static. To source the prop value from a Stream Document, you'd use `Expression`. We will go into more detail about this below. But first, if you want to remove a Component from the page, simply click the `x` icon next to it under `Layouts`. 
 
 ### Stream Powered Props
-For a Stream to power a Component prop's value, additional setup needs to be done outside Studio. This would be done by the Developer. 
+For a Stream to power a Component prop's value, additional setup needs to be done first outside of Studio. This would be done by the Developer. Firstly, the Developer would need to manually update the page's TSX file to resemble a PagesJS Template. This allows the page to accept a Stream `document` and scaffolds a Stream Configuration for the Page/Template. The modifications would look something like:
+
+```
+export const config: TemplateConfig = {
+  stream: {
+    $id: "my-stream-id-1",
+    fields: [],
+    // Defines the scope of entities that qualify for this stream.
+    filter: {
+      entityTypes: ["location"],
+    },
+    // The entity language profiles that documents will be generated for.
+    localization: {
+      locales: ["en"],
+      primary: false,
+    },
+  },
+};
+
+const Component: Template<TemplateRenderProps> = ({document, props: ComponentProps}) => ...
+export default Component;
+```
+The `fields` attribute of the Stream Configuration can be populated from the UI. If someone were to use  `document.address` as the value for an `Expression` prop, Studio would addend `"address"` to the `fields` array. All other aspects of the Stream (`localization`, `filter`, etc.) must be configured directly in the file by the Developer. 
+
+### Authoring New Components
+
+### Importing Component Libraries
 
 ## Reuse through Modules
+### Creating a Module
+### Modifying a Module
 
 ## File History and Committing Changes
 
