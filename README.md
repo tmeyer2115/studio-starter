@@ -62,10 +62,58 @@ export default Component;
 The `fields` attribute of the Stream Configuration can be populated from the UI. If someone were to use  `document.address` as the value for an `Expression` prop, Studio would addend `"address"` to the `fields` array. All other aspects of the Stream (`localization`, `filter`, etc.) must be configured directly in the file by the Developer. 
 
 ### Authoring New Components
+Developers have the ability to craft new Components that can then be used in Studio. As an example, an Admin might ask for a net-new piece of functionality on the page. The Developer would create the corresponding Component, which the Admin could then use. Authoring a Component is fairly simple. It starts with adding a new TSX file to `src/components`. The file will have the form:
+
+```
+export interface SomeComponentProps {
+  prop1: string,
+  prop2?: number,
+  ...
+};
+
+export default function SomeComponent(props: SomeComponentProps) {
+  return (
+    <div>
+      ...
+    </div>
+  );
+}
+```
+Optionally, the Developer can specify initial values for the Component's props. In the same file, they'd add something like:
+```
+export const initialProps: SomeComponentProps = {
+  prop1: 'Hello World'
+};
+```
+When the new Component is added to a page, the `Properties` tab on the left-hand side will be seeded with the defaults. 
 
 ### Importing Component Libraries
+Authoring is one way to register new Components with Studio. An easier way, one that promotes wider re-use, is to import an NPM package containing custom Studio Components. These packages are called Studio Plugins. A Plugin's entry point is structured like:
+```
+import { PluginConfig } from "@yext/studio-plugin";
+
+export * from "./components";
+
+const PluginConfig: PluginConfig = {
+  name: "[npm-package-name]",
+  components: {
+    SomeComponent: "src/components/SomeComponent.tsx",
+    AnotherComponent: "src/components/AnotherComponent.tsx"
+  },
+};
+
+export default PluginConfig;
+```
+To use the Plugin:
+
+ 1. Use `npm install` to download it.
+ 2. Add a `require` statement to the top of your `studio.config.ts`. Something like `const SomePlugin = require("[npm-package-name]")`.
+ 3. Add the imported Plugin to the `plugins` array.
+ 
+ Once these steps are complete, all Components in the Plugin will be available for use in Studio.
 
 ## Reuse through Modules
+
 ### Creating a Module
 ### Modifying a Module
 
