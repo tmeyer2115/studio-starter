@@ -1,13 +1,12 @@
-import * as React from "react";
 import { twMerge } from "tailwind-merge";
 
-type Cta = {
-  buttonText: string;
-  url: string;
+type CtaProps = {
+  buttonText?: string;
+  url?: string;
   style?: string;
 };
 
-const Cta = (props: Cta) => {
+const Cta = (props: CtaProps) => {
   const { buttonText, url, style } = props;
 
   return (
