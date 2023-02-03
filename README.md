@@ -17,7 +17,7 @@ Okay, cool. But how is this really different from SquareSpace or Landing Pages? 
 To make sure you're set up properly, invoke `npm run studio` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
 
 This command is set up to first generate the features.json and local test data before starting Studio.
-If you would like to just start Studio directly, you can run `npx studio`.
+If you would like to just start Studio without additional setup, you can run `npx studio`.
 
 ## Adding and Removing Pages
 Your Site currently has one page: `location`. This page is actually an Entity Template. Studio's chosen a random Entity to render the preview you see. You'll want to add more pages, which can be either Static or Entity Templates. A new page can be added by using the `+` icon here:
@@ -48,7 +48,7 @@ These are the props of the relevant Component (in this case `Banner`). You'll no
 ### Stream Powered Props
 For a Stream to power a Component prop's value, additional setup needs to be done first outside of Studio. This would be done by the Developer. Firstly, the Developer would need to manually update the page's TSX file to resemble a PagesJS Template. This allows the page to accept a Stream `document` and scaffolds a Stream Configuration for the Page/Template. The modifications would look something like:
 
-```tsx
+```ts
 export const config: TemplateConfig = {
   stream: {
     $id: "my-stream-id-1",
@@ -71,6 +71,11 @@ export default Component;
 The `fields` attribute of the Stream Configuration can be populated from the UI. If someone were to use  `document.address` as the value for an `Expression` prop, Studio would addend `"address"` to the `fields` array. All other aspects of the Stream (`localization`, `filter`, etc.) must be configured directly in the file by the Developer. 
 
 Once an `Expression` value is used for a prop, and the above setup is complete, the page becomes an Entity Template, it's no longer Static. 
+
+### Site Settings Powered Props
+
+SiteSettings can be used within `Expression` props in a similar way to Streams data.
+For example, you can specify `siteSettings.["Global Colors"].primary` and the corresponding site settings value will be passed to the component
 
 ### Authoring New Components
 Developers have the ability to craft new Components that can then be used in Studio. As an example, an Admin might ask for a net-new piece of functionality on the page. The Developer would create the corresponding Component, which the Admin could then use. Authoring a Component is fairly simple. It starts with adding a new TSX file to `src/components`. The file will have the form:
@@ -117,15 +122,17 @@ const PluginConfig: PluginConfig = {
 
 export default PluginConfig;
 ```
-To use the Plugin:
+To use a Plugin:
 
- 1. Use `npm install` to download it.
+ 1. Install it with `npm install [pluginPackage]`.
  2. Add a `require` statement to the top of your `studio.config.ts`. Something like `const SomePlugin = require("[npm-package-name]")`.
- 3. Add the imported Plugin to the `plugins` array.
+ 3. Add the imported Plugin to the `plugins` array in `studio.config.ts`.
  
- Once these steps are complete, all Components in the Plugin will be available for use in Studio. 
+Now, all Components in the Plugin will be available for use in Studio. 
 
-We've published a Plugin library, `@yext/studio-plugin-search-ui-react`, to power a basic Universal Search. The library exports three Components: `SearchBar`, `UniversalResults`, and `ResultsCount`. Note that these Components are hard-coded to use Slapshot's default Search Experience. 
+We've published a Plugin library, `@yext/studio-plugin-search-ui-react`, to power a basic Universal Search. The library exports three Components: `SearchBar`, `UniversalResults`, and `ResultsCount`. Note that these Components are hard-coded to use Slapshot's default Search Experience.
+
+To use these components, first add a SearchProvider component to the page, which can be found under the `Containers` category. This is necessary so that the Search components can properly interact with one another.
 
 ## Reuse through Modules
 Users may find that they use a certain combination of Components often across pages. For example, they may often pair a Search Bar Component with a Results Component. Repeating this combination over and over, for each page is tedious. That's where Studio Modules come in. A Module represents a named combination of Components. They can be added to a Page just like a single Component. 
@@ -154,4 +161,4 @@ What if you make a mistake in the Editor? Say removing a Page accidentally, upda
 
 ![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+10.28.42+AM.png)
 
-Once your happy with the changes made during your session, you can click the `Save` button on the top-right. This will make all updates to the necessary TSX files in the repo and create a Commit. Note that Studio does not write to any files until `Save` is invoked. The preview is actually powered by a virtual representation of the Site. 
+Once you're happy with the changes made during your session, you can click the `Save` button on the top-right. This will make all updates to the necessary TSX files in the repo. Note that Studio does not write to any files until `Save` is invoked. The preview is actually powered by a virtual representation of the Site. 
