@@ -75,7 +75,7 @@ Once an `Expression` value is used for a prop, and the above setup is complete, 
 ### Site Settings Powered Props
 
 SiteSettings can be used within `Expression` props in a similar way to Streams data.
-For example, you can specify `siteSettings.["Global Colors"].primary` and the corresponding site settings value will be passed to the component
+For example, you can specify `siteSettings.GlobalColors.primary` and the corresponding site settings value will be passed to the component.
 
 ### Authoring New Components
 Developers have the ability to craft new Components that can then be used in Studio. As an example, an Admin might ask for a net-new piece of functionality on the page. The Developer would create the corresponding Component, which the Admin could then use. Authoring a Component is fairly simple. It starts with adding a new TSX file to `src/components`. The file will have the form:
