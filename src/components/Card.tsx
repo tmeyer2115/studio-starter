@@ -1,4 +1,4 @@
-type CardProps = {
+export interface CardProps {
   title: string;
   url: string;
 };

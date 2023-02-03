@@ -1,6 +1,6 @@
 import { twMerge } from "tailwind-merge";
 
-type CtaProps = {
+export interface CtaProps {
   buttonText?: string;
   url?: string;
   style?: string;

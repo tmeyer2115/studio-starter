@@ -8,7 +8,7 @@ export type Address = {
   countryCode: string;
 };
 
-interface BannerProps {
+export interface BannerProps {
   name?: string;
   address?: {
     line1: string;
