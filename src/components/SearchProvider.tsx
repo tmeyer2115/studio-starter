@@ -1,5 +1,4 @@
-import { SearchHeadlessProvider } from "@yext/search-headless-react";
-import { provideHeadless } from "@yext/search-headless";
+import { SearchHeadlessProvider, provideHeadless } from "@yext/search-headless-react";
 import { ReactNode } from "react";
 import siteSettings from "../siteSettings";
 
