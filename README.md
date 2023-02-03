@@ -124,7 +124,7 @@ export default PluginConfig;
 ```
 To use a Plugin:
 
- 1. Install it with `npm install [pluginPackage]`.
+ 1. Install it with `npm install [npm-package-name]`.
  2. Add a `require` statement to the top of your `studio.config.ts`. Something like `const SomePlugin = require("[npm-package-name]")`.
  3. Add the imported Plugin to the `plugins` array in `studio.config.ts`.
  
