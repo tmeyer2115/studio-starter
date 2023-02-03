@@ -14,7 +14,7 @@ Okay, cool. But how is this really different from SquareSpace or Landing Pages? 
 3. Run `npm install`. 
 4. The starter is meant to be used with Slapshot's test account in Production (`businessId` of 3350634). Using the Yext CLI, generate authorization credentials for this account. 
 
-To make sure you're set up properly, invoke `npm run dev` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
+To make sure you're set up properly, invoke `npm run studio` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
 
 ## Adding and Removing Pages
 Your Site currently has one page: `Location`. This page is actually an Entity Template. Studio's chosen a random Entity to render the preview you see. You'll want to add more pages, which can be either Static or Entity Templates. A new page can be added by using the `+` icon here:
