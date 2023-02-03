@@ -14,10 +14,7 @@ Okay, cool. But how is this really different from SquareSpace or Landing Pages? 
 3. Run `npm install`. 
 4. The starter is meant to be used with Slapshot's test account in Production (`businessId` of 3350634). Using the Yext CLI, generate authorization credentials for this account. 
 
-To make sure you're set up properly, invoke `npm run studio` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
-
-This command is set up to first generate the features.json and local test data before starting Studio.
-If you would like to just start Studio directly, you can run `npx studio`.
+To make sure you're set up properly, invoke `npm run dev` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
 
 ## Adding and Removing Pages
 Your Site currently has one page: `Location`. This page is actually an Entity Template. Studio's chosen a random Entity to render the preview you see. You'll want to add more pages, which can be either Static or Entity Templates. A new page can be added by using the `+` icon here:
@@ -32,7 +29,11 @@ Now that you have a page, you probably want to do some things with it. Specifica
 
 ![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+9.18.10+AM.png)
 
-These are the various Components that can be added to your page. For now, you can ignore Containers and Modules. Those will be described later. Once you select a Component, such as `Banner`, it will appear in the middle preview pane. 
+These are the various Components that can be added to your page. For now, you can ignore Containers and Modules. Those will be described later. Once you select a Component, such as `Banner`, it will appear in the middle preview pane and on the left-hand side under `Layers`:
+
+![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-03+at+9.41.51+AM.png)
+
+In the `Layers` Pane, you can re-order the Components on the page by simply clicking and dragging them. 
 
 ### Configuring Components on a Page
 To configure the Component, click on it under the `Layers` Section. That should highlight it in the page preview. Additionally, the `Properties` shown on the left-hand side should be populated:
@@ -44,7 +45,7 @@ These are the props of the relevant Component (in this case `Banner`). You'll no
 ### Stream Powered Props
 For a Stream to power a Component prop's value, additional setup needs to be done first outside of Studio. This would be done by the Developer. Firstly, the Developer would need to manually update the page's TSX file to resemble a PagesJS Template. This allows the page to accept a Stream `document` and scaffolds a Stream Configuration for the Page/Template. The modifications would look something like:
 
-```ts
+```
 export const config: TemplateConfig = {
   stream: {
     $id: "my-stream-id-1",
@@ -71,7 +72,7 @@ Once an `Expression` value is used for a prop, and the above setup is complete, 
 ### Authoring New Components
 Developers have the ability to craft new Components that can then be used in Studio. As an example, an Admin might ask for a net-new piece of functionality on the page. The Developer would create the corresponding Component, which the Admin could then use. Authoring a Component is fairly simple. It starts with adding a new TSX file to `src/components`. The file will have the form:
 
-```tsx
+```
 export interface SomeComponentProps {
   prop1: string,
   prop2?: number,
@@ -87,7 +88,7 @@ export default function SomeComponent(props: SomeComponentProps) {
 }
 ```
 Optionally, the Developer can specify initial values for the Component's props. In the same file, they'd add something like:
-```ts
+```
 export const initialProps: SomeComponentProps = {
   prop1: 'Hello World'
 };
@@ -98,7 +99,7 @@ We've already added a few custom Components to the starter for you. One is a Ban
 
 ### Importing Component Libraries
 Authoring is one way to register new Components with Studio. An easier way, one that promotes wider re-use, is to import an NPM package containing custom Studio Components. These packages are called Studio Plugins. A Plugin's entry point is structured like:
-```ts
+```
 import { PluginConfig } from "@yext/studio-plugin";
 
 export * from "./components";
@@ -143,8 +144,6 @@ The button will open a modal that prompts you to name your Module. The Module is
 
 
 ### Modifying a Module
-
-
 
 ## File History and Committing Changes
 
