@@ -1,5 +1,5 @@
 # Studio Bug Bash 
-Welcome to the Bug Bash for Studio! This README will help you get setup with Studio and acquaint you with its features. 
+Welcome to the Bug Bash for Studio! This README will help you get setup with Studio and acquaint you with its features. You can find the Issue/Enhancement Submission form [here](https://docs.google.com/forms/d/e/1FAIpQLScV8tnR7pS6DnBStRaw2CLnupd5ogOpWSHln82EdOqWg_cFMw/viewform). You can see what's already been submitted in this [Sheet](https://docs.google.com/spreadsheets/d/1YYUOtUm8qtELUlnCJ2Btb72irirRy0iHiC6Vo5uh7p0/edit?usp=sharing).
 
 ## What is Studio?
 Studio is a tool that lets Admins and Developers alike build React Applications with ease. For now, we're focused on Applications corresponding to a Site. But, that may change in the future. It provides a no-code, visual Editor that allows users to add and remove pages, add and remove Components to pages, and configure Components on a page. Here's a screenshot of Studio in action:
@@ -12,15 +12,17 @@ Okay, cool. But how is this really different from SquareSpace or Landing Pages? 
 1. To start, clone this starter repo. It mimics a PagesJS-style setup. 
 2. Make sure you're using a modern Node version, such as v18. 
 3. Run `npm install`. 
+4. The starter is meant to be used with Slapshot's test account in Production (`businessId` of 3350634). Using the Yext CLI, generate authorization credentials for this account. 
 
-To make sure you're set up properly, invoke `npm run dev` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear!
+To make sure you're set up properly, invoke `npm run dev` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
 
 ## Adding and Removing Pages
-Your Site currently has just one page: `IndexPage`. You'll want to add more pages, possibly corresponding to different entity types. A new page can be added by using the `+` icon here:
+Your Site currently has one page: `Location`. This page is actually an Entity Template. Studio's chosen a random Entity to render the preview you see. You'll want to add more pages, which can be either Static or Entity Templates. A new page can be added by using the `+` icon here:
 
 ![enter image description here](https://yext-studio-images.s3.amazonaws.com/Screen+Shot+2023-02-02+at+9.07.15+AM.png)
 
-A modal will appear, prompting you to name your new page. Under the hood, a new TSX file is generated in the `src/pages` directory of your repo. If you want to remove a page, simply click the `x` icon associated with it. You can toggle between different Site pages in the Editor. To do this, simply click on the desired page name under the `Pages` header. A check-mark will appear to indicate this is the active page in Studio's Edit Mode.
+A modal will appear, prompting you to name your new page. Under the hood, a new TSX file is generated in the `src/templates` directory of your repo. If you want to remove a page, simply click the `x` icon associated with it. You can toggle between different Site pages in the Editor. To do this, simply click on the desired page name under the `Pages` header. A check-mark will appear to indicate this is the active page in Studio's Edit Mode.
+
 ## Working With Components
 ### Adding Components to a Page
 Now that you have a page, you probably want to do some things with it. Specifically, you'll want to add Components to it. Adding a Component to a page is simple. Once you've set the desired page to active, click the icon in the top-left and you will see a drop-down like the following:
@@ -61,6 +63,8 @@ export default Component;
 ```
 The `fields` attribute of the Stream Configuration can be populated from the UI. If someone were to use  `document.address` as the value for an `Expression` prop, Studio would addend `"address"` to the `fields` array. All other aspects of the Stream (`localization`, `filter`, etc.) must be configured directly in the file by the Developer. 
 
+Once an `Expression` value is used for a prop, and the above setup is complete, the page becomes an Entity Template, it's no longer Static. 
+
 ### Authoring New Components
 Developers have the ability to craft new Components that can then be used in Studio. As an example, an Admin might ask for a net-new piece of functionality on the page. The Developer would create the corresponding Component, which the Admin could then use. Authoring a Component is fairly simple. It starts with adding a new TSX file to `src/components`. The file will have the form:
 
@@ -87,6 +91,8 @@ export const initialProps: SomeComponentProps = {
 ```
 When the new Component is added to a page, the `Properties` tab on the left-hand side will be seeded with the defaults. 
 
+We've already added a few custom Components to the starter for you. One is a Banner, to prominently display an Entity's address. We also added an Entity Result Card and CTA in case you want to add Search functionality. You can use these Components as a guide when writing your own. 
+
 ### Importing Component Libraries
 Authoring is one way to register new Components with Studio. An easier way, one that promotes wider re-use, is to import an NPM package containing custom Studio Components. These packages are called Studio Plugins. A Plugin's entry point is structured like:
 ```
@@ -110,7 +116,9 @@ To use the Plugin:
  2. Add a `require` statement to the top of your `studio.config.ts`. Something like `const SomePlugin = require("[npm-package-name]")`.
  3. Add the imported Plugin to the `plugins` array.
  
- Once these steps are complete, all Components in the Plugin will be available for use in Studio.
+ Once these steps are complete, all Components in the Plugin will be available for use in Studio. 
+
+We've published a Plugin library, `@yext/studio-plugin-search-ui-react`, to power a basic Universal Search. The library exports three Components: `SearchBar`, `UniversalResults`, and `ResultsCount`. Note that these Components are hard-coded to use Slapshot's default Search Experience. 
 
 ## Reuse through Modules
 Users may find that they use a certain combination of Components often across pages. For example, they may often pair a Search Bar Component with a Results Component. Repeating this combination over and over, for each page is tedious. That's where Studio Modules come in. A Module represents a named combination of Components. They can be added to a Page just like a single Component. 
@@ -132,6 +140,8 @@ The button will open a modal that prompts you to name your Module. The Module is
 
 
 ### Modifying a Module
+
+
 
 ## File History and Committing Changes
 
