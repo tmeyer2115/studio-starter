@@ -16,6 +16,9 @@ Okay, cool. But how is this really different from SquareSpace or Landing Pages? 
 
 To make sure you're set up properly, invoke `npm run studio` in the terminal. Instead of the PagesJS dev server being spun up, you should see Yext Studio appear! 
 
+This command is set up to first generate the features.json and local test data before starting the studio server.
+If you would like to just start studio directly, you can run `npx studio`.
+
 ## Adding and Removing Pages
 Your Site currently has one page: `Location`. This page is actually an Entity Template. Studio's chosen a random Entity to render the preview you see. You'll want to add more pages, which can be either Static or Entity Templates. A new page can be added by using the `+` icon here:
 
