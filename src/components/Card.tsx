@@ -1,7 +1,7 @@
 export interface CardProps {
   title: string;
   url: string;
-};
+}
 
 const Card = ({ title, url }: CardProps) => {
   return (

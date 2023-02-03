@@ -4,7 +4,7 @@ export interface CtaProps {
   buttonText?: string;
   url?: string;
   style?: string;
-};
+}
 
 const Cta = (props: CtaProps) => {
   const { buttonText, url, style } = props;
