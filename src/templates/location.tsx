@@ -17,10 +17,6 @@ export const getPath: GetPath<TemplateProps> = ({ document }) => {
       }-${document.id.toString()}`;
 };
 
-export default function Location() {
-  return (
-    <div>
-      <Banner />
-    </div>
-  );
+export default function Location({ document }: TemplateProps) {
+  return <Banner />;
 }
