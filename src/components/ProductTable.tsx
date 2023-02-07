@@ -1,4 +1,3 @@
-import * as React from "react";
 export interface ProductTableProps {
   title: string;
   rockerType: string;
@@ -18,7 +17,7 @@ export const initialProps: ProductTableProps = {
     "AR Freestyle Rocker – Rockered tips and tails are combined with positive camber underfoot to allow the ski to charge with ease through unpredictable snow and maintain a solid carve when asked to do so. Turn the whole mountain into your playground.",
   flex: "Flex (1=Soft, 10=Stiff) – Tip: 8 | Mid: 6 | Tail: 10",
   shape: "Pin Tip and Tail",
-  core: "Caruba Core – Armada's lightest wood species creates the best uphill feel while retaining the power and dampness required for descending in the gnarliest of terrain. This core makes no concessions in its quest to be ultralight.",
+  core: "Caruba Core – Armadas lightest wood species creates the best uphill feel while retaining the power and dampness required for descending in the gnarliest of terrain. This core makes no concessions in its quest to be ultralight.",
   sidewalls:
     "AR75 Sidewall – Sidewalls provide improved edge pressure under the boot, while cap constuction in the tip and tail provides smooth turn initiation and less hookiness - 75% sidewall, 25% cap.",
   base: "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability on snow.",

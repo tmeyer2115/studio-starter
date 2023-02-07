@@ -1,5 +1,3 @@
-import * as React from "react";
-
 export interface ProductImageProps {
   src: string;
   alt: string;

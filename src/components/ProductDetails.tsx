@@ -1,11 +1,9 @@
-import * as React from "react";
-
 import { CheckIcon, StarIcon } from "@heroicons/react/20/solid";
 import { twMerge } from "tailwind-merge";
 
 export interface ProductDetailsProps {
   name: string;
-  c_price: string;
+  price: string;
   description: string;
   averageRating?: number;
   reviewCount?: number;
@@ -13,7 +11,7 @@ export interface ProductDetailsProps {
 
 export const initialProps: ProductDetailsProps = {
   name: "Name goes here",
-  c_price: "100",
+  price: "100",
   description: "Description goes here",
   averageRating: 5,
   reviewCount: 1995,
@@ -21,7 +19,7 @@ export const initialProps: ProductDetailsProps = {
 
 const ProductDetails = ({
   name,
-  c_price,
+  price,
   description,
   averageRating,
   reviewCount,
@@ -40,7 +38,7 @@ const ProductDetails = ({
         </h2>
 
         <div className="flex items-center">
-          <p className="text-lg text-gray-900 sm:text-xl">{`$${c_price}`}</p>
+          <p className="text-lg text-gray-900 sm:text-xl">{`$${price}`}</p>
 
           <div className="ml-4 border-l border-gray-300 pl-4">
             <h2 className="sr-only">Reviews</h2>
