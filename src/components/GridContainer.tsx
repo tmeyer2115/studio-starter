@@ -1,4 +1,3 @@
-import * as React from "react";
 export interface GridContainerProps {
   children: React.ReactNode;
 }

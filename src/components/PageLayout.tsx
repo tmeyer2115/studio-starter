@@ -1,17 +1,17 @@
-import { twMerge } from "tailwind-merge";
+import { HexColor } from "@yext/studio";
 
 export interface PageLayoutProps {
   children: React.ReactNode;
-  backgroundColor?: string;
+  backgroundColor?: HexColor;
 }
 
 export const initialProps = {
-  backgroundColor: "bg-white",
+  backgroundColor: "#FFFFFF",
 };
 
 const PageLayout = ({ children, backgroundColor }: PageLayoutProps) => {
   return (
-    <div className={twMerge("min-h-screen", backgroundColor)}>
+    <div className="min-h-screen" style={{ backgroundColor }}>
       <main>{children}</main>
     </div>
   );
