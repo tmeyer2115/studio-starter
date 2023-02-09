@@ -1,13 +1,19 @@
 import { GetPath, TemplateConfig, TemplateProps } from "@yext/pages";
-import BigButton from "../components/BigButton";
 import GridContainer from "../components/GridContainer";
+
 import HeaderSimple from "../components/HeaderSimple";
+import Headline from "../components/Headline";
+import HStack from "../components/HStack";
 import Item from "../components/Item";
 import ItemsGrid from "../components/ItemsGrid";
+import Label from "../components/Label";
+
 import PageLayout from "../components/PageLayout";
-import ProductDetails from "../components/ProductDetails";
+import Paragraph from "../components/Paragraph";
 import ProductImage from "../components/ProductImage";
 import ProductTable from "../components/ProductTable";
+import Reviews from "../components/Reviews";
+import VStack from "../components/VStack";
 
 export const config: TemplateConfig = {
   stream: {
@@ -28,24 +34,28 @@ export const getPath: GetPath<TemplateProps> = ({ document }) => {
 export default function Product({ document }: TemplateProps) {
   return (
     <>
-      <PageLayout>
+      <PageLayout backgroundColor="#FFFFFF">
         <HeaderSimple
           backgroundColor="#BAD8FD"
           logo=" https://a.mktgcdn.com/p/R9FjcYjRNA5dAespqgHFLMvu2m18-E5Apnb3KON0oJY/300x300.png"
         />
         <GridContainer>
-          <ProductDetails
-            name="Nordica Enforcer 94 Unlimited Skis 2023"
-            price="799.99"
-            description="The all new Nordica Enforcer 94 Unlimited Skis are ready to take the touring world by storm. Lightweight, maneuverable, and super efficient on the skin track, they give the classic Enforcer design a gram-conscious makeover that doesnt skimp on downhill performance. Nordicas Carbon Chassis LT brings the heat instead of heavy Titanal, and early rise tip and tail rocker makes them formidable in variable snow while remaining plenty approachable to those looking for a powerful, yet easy to control ski. Whether youre ditching civilization for a Spring tour or just ripping around the sidecountry, the Nordica Enforcer 94 Unlimited Skis deliver the goods."
-            reviewCount={1995}
-            averageRating={5}
-          />
+          <VStack>
+            <Headline
+              value="Nordica Enforcer 94 Unlimited Skis 2023"
+              fontWeight="bold"
+              textSize="4xl"
+            />
+            <HStack>
+              <Label value="$799.99" />
+              <Reviews averageRating={5} reviewCount={1995} />
+            </HStack>
+            <Paragraph value="The all new Nordica Enforcer 94 Unlimited Skis are ready to take the touring world by storm. Lightweight, maneuverable, and super efficient on the skin track, they give the classic Enforcer design a gram-conscious makeover that doesnt skimp on downhill performance. Nordicas Carbon Chassis LT brings the heat instead of heavy Titanal, and early rise tip and tail rocker makes them formidable in variable snow while remaining plenty approachable to those looking for a powerful, yet easy to control ski. Whether youre ditching civilization for a Spring tour or just ripping around the sidecountry, the Nordica Enforcer 94 Unlimited Skis deliver the goods." />
+          </VStack>
           <ProductImage
             src="https://images.evo.com/imgp/700/217382/882112/clone.jpg"
-            alt="enforcer 94"
+            alt="Light green backpack with black canvas straps and front zipper pouch."
           />
-          <BigButton title="Add to Cart" />
         </GridContainer>
         <ItemsGrid title="Similar Items">
           <Item
@@ -65,18 +75,18 @@ export default function Product({ document }: TemplateProps) {
           />
           <Item
             name="Nordica Enforcer 88 Skis"
-            image=" https://images.evo.com/imgp/250/224771/910233/nordica-enforcer-88-skis-2023-.jpg"
+            image="https://images.evo.com/imgp/250/224771/910233/nordica-enforcer-88-skis-2023-.jpg"
             price={699.99}
           />
         </ItemsGrid>
         <ProductTable
           title="Product Details"
-          bindingCompatibility="We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
-          sidewalls="ABS Sidewalls"
-          laminates="Carbon Chassis LT – A proprietary blend of carbon materials to reduce weight while maximizing performance."
-          core="Lite Performance Wood | Poplar / Beech"
-          shape="True Tip LT – By trimming the amount of heavy ABS plastic in the tip and extending the lightweight wood core into this area with a taper that further reduces weight, Nordica enhances playfulness and maneuverability of the ski without compromising that unmatchable feeling of powerful and control."
           rockerType="All Mountain Rocker – Smooth rocker at both tip and tail with camber underfoot provides balanced performance anywhere on the mountain."
+          shape="True Tip LT – By trimming the amount of heavy ABS plastic in the tip and extending the lightweight wood core into this area with a taper that further reduces weight, Nordica enhances playfulness and maneuverability of the ski without compromising that unmatchable feeling of powerful and control."
+          core="Lite Performance Wood | Poplar / Beech"
+          laminates="Carbon Chassis LT – A proprietary blend of carbon materials to reduce weight while maximizing performance."
+          sidewalls="ABS Sidewalls"
+          bindingCompatibility="We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
         />
       </PageLayout>
     </>
