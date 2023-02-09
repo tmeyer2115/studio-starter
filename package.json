@@ -5,7 +5,6 @@
   "author": "sumo@yext.com",
   "type": "module",
   "license": "BSD-3-Clause",
-  "type": "module",
   "scripts": {
     "dev": "npm run build:local && yext pages generate-test-data && pages dev",
     "build:local": "vite build",
