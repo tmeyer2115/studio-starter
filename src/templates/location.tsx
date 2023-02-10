@@ -1,3 +1,4 @@
+import "../index.css"
 import { GetPath, TemplateConfig, TemplateProps } from "@yext/pages";
 import CTASectionCentered from "../components/CTASectionCentered";
 import CTASectionWithPhoto from "../components/CTASectionWithPhoto";
@@ -15,11 +16,7 @@ export const config: TemplateConfig = {
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
-  return document.slug
-    ? document.slug
-    : `${document.locale}/${document.address.region}/${document.address.city}/${
-        document.address.line1
-      }-${document.id.toString()}`;
+  return document.slug ?? document.id.toString();
 };
 
 export default function Location({ document }: TemplateProps) {

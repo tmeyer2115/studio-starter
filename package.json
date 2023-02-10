@@ -19,7 +19,7 @@
     "studio": "npm run features && yext pages generate-test-data -a && studio"
   },
   "engines": {
-    "node": "18"
+    "node": "17"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.10",
