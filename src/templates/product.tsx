@@ -20,7 +20,7 @@ export const config: TemplateConfig = {
     $id: "skis",
     filter: { entityTypes: ["ce_skis"] },
     localization: { locales: ["en"], primary: false },
-    fields: [],
+    fields: ["name", "c_price", "description", "photoGallery"],
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
@@ -41,19 +41,15 @@ export default function Product({ document }: TemplateProps) {
         />
         <GridContainer>
           <VStack>
-            <Headline
-              value="Nordica Enforcer 94 Unlimited Skis 2023"
-              fontWeight="bold"
-              textSize="4xl"
-            />
+            <Headline value={document.name} fontWeight="bold" textSize="4xl" />
             <HStack>
-              <Label value="$799.99" />
+              <Label value={document.c_price} />
               <Reviews averageRating={5} reviewCount={1995} />
             </HStack>
-            <Paragraph value="The all new Nordica Enforcer 94 Unlimited Skis are ready to take the touring world by storm. Lightweight, maneuverable, and super efficient on the skin track, they give the classic Enforcer design a gram-conscious makeover that doesnt skimp on downhill performance. Nordicas Carbon Chassis LT brings the heat instead of heavy Titanal, and early rise tip and tail rocker makes them formidable in variable snow while remaining plenty approachable to those looking for a powerful, yet easy to control ski. Whether youre ditching civilization for a Spring tour or just ripping around the sidecountry, the Nordica Enforcer 94 Unlimited Skis deliver the goods." />
+            <Paragraph value={document.description} fontWeight="" textSize="" />
           </VStack>
           <ProductImage
-            src="https://images.evo.com/imgp/700/217382/882112/clone.jpg"
+            src={document.photoGallery[0].image.url}
             alt="Light green backpack with black canvas straps and front zipper pouch."
           />
         </GridContainer>
