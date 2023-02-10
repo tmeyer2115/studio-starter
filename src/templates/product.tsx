@@ -1,3 +1,4 @@
+import "../index.css";
 import { GetPath, TemplateConfig, TemplateProps } from "@yext/pages";
 import GridContainer from "../components/GridContainer";
 
@@ -20,15 +21,11 @@ export const config: TemplateConfig = {
     $id: "skis",
     filter: { entityTypes: ["ce_skis"] },
     localization: { locales: ["en"], primary: false },
-    fields: ["name", "c_price", "description", "photoGallery"],
+    fields: ["name", "c_price", "description", "photoGallery", "slug"],
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
-  return document.slug
-    ? document.slug
-    : `${document.locale}/${document.address.region}/${document.address.city}/${
-        document.address.line1
-      }-${document.id.toString()}`;
+  return document.slug ?? document.id.toString();
 };
 
 export default function Product({ document }: TemplateProps) {
