@@ -64,14 +64,14 @@ export default function Product({ document }: TemplateProps) {
             </GridContainer>
             <ItemsGrid title="Similar Items">
               <Item
-                name="Nordica Enforcer 88 Skis"
-                image="https://images.evo.com/imgp/250/224771/910233/nordica-enforcer-88-skis-2023-.jpg"
-                price={699.99}
-              />
-              <Item
                 name="Saloman QST 98 Skis 2023"
                 image="https://images.evo.com/imgp/250/197273/812057/salomon-qst-98-skis-2023-.jpg"
                 price={599.95}
+              />
+              <Item
+                name="Nordica Enforcer 88 Skis"
+                image="https://images.evo.com/imgp/250/224771/910233/nordica-enforcer-88-skis-2023-.jpg"
+                price={699.99}
               />
               <Item
                 name="Atomic Bent 100 Skis 2023"

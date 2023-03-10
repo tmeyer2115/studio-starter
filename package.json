@@ -25,8 +25,8 @@
     "@headlessui/react": "^1.7.10",
     "@heroicons/react": "^2.0.14",
     "@yext/search-headless-react": "^2.1.0",
-    "@yext/studio": "^0.4.3",
-    "@yext/studio-plugin": "^0.4.3",
+    "@yext/studio": "^0.5.0",
+    "@yext/studio-plugin": "^0.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "tailwind-merge": "^1.6.2"
