@@ -51,21 +51,21 @@ export default function Product({ document }: TemplateProps) {
                   <Label value={document.c_price} />
                   <Reviews averageRating={5} reviewCount={1995} />
                 </HStack>
+                <ProductImage
+                  src={document.photoGallery[0].image.url}
+                  alt="Light green backpack with black canvas straps and front zipper pouch."
+                />
                 <Paragraph
                   value={`Add Description Here`}
                   fontWeight=""
                   textSize=""
                 />
               </VStack>
-              <ProductImage
-                src={document.photoGallery[0].image.url}
-                alt="Light green backpack with black canvas straps and front zipper pouch."
-              />
             </GridContainer>
             <ItemsGrid title="Similar Items">
               <Item
-                name="Saloman QST 98 Skis 2023"
-                image="https://images.evo.com/imgp/250/197273/812057/salomon-qst-98-skis-2023-.jpg"
+                name="Atomic Bent 100 Skis 2023"
+                image="https://images.evo.com/imgp/250/219400/896899/atomic-bent-100-skis-2023-.jpg"
                 price={599.95}
               />
               <Item
@@ -74,8 +74,8 @@ export default function Product({ document }: TemplateProps) {
                 price={699.99}
               />
               <Item
-                name="Atomic Bent 100 Skis 2023"
-                image="https://images.evo.com/imgp/250/219400/896899/atomic-bent-100-skis-2023-.jpg"
+                name="Saloman QST 98 Skis 2023"
+                image="https://images.evo.com/imgp/250/197273/812057/salomon-qst-98-skis-2023-.jpg"
                 price={599.95}
               />
               <Item
