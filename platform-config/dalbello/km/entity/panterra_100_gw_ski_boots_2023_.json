@@ -1,0 +1,60 @@
+{
+  "$id": "dalbello_panterra_100_gw_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "549.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "With an adjustable 102 mm last that\u0027s comfortable right away even for most wider feet and a relaxed flex of 100, the Dalbello Panterra 100 GW Ski Boots are an ideal choice for intermediate to advanced skiers looking for a great balance between comfort and performance. The Panterra walk mode and Gripwalk soles mean safer and easier hiking or booting, whether on the way to the ticket office or high on the mountain. As with other Dalbello cabrio boots, the proven Dynalink buckle system means improved heel retention and better ski control",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Panterra 100 GW Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208264/848509/dalbello-panterra-100-gw-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dWC1jYmXt2mlpEw38BkKoUwsFZQQevFI0GK3kAdYOHI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dWC1jYmXt2mlpEw38BkKoUwsFZQQevFI0GK3kAdYOHI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dWC1jYmXt2mlpEw38BkKoUwsFZQQevFI0GK3kAdYOHI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dWC1jYmXt2mlpEw38BkKoUwsFZQQevFI0GK3kAdYOHI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dWC1jYmXt2mlpEw38BkKoUwsFZQQevFI0GK3kAdYOHI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

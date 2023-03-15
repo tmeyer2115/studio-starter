@@ -1,0 +1,610 @@
+{
+  "$id": "salomon_qst_92_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_92_skis_2023",
+    "c_details": [
+      {
+        "value": "Tip and Tail Rocker"
+      },
+      {
+        "value": "Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations."
+      },
+      {
+        "value": "C/FX Carbon Weave – C/FX is a fiber layer consisting of Carbon and Flax woven together. It combines the strength, stability, minimal weight of carbon with the increased level of dampening of the flax."
+      },
+      {
+        "value": "Double Sidewall Construction – A high density injected piece of ABS underfoot combined with full length sidewalls creates a strong platform underfoot to maximize the grip on hard snow."
+      },
+      {
+        "value": "Glossy Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "549.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "152",
+      "160",
+      "168",
+      "176",
+      "184"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Flax, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Series",
+        "value": "QST"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Once you\u0027ve got a taste of the Salomon QST 92 Skis, your days on the mountain will never be the same. From East Coast groomers to Northwest volcanoes, these skis can handle any type of terrain with style, fun, and flair. They\u0027re made with the highest quality materials available and shaped for smooth edge transfer, tons of pop, and lightweight pivotability.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Salomon QST 92 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/943337/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/943332/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/943335/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965137/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965134/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965135/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965138/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965133/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965136/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965140/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965139/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/K4wJU7OCftsNmDKkvD5pIRGviON1ioOdqySiZlx6-I4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/K4wJU7OCftsNmDKkvD5pIRGviON1ioOdqySiZlx6-I4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/K4wJU7OCftsNmDKkvD5pIRGviON1ioOdqySiZlx6-I4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/K4wJU7OCftsNmDKkvD5pIRGviON1ioOdqySiZlx6-I4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/K4wJU7OCftsNmDKkvD5pIRGviON1ioOdqySiZlx6-I4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/965141/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vtBoV-AGB1fFds68TYoKYTwCy7--8kU7ZzGkQvNd1X0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/943235/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OUL6W1Q4QDQG7yCJekslmA-7hphscVhsYcFAtUCnUss/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/943234/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/grdhHqQUSG-AxDGhEihUVmXBiIuCrK9W7AyLw7-Ar2U/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/943232/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gRE08ZVqmZJzZQ_e6_Nkh4QpIzrlihXNkVOrgM84AEQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/982883/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/NcHiT-p2XhjPDTXzZE8BqpB_kcq814xnMoYZB1ph-sk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/NcHiT-p2XhjPDTXzZE8BqpB_kcq814xnMoYZB1ph-sk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/NcHiT-p2XhjPDTXzZE8BqpB_kcq814xnMoYZB1ph-sk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/NcHiT-p2XhjPDTXzZE8BqpB_kcq814xnMoYZB1ph-sk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/NcHiT-p2XhjPDTXzZE8BqpB_kcq814xnMoYZB1ph-sk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219243/982881/salomon-qst-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FJvESUQfXyeScwc9BEofoAlINPS5euw-oeiznBFdzxc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FJvESUQfXyeScwc9BEofoAlINPS5euw-oeiznBFdzxc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FJvESUQfXyeScwc9BEofoAlINPS5euw-oeiznBFdzxc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FJvESUQfXyeScwc9BEofoAlINPS5euw-oeiznBFdzxc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FJvESUQfXyeScwc9BEofoAlINPS5euw-oeiznBFdzxc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

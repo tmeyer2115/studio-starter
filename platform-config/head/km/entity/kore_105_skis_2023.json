@@ -1,0 +1,133 @@
+{
+  "$id": "head_kore_105_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/head_kore_105_skis_2023",
+    "c_details": [
+      {
+        "value": "Tip / Tail Rocker – Subtle rocker in the tip and tail; camber underfoot."
+      },
+      {
+        "value": "Karuba / Poplar Lightweight Wood Core – Utilizing karuba wood in the core gives you the perfect balance of density, durability, and weight."
+      },
+      {
+        "value": "Graphene – Graphene is the strongest, lightest material known to man. Integrating Graphene into the construction of the ski has two essential benefits: a reduction in weight and an increase in performance."
+      },
+      {
+        "value": "Topless Tech – The topsheet surface is replaced with a Polyester Fleece to reduce weight."
+      },
+      {
+        "value": "Rubber Foil Dampening Layer Over Edges"
+      },
+      {
+        "value": "Extra Carbon Layer – Adding another layer of carbon to the construction saves weight and ensures the ski performs consistently."
+      },
+      {
+        "value": "Sandwich Cap Construction"
+      },
+      {
+        "value": "Structured UHM C Base – The same high quality material used in Head\u0027s world-leading race skis is used here. Different structured running base for all conditions."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "170",
+      "177",
+      "184",
+      "191"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Graphene, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Head Kore 105 Skis make the best of two worlds. Their pure downhill pedigree shows through on each turn, providing the right level of feedback no matter how hard you push them. Their lightweight Multilayer-Carbon Sandwich Cap Construction means they\u0027re ideal for strong skiers as a backcountry option as well. Stiff enough to hit warp speed without hesitation, yet still maneuverable enough to effortlessly bounce through tight trees, and weighing in at a wickedly light weight — if you\u0027re an aggressive skier looking for a ski that never blinks, these bad mamajamas check all the boxes. The choice is up to you, but the Kore 105 is the right call either way.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Head Kore 105 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225244/913906/head-kore-105-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/bSO0iFEnG44L_Ns06XSpRyviyV4gNfAd9EPWtzHHdQ0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bSO0iFEnG44L_Ns06XSpRyviyV4gNfAd9EPWtzHHdQ0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bSO0iFEnG44L_Ns06XSpRyviyV4gNfAd9EPWtzHHdQ0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bSO0iFEnG44L_Ns06XSpRyviyV4gNfAd9EPWtzHHdQ0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bSO0iFEnG44L_Ns06XSpRyviyV4gNfAd9EPWtzHHdQ0/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_magna_75_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "299.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "The Atomic Hawx Magna 75 W Ski Boots are a great option for beginner to intermediate skiers with wide feet looking for comfort and performance on the hill. Made with a roomy 3D stretch toe box, customizable heat molded liners, and an easygoing flex, the Magna 75s are sure to impress.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Magna 75 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219577/916571/atomic-hawx-magna-75-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/tGYhC2OmUi1q_eWjV2j8L_EANgvX2IYp4G3Xyja3zzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/tGYhC2OmUi1q_eWjV2j8L_EANgvX2IYp4G3Xyja3zzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/tGYhC2OmUi1q_eWjV2j8L_EANgvX2IYp4G3Xyja3zzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/tGYhC2OmUi1q_eWjV2j8L_EANgvX2IYp4G3Xyja3zzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tGYhC2OmUi1q_eWjV2j8L_EANgvX2IYp4G3Xyja3zzk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

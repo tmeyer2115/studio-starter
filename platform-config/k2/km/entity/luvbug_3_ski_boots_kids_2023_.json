@@ -1,0 +1,60 @@
+{
+  "$id": "k2_luvbug_3_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "129.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "They grow up so fast, don\u0027t they? One second they\u0027re in the tiniest little boots ever made, skiing between your legs, clinging to your poles, their skis barely touching the ground. Now they\u0027re ripping around the groomers, full french fry, making detours into the mini park. It\u0027s time that your little ripper leveled up to a new ski boot that can keep up with their newfound confidence. The K2 Luvbug 3 Ski Boots have 3 buckles, making them that much closer to a full grown ski boot, but don\u0027t worry; these boots are still small and forgiving, and easy to slip on and off.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Luvbug 3 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/182201/722418/k2-luvbug-3-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/H9Qni_PQzuDuBKrIDBtzJ2nwUPBz_UyN-VnK72q33_Q/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/H9Qni_PQzuDuBKrIDBtzJ2nwUPBz_UyN-VnK72q33_Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/H9Qni_PQzuDuBKrIDBtzJ2nwUPBz_UyN-VnK72q33_Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/H9Qni_PQzuDuBKrIDBtzJ2nwUPBz_UyN-VnK72q33_Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/H9Qni_PQzuDuBKrIDBtzJ2nwUPBz_UyN-VnK72q33_Q/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

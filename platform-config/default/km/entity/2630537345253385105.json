@@ -1,0 +1,41 @@
+{
+  "$id": "2630537345253385105",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_coverPhoto": {
+      "image": {
+        "height": 980,
+        "sourceUrl": "https://plus.unsplash.com/premium_photo-1669907526041-272dff1f8395?ixlib\u003drb-4.0.3\u0026ixid\u003dMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1470\u0026q\u003d80",
+        "thumbnails": [
+          {
+            "height": 980,
+            "url": "https://a.mktgcdn.com/p/lT_t8hvnSZHqVwtQnUDAg9466dH5ix9kEbol85K3gKg/1470x980.jpg",
+            "width": 1470
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p/lT_t8hvnSZHqVwtQnUDAg9466dH5ix9kEbol85K3gKg/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p/lT_t8hvnSZHqVwtQnUDAg9466dH5ix9kEbol85K3gKg/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p/lT_t8hvnSZHqVwtQnUDAg9466dH5ix9kEbol85K3gKg/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/lT_t8hvnSZHqVwtQnUDAg9466dH5ix9kEbol85K3gKg/1470x980.jpg",
+        "width": 1470
+      }
+    },
+    "name": "Shop Men\u0027s New Arrivals"
+  },
+  "entityType": "ce_collection",
+  "folder": "yext/root",
+  "labels": []
+}

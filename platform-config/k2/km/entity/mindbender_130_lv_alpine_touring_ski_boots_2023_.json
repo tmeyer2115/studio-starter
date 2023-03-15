@@ -1,0 +1,60 @@
+{
+  "$id": "k2_mindbender_130_lv_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "High level big mountain skiing places a lot of demands on a boot. You need something stiff and burly that can handle GS-style race turns through no-fall zones, but you also need something balanced and responsive that lets you unleash your creativity on the hill. And nowadays, you need all that to be lightweight and touring-capable for earning your turns on boot packs and in the backcountry. That\u0027s a lot to ask of one piece of equipment, but it\u0027s exactly what the K2 Mindbender 130 LV Alpine Touring Ski Boots were built to provide. If you\u0027re seeking one boot to do it all, Mindbender 130\u0027s are your ticket to full throttle charging in the resort and the backcountry alike.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 Mindbender 130 LV Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224002/904588/k2-mindbender-130-lv-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cgEaK8j10e1fP6OkwMxR_1QBI2UaEf9v16utBhjB16Y/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cgEaK8j10e1fP6OkwMxR_1QBI2UaEf9v16utBhjB16Y/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cgEaK8j10e1fP6OkwMxR_1QBI2UaEf9v16utBhjB16Y/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cgEaK8j10e1fP6OkwMxR_1QBI2UaEf9v16utBhjB16Y/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cgEaK8j10e1fP6OkwMxR_1QBI2UaEf9v16utBhjB16Y/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

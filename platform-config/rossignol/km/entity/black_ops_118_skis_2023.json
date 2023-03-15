@@ -1,0 +1,116 @@
+{
+  "$id": "rossignol_black_ops_118_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/rossignol_black_ops_118_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker"
+      },
+      {
+        "value": "Poplar PEFC™ Wood Core – A very versatile construction designed to ensure liveliness, grip and a feeling of safety. The Poplar wood cores are PEFC™ certified which guarantees sustainable forest management."
+      },
+      {
+        "value": "Rectangular Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "186"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "7200013882251703847"
+    ],
+    "description": "The lurking gator on the topsheet should give you some idea of the capability of the Rossignol Black Ops 118 Skis - all calm and serene up top, but when you dive down you encounter the beast. Watch some Parker White videos and you\u0027ll see what we mean; some surfy and spinny stuff and then WHAM, the action explodes and you see the kind of guts the 118 has. Hard charging and \"surfy\" can live together in peace - the Black Ops 118s are living proof.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Rossignol Black Ops 118 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227336/914081/rossignol-black-ops-118-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SH-r0YvKp83ospyBi6Rmtqa0SOOAqPGhuwfUFeeuMoU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SH-r0YvKp83ospyBi6Rmtqa0SOOAqPGhuwfUFeeuMoU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SH-r0YvKp83ospyBi6Rmtqa0SOOAqPGhuwfUFeeuMoU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SH-r0YvKp83ospyBi6Rmtqa0SOOAqPGhuwfUFeeuMoU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SH-r0YvKp83ospyBi6Rmtqa0SOOAqPGhuwfUFeeuMoU/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

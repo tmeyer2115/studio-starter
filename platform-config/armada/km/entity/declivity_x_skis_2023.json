@@ -1,0 +1,216 @@
+{
+  "$id": "armada_declivity_x_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/armada_declivity_x_skis_2023",
+    "c_details": [
+      {
+        "value": "EST Freeride Rocker – Forebody rocker and extra tip taper combine to create EST for optimized float in the soft stuff. Positive camber under foot with no tail rocker ensures these skis stay on rails when carving is the priority."
+      },
+      {
+        "value": "Flex (1\u003dSoft, 10\u003dStiff) – Tip: 7 | Mid: 7 | Tail: 7"
+      },
+      {
+        "value": "Hybrid Caruba Core – A combination of lightweight woods and full length hardwood stringers, the Hybrid Caruba Core creates the ultimate in weight savings, agility, and maneuverability without sacrificing security or dampness."
+      },
+      {
+        "value": "AR100 Sidewall – Superior edge grip for precision on the hardest of snow surfaces."
+      },
+      {
+        "value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability on snow."
+      },
+      {
+        "value": "2.1 All-Mountain Edge – Heat treated and built to avoid excess weight while maintaining durability, this edge gives the best balance of durability and feel of Armada\u0027s whole collection."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "185",
+      "192"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7200013882251703847"
+    ],
+    "description": "The Armada Declivity X Skis are Armada\u0027s take on a directional big mountain charger, and the result is fantastic. They\u0027re strong skis that love to be pushed down the fall line, but don\u0027t have an overly demanding flex profile. Instead they just feel exceptionally damp, smooth, and stable for confidence inspiring, chunder busting performance at breakneck speeds. They stomp hard and ski fast, but thanks to a lightweight Caruba core, they\u0027re surprisingly nimble and well balanced in the air.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Armada Declivity X Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219360/970214/armada-declivity-x-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/r0NVeTbCGwa6ff1JkgTu3YHD515Nq5f6nPIkZZTtFCo/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/r0NVeTbCGwa6ff1JkgTu3YHD515Nq5f6nPIkZZTtFCo/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/r0NVeTbCGwa6ff1JkgTu3YHD515Nq5f6nPIkZZTtFCo/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/r0NVeTbCGwa6ff1JkgTu3YHD515Nq5f6nPIkZZTtFCo/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/r0NVeTbCGwa6ff1JkgTu3YHD515Nq5f6nPIkZZTtFCo/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219360/970210/armada-declivity-x-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/T84ZA6nXc3XahTLzFmyFcbUZIlhU4ViPgrNo694EdIA/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/T84ZA6nXc3XahTLzFmyFcbUZIlhU4ViPgrNo694EdIA/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/T84ZA6nXc3XahTLzFmyFcbUZIlhU4ViPgrNo694EdIA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/T84ZA6nXc3XahTLzFmyFcbUZIlhU4ViPgrNo694EdIA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/T84ZA6nXc3XahTLzFmyFcbUZIlhU4ViPgrNo694EdIA/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219360/918236/armada-declivity-x-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8vosNB6fZmhKEoPvePs1aaELDseCu1GY-ZPyeK9F4-0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8vosNB6fZmhKEoPvePs1aaELDseCu1GY-ZPyeK9F4-0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8vosNB6fZmhKEoPvePs1aaELDseCu1GY-ZPyeK9F4-0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8vosNB6fZmhKEoPvePs1aaELDseCu1GY-ZPyeK9F4-0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8vosNB6fZmhKEoPvePs1aaELDseCu1GY-ZPyeK9F4-0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1502371703-89f8f70264a58a97e8a90a0c9266a49ed05b405da3e2fc57f6fefdffa023b873-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/bkU0eNoid94_vfAUwSxqIsHj9TqMoo3u340J2z3_Yx8/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/bkU0eNoid94_vfAUwSxqIsHj9TqMoo3u340J2z3_Yx8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/bkU0eNoid94_vfAUwSxqIsHj9TqMoo3u340J2z3_Yx8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/bkU0eNoid94_vfAUwSxqIsHj9TqMoo3u340J2z3_Yx8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bkU0eNoid94_vfAUwSxqIsHj9TqMoo3u340J2z3_Yx8/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

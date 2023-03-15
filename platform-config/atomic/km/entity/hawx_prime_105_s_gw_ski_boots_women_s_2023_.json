@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_prime_105_s_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Now with GripWalk, a Mimic Gold liner, and adaptable fit to boot, the Atomic Hawx Prime 105 S W GW Ski Boots are ideal for expert skiers with average width feet. The 105 flex is smooth and progressive, providing just-right suspension when the terrain gets choppy, and Prolite construction gives them a seriously light weight you can wear all day without fatigue. Women\u0027s specific cuff design is tuned to work with your anatomy from the outset, but it\u0027s no problem if you need adjustments; Atomic\u0027s industry leading Memory Fit heat molding technology allows for extensive customization in one easy appointment with your bootfitter. Put yourself in the Prime 105 S W GW Ski Boots and see what they can do for your skiing.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Prime 105 S GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219597/904923/atomic-hawx-prime-105-s-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OIW1XJdptSpv9VZfoN9pFj9095deNOHv2jto3y6BG3A/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OIW1XJdptSpv9VZfoN9pFj9095deNOHv2jto3y6BG3A/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OIW1XJdptSpv9VZfoN9pFj9095deNOHv2jto3y6BG3A/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OIW1XJdptSpv9VZfoN9pFj9095deNOHv2jto3y6BG3A/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OIW1XJdptSpv9VZfoN9pFj9095deNOHv2jto3y6BG3A/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "k2_mindbender_w_115_lv_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "The K2 Mindbender W 115 LV Alpine Touring Ski Boots are high level freeride boots for the resort and the backcountry. The downhill performance of this boot is uncompromising, and will have you satisfied and confident even if you never leave the ski resort. Likewise, if you\u0027re a hard charging backcountry skier, you could use this as a pure touring boot and be just as stoked. It\u0027s everything you\u0027re looking for in a 50/50 boot.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 Mindbender W 115 LV Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224007/955970/k2-mindbender-w-115-lv-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0izwlCnk0bK2hcI0MJvJP__S7Nb4K6xn9M7e6OE6juE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0izwlCnk0bK2hcI0MJvJP__S7Nb4K6xn9M7e6OE6juE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0izwlCnk0bK2hcI0MJvJP__S7Nb4K6xn9M7e6OE6juE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0izwlCnk0bK2hcI0MJvJP__S7Nb4K6xn9M7e6OE6juE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0izwlCnk0bK2hcI0MJvJP__S7Nb4K6xn9M7e6OE6juE/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

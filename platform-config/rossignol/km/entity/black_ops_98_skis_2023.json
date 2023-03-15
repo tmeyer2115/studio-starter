@@ -1,0 +1,182 @@
+{
+  "$id": "rossignol_black_ops_98_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_black_ops_98_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker"
+      },
+      {
+        "value": "Poplar PEFC™ Wood Core – A very versatile construction designed to ensure liveliness, grip and a feeling of safety. The Poplar wood cores are PEFC™ certified which guarantees sustainable forest management."
+      },
+      {
+        "value": "Rectangular Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "162",
+      "172",
+      "182"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Parker White"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "A favorite of the Rossi team riders when the snow\u0027s not deep enough for the 118 and the day\u0027s menu features techy tricks, the Rossignol Black Ops 98 Skis turn the entire mountain into a terrain park. Fat enough to handle pretty much any snow conditions, twin-ny enough to spin it and switch it up with confidence, and with a sick new David Habben graphic, the Black Ops 98 is a multitool for the snow.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Rossignol Black Ops 98 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227335/914076/rossignol-black-ops-98-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227335/914076/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227335/914076/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aiHmjKnK1HGv5y-fa4MdgapLjWSVYYNhQi2M-hZrCC4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

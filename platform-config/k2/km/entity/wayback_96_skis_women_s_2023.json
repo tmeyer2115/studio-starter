@@ -1,0 +1,304 @@
+{
+  "$id": "k2_wayback_96_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/alpine-touring/k2_wayback_96_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Paulownia Tour Lite – Lively, flexible wood with excellent weight to strength ratio."
+      },
+      {
+        "value": "TI SpYne – Titanal laminate developed specifically for K2 Touring skis that dramatically increases predictability and damping on lightweight carbon constructions, while enhancing stability and edge grip."
+      },
+      {
+        "value": "Carbon Overdrive – Top secret construction using carbon fiber to make a ski even more awesome than if it did not have carbon fiber. Radness levels achieved are difficult to quantify. Product of area ’62."
+      },
+      {
+        "value": "Snowphobic Topsheet – Hydrophobic, snow shedding top material that helps prevent snow from sticking to the tops of your skis."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "156",
+      "163",
+      "170"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7096784237424891914"
+    ],
+    "description": "The recipe for touring triumph is uphill efficiency paired with downhill performance. With Paulownia Tour Lite construction backed up by a strategic sprinkle of metal throughout the skis to prevent chatter and ensure stability, you\u0027ll be motioning chef\u0027s kiss at every turn. The K2 Wayback 96 Skis are readying ladies for heart-pumping days on the skin track leading to delicious descents in the backcountry. When conditions vary and snow gets chopped up, plow through it feeling confident and fully equipped with all the ingredients for success.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_alpine_touring"
+    ],
+    "name": "K2 Wayback 96 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978119/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/CLj19Fmc82kqHdas7ZQO-wfYsyvXVA-jUfte0GPM-Pc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/CLj19Fmc82kqHdas7ZQO-wfYsyvXVA-jUfte0GPM-Pc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/CLj19Fmc82kqHdas7ZQO-wfYsyvXVA-jUfte0GPM-Pc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/CLj19Fmc82kqHdas7ZQO-wfYsyvXVA-jUfte0GPM-Pc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/CLj19Fmc82kqHdas7ZQO-wfYsyvXVA-jUfte0GPM-Pc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978120/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iWFDe2clwzo6yclMuhBfVa6-PznNKZ5nbV4RgA5hh2Q/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iWFDe2clwzo6yclMuhBfVa6-PznNKZ5nbV4RgA5hh2Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iWFDe2clwzo6yclMuhBfVa6-PznNKZ5nbV4RgA5hh2Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iWFDe2clwzo6yclMuhBfVa6-PznNKZ5nbV4RgA5hh2Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iWFDe2clwzo6yclMuhBfVa6-PznNKZ5nbV4RgA5hh2Q/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978116/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QmUP_LNUlaCtH_IO4HaOq4DnF868EaZlAJ0lzGuzvYs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QmUP_LNUlaCtH_IO4HaOq4DnF868EaZlAJ0lzGuzvYs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QmUP_LNUlaCtH_IO4HaOq4DnF868EaZlAJ0lzGuzvYs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QmUP_LNUlaCtH_IO4HaOq4DnF868EaZlAJ0lzGuzvYs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QmUP_LNUlaCtH_IO4HaOq4DnF868EaZlAJ0lzGuzvYs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978121/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jMxwNaT7pMCWQwlgGyPyM5KJgyoC4ytmQ-qMJLuFBQw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jMxwNaT7pMCWQwlgGyPyM5KJgyoC4ytmQ-qMJLuFBQw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jMxwNaT7pMCWQwlgGyPyM5KJgyoC4ytmQ-qMJLuFBQw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jMxwNaT7pMCWQwlgGyPyM5KJgyoC4ytmQ-qMJLuFBQw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jMxwNaT7pMCWQwlgGyPyM5KJgyoC4ytmQ-qMJLuFBQw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978122/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZFs0Tl5m0fkgpu0hckv4RB5l9dEEVkArORoJcdVrtFg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZFs0Tl5m0fkgpu0hckv4RB5l9dEEVkArORoJcdVrtFg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZFs0Tl5m0fkgpu0hckv4RB5l9dEEVkArORoJcdVrtFg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZFs0Tl5m0fkgpu0hckv4RB5l9dEEVkArORoJcdVrtFg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZFs0Tl5m0fkgpu0hckv4RB5l9dEEVkArORoJcdVrtFg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978117/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/B1KV6Fsgsd9-OIMm9SriyAz_u0wyMlLJcRzVR3rrhj0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/B1KV6Fsgsd9-OIMm9SriyAz_u0wyMlLJcRzVR3rrhj0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/B1KV6Fsgsd9-OIMm9SriyAz_u0wyMlLJcRzVR3rrhj0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/B1KV6Fsgsd9-OIMm9SriyAz_u0wyMlLJcRzVR3rrhj0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B1KV6Fsgsd9-OIMm9SriyAz_u0wyMlLJcRzVR3rrhj0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221694/978118/k2-wayback-96-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xwZ-DjbF1jdhrW_jSdQCMdEvKyVgZtoujmZ4X59gj5g/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xwZ-DjbF1jdhrW_jSdQCMdEvKyVgZtoujmZ4X59gj5g/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xwZ-DjbF1jdhrW_jSdQCMdEvKyVgZtoujmZ4X59gj5g/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xwZ-DjbF1jdhrW_jSdQCMdEvKyVgZtoujmZ4X59gj5g/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xwZ-DjbF1jdhrW_jSdQCMdEvKyVgZtoujmZ4X59gj5g/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

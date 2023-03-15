@@ -1,0 +1,59 @@
+{
+  "$id": "warehouse_men_skis_alpine_touring",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "dm_baseEntityCount": "18",
+    "dm_childEntityIds": [
+      "82280441",
+      "82280463",
+      "82280250",
+      "82280237",
+      "82280360",
+      "82280350",
+      "82280325",
+      "82280305",
+      "82280220",
+      "82280446",
+      "82280412",
+      "82280235",
+      "82280247",
+      "82280226",
+      "82280286",
+      "82280337",
+      "82280402",
+      "82280219"
+    ],
+    "dm_directoryChildren": [
+      "faction_agent_3_skis_2023",
+      "armada_arv_116_jj_ul_skis_2023",
+      "atomic_backland_95_skis_2023",
+      "black_crows_navis_freebird_skis_2023",
+      "black_crows_corvus_freebird_skis_2023",
+      "blizzard_hustle_11_skis_2023",
+      "armada_locator_96_skis_2023",
+      "armada_locator_112_skis_2023",
+      "atomic_backland_107_skis_2023",
+      "season_pass_skis_2023",
+      "armada_locator_104_skis_2023",
+      "atomic_backland_100_skis_2023",
+      "atomic_bent_chetler_120_skis_2023",
+      "black_crows_camox_freebird_skis_2023",
+      "head_kore_111_skis_2023",
+      "salomon_mtn_96_carbon_skis_2023",
+      "salomon_mtn_86_pro_skis_2023",
+      "head_kore_117_skis_2023"
+    ],
+    "dm_directoryChildrenCount": "18",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis"
+    ],
+    "name": "Alpine Touring",
+    "slug": "men/skis/alpine-touring"
+  },
+  "entityType": "ce_category",
+  "labels": []
+}

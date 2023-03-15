@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_fun_girl_4_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "169.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "Your little ripper is gonna need to put in some serious hours on the hill if they\u0027re going to keep improving. The Rossignol Fun Girl J4 Ski Boots feature a soft flex and comfy fit ideal for youngsters honing their skills. Rossi\u0027s new Junior Cellular Design has shaved weight off this model, making it more nimble, less fatiguing, and easier to stay out all day.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Fun Girl 4 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/185239/747919/rossignol-fun-girl-4-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/J0R-G5V75V9iAyt94Qh35rLF-pmEeoKM7MNW6djmfCA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/J0R-G5V75V9iAyt94Qh35rLF-pmEeoKM7MNW6djmfCA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/J0R-G5V75V9iAyt94Qh35rLF-pmEeoKM7MNW6djmfCA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/J0R-G5V75V9iAyt94Qh35rLF-pmEeoKM7MNW6djmfCA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/J0R-G5V75V9iAyt94Qh35rLF-pmEeoKM7MNW6djmfCA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

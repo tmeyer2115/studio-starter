@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_ultra_130_professional_gw_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "Take the Atomic Hawx Ultra boots - already a number one seller in the under-100mm last category - and give it a revolutionary new liner that adds foam injection technology without the traditional fuss of foam, and what do you have? The Atomic Hawx Ultra 130 Professional GW Ski Boots, of course. Already the best solution for narrow ankles and heels, the Professional liner gives you and your bootfitter the option of fine tuning the fit with a revolutionary foam process that eliminates mixing the foam components and does away with exit tubes at the toe of the boot. To sweeten the deal, the they\u0027re beefed up in the lower shell to limit deflection and deliver even more power to your skis. The Ultra Professional Series is ready to go right now, and the perfect solution for those looking for the perfect fit where it really counts.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Ultra 130 Professional GW Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197846/904913/atomic-hawx-ultra-130-professional-gw-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/GiIi7gm721BvVX4-rTneVIFweJ7xlhzetcaEtPkuU0E/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/GiIi7gm721BvVX4-rTneVIFweJ7xlhzetcaEtPkuU0E/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/GiIi7gm721BvVX4-rTneVIFweJ7xlhzetcaEtPkuU0E/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/GiIi7gm721BvVX4-rTneVIFweJ7xlhzetcaEtPkuU0E/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/GiIi7gm721BvVX4-rTneVIFweJ7xlhzetcaEtPkuU0E/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

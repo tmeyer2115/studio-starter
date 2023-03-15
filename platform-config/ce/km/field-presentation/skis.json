@@ -1,0 +1,98 @@
+{
+  "$id": "ce_skis",
+  "$schema": "https://schema.yext.com/config/km/field-presentation/v1",
+  "entityType": "ce_skis",
+  "displayName": "Skis",
+  "presentationEntries": [
+    {
+      "displayName": "Content",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Core Information",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "name",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "entityId",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_productType",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_categoryName",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "photoGallery",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "description",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_abilityLevel",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_gender",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_terrain",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_price",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "slug",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_sizes",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_details",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_genderName",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "c_specs",
+          "visibleOnAdd": true
+        },
+        {
+          "id": "richTextDescription",
+          "visibleOnAdd": true
+        }
+      ]
+    },
+    {
+      "displayName": "Other",
+      "entryType": "DIVIDER"
+    },
+    {
+      "displayName": "Internal Use Only",
+      "entryType": "SECTION",
+      "fields": [
+        {
+          "id": "folder"
+        },
+        {
+          "id": "labels"
+        }
+      ]
+    }
+  ]
+}

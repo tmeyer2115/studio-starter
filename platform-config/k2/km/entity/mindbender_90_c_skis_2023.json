@@ -1,0 +1,965 @@
+{
+  "$id": "k2_mindbender_90_c_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_mindbender_90_c_skis_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Aspen Veneer Core – Lightweight and resilient, the perfect all around core material."
+      },
+      {
+        "value": "Carbon Spectral Braid – A variable angle carbon fiber laminate allows the torsional and longitudinal stiffness to be adjusted independently. This construct keeps skis lighter and more playful for conditions when power and damping are less important."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "SlantWall – Adding a 30° angle to the sidewall in K2’s Hybritech construction, SlantWall increases a ski\u0027s agility and responsiveness while maintaining accuracy and power."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "156",
+      "163",
+      "170",
+      "177"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Harnessing some high energy, the K2 Mindbender 90C Skis are ready to carve up the resort with a light and playful feel. These skis utilize K2\u0027s Carbon Spectral Braid technology, allowing them to bend and snap through terrain without having to incorporate the added weight of a Titanal laminate. If you\u0027re searching for a fun, energetic ride on the hill, these planks are where its at.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "K2 Mindbender 90 C Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976870/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976863/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976866/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976862/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976873/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976868/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976872/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976870/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976863/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976866/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976862/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976873/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976868/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976872/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976870/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976863/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976866/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976862/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976873/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976868/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976872/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976870/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l9rkG076fgMf0UMCGtri569l0or1AKMCpHeVr5PF1JI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976863/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976866/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RCs6Xl_dS4bPzfdBHiRAXk5NAWcGN3fXQ9im5pr8_SQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976862/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DNfMompnDuDVLI6zhapCP_Y0Kmkw6wFwFpHb5xNhjsg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976873/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TIMDvttQxQHlWJGxHHcLaBJBHvm44DYw1U-McN3XgzM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976868/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_t-FS3wxkVV5Psh21QSN1Ip9-0syXv-WO3csXarSlQs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976872/k2-mindbender-90-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ir_rCCW9iKir99K2YcOv6c7y5S0IIbvcwz_8RsXEh4c/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221674/976863/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pltUz0W317-JnJNao7e33RnWasXMuZlaRZ7MUGpyIzk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

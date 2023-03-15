@@ -1,0 +1,405 @@
+{
+  "$id": "rossignol_escaper_97_nano_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_escaper_97_nano_skis_2023",
+    "c_details": [
+      {
+        "value": "Free Rocker – 25% Tip Rocker / 60% Camber / 15% Tail Rocker"
+      },
+      {
+        "value": "All Trail Sidecut – Instant turn initiation and powerful exit for smooth carving performance on any terrain."
+      },
+      {
+        "value": "Aero Profile – The ski\u0027s dimensions are optimized to reduce inertia and increase grip."
+      },
+      {
+        "value": "Paulownia Wood Core – The paulownia wood core reduces the ski\u0027s weight by up to 30% for improved agility and handling while retaining control."
+      },
+      {
+        "value": "Air Tip – The Air Tip lightens the tip and tail of the ski for improved maneuverability and turn control in all snow conditions."
+      },
+      {
+        "value": "Nano Titanal – A 0.4mm ultra-thin Titanal insert improves performance and precision while increasing the support of the bindings."
+      },
+      {
+        "value": "Nano Basalt – The new 0.3mm Basalt fiber provides a high level of elasticity and performance while optimizing the weight."
+      },
+      {
+        "value": "Rectangular Sidewalls"
+      },
+      {
+        "value": "V-Skin Anchor – Attachment system that allows for easy and intuitive mounting of skins on touring skis."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "169",
+      "177"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Basalt, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Escape the resort crowds and scratch your backcountry itch like never before with the all new Rossignol Escaper 97 Nano Skis. Whether you\u0027re embarking on a massive mission with a big approach or just out for a quick dawn patrol mission, the combination of a paulownia core and Air Tip technology make the Escaper 97 Nano Skis extremely light. What\u0027s more, they\u0027ve also been pressed with both Nano Titanal and Nano Basalt layers to ensure AT binding stability for confidence charging down those big backcountry lines. Lightweight, stable, and easy to ski, the Rossignol Escaper 97 Nano Skis are a no-excuses touring weapon.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Rossignol Escaper 97 Nano Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898241/rossignol-escaper-97-nano-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898239/rossignol-escaper-97-nano-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/qxY9OiF5USeovqyQuGpuTzyIhesR88nLVicfhFqWznw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/qxY9OiF5USeovqyQuGpuTzyIhesR88nLVicfhFqWznw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/qxY9OiF5USeovqyQuGpuTzyIhesR88nLVicfhFqWznw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/qxY9OiF5USeovqyQuGpuTzyIhesR88nLVicfhFqWznw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/qxY9OiF5USeovqyQuGpuTzyIhesR88nLVicfhFqWznw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898244/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vVVHHPAjXlNoJyp3eKiWcU9M-8edehOwPa6z-Mey1GM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vVVHHPAjXlNoJyp3eKiWcU9M-8edehOwPa6z-Mey1GM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vVVHHPAjXlNoJyp3eKiWcU9M-8edehOwPa6z-Mey1GM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vVVHHPAjXlNoJyp3eKiWcU9M-8edehOwPa6z-Mey1GM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vVVHHPAjXlNoJyp3eKiWcU9M-8edehOwPa6z-Mey1GM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898248/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898243/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898241/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pF-6zt0DpqwxAvMmafOLloFon-8yaVBdAa2Pn-tYZXs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898239/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lDhBKFzZuxfyCpXdBhKIUpOZGRC25VldbmjOXlbf98k/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lDhBKFzZuxfyCpXdBhKIUpOZGRC25VldbmjOXlbf98k/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lDhBKFzZuxfyCpXdBhKIUpOZGRC25VldbmjOXlbf98k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lDhBKFzZuxfyCpXdBhKIUpOZGRC25VldbmjOXlbf98k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lDhBKFzZuxfyCpXdBhKIUpOZGRC25VldbmjOXlbf98k/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898244/rossignol-escaper-97-nano-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dB6hEHnDdrJtoZqTQ3qsgBwO21LP1JiLedZl-nPz7Fk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dB6hEHnDdrJtoZqTQ3qsgBwO21LP1JiLedZl-nPz7Fk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dB6hEHnDdrJtoZqTQ3qsgBwO21LP1JiLedZl-nPz7Fk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dB6hEHnDdrJtoZqTQ3qsgBwO21LP1JiLedZl-nPz7Fk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dB6hEHnDdrJtoZqTQ3qsgBwO21LP1JiLedZl-nPz7Fk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898248/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1kIwgnYlC6sA3Xdj9d2HTajFCRTRWmpcHgcRZWM_PkM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216293/898243/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wJ6DXy1r7tnNn-Cj6u9ReUsZNlJKCgBow_Eh5Z-TGW0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_alltrack_pro_110_lt_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Medium",
+    "description": "Looking to make the transition to backcountry skiing, but not sure how much time you\u0027ll actually spend on the skintrack? You\u0027re not alone. The Rossignol Alltrack Pro 110 LT GW Alpine Touring Ski Boots are a key piece of the gear puzzle, allowing you to use a tech or hybrid binding and still ski downhill like the stud you are - not an easy task for a boot. The Alltrack Pro 110 LT uses a lightweight polyolefine shell design coupled with the T2 Hike Mode, Gripwalk soles for traction, and genuine Dynafit tech fittings to get you comfortably both up and down. Even if you never tour, that walk mode is damn nice when you need to trek back to the parking lot for lunch.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Rossignol Alltrack Pro 110 LT GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201498/830019/rossignol-alltrack-pro-110-lt-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/if3pgvlqeOffhgz4xOGQNofyGrPw_Zp3tpjT7DV1o04/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/if3pgvlqeOffhgz4xOGQNofyGrPw_Zp3tpjT7DV1o04/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/if3pgvlqeOffhgz4xOGQNofyGrPw_Zp3tpjT7DV1o04/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/if3pgvlqeOffhgz4xOGQNofyGrPw_Zp3tpjT7DV1o04/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/if3pgvlqeOffhgz4xOGQNofyGrPw_Zp3tpjT7DV1o04/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

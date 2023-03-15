@@ -1,0 +1,303 @@
+{
+  "$id": "k2_mindbender_106_c_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/k2_mindbender_106_c_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Aspen Veneer Core – Lightweight and resilient, the perfect all around core material."
+      },
+      {
+        "value": "Carbon Spectral Braid – A variable angle carbon fiber laminate allows the torsional and longitudinal stiffness to be adjusted independently. This construct keeps skis lighter and more playful for conditions when power and damping are less important."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "SlantWall – Adding a 30° angle to the sidewall in K2’s Hybritech construction, SlantWall increases a ski\u0027s agility and responsiveness while maintaining accuracy and power."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "167",
+      "175"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Lady chargers, this one is for you. The K2 Mindbender 106 C Skis are the dynamic, do-it-all, women’s-specific design that rips in every set of conditions the mountain can throw at you. The Spectral Braid technology utilizes carbon reinforcement to prioritize stability and control at faster speeds while remaining easy to maneuver no matter where you are on the slopes. The mid-fat waist and lightweight core are the perfect combo for tearing up groomers or kicking it into high gear to take a dive in the deep end. Wherever your mountain motivation takes you, the K2 Mindbender 106 C Skis are ready for take-off.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "K2 Mindbender 106 C Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976889/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_zoGUVGHiihjm1uwUQMCT5c1oqhNNl4WLNZH5rVkJao/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_zoGUVGHiihjm1uwUQMCT5c1oqhNNl4WLNZH5rVkJao/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_zoGUVGHiihjm1uwUQMCT5c1oqhNNl4WLNZH5rVkJao/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_zoGUVGHiihjm1uwUQMCT5c1oqhNNl4WLNZH5rVkJao/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_zoGUVGHiihjm1uwUQMCT5c1oqhNNl4WLNZH5rVkJao/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976886/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/7ieduE0lVcZVG19CVAG6DsamUWizY4xOQ2p5W8zw9eE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7ieduE0lVcZVG19CVAG6DsamUWizY4xOQ2p5W8zw9eE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7ieduE0lVcZVG19CVAG6DsamUWizY4xOQ2p5W8zw9eE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7ieduE0lVcZVG19CVAG6DsamUWizY4xOQ2p5W8zw9eE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7ieduE0lVcZVG19CVAG6DsamUWizY4xOQ2p5W8zw9eE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976887/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/fK80JYXEbCz1kBJErd9V333GBA-MorGJdJBkqGbCFyI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fK80JYXEbCz1kBJErd9V333GBA-MorGJdJBkqGbCFyI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fK80JYXEbCz1kBJErd9V333GBA-MorGJdJBkqGbCFyI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fK80JYXEbCz1kBJErd9V333GBA-MorGJdJBkqGbCFyI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fK80JYXEbCz1kBJErd9V333GBA-MorGJdJBkqGbCFyI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976888/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/gW4B7Aw3blMCYMyj5TmxRRJH9lle-zd_iAXX7E93Z1s/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gW4B7Aw3blMCYMyj5TmxRRJH9lle-zd_iAXX7E93Z1s/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gW4B7Aw3blMCYMyj5TmxRRJH9lle-zd_iAXX7E93Z1s/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gW4B7Aw3blMCYMyj5TmxRRJH9lle-zd_iAXX7E93Z1s/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gW4B7Aw3blMCYMyj5TmxRRJH9lle-zd_iAXX7E93Z1s/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976896/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/fc570fVIpMqvED0dYd6RGqtBOn-Z_4k1nxdmDiyWHb8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fc570fVIpMqvED0dYd6RGqtBOn-Z_4k1nxdmDiyWHb8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fc570fVIpMqvED0dYd6RGqtBOn-Z_4k1nxdmDiyWHb8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fc570fVIpMqvED0dYd6RGqtBOn-Z_4k1nxdmDiyWHb8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fc570fVIpMqvED0dYd6RGqtBOn-Z_4k1nxdmDiyWHb8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976884/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QCKKezmSQ8-_LPYEhYQVc4LnLsq1n8k4myo77OqEKbk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QCKKezmSQ8-_LPYEhYQVc4LnLsq1n8k4myo77OqEKbk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QCKKezmSQ8-_LPYEhYQVc4LnLsq1n8k4myo77OqEKbk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QCKKezmSQ8-_LPYEhYQVc4LnLsq1n8k4myo77OqEKbk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QCKKezmSQ8-_LPYEhYQVc4LnLsq1n8k4myo77OqEKbk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221680/976891/k2-mindbender-106-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/18Yeoq9WlhYWMTLYos3FyNIaG1rqwjkHnxL7l59U9wU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/18Yeoq9WlhYWMTLYos3FyNIaG1rqwjkHnxL7l59U9wU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/18Yeoq9WlhYWMTLYos3FyNIaG1rqwjkHnxL7l59U9wU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/18Yeoq9WlhYWMTLYos3FyNIaG1rqwjkHnxL7l59U9wU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/18Yeoq9WlhYWMTLYos3FyNIaG1rqwjkHnxL7l59U9wU/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

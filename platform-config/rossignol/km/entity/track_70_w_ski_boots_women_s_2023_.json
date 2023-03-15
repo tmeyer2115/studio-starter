@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_track_70_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "329.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "A comfort boot and a treat for wide feet, the Rossignol Track 70 W Ski Boots are a worthwhile investment for the beginner skier who values comfort and knows that happy feet mean happy learning. The 104mm last has plenty of room for even the widest feet, and the lightweight polyolefine shell makes the process of moving from one edge to the other a breeze.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Track 70 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201508/830033/rossignol-track-70-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QHyArBy0dUHj--9Slxov-DddvL7ItDt4v2Eb9GgwcZI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QHyArBy0dUHj--9Slxov-DddvL7ItDt4v2Eb9GgwcZI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QHyArBy0dUHj--9Slxov-DddvL7ItDt4v2Eb9GgwcZI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QHyArBy0dUHj--9Slxov-DddvL7ItDt4v2Eb9GgwcZI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QHyArBy0dUHj--9Slxov-DddvL7ItDt4v2Eb9GgwcZI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

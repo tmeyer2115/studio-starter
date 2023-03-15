@@ -1,0 +1,193 @@
+{
+  "$id": "black_crows_vertis_birdie_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/black_crows_vertis_birdie_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Light Rocker – Stability, small pivot, good edge grip, and floatation off piste."
+      },
+      {
+        "value": "Long Classic Camber – Classic camber underfoot with extended ski/ snow contact for alpine style cornering."
+      },
+      {
+        "value": "Flex – Sporty and playful."
+      },
+      {
+        "value": "Short Radius and Narrow Waist – For reactivity and speed of transition edge to edge."
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -8cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "152",
+      "159",
+      "169"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Carving, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Black Crows Vertis Skis are smooth turning, short radius carving skis that turn every day into a vert staking festival. If you live for hot lapping groomers and feeling the flow of one turn blending into the next, the Vertis will help you unlock a deeper carver and a tighter arc than ever before. These are the perfect everyday resort ski for making the most of any piste, any time.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Black Crows Vertis Birdie Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224545/930795/black-crows-vertis-birdie-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zyiFR6vhK4uGwVWI5EJcWpZizIExEeXBQe9L-UFIcvg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zyiFR6vhK4uGwVWI5EJcWpZizIExEeXBQe9L-UFIcvg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zyiFR6vhK4uGwVWI5EJcWpZizIExEeXBQe9L-UFIcvg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zyiFR6vhK4uGwVWI5EJcWpZizIExEeXBQe9L-UFIcvg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zyiFR6vhK4uGwVWI5EJcWpZizIExEeXBQe9L-UFIcvg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224545/930798/black-crows-vertis-birdie-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_mwRaDa5L1Fu--3LwH4JA4MwnKwZDy4NzWmZ0_VotW8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_mwRaDa5L1Fu--3LwH4JA4MwnKwZDy4NzWmZ0_VotW8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_mwRaDa5L1Fu--3LwH4JA4MwnKwZDy4NzWmZ0_VotW8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_mwRaDa5L1Fu--3LwH4JA4MwnKwZDy4NzWmZ0_VotW8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_mwRaDa5L1Fu--3LwH4JA4MwnKwZDy4NzWmZ0_VotW8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224545/930790/black-crows-vertis-birdie-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rx9pWmjqFMFNKVlPlJYmCvcrWQzOoqePMJanMh6C2ac/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rx9pWmjqFMFNKVlPlJYmCvcrWQzOoqePMJanMh6C2ac/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rx9pWmjqFMFNKVlPlJYmCvcrWQzOoqePMJanMh6C2ac/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rx9pWmjqFMFNKVlPlJYmCvcrWQzOoqePMJanMh6C2ac/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rx9pWmjqFMFNKVlPlJYmCvcrWQzOoqePMJanMh6C2ac/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

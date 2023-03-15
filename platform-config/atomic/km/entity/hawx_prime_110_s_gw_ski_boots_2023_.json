@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_prime_110_s_gw_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Perhaps Atomic\u0027s best-selling men\u0027s boot worldwide, and with good reason, the Atomic Hawx Prime 110 S GW Ski Boots can be molded to fit a wide range of foot shapes from average to wide using Atomic\u0027s Memory Fit heat molding process. The upgrade to the Mimic Gold liner, which molds extremely well to both the foot and the boot shell interior, is also a huge advance in custom fitting technology. Throw off the chains of ill-fitting boots and improve your skiing and state of mind in one fell swoop with the Hawx Prime 110 S.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Prime 110 S GW Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219591/984114/atomic-hawx-prime-110-s-gw-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/yRsKvALjQAmzBB77rPskN7Z41ecS2mPP6l9c1MXEl1Q/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/yRsKvALjQAmzBB77rPskN7Z41ecS2mPP6l9c1MXEl1Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/yRsKvALjQAmzBB77rPskN7Z41ecS2mPP6l9c1MXEl1Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/yRsKvALjQAmzBB77rPskN7Z41ecS2mPP6l9c1MXEl1Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/yRsKvALjQAmzBB77rPskN7Z41ecS2mPP6l9c1MXEl1Q/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "nordica_sportmachine_3_120_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "599.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Three times better? Maybe, but the all-new Speedmachine 3 120 Ski Boots are different in at least 3 key areas. The new shell still uses 3Force technology, but the supporting exostructure is now molded in a honeycomb pattern for lightweight strength. The new liners sport new asymmetrical EVA support around the back of the maleoli, and the cork is now black (must have been quite a trick to get the trees to change over from the traditional tan). The Speedmachine 3 boots also incorporate a flex adjuster mechanism that lets you choose from 3 potential stiffness ratings. Bundle all that up with the unchanged strong suits of the Speedmachine - great progressive flex and snow feel and great out-of-the-box fit - and you get a sense that this boot is going to change your skiing for the better.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Sportmachine 3 120 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226887/911035/nordica-sportmachine-3-120-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6TdCkTKPBN3x3iAihbr8Be79bo0T5ebQrLClAcetF3w/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6TdCkTKPBN3x3iAihbr8Be79bo0T5ebQrLClAcetF3w/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6TdCkTKPBN3x3iAihbr8Be79bo0T5ebQrLClAcetF3w/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6TdCkTKPBN3x3iAihbr8Be79bo0T5ebQrLClAcetF3w/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6TdCkTKPBN3x3iAihbr8Be79bo0T5ebQrLClAcetF3w/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

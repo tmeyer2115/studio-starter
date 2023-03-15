@@ -1,0 +1,278 @@
+{
+  "$id": "salomon_qst_stella_106_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/salomon_qst_stella_106_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Tip and Tail Rocker"
+      },
+      {
+        "value": "Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations."
+      },
+      {
+        "value": "Cork Damplifier – Cork is 16 times more absorptive than Koroyd. Using it in the tip and/or tail of the ski enables a high level of vibration absorption and dampening while decreasing weight."
+      },
+      {
+        "value": "C/FX Carbon Weave – C/FX is a fiber layer consisting of Carbon and Flax woven together. It combines the strength, stability, minimal weight of carbon with the increased level of dampening of the flax."
+      },
+      {
+        "value": "Glossy Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "157",
+      "165",
+      "173"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Flax, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Series",
+        "value": "QST"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Salomon QST Stella 106 Skis are refined perfection in a soft snow freeride tool. They\u0027re nimble, lightweight, and directional, perfect for crushing around the resort or dancing through trees in the side country. They\u0027re dependable and fun, and the level of technical detail put into them is simply astounding. Cutout sections in the tips are filled with cork for lightweight dampening, and a blend of flax and carbon fiber is placed underfoot. The full poplar core lends the stability and power needed for high speed performance, and the tapered tips and twin rocker profile keeps them loose and bouncy. Find out why so many skiers of all levels turn to the Stella 106 when there\u0027s fresh snow to be slayed!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Salomon QST Stella 106 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219250/910802/salomon-qst-stella-106-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/sfaG5duqyoJsHIvU-1RkXGypUpjrN5a5tszEbhWdrmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/sfaG5duqyoJsHIvU-1RkXGypUpjrN5a5tszEbhWdrmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/sfaG5duqyoJsHIvU-1RkXGypUpjrN5a5tszEbhWdrmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/sfaG5duqyoJsHIvU-1RkXGypUpjrN5a5tszEbhWdrmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sfaG5duqyoJsHIvU-1RkXGypUpjrN5a5tszEbhWdrmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219250/910797/salomon-qst-stella-106-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QA1YdtyPyV34tBqR4T5P21phDfyfoOfbpeRCKJxt5nQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QA1YdtyPyV34tBqR4T5P21phDfyfoOfbpeRCKJxt5nQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QA1YdtyPyV34tBqR4T5P21phDfyfoOfbpeRCKJxt5nQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QA1YdtyPyV34tBqR4T5P21phDfyfoOfbpeRCKJxt5nQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QA1YdtyPyV34tBqR4T5P21phDfyfoOfbpeRCKJxt5nQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219250/910798/salomon-qst-stella-106-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/O6aQ9g7aqMcKsvSu8ebH56k7HqtcUPc34FqI9dQHtmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/O6aQ9g7aqMcKsvSu8ebH56k7HqtcUPc34FqI9dQHtmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/O6aQ9g7aqMcKsvSu8ebH56k7HqtcUPc34FqI9dQHtmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/O6aQ9g7aqMcKsvSu8ebH56k7HqtcUPc34FqI9dQHtmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/O6aQ9g7aqMcKsvSu8ebH56k7HqtcUPc34FqI9dQHtmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219250/910799/salomon-qst-stella-106-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cIlhs8T9UsnhanthYgQ-JL5qd4MDAL-PakhpLRLjBmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cIlhs8T9UsnhanthYgQ-JL5qd4MDAL-PakhpLRLjBmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cIlhs8T9UsnhanthYgQ-JL5qd4MDAL-PakhpLRLjBmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cIlhs8T9UsnhanthYgQ-JL5qd4MDAL-PakhpLRLjBmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cIlhs8T9UsnhanthYgQ-JL5qd4MDAL-PakhpLRLjBmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219250/910804/salomon-qst-stella-106-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Cdpqz63mEBs-vqTp_KqrWvMYy4wqShn1vKJlDNdhXyg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Cdpqz63mEBs-vqTp_KqrWvMYy4wqShn1vKJlDNdhXyg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Cdpqz63mEBs-vqTp_KqrWvMYy4wqShn1vKJlDNdhXyg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Cdpqz63mEBs-vqTp_KqrWvMYy4wqShn1vKJlDNdhXyg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Cdpqz63mEBs-vqTp_KqrWvMYy4wqShn1vKJlDNdhXyg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219250/910807/salomon-qst-stella-106-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iXVhXycbmNTNbGoFEght7XiXkl88x3sn9uMZCCnfsB4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iXVhXycbmNTNbGoFEght7XiXkl88x3sn9uMZCCnfsB4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iXVhXycbmNTNbGoFEght7XiXkl88x3sn9uMZCCnfsB4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iXVhXycbmNTNbGoFEght7XiXkl88x3sn9uMZCCnfsB4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iXVhXycbmNTNbGoFEght7XiXkl88x3sn9uMZCCnfsB4/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

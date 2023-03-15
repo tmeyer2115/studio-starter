@@ -1,0 +1,229 @@
+{
+  "$id": "line_skis_vision_108_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_vision_108_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 10mm Tip / 2mm Camber / 8mm Tail"
+      },
+      {
+        "value": "Directional Flex – The softer tip floats and initiates turns easily while the stiffer tail provides power, stability and high speed control."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Partly Cloudy™ – A blend of lightweight Paulownia and Maple creating the best strength to weight ratio of Line\u0027s offerings."
+      },
+      {
+        "value": "THC™ Construction – Combining Aramid, Carbon, and Fiberglass into a proprietary stack laminate, the elements of Line\u0027s THC vibrate and resonate at different frequencies for a hyper-dampened ski experience."
+      },
+      {
+        "value": "Sidewall Construction – Ultra-high density Polyethylene vertical walls over the edges to absorb vibrations and provide powerful energy transmission."
+      },
+      {
+        "value": "Sintered 1.3 mm Base – Sintered bases reduce friction against the snow allowing for more speed, and more durability due to the high-density material they\u0027re crafted from."
+      },
+      {
+        "value": "2.1mm x 2mm"
+      },
+      {
+        "value": "Stance Back from Center – 45.3 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "175",
+      "183",
+      "189"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Aramid (Kevlar®), Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "108 has long been considered the sweet spot for the width of an everyday freeride ski. But most skis you\u0027re looking at in that category come with a hefty weight, a ton of metal in the build, and a racer-friendly mount point far back on the ski. Not so with the Line Skis Vision 108 Skis. These skis put all the emphasis on the \"free\" part of freeride. They\u0027re nimble, quick edge to edge, and extremely well-balanced in the air. Their feathery 1605 gram weight puts many dedicated touring skis to shame, which has earned them a cult following in the freestyle touring scene, but their blend of pure fun and predictability makes them a top contender for any playful big mountain rider.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Vision 108 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221759/906637/line-skis-vision-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/L3fDjuqvpJgI2jjYuIfSsyU5nAETOBqBHlOiWXNXzlc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/L3fDjuqvpJgI2jjYuIfSsyU5nAETOBqBHlOiWXNXzlc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/L3fDjuqvpJgI2jjYuIfSsyU5nAETOBqBHlOiWXNXzlc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/L3fDjuqvpJgI2jjYuIfSsyU5nAETOBqBHlOiWXNXzlc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/L3fDjuqvpJgI2jjYuIfSsyU5nAETOBqBHlOiWXNXzlc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221759/906636/line-skis-vision-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DSPsWRFcV_RxKelFRHcbkmbnsMPze3i_A1pK27j5wEA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DSPsWRFcV_RxKelFRHcbkmbnsMPze3i_A1pK27j5wEA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DSPsWRFcV_RxKelFRHcbkmbnsMPze3i_A1pK27j5wEA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DSPsWRFcV_RxKelFRHcbkmbnsMPze3i_A1pK27j5wEA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DSPsWRFcV_RxKelFRHcbkmbnsMPze3i_A1pK27j5wEA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221759/906764/line-skis-vision-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/7ECZhFuuPyXR1l3BSCRAiCHKMVyfZWSVLr5qkRi8CFg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7ECZhFuuPyXR1l3BSCRAiCHKMVyfZWSVLr5qkRi8CFg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7ECZhFuuPyXR1l3BSCRAiCHKMVyfZWSVLr5qkRi8CFg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7ECZhFuuPyXR1l3BSCRAiCHKMVyfZWSVLr5qkRi8CFg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7ECZhFuuPyXR1l3BSCRAiCHKMVyfZWSVLr5qkRi8CFg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221759/906766/line-skis-vision-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/AggnLSYJyQM7Vs9Lq6ZY0_BiWodUh4d0YpLE5yN5aTw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/AggnLSYJyQM7Vs9Lq6ZY0_BiWodUh4d0YpLE5yN5aTw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/AggnLSYJyQM7Vs9Lq6ZY0_BiWodUh4d0YpLE5yN5aTw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/AggnLSYJyQM7Vs9Lq6ZY0_BiWodUh4d0YpLE5yN5aTw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/AggnLSYJyQM7Vs9Lq6ZY0_BiWodUh4d0YpLE5yN5aTw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

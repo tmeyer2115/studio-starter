@@ -1,0 +1,35 @@
+{
+  "$id": "warehouse_men_skis",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "dm_baseEntityCount": "174",
+    "dm_childEntityIds": [
+      "82237273",
+      "82241915",
+      "82242144",
+      "82242747",
+      "82281618",
+      "82281619",
+      "82281620",
+      "82281621"
+    ],
+    "dm_directoryChildren": [
+      "warehouse_men_skis_all_mountain",
+      "warehouse_men_skis_alpine_touring",
+      "warehouse_men_skis_big_mountain",
+      "warehouse_men_skis_park_pipe",
+      "warehouse_men_skis_powder"
+    ],
+    "dm_directoryChildrenCount": "188",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men"
+    ],
+    "name": "Skis",
+    "slug": "men/skis"
+  },
+  "entityType": "ce_productType",
+  "labels": []
+}

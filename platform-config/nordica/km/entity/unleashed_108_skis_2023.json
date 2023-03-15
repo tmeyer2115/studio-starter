@@ -1,0 +1,275 @@
+{
+  "$id": "nordica_unleashed_108_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_unleashed_108_skis_2023",
+    "c_details": [
+      {
+        "value": "Shovel / Tail Rocker – LONGER RUNNING BASE LENGTH \u003d Less tip and tail rocker depth to better support the playful tip and tail shovel shapes. MORE TURNED UP TAIL \u003d Easier to swivel and break free while also offering a more favorable setup for riding switch. STEEPER TIP SHOVEL \u003d More tip initiation and deflection in soft snow"
+      },
+      {
+        "value": "Performance Wood Core"
+      },
+      {
+        "value": "Terrain Specific Metal – The size and shape of the Titanal layer is specifically engineered for each ski width, providing stability where you need it and flexibility where you want it."
+      },
+      {
+        "value": "Carbon Fiber Glass"
+      },
+      {
+        "value": "ABS Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "174",
+      "180",
+      "186",
+      "191"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Release your inner shred machine with the new Nordica Unleashed 108 Skis. This twin tip all mountain crusher is designed with traditional camber underfoot for a poppy and stable ride that supports you on deep days and down days alike. Built with terrain specific metal, a wood core, and shovel tip and tail rocker, this playful ride obliterates bumps while supporting switch tricks off whatever kickers you can find.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Nordica Unleashed 108 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224772/910237/nordica-unleashed-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224772/910237/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224772/910237/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224772/910237/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iH8vJBh1WZ86YPsvDqVnu5HMGuLamhrdB-Da0-AGOGc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224772/910236/nordica-unleashed-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/sUH8vB-uyaple_TZ7Qj-WiTIrPoycLBdOb-YphFVq5I/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/sUH8vB-uyaple_TZ7Qj-WiTIrPoycLBdOb-YphFVq5I/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/sUH8vB-uyaple_TZ7Qj-WiTIrPoycLBdOb-YphFVq5I/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/sUH8vB-uyaple_TZ7Qj-WiTIrPoycLBdOb-YphFVq5I/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sUH8vB-uyaple_TZ7Qj-WiTIrPoycLBdOb-YphFVq5I/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224772/910232/nordica-unleashed-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/9URyzZUJFHEuEiTFaPq5Z9A3s1R02xz0GM-9rgE2-fk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9URyzZUJFHEuEiTFaPq5Z9A3s1R02xz0GM-9rgE2-fk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9URyzZUJFHEuEiTFaPq5Z9A3s1R02xz0GM-9rgE2-fk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9URyzZUJFHEuEiTFaPq5Z9A3s1R02xz0GM-9rgE2-fk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9URyzZUJFHEuEiTFaPq5Z9A3s1R02xz0GM-9rgE2-fk/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

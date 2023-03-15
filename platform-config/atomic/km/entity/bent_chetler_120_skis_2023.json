@@ -1,0 +1,557 @@
+{
+  "$id": "atomic_bent_chetler_120_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/atomic_bent_chetler_120_skis_2023",
+    "c_details": [
+      {
+        "value": "Powder Rocker – 30% Tip Rocker / 40% Camber / 30% Tail Rocker"
+      },
+      {
+        "value": "HRZN Tech Tip and Tail – HRZN Tech Tip \u0026 Tail takes an ABS sidewall construction and blends it with a revolutionary across-the-ski, horizontal rocker. It adds 10% more surface area in tip and tail for awesome float – plus less tip deflection and better tracking through chop. The ultimate design for powder skiers."
+      },
+      {
+        "value": "Light Woodcore – Made from poplar wood, this core optimizes the ski\u0027s weight without sacrificing any shock absorption or stability."
+      },
+      {
+        "value": "Carbon Backbone – An ultra-lightweight carbon insert that runs the length of the ski like a stabilizing backbone. This provides exceptional agility and edge hold with no extra weight."
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall for power transmission combined with a small cap for durability."
+      },
+      {
+        "value": "Atomic Base – High-density sintered bases that are fast in a variety of snow conditions and accept wax readily"
+      },
+      {
+        "value": "Atomic Edges – Atomic edges are made from steel five times more wear resistant than standard steel, for strength and perfect grip."
+      },
+      {
+        "value": "Glossy Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "176",
+      "184",
+      "192"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Chris Benchetler"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7096784237424891914"
+    ],
+    "description": "The Atomic Bent Chetler 120 Skis have been going strong for 14 years with no sign of slowing down. As the big brother of the newly expanded Bent family, they continue to set the standard for powder hungry freeriders seeking a more progressive - but no less capable - shape. Light, nimble, impossibly floaty, and stacked with enough guts to stomp every landing from here to Hokkaido, the Bent Chetler 120s are built to nurture your creativity and stoke the fire within.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Atomic Bent Chetler 120 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896896/atomic-bent-chetler-120-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896892/atomic-bent-chetler-120-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896884/atomic-bent-chetler-120-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896886/atomic-bent-chetler-120-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896887/atomic-bent-chetler-120-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896896/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896892/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896884/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896886/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896887/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896896/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9nr4CS6J4mfUMT4Pkf_c75Id6DNSxekZnGgIE-3g0ns/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896892/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FPgGmMLE6xs1ivdKDGMUYn9pAG6IGaPwMYEYwEId6wM/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896884/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TjyiYf66NVNnzlmry7oWcF5QJEu0LItSlxRqWQ8c8U8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896886/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oy9RyMZ-3lix3AO3xfy5NeeBu7hticuQmPmZoA3QLTc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219398/896887/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RUmchOUehhVC3Xmv7b_o9Ff48ziUo644b2iS9wPs5bw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

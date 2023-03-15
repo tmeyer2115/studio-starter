@@ -1,0 +1,225 @@
+{
+  "$id": "line_skis_blend_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_blend_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Profile – 4mm Tip / 4mm Camber / 4mm Tail"
+      },
+      {
+        "value": "Symmetric Flex™ – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Maple Macroblock™ – Two full length maple stringers surrounded by aspen for increased strength and durability."
+      },
+      {
+        "value": "Carbon Olliband – Pre-stretched carbon down the center of the ski for added pop and play in freestyle skis."
+      },
+      {
+        "value": "Capwall™ – Combining the precision of sidewall underfoot and the lightweight, durable performance of cap in the tip, Capwall™ construction provides the best of both worlds."
+      },
+      {
+        "value": "Fatty Base | Sintered 1.7mm – High density sintered bases reduce friction against the snow allowing for more speed and better durability."
+      },
+      {
+        "value": "Fatty Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 40 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "178",
+      "185"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Built as an all around platform for park skiing and playful riding, the Line Skis Blend Skis will help you expand your trick game whether you\u0027re a seasoned vet or an up-and-comer. The flex is smooth and pliable, but with plenty of snap and rebound. They\u0027re a freestyle staple for a reason, and you\u0027re sure to find your own favorite way to pop, press, spin, and slide the Blends through your local park.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Blend Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221773/906616/line-skis-blend-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_9SS5JVKMgBK5IpSeU1o-JlZSaJdMoogTQavl-pRwMI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_9SS5JVKMgBK5IpSeU1o-JlZSaJdMoogTQavl-pRwMI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_9SS5JVKMgBK5IpSeU1o-JlZSaJdMoogTQavl-pRwMI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_9SS5JVKMgBK5IpSeU1o-JlZSaJdMoogTQavl-pRwMI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_9SS5JVKMgBK5IpSeU1o-JlZSaJdMoogTQavl-pRwMI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221773/906614/line-skis-blend-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/f4qi5uiHDgmMeys7jzbQ4ai2mifOscbsIIWCKyOHOqA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/f4qi5uiHDgmMeys7jzbQ4ai2mifOscbsIIWCKyOHOqA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/f4qi5uiHDgmMeys7jzbQ4ai2mifOscbsIIWCKyOHOqA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/f4qi5uiHDgmMeys7jzbQ4ai2mifOscbsIIWCKyOHOqA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/f4qi5uiHDgmMeys7jzbQ4ai2mifOscbsIIWCKyOHOqA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221773/906743/line-skis-blend-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/3utrXgp-E4PwglUP_pCqL1fDl0GQtNjNpt4dvZ1cbeU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/3utrXgp-E4PwglUP_pCqL1fDl0GQtNjNpt4dvZ1cbeU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/3utrXgp-E4PwglUP_pCqL1fDl0GQtNjNpt4dvZ1cbeU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/3utrXgp-E4PwglUP_pCqL1fDl0GQtNjNpt4dvZ1cbeU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3utrXgp-E4PwglUP_pCqL1fDl0GQtNjNpt4dvZ1cbeU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221773/906739/line-skis-blend-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MydC75ugO8mgNYagD5_WTbzi1s8It4Vj_owXxMkuMYA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MydC75ugO8mgNYagD5_WTbzi1s8It4Vj_owXxMkuMYA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MydC75ugO8mgNYagD5_WTbzi1s8It4Vj_owXxMkuMYA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MydC75ugO8mgNYagD5_WTbzi1s8It4Vj_owXxMkuMYA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MydC75ugO8mgNYagD5_WTbzi1s8It4Vj_owXxMkuMYA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

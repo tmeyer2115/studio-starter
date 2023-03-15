@@ -1,0 +1,197 @@
+{
+  "$id": "black_crows_navis_freebird_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/black_crows_navis_freebird_skis_2023",
+    "c_details": [
+      {
+        "value": "Progressive Front Rocker and Flared Tip – Great stability in carving."
+      },
+      {
+        "value": "Long Classic Camber – Classic camber underfoot with extended ski/ snow contact for alpine style cornering."
+      },
+      {
+        "value": "Progressive Tail – Secures support and facilitates pivoting."
+      },
+      {
+        "value": "Paulownia / Poplar / Paulownia"
+      },
+      {
+        "value": "Mix of Glass and Carbon Fibers"
+      },
+      {
+        "value": "Titanal Binding Reinforcement – Features a titanal plate under the foot to better accommodate new hybrid bindings."
+      },
+      {
+        "value": "Partial Semi Cap Construction – Semi cap all around with cap construction in tip area for weight sacing, lightness, and handling."
+      },
+      {
+        "value": "ABS Sidewalls (Except on Tip)"
+      },
+      {
+        "value": "Mounting Point – -9cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "167",
+      "173",
+      "179",
+      "185"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7096784237424891914"
+    ],
+    "description": "The Black Crows Navis Freebird Skis are all-around excellent tools for any human powered mission. Built for versatility, this 102-waisted ski is exactly what most riders are looking for in an all season touring ski. It\u0027s built with a directional freeride shape, plenty of camber underfoot, and just enough rocker in the tip to plane over mixed snow surfaces. Pair that do-everything design with a featherweight layup that\u0027s designed for hybrid binding compatibility, and it\u0027s easy to see why so many skiers look to the Navis anytime they hit the skin track.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Black Crows Navis Freebird Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224548/930807/black-crows-navis-freebird-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RSpssDauieznTbwoyR7wQqcusU7Y6m3hAJ4N6qmWq0k/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RSpssDauieznTbwoyR7wQqcusU7Y6m3hAJ4N6qmWq0k/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RSpssDauieznTbwoyR7wQqcusU7Y6m3hAJ4N6qmWq0k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RSpssDauieznTbwoyR7wQqcusU7Y6m3hAJ4N6qmWq0k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RSpssDauieznTbwoyR7wQqcusU7Y6m3hAJ4N6qmWq0k/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224548/930802/black-crows-navis-freebird-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/-6KBzRWTtKK94-LC-XFYHzzdpJjuU6GyKEDZr13vWoQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/-6KBzRWTtKK94-LC-XFYHzzdpJjuU6GyKEDZr13vWoQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/-6KBzRWTtKK94-LC-XFYHzzdpJjuU6GyKEDZr13vWoQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/-6KBzRWTtKK94-LC-XFYHzzdpJjuU6GyKEDZr13vWoQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/-6KBzRWTtKK94-LC-XFYHzzdpJjuU6GyKEDZr13vWoQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224548/930799/black-crows-navis-freebird-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pwlEYqNznYNe4JcXawROkjtBbSPSk8kXtjht8rVP1R0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pwlEYqNznYNe4JcXawROkjtBbSPSk8kXtjht8rVP1R0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pwlEYqNznYNe4JcXawROkjtBbSPSk8kXtjht8rVP1R0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pwlEYqNznYNe4JcXawROkjtBbSPSk8kXtjht8rVP1R0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pwlEYqNznYNe4JcXawROkjtBbSPSk8kXtjht8rVP1R0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

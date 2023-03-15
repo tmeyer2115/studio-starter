@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_cochise_jr_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "209.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Little rippers don\u0027t just need a suitable boot for starting out, they need a boot with the right flex and features at each step along the way. When they get most of the way up the learning curve but still can\u0027t bend an adult boot, it\u0027s time for the Tecnica Cochise Jr Ski Boots. The Cochise Jr isn\u0027t really a \"crossover\" boot in the way that the adult Cochise is, but it is a fully featured four-buckle boot with sturdy polypropylene construction and a 60 flex, which is more than enough for most kids. Don\u0027t let a lesser boot hold them back - youth is on their side, but it\u0027s fleeting!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Cochise Jr Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197511/825161/tecnica-cochise-jr-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/I1dtmfIdxVZi_BpnsygEOawfBv7v-qpNkFYrLZm_fp8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/I1dtmfIdxVZi_BpnsygEOawfBv7v-qpNkFYrLZm_fp8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/I1dtmfIdxVZi_BpnsygEOawfBv7v-qpNkFYrLZm_fp8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/I1dtmfIdxVZi_BpnsygEOawfBv7v-qpNkFYrLZm_fp8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/I1dtmfIdxVZi_BpnsygEOawfBv7v-qpNkFYrLZm_fp8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

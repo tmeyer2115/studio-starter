@@ -1,0 +1,327 @@
+{
+  "$id": "k2_reckoner_92_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/k2_reckoner_92_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Twin Rocker – All-Terrain Twin Rocker is a gradual, extended rise at the tip and tail for added versatility and control in all conditions with twin tip skis."
+      },
+      {
+        "value": "Aspen Veneer Core – Lightweight and resilient, the perfect all around core material."
+      },
+      {
+        "value": "Triaxial Braid – A K2-patented machine interlocks strands of fiberglass around a milled core for pronounced torsional strength, while retaining the lively flex patterns inherent in a wood ski."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "299.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "149",
+      "169"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Tips up, gnar out! The K2 Reckoner 92 Skis are a twin-tip park pony that bucks around on features with ease and still packs enough power to gallop into the steeps, race around bumps, and circle back for end-of-day victory laps in the park. The women\u0027s specific, all-terrain twin rocker stays light underfoot but rigid and rowdy enough for all-mountain riding. Time to giddy-up to the slopes to take these girls for a spin!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "K2 Reckoner 92 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977842/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977842/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dHS44nH-N7FPbj-3QYZ7TOKkyVkJMsNeLp3GLnRjrYA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977840/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WsaaSSAXi_3LXOQ2YLu-dCqgR6TbBQT7vXoY-WqoAf0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WsaaSSAXi_3LXOQ2YLu-dCqgR6TbBQT7vXoY-WqoAf0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WsaaSSAXi_3LXOQ2YLu-dCqgR6TbBQT7vXoY-WqoAf0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WsaaSSAXi_3LXOQ2YLu-dCqgR6TbBQT7vXoY-WqoAf0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WsaaSSAXi_3LXOQ2YLu-dCqgR6TbBQT7vXoY-WqoAf0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977841/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/tFn_mRzVYyfSP_sy5sUIsoXo66-9ai2oW6jUz5MGT-s/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/tFn_mRzVYyfSP_sy5sUIsoXo66-9ai2oW6jUz5MGT-s/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/tFn_mRzVYyfSP_sy5sUIsoXo66-9ai2oW6jUz5MGT-s/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/tFn_mRzVYyfSP_sy5sUIsoXo66-9ai2oW6jUz5MGT-s/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tFn_mRzVYyfSP_sy5sUIsoXo66-9ai2oW6jUz5MGT-s/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977839/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/wx5oQv1_OUIpOWMQD1RbKgB1VIx13AlCbrXDeQ-VxUM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/wx5oQv1_OUIpOWMQD1RbKgB1VIx13AlCbrXDeQ-VxUM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/wx5oQv1_OUIpOWMQD1RbKgB1VIx13AlCbrXDeQ-VxUM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/wx5oQv1_OUIpOWMQD1RbKgB1VIx13AlCbrXDeQ-VxUM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wx5oQv1_OUIpOWMQD1RbKgB1VIx13AlCbrXDeQ-VxUM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977844/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/snvxu7zCsLWpT4Y7KTGq0-GUfRLw0vFZ0uBF2xVd3Qg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/snvxu7zCsLWpT4Y7KTGq0-GUfRLw0vFZ0uBF2xVd3Qg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/snvxu7zCsLWpT4Y7KTGq0-GUfRLw0vFZ0uBF2xVd3Qg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/snvxu7zCsLWpT4Y7KTGq0-GUfRLw0vFZ0uBF2xVd3Qg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/snvxu7zCsLWpT4Y7KTGq0-GUfRLw0vFZ0uBF2xVd3Qg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977837/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TIUPjws03YZlwWpl9TmQrBxxZYfTiRS610SwtSQKYO0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TIUPjws03YZlwWpl9TmQrBxxZYfTiRS610SwtSQKYO0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TIUPjws03YZlwWpl9TmQrBxxZYfTiRS610SwtSQKYO0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TIUPjws03YZlwWpl9TmQrBxxZYfTiRS610SwtSQKYO0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TIUPjws03YZlwWpl9TmQrBxxZYfTiRS610SwtSQKYO0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221702/977835/k2-reckoner-92-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ps9PNid5LGGTDO_HTY9p5ujhkEVFk9LI6B3DorcK058/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ps9PNid5LGGTDO_HTY9p5ujhkEVFk9LI6B3DorcK058/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ps9PNid5LGGTDO_HTY9p5ujhkEVFk9LI6B3DorcK058/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ps9PNid5LGGTDO_HTY9p5ujhkEVFk9LI6B3DorcK058/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ps9PNid5LGGTDO_HTY9p5ujhkEVFk9LI6B3DorcK058/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

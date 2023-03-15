@@ -1,0 +1,537 @@
+{
+  "$id": "blizzard_rustler_10_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_rustler_10_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "Rocker Concept – Increased amount of tip and tail rocker to ensure ideal flotation at all speeds. Camber underfoot to provide control on compact snow."
+      },
+      {
+        "value": "Shape Concept – Progressive wide body style with an aggressive radius. Early rise tail designed to be playful in softer snow."
+      },
+      {
+        "value": "ISO, Poplar, Beech, Balsa, Paulownia Multi Layer Wood Core"
+      },
+      {
+        "value": "Carbon Flipcore Technology – A revolutionary rockered ski production process that incorporates a uni-directional carbon frame onto the core of the ski that results in great performance with a light and easy feel."
+      },
+      {
+        "value": "Carbon Flipcore D.R.T. – Blizzard\u0027s Dynamic Release Technology utilizes a specially shaped Titanal component that is full width under the boot but tapers toward the tip and tail of the ski, to increase the ski\u0027s playfulness without the weight penalty and without sacrificing stability. Combined with unidirectional carbon fiber in the tip and tail, longitudinal stability is retained while torsional rigidity is lessened for a more playful and less hooky feel."
+      },
+      {
+        "value": "Uni-Directional Carbon Frame"
+      },
+      {
+        "value": "D.R.T Titanal"
+      },
+      {
+        "value": "Anti-Shock Layer"
+      },
+      {
+        "value": "Two Layers of Carbon Fiberglass Compound"
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "Blue",
+      "164",
+      "172",
+      "180",
+      "188"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "With a versatile 100mm+ waist and balanced Carbon Flipcore construction, the Blizzard Rustler 10 Skis live in the Goldilocks zone where anything is possible. Firm groomers? No problem, the Rustlers will lay trenches. 8 inches of fresh overnight? Great, the Rustlers can surf with the best of \u0027em. Chop and chunder? Please, the Rustlers eat those for breakfast. If you\u0027re after a setup that\u0027s capable of handling anything you put in front of it no questions asked, look no further than the Blizzard Rustler 10 Skis.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Blizzard Rustler 10 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985587/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985584/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985587/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985584/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985587/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985584/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985587/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RM515EJ37OIKM-rtfBH3UNLvVZCsPLl2dtWTNebDDis/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985584/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/S65EgPAhWPGGWKZWHpzK0GHtUVYNdjZxV4VDhNCCKyM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985580/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KleQGZDCvYeAIYYpy0jywogu3xZZKc7FsYDn6RLpFeg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KleQGZDCvYeAIYYpy0jywogu3xZZKc7FsYDn6RLpFeg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KleQGZDCvYeAIYYpy0jywogu3xZZKc7FsYDn6RLpFeg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KleQGZDCvYeAIYYpy0jywogu3xZZKc7FsYDn6RLpFeg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KleQGZDCvYeAIYYpy0jywogu3xZZKc7FsYDn6RLpFeg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985577/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/mNp9GJ_LxeS2Vh-kPrqikHITX3JRUL7xo73o7UNbqbg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/mNp9GJ_LxeS2Vh-kPrqikHITX3JRUL7xo73o7UNbqbg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/mNp9GJ_LxeS2Vh-kPrqikHITX3JRUL7xo73o7UNbqbg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/mNp9GJ_LxeS2Vh-kPrqikHITX3JRUL7xo73o7UNbqbg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/mNp9GJ_LxeS2Vh-kPrqikHITX3JRUL7xo73o7UNbqbg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985583/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4tp7GJ_g1xKv1DStJDLawzxJPKOtcy3fGBRj1BsLzOM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4tp7GJ_g1xKv1DStJDLawzxJPKOtcy3fGBRj1BsLzOM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4tp7GJ_g1xKv1DStJDLawzxJPKOtcy3fGBRj1BsLzOM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4tp7GJ_g1xKv1DStJDLawzxJPKOtcy3fGBRj1BsLzOM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4tp7GJ_g1xKv1DStJDLawzxJPKOtcy3fGBRj1BsLzOM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985581/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/47LzMCFm1DfCzC3oNJEUhuLfbHXDMY4ZT9SPjhLWHHs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/47LzMCFm1DfCzC3oNJEUhuLfbHXDMY4ZT9SPjhLWHHs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/47LzMCFm1DfCzC3oNJEUhuLfbHXDMY4ZT9SPjhLWHHs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/47LzMCFm1DfCzC3oNJEUhuLfbHXDMY4ZT9SPjhLWHHs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/47LzMCFm1DfCzC3oNJEUhuLfbHXDMY4ZT9SPjhLWHHs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216620/985586/blizzard-rustler-10-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WGakNEOLVOlGgDl_1TfLHGiIWCWBpazRmyOPVcWBRAM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WGakNEOLVOlGgDl_1TfLHGiIWCWBpazRmyOPVcWBRAM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WGakNEOLVOlGgDl_1TfLHGiIWCWBpazRmyOPVcWBRAM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WGakNEOLVOlGgDl_1TfLHGiIWCWBpazRmyOPVcWBRAM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WGakNEOLVOlGgDl_1TfLHGiIWCWBpazRmyOPVcWBRAM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1521781370-d4639e9acf2c8957c44719b1de5c592ba17e86aaf02da78d7cd5326f9784f8ca-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

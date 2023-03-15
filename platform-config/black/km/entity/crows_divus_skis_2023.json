@@ -1,0 +1,290 @@
+{
+  "$id": "black_crows_divus_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_divus_skis_2023",
+    "c_details": [
+      {
+        "value": "Light Rocker – Stability, small pivot, good edge grip, and floatation off piste."
+      },
+      {
+        "value": "Long Classic Camber – Classic camber underfoot with extended ski/ snow contact for alpine style cornering."
+      },
+      {
+        "value": "Flex – Energetic flex with very good grip all along the ski. High performance, yet manueverable."
+      },
+      {
+        "value": "Short Radius and Narrow Waist – For reactivity and speed of transition edge to edge."
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Double Titanal H Plate"
+      },
+      {
+        "value": "Aluminum Tail Insert"
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -9cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "869.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "167",
+      "172",
+      "177",
+      "182"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Carving, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Black Crows Divus Skis are made for the corduroy. These skis are narrow, stiff, and tight turning, perfect for laying hip dragging turns and speeding across smooth snow surfaces. They\u0027re reinforced with a double H titanal layer to transfer plenty of pressure to the edges, providing tons of zip and energy from one turn to the next. Explore your speed limit on the piste with the Black Crows Divus Skis.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Black Crows Divus Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224530/930760/black-crows-divus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224530/930760/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224530/930760/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224530/930760/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WUooSon8g-fyyOn4OAeLheITz5YL2Q-3JjmBlcWIdds/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224530/930772/black-crows-divus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/bVTwFXK68PSikaoV02i79IJzWeHrnvlIfOdwnWu5bTI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bVTwFXK68PSikaoV02i79IJzWeHrnvlIfOdwnWu5bTI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bVTwFXK68PSikaoV02i79IJzWeHrnvlIfOdwnWu5bTI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bVTwFXK68PSikaoV02i79IJzWeHrnvlIfOdwnWu5bTI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bVTwFXK68PSikaoV02i79IJzWeHrnvlIfOdwnWu5bTI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224530/930757/black-crows-divus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MLYGRLYK2PAEJJUlAhZBN8W4EZUh5InlcOUVCPVMnuE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MLYGRLYK2PAEJJUlAhZBN8W4EZUh5InlcOUVCPVMnuE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MLYGRLYK2PAEJJUlAhZBN8W4EZUh5InlcOUVCPVMnuE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MLYGRLYK2PAEJJUlAhZBN8W4EZUh5InlcOUVCPVMnuE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MLYGRLYK2PAEJJUlAhZBN8W4EZUh5InlcOUVCPVMnuE/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

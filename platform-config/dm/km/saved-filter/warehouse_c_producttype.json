@@ -1,0 +1,23 @@
+{
+  "$id": "dm_warehouse_c_producttype",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Retail - c_productType",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": [
+          "ce_productType"
+        ],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithData": [
+      {
+        "fieldId": [
+          "dm_directoryChildren"
+        ],
+        "type": "ALL"
+      }
+    ]
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "$id": "elan_ripstick_tour_104_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/elan_ripstick_tour_104_skis_2023",
+    "c_details": [
+      {
+        "value": "Amphibio Profile / Asymmetrical Design – The Amphibio profile is a revolutionary ski design that integrates both rocker and camber profiles into dedicated left and right skis. Amphibio skis feature a cambered inside edge assuring precision, edge grip, and stability while a rockered outside edge provides forgiveness, turning ease and smooth transitions."
+      },
+      {
+        "value": "Tubelite Wood Core – To create the TubeLite Wood Core, lightweight Carbon tubes are inserted into a lightweight laminated wood core. These tubes run along the length of the ski following the arc of the side cut. They provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+      },
+      {
+        "value": "Carbon Reinforcement – Carbon is an incredibly lightweight and strong material that provides additional support and reinforcement where it\u0027s needed most."
+      },
+      {
+        "value": "Fiberglass – Fiberglass reinforcement optimizes the ﬂex pattern and enhances torsional rigidity of the ski. The fibers are positioned either above or below the ski core and improve the ski’s structural integrity."
+      },
+      {
+        "value": "360° Sidewall – Pyramid shaped sidewall material is positioned throughout the whole body of the ski, increasing high speed stability and vibration absorption."
+      },
+      {
+        "value": "Carbon Bridge Technology – Carbon Bridge Technology is a revolutionary solution where a single carbon rod placed on the upper part of the ski, providing stability, dampening, and vibration absorption through the tip."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "166",
+      "173",
+      "180",
+      "187"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The man, the legend, the ski. It\u0027s hard to believe the Elan Ripstick Tour 104 Skis are Glen Plake\u0027s first signature model, but we can\u0027t think of a better candidate. Elan have paid tribute to Plake\u0027s mold-breaking style with a ski that combines raw freeride power with incredible agility and maneuverability, all at a touring friendly weight you can take to the skin track. They come with Elan\u0027s legendary Amphibio Profile, a light, snappy Tubelite Wood Core, and all new Carbon Bridge Technology for stability and vibration damping. Available in unisex lengths, the only thing missing is a perfectly coifed mohawk.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Elan Ripstick Tour 104 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882127/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zwYoej4MtPn2FTZGC8y223M4-2Op1602JW1zWaVT-9Y/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zwYoej4MtPn2FTZGC8y223M4-2Op1602JW1zWaVT-9Y/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zwYoej4MtPn2FTZGC8y223M4-2Op1602JW1zWaVT-9Y/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zwYoej4MtPn2FTZGC8y223M4-2Op1602JW1zWaVT-9Y/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zwYoej4MtPn2FTZGC8y223M4-2Op1602JW1zWaVT-9Y/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882074/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ANOChVgGwPCjUTU-e1qOLtJMnvJ97jtgsn69lDXtYyA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ANOChVgGwPCjUTU-e1qOLtJMnvJ97jtgsn69lDXtYyA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ANOChVgGwPCjUTU-e1qOLtJMnvJ97jtgsn69lDXtYyA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ANOChVgGwPCjUTU-e1qOLtJMnvJ97jtgsn69lDXtYyA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ANOChVgGwPCjUTU-e1qOLtJMnvJ97jtgsn69lDXtYyA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882073/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZxYqeYNg4Qc3zzsF9YkfHgwLK5Ge6z6OhPkMZVzinPs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZxYqeYNg4Qc3zzsF9YkfHgwLK5Ge6z6OhPkMZVzinPs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZxYqeYNg4Qc3zzsF9YkfHgwLK5Ge6z6OhPkMZVzinPs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZxYqeYNg4Qc3zzsF9YkfHgwLK5Ge6z6OhPkMZVzinPs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZxYqeYNg4Qc3zzsF9YkfHgwLK5Ge6z6OhPkMZVzinPs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882078/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/f-S2Z80sKuI0COb3v2sMAl3C93enEbe6C8jqAifa3zU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/f-S2Z80sKuI0COb3v2sMAl3C93enEbe6C8jqAifa3zU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/f-S2Z80sKuI0COb3v2sMAl3C93enEbe6C8jqAifa3zU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/f-S2Z80sKuI0COb3v2sMAl3C93enEbe6C8jqAifa3zU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/f-S2Z80sKuI0COb3v2sMAl3C93enEbe6C8jqAifa3zU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882085/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0BQOX8vsWdOSg8CYkNOZ6Pn9T61II-C8J0cPKcIzQQc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0BQOX8vsWdOSg8CYkNOZ6Pn9T61II-C8J0cPKcIzQQc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0BQOX8vsWdOSg8CYkNOZ6Pn9T61II-C8J0cPKcIzQQc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0BQOX8vsWdOSg8CYkNOZ6Pn9T61II-C8J0cPKcIzQQc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0BQOX8vsWdOSg8CYkNOZ6Pn9T61II-C8J0cPKcIzQQc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882076/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_hh_IcXRP6m7IdZkSalkU4BGO8APhMEi82ZvBU4esQI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_hh_IcXRP6m7IdZkSalkU4BGO8APhMEi82ZvBU4esQI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_hh_IcXRP6m7IdZkSalkU4BGO8APhMEi82ZvBU4esQI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_hh_IcXRP6m7IdZkSalkU4BGO8APhMEi82ZvBU4esQI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_hh_IcXRP6m7IdZkSalkU4BGO8APhMEi82ZvBU4esQI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882077/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/AywngzQmlMdrGx3d0a_fIJxv5Izd1lM9ibQveyQlCzk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/AywngzQmlMdrGx3d0a_fIJxv5Izd1lM9ibQveyQlCzk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/AywngzQmlMdrGx3d0a_fIJxv5Izd1lM9ibQveyQlCzk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/AywngzQmlMdrGx3d0a_fIJxv5Izd1lM9ibQveyQlCzk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/AywngzQmlMdrGx3d0a_fIJxv5Izd1lM9ibQveyQlCzk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217820/882072/elan-ripstick-tour-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/UD9t2ojZF4UFl1TYe5tSmvKDx8v8jTCaqtlgoZzD_Js/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/UD9t2ojZF4UFl1TYe5tSmvKDx8v8jTCaqtlgoZzD_Js/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UD9t2ojZF4UFl1TYe5tSmvKDx8v8jTCaqtlgoZzD_Js/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/UD9t2ojZF4UFl1TYe5tSmvKDx8v8jTCaqtlgoZzD_Js/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UD9t2ojZF4UFl1TYe5tSmvKDx8v8jTCaqtlgoZzD_Js/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

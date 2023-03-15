@@ -1,0 +1,283 @@
+{
+  "$id": "atomic_backland_95_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/atomic_backland_95_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – 15% Tip Rocker / 85% Camber / Flat Tail"
+      },
+      {
+        "value": "HRZN Tech Tip – HRZN Tech adds 10% more surface area at your ski tips. For awesome flotation in powder plus less tip deflection and better tracking through chop."
+      },
+      {
+        "value": "Ultra Light Woodcore – Alternating laminates of poplar and Caruba woods make this core both light and stout."
+      },
+      {
+        "value": "Carbon Backbone – An ultra-lightweight carbon insert that runs the length of the ski like a stabilizing backbone. This provides exceptional agility and edge hold with no extra weight."
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall for power transmission combined with a small cap for durability."
+      },
+      {
+        "value": "Atomic Base – High-density sintered bases that are fast in a variety of snow conditions and accept wax readily"
+      },
+      {
+        "value": "Atomic Edges – Atomic edges are made from steel five times more wear resistant than standard steel, for strength and perfect grip."
+      },
+      {
+        "value": "Tip Notch for Skin Attachment"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "699.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "169",
+      "177",
+      "185"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7096784237424891914"
+    ],
+    "description": "The Atomic Backland 95 Skis are a mid-fat, do-it-all touring setup that transcends the need for separate touring rigs. With a tip width of 125+ millimeters and Atomic\u0027s HRZN tip contour, they\u0027re a match for many wider skis in fresh snow, and at 1350 grams in a 177 they fly up the skintrack (actual speed is motor-dependent, of course). Mount these up with a light tech binding and get after it, that snowpack\u0027s not gonna ski itself.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Atomic Backland 95 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197752/826838/atomic-backland-95-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197752/826838/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197752/826838/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M2svtXV2h89-UCREUmpqf5fQpSNC45jSUGrmWljdXP4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197752/826844/atomic-backland-95-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DIYhry1ADZc12V10KjbGNZrkZreKTp_3ptqr_oc_3lY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DIYhry1ADZc12V10KjbGNZrkZreKTp_3ptqr_oc_3lY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DIYhry1ADZc12V10KjbGNZrkZreKTp_3ptqr_oc_3lY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DIYhry1ADZc12V10KjbGNZrkZreKTp_3ptqr_oc_3lY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DIYhry1ADZc12V10KjbGNZrkZreKTp_3ptqr_oc_3lY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197752/826837/atomic-backland-95-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_3w-X2zGU9K-TlNFamrDaDuxwbzbGphHK38a42KERYQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_3w-X2zGU9K-TlNFamrDaDuxwbzbGphHK38a42KERYQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_3w-X2zGU9K-TlNFamrDaDuxwbzbGphHK38a42KERYQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_3w-X2zGU9K-TlNFamrDaDuxwbzbGphHK38a42KERYQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_3w-X2zGU9K-TlNFamrDaDuxwbzbGphHK38a42KERYQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197752/826843/atomic-backland-95-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/u7Jwwi_yfghfg9VBlqTBNDmbrSKaYVUZJun4b7qZM5I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/u7Jwwi_yfghfg9VBlqTBNDmbrSKaYVUZJun4b7qZM5I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/u7Jwwi_yfghfg9VBlqTBNDmbrSKaYVUZJun4b7qZM5I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/u7Jwwi_yfghfg9VBlqTBNDmbrSKaYVUZJun4b7qZM5I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/u7Jwwi_yfghfg9VBlqTBNDmbrSKaYVUZJun4b7qZM5I/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

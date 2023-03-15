@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_prime_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "299.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Atomic Hawx Prime W Ski Boots offer Atomic quality and performance at a price that will leave you some breathing room for other essentials like lift tickets. Between Atomic\u0027s dialed-in 100mm fit and the customizable Adaptive Fit Cuff System, the vast majority of average and slightly higher volume feet are going to find a happy home in the Prime W, another reason the Hawx Prime is one of evo\u0027s best-selling boots.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Prime Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219594/916583/atomic-hawx-prime-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hQQpO_s9Tjp4k-wMqGZTScD8RAGwwQ_kUsOhe3mrZU8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hQQpO_s9Tjp4k-wMqGZTScD8RAGwwQ_kUsOhe3mrZU8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hQQpO_s9Tjp4k-wMqGZTScD8RAGwwQ_kUsOhe3mrZU8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hQQpO_s9Tjp4k-wMqGZTScD8RAGwwQ_kUsOhe3mrZU8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hQQpO_s9Tjp4k-wMqGZTScD8RAGwwQ_kUsOhe3mrZU8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

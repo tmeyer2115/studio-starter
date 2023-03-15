@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_mach1_hv_120_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Finally there are high performance boot options for those with wider, high volume feet, and the Tecnica Mach1 HV 120 Ski Boots are leading the charge. Full throttle polyurethane shell design paired with a fiberglass T.Drive rear spine between cuff and shell mean extra performance and support when you\u0027re really pushing it - a far cry from the old days when every wide boot was a \"comfort\" boot meant for intermediate level skiers.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Mach1 HV 120 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223151/906110/tecnica-mach1-hv-120-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4MhBMEqMcGhHQVguhII0rAmnyhfziFBpzUsWcOISrl8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4MhBMEqMcGhHQVguhII0rAmnyhfziFBpzUsWcOISrl8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4MhBMEqMcGhHQVguhII0rAmnyhfziFBpzUsWcOISrl8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4MhBMEqMcGhHQVguhII0rAmnyhfziFBpzUsWcOISrl8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4MhBMEqMcGhHQVguhII0rAmnyhfziFBpzUsWcOISrl8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

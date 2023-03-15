@@ -23,7 +23,7 @@ export const config: TemplateConfig = {
     $id: "skis",
     filter: { entityTypes: ["ce_skis"] },
     localization: { locales: ["en"], primary: false },
-    fields: ["c_price", "photoGallery", "slug"],
+    fields: ["photoGallery", "c_price", "slug"],
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
@@ -51,16 +51,16 @@ export default function Product({ document }: TemplateProps) {
                   <Label value={document.c_price} />
                   <Reviews averageRating={5} reviewCount={1995} />
                 </HStack>
-                <ProductImage
-                  src={document.photoGallery[0].image.url}
-                  alt="Light green backpack with black canvas straps and front zipper pouch."
-                />
                 <Paragraph
                   value={`Add Description Here`}
                   fontWeight=""
                   textSize=""
                 />
               </VStack>
+              <ProductImage
+                src={document.photoGallery[0].image.url}
+                alt="Light green backpack with black canvas straps and front zipper pouch."
+              />
             </GridContainer>
             <ItemsGrid title="Similar Items">
               <Item

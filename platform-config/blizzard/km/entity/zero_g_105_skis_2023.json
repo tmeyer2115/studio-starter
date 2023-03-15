@@ -1,0 +1,125 @@
+{
+  "$id": "blizzard_zero_g_105_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_zero_g_105_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "Ultra-Lightweight Paulownia Woodcore"
+      },
+      {
+        "value": "Carbon Drive 3.0 – Two edge-to-edge bi-directional carbon elements in the binding mount area provide enhanced power transmission, edge grip, and pullout strength. In addition, a uni-directional carbon element runs the entire length of the ski, without the tip and tail \"wrap\" of Carbon Drive 2.0."
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "164",
+      "172",
+      "180",
+      "188"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Ask anyone on the skin track what their favorite touring skis are, and there\u0027s a very good chance that something in the Zero G family will get a mention. Blizzard have been honing the recipe for years, tweaking and perfecting both shape and construction until juuust right. The proof, as they say, is in the pudding, and the Blizzard Zero G 105 Skis taste damn good. The cool carbon cats get an update with the latest iteration of Blizzard\u0027s Carbon Drive Technology, but the overall philosophy remains the same. They eat up vert like few other 105 waisted skis can, and rip downhill like few touring skis could dream of. As the most downhill oriented ski in a decidedly uphill oriented family, the Zero G 105s have earned a place in the hearts of adventurous freeriders everywhere, and it\u0027s well deserved. The Blizzard Zero G 105 Skis are still right up there with the best in the game.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Blizzard Zero G 105 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216619/902899/blizzard-zero-g-105-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/H9MEDutD9fPZRnG7-m8ScIRci5v08oyDpVT9OiWHK_g/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/H9MEDutD9fPZRnG7-m8ScIRci5v08oyDpVT9OiWHK_g/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/H9MEDutD9fPZRnG7-m8ScIRci5v08oyDpVT9OiWHK_g/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/H9MEDutD9fPZRnG7-m8ScIRci5v08oyDpVT9OiWHK_g/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/H9MEDutD9fPZRnG7-m8ScIRci5v08oyDpVT9OiWHK_g/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

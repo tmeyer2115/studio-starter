@@ -1,0 +1,30 @@
+{
+  "$id": "warehouse_women_skis",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "dm_baseEntityCount": "74",
+    "dm_childEntityIds": [
+      "82281624",
+      "82281625",
+      "82281626",
+      "82281628"
+    ],
+    "dm_directoryChildren": [
+      "warehouse_women_skis_all_mountain",
+      "warehouse_women_skis_alpine_touring",
+      "warehouse_women_skis_big_mountain",
+      "warehouse_women_skis_park_pipe"
+    ],
+    "dm_directoryChildrenCount": "74",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women"
+    ],
+    "name": "Skis",
+    "slug": "women/skis"
+  },
+  "entityType": "ce_productType",
+  "labels": []
+}

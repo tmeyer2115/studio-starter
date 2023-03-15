@@ -1,0 +1,60 @@
+{
+  "$id": "nordica_promachine_95_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "499.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "High performance doesn\u0027t need to be painful, and the Nordica Promachine 95 W Ski Boots prove it. They\u0027re built with a low volume fit and high performance Isotherm 3D liners for quick edge to edge response and superior heel retention when you\u0027re getting after it, but Tri-Fit Technology means comfort isn\u0027t just an afterthought; it\u0027s built into the DNA. The 95 flex is smooth, progressive, and ideal for the skier seeking to balance precision and power with a slightly more forgiving feel in their all mountain endeavours.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Promachine 95 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/183566/724762/nordica-promachine-95-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ORvtwVn9rEvf9U-DisSD8FteX1U9dBaHgHdLpxzJr78/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ORvtwVn9rEvf9U-DisSD8FteX1U9dBaHgHdLpxzJr78/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ORvtwVn9rEvf9U-DisSD8FteX1U9dBaHgHdLpxzJr78/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ORvtwVn9rEvf9U-DisSD8FteX1U9dBaHgHdLpxzJr78/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ORvtwVn9rEvf9U-DisSD8FteX1U9dBaHgHdLpxzJr78/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

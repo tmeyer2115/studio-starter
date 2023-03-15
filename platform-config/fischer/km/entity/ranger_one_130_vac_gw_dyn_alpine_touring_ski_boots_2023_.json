@@ -1,0 +1,60 @@
+{
+  "$id": "fischer_ranger_one_130_vac_gw_dyn_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The Fischer Ranger ONE 130 GW DYN Alpine Touring Ski Boots offer skiers with higher volume feet a chance to get in on the \"Tech\" revolution and use either a tech or hybrid binding requiring tech inserts. A generous 101mm last with an easy-entry lower shell and 130 flex are all rolled into a hybrid boot that skis as well in the resort as it climbs and descends outside it.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Fischer Ranger One 130 VAC GW DYN Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227934/921928/fischer-ranger-one-130-vac-gw-dyn-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/n6b-cseqIn4TnkiZ3an8M2Ba2km_IYZgsfxopN_mtT4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/n6b-cseqIn4TnkiZ3an8M2Ba2km_IYZgsfxopN_mtT4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/n6b-cseqIn4TnkiZ3an8M2Ba2km_IYZgsfxopN_mtT4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/n6b-cseqIn4TnkiZ3an8M2Ba2km_IYZgsfxopN_mtT4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/n6b-cseqIn4TnkiZ3an8M2Ba2km_IYZgsfxopN_mtT4/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,379 @@
+{
+  "$id": "season_kin_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/season_kin_skis_2023",
+    "c_details": [
+      {
+        "value": "Playful Flex"
+      },
+      {
+        "value": "Multi-Radius Sidecut – An initiation radius in the nose, stability radius underfoot and exit shape through the tail."
+      },
+      {
+        "value": "Progressive Shaping – Width and stance change depending on model length to support all riders."
+      },
+      {
+        "value": "Poplar Wood Core – A full wood core delivers a snappy, energetic feel."
+      },
+      {
+        "value": "Triaxial Fiberglass"
+      },
+      {
+        "value": "360˚ ABS Sidewall – Increased vibration damping for a quieter, more stable ride."
+      },
+      {
+        "value": "Sintered Base"
+      },
+      {
+        "value": "Season Pass – Season Eqpt. is a new brand available exclusively at evo. Founded by Austin Smith and Eric Pollard, a snowboarder and skier coming together to create a timeless offering with the goal of keeping you on your product season in, season out. Find out more about the service Season Pass included with purchase of a Season product here: https://www.evo.com/discover/seasoneqpt/theseasonpass"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "163",
+      "175",
+      "181"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Eric Pollard"
+      },
+      {
+        "name": "Warranty",
+        "value": "Limited Lifetime"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Forget gate bashing, aerodynamic optimization, and torture devices disguised as ski boots. Skiing is supposed to be fun, remember? The Season Kin Skis know it, and they won\u0027t let you forget. These twin tools of all mountain destruction are perfect for skiers who view the resort as one giant playground, boasting a playful, pressable flex and a versatile sub-100mm waist width that hits the sweet spot for life spent both in and out of the park.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Season Kin Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/940692/season-kin-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/940692/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/940692/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_6bUcUe5d0UXlWoCd2bsb1YL3-HHduzxEoAEm0o7F3A/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/829035/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RB1hySHb9CtqGa-eO1rc_IWYH47YUKfmHLktAD4ZuJI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RB1hySHb9CtqGa-eO1rc_IWYH47YUKfmHLktAD4ZuJI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RB1hySHb9CtqGa-eO1rc_IWYH47YUKfmHLktAD4ZuJI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RB1hySHb9CtqGa-eO1rc_IWYH47YUKfmHLktAD4ZuJI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RB1hySHb9CtqGa-eO1rc_IWYH47YUKfmHLktAD4ZuJI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/829034/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6gDXtcFd-CacVUmIrSDVA9QeYoEJI81Nwce5zw4E_Wc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6gDXtcFd-CacVUmIrSDVA9QeYoEJI81Nwce5zw4E_Wc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6gDXtcFd-CacVUmIrSDVA9QeYoEJI81Nwce5zw4E_Wc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6gDXtcFd-CacVUmIrSDVA9QeYoEJI81Nwce5zw4E_Wc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6gDXtcFd-CacVUmIrSDVA9QeYoEJI81Nwce5zw4E_Wc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/984010/season-kin-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/AaoKcJzZ-SxnvFpiZxWMv1yG6_ZGVIfZ2fNfTZHTVeM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/AaoKcJzZ-SxnvFpiZxWMv1yG6_ZGVIfZ2fNfTZHTVeM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/AaoKcJzZ-SxnvFpiZxWMv1yG6_ZGVIfZ2fNfTZHTVeM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/AaoKcJzZ-SxnvFpiZxWMv1yG6_ZGVIfZ2fNfTZHTVeM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/AaoKcJzZ-SxnvFpiZxWMv1yG6_ZGVIfZ2fNfTZHTVeM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/984009/season-kin-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/gWGVHpNGfStjc7oqFQG2-RTD2oP9zHeJXliHqVdVfes/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gWGVHpNGfStjc7oqFQG2-RTD2oP9zHeJXliHqVdVfes/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gWGVHpNGfStjc7oqFQG2-RTD2oP9zHeJXliHqVdVfes/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gWGVHpNGfStjc7oqFQG2-RTD2oP9zHeJXliHqVdVfes/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gWGVHpNGfStjc7oqFQG2-RTD2oP9zHeJXliHqVdVfes/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/984012/season-kin-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/j0uZhhydnpsRTC4qlQVU9_D2YVxdG8qq8nn13WJ4HuM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/j0uZhhydnpsRTC4qlQVU9_D2YVxdG8qq8nn13WJ4HuM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/j0uZhhydnpsRTC4qlQVU9_D2YVxdG8qq8nn13WJ4HuM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/j0uZhhydnpsRTC4qlQVU9_D2YVxdG8qq8nn13WJ4HuM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/j0uZhhydnpsRTC4qlQVU9_D2YVxdG8qq8nn13WJ4HuM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/200163/984008/season-kin-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZWdRRWnCRYjR6nf8ICIwl-wssbULNasS4CTutMSkR6I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZWdRRWnCRYjR6nf8ICIwl-wssbULNasS4CTutMSkR6I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZWdRRWnCRYjR6nf8ICIwl-wssbULNasS4CTutMSkR6I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZWdRRWnCRYjR6nf8ICIwl-wssbULNasS4CTutMSkR6I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZWdRRWnCRYjR6nf8ICIwl-wssbULNasS4CTutMSkR6I/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

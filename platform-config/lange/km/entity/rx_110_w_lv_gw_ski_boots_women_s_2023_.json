@@ -1,0 +1,60 @@
+{
+  "$id": "lange_rx_110_w_lv_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The big momma of all-mountain boots, the Lange RX 110 W LV GW Ski Boots, get it done when others can\u0027t. Cool and calculating in a fresh jade green with Gripwalk soles installed, the RX 110 LV is the impossibly smooth, precise-fitting, progressive freeride tool you can\u0027t really live without.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange RX 110 W LV GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198901/825863/lange-rx-110-w-lv-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VrZN-eZ1vR2DfuCBu6KFt9ogoc6bhOY7em238poA2TY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VrZN-eZ1vR2DfuCBu6KFt9ogoc6bhOY7em238poA2TY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VrZN-eZ1vR2DfuCBu6KFt9ogoc6bhOY7em238poA2TY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VrZN-eZ1vR2DfuCBu6KFt9ogoc6bhOY7em238poA2TY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VrZN-eZ1vR2DfuCBu6KFt9ogoc6bhOY7em238poA2TY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,236 @@
+{
+  "$id": "line_skis_honey_badger_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Park \u0026 Pipe",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/park-pipe/line_skis_honey_badger_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 3mm Tip / 4mm Camber / 3mm Tail"
+      },
+      {
+        "value": "Symmetric Flex™ – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Early Taper™ – The widest part of the sidecut begins tapering earlier in the tip and tail which reduces tail hook ups in powder."
+      },
+      {
+        "value": "Thin Tip™ – Super thin core \u0026 sidewall in the tips are 100 grams lighter per pair for reduced swing weight \u0026 tip bounce."
+      },
+      {
+        "value": "Aspen Veneer Core – An amalgam of Aspen Stringers brought together for a lightweight, snappy, and engaged feel."
+      },
+      {
+        "value": "Carbon Olliband – Pre-stretched carbon down the center of the ski for added pop and play in freestyle skis."
+      },
+      {
+        "value": "4D Fibercap Construction – 4 directions of fiberglass are woven across the top of the core for durability without unnecessary weight."
+      },
+      {
+        "value": "Fatty Base | Sintered 1.7mm – High density sintered bases reduce friction against the snow allowing for more speed and better durability."
+      },
+      {
+        "value": "Fatty Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 30 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "155",
+      "166",
+      "172",
+      "177"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "463117075052872663"
+    ],
+    "description": "Okay, okay, we all know that the honey badger don\u0027t care. And if you don\u0027t know by now that the Line Skis Honey Badger Skis are one of the best freestyle skis around, then we don\u0027t know where you\u0027ve been sleeping. If you\u0027re looking to progress your park game, chances are someone has recommended this ski to you. And they were right! It offers some of the best bang for buck around, with high level performance on rails, jumps, and boxes, plus out-of-this-world durability. These Honey Badgers are crazy!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_park_pipe"
+    ],
+    "name": "Line Skis Honey Badger Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221777/906621/line-skis-honey-badger-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/7MXOoTPYafiWIgcuXkwd_2ekDX8oiu1Xh34_dswa6DY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7MXOoTPYafiWIgcuXkwd_2ekDX8oiu1Xh34_dswa6DY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7MXOoTPYafiWIgcuXkwd_2ekDX8oiu1Xh34_dswa6DY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7MXOoTPYafiWIgcuXkwd_2ekDX8oiu1Xh34_dswa6DY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7MXOoTPYafiWIgcuXkwd_2ekDX8oiu1Xh34_dswa6DY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221777/906617/line-skis-honey-badger-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/riSC1QrL53o0OxiLGqCVln0e3aHZOgx_o3_vCpIKIiE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/riSC1QrL53o0OxiLGqCVln0e3aHZOgx_o3_vCpIKIiE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/riSC1QrL53o0OxiLGqCVln0e3aHZOgx_o3_vCpIKIiE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/riSC1QrL53o0OxiLGqCVln0e3aHZOgx_o3_vCpIKIiE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/riSC1QrL53o0OxiLGqCVln0e3aHZOgx_o3_vCpIKIiE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221777/906747/line-skis-honey-badger-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/c0oyOGGbgAgrENiUWyZWEcpl26cSmR5t6LnwHM1n4k0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/c0oyOGGbgAgrENiUWyZWEcpl26cSmR5t6LnwHM1n4k0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/c0oyOGGbgAgrENiUWyZWEcpl26cSmR5t6LnwHM1n4k0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/c0oyOGGbgAgrENiUWyZWEcpl26cSmR5t6LnwHM1n4k0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/c0oyOGGbgAgrENiUWyZWEcpl26cSmR5t6LnwHM1n4k0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221777/906742/line-skis-honey-badger-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M_6dQQwB_PGCXrtYwuuaLS9DhDQE64X5Hua33x1V_mQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M_6dQQwB_PGCXrtYwuuaLS9DhDQE64X5Hua33x1V_mQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M_6dQQwB_PGCXrtYwuuaLS9DhDQE64X5Hua33x1V_mQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M_6dQQwB_PGCXrtYwuuaLS9DhDQE64X5Hua33x1V_mQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M_6dQQwB_PGCXrtYwuuaLS9DhDQE64X5Hua33x1V_mQ/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

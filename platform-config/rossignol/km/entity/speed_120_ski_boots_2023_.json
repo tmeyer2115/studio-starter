@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_speed_120_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "479.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Not every ripping skier has a tiny, narrow foot, and for years those with wider feet have struggled to find boots that work for both their anatomy and their ability. The Rossignol Speed 120 Ski Boots address both issues in a one-two punch of high performance features and high volume fit. Sensor Matrix design gives additional beef to the already powerful polyurethane shell and cuff for exceptional downhill performance, and the 104 mm last is a god send for those needing more than just a little more room. The days of having to settle for sloppy, ill fitting boots are over, grab the Speed 120s and go get it!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Speed 120 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/185231/747890/rossignol-speed-120-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RSJXhdmXbz_gg4E-rY4WIaTJW1OrmU5hnSFBWyl2OE4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RSJXhdmXbz_gg4E-rY4WIaTJW1OrmU5hnSFBWyl2OE4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RSJXhdmXbz_gg4E-rY4WIaTJW1OrmU5hnSFBWyl2OE4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RSJXhdmXbz_gg4E-rY4WIaTJW1OrmU5hnSFBWyl2OE4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RSJXhdmXbz_gg4E-rY4WIaTJW1OrmU5hnSFBWyl2OE4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

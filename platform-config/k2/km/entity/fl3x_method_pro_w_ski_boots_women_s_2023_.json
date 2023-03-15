@@ -1,0 +1,60 @@
+{
+  "$id": "k2_fl3x_method_pro_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "Whether you\u0027re a park pro with loose style or an all mountain cruiser with an eye for high-quality gear, the K2 FL3X Method Pro W Ski Boots have something for you. These boots have a smooth, comfortable flex that\u0027s perfect for park laps or groomers, and a 102 mm last that provides all-day comfort no matter your riding style. It\u0027s a performance boot with a laid-back fit.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Method Pro W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224033/904736/k2-fl3x-method-pro-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/uMgRSeV4s8NJdwa0xyTmTeA92JK8OlH8K34jqtpbMd0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/uMgRSeV4s8NJdwa0xyTmTeA92JK8OlH8K34jqtpbMd0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/uMgRSeV4s8NJdwa0xyTmTeA92JK8OlH8K34jqtpbMd0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/uMgRSeV4s8NJdwa0xyTmTeA92JK8OlH8K34jqtpbMd0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uMgRSeV4s8NJdwa0xyTmTeA92JK8OlH8K34jqtpbMd0/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

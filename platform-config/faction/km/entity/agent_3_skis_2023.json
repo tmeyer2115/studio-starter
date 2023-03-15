@@ -1,0 +1,281 @@
+{
+  "$id": "faction_agent_3_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/faction_agent_3_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 164 \u003d 30mm, 172 \u003d 370mm, 178 \u003d 380mm, 183 \u003d 390mm, 188 \u003d 400mm | Camber: All Sizes \u003d 4mm | Tail Rocker: 164 \u003d 210mm, 172 \u003d 220mm, 178 \u003d 230mm, 183 \u003d 230mm, 188 \u003d 240mm"
+      },
+      {
+        "value": "Moustache Flex – This flex works best for most skiers. Enjoy stability in front of, and behind the binding area to provide solid edge hold. Then, we transition to smooth, progressive flex in the tips and tails to easily absorb all the different bumps and snow debris the mountain throws at you. This flex allows for an easier turn initiation and finish."
+      },
+      {
+        "value": "Flex Rating – 7 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Elliptical Sidecut – Elliptical Sidecut is made up of a longer radius underfoot and shorter radii in the tip and tail of the ski. The long radius underfoot means you can pivot faster and easier, while a shorter radius in the tip and tail result in easier turn initiation. This sidecut allows for a wide variety of turn lengths, angles and mounting positions."
+      },
+      {
+        "value": "Freeride Flat Tail – Traditional flat tail design is built for speed, ultimate edge grip and control throughout charging turns. Brought into the modern day with a slight tail rocker, this shape is easier than ever to slash your turn into a slarve and won’t hook up in fresh conditions."
+      },
+      {
+        "value": "Tip Height – 70mm"
+      },
+      {
+        "value": "Tail Height – 26mm"
+      },
+      {
+        "value": "Lightweight Karuba Core – Karuba is an extremely lightweight woodcore with good strength properties. Despite being little-known, Karuba provides excellent flex and vibration absorption capabilities without adding weight, making it an ideal woodcore for a touring ski that performs just as well on the uphill as on the downhill."
+      },
+      {
+        "value": "Full Carbon Weave – Between 8 and 12 strips of carbon, sandwiching either side of the ski’s woodcore, are laid unidirectionally, providing extra stability to the ski, without adding weight to the build. Each carbon strip is woven into the fiberglass to provide strength and stiffness in the full length of the ski."
+      },
+      {
+        "value": "Titanal Binding Plate – Adds pullout strength with minimal weight gain."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "Made in Austria"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "172",
+      "178",
+      "183",
+      "188"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7096784237424891914"
+    ],
+    "description": "The most versatile mid-winter touring design in the Faction collection, the Faction Agent 3 Skis combine a mid-fat 106mm waist, light Karuba wood core, and full Carbon Weave layup in a package that\u0027s light but tough. Dependable and confidence-inspiring on anything from icy steeps to knee-deep freshies, the Agent 3 features a flatter tail with skin notch for your touring pleasure.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Faction Agent 3 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227138/939870/faction-agent-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/bkyglfD4r3X9DWylpek8mylpNdRqbqhyYwG_AVLN3wI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bkyglfD4r3X9DWylpek8mylpNdRqbqhyYwG_AVLN3wI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bkyglfD4r3X9DWylpek8mylpNdRqbqhyYwG_AVLN3wI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bkyglfD4r3X9DWylpek8mylpNdRqbqhyYwG_AVLN3wI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bkyglfD4r3X9DWylpek8mylpNdRqbqhyYwG_AVLN3wI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227138/939871/faction-agent-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/oPV7VBV1VI-hZvQRo9SJp37AOVF3Pe0YvKNmz3h-enI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oPV7VBV1VI-hZvQRo9SJp37AOVF3Pe0YvKNmz3h-enI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oPV7VBV1VI-hZvQRo9SJp37AOVF3Pe0YvKNmz3h-enI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oPV7VBV1VI-hZvQRo9SJp37AOVF3Pe0YvKNmz3h-enI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oPV7VBV1VI-hZvQRo9SJp37AOVF3Pe0YvKNmz3h-enI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227138/989617/faction-agent-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/khnwrewjCBwIm77Fc-2ntChCxw8y2jsi3jPYA5u1Bwo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/khnwrewjCBwIm77Fc-2ntChCxw8y2jsi3jPYA5u1Bwo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/khnwrewjCBwIm77Fc-2ntChCxw8y2jsi3jPYA5u1Bwo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/khnwrewjCBwIm77Fc-2ntChCxw8y2jsi3jPYA5u1Bwo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/khnwrewjCBwIm77Fc-2ntChCxw8y2jsi3jPYA5u1Bwo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227138/989618/faction-agent-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/7NOG7vRmyKp9fvyEpHRwIGLs0D8rN0SttUIn7_Hc5gw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7NOG7vRmyKp9fvyEpHRwIGLs0D8rN0SttUIn7_Hc5gw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7NOG7vRmyKp9fvyEpHRwIGLs0D8rN0SttUIn7_Hc5gw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7NOG7vRmyKp9fvyEpHRwIGLs0D8rN0SttUIn7_Hc5gw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7NOG7vRmyKp9fvyEpHRwIGLs0D8rN0SttUIn7_Hc5gw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227138/989616/faction-agent-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/p6FmyUWrOr-Civu5gJ_4PTOt_jkelIvm09KRit6cZY8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/p6FmyUWrOr-Civu5gJ_4PTOt_jkelIvm09KRit6cZY8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/p6FmyUWrOr-Civu5gJ_4PTOt_jkelIvm09KRit6cZY8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/p6FmyUWrOr-Civu5gJ_4PTOt_jkelIvm09KRit6cZY8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p6FmyUWrOr-Civu5gJ_4PTOt_jkelIvm09KRit6cZY8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

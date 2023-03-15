@@ -1,0 +1,31 @@
+{
+  "$id": "fetchReviewsForEntity",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v1",
+  "name": "Fetch Reviews for Entity",
+  "stream": {
+    "source": "reviews",
+    "fields": [
+      "entity.id",
+      "authorName",
+      "rating",
+      "reviewDate",
+      "content"
+    ],
+    "filter": {
+      "publishers": [
+        "FIRSTPARTY"
+      ]
+    }
+  },
+  "fieldIndexes": [
+    {
+      "field": "entity.id"
+    },
+    {
+      "field": "rating"
+    },
+    {
+      "field": "reviewDate"
+    }
+  ]
+}

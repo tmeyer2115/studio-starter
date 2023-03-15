@@ -1,0 +1,176 @@
+{
+  "$id": "faction_prodigy_0_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_prodigy_0_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 143 \u003d 270mm, 150 \u003d 285mm, 157 \u003d 300mm, 164 \u003d 310mm, 171 \u003d 325 | Camber: All Sizes \u003d 3mm | Tail Rocker: 143 \u003d 220mm, 150 \u003d 230mm, 157 \u003d 240mm, 164 \u003d 250mm, 171 \u003d 260"
+      },
+      {
+        "value": "Flex: 6 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Elliptical Sidecut – Elliptical Sidecut is made up of a longer radius underfoot and shorter radii in the tip and tail of the ski. The long radius underfoot means you can pivot faster and easier, while a shorter radius in the tip and tail result in easier turn initiation. This sidecut allows for a wide variety of turn lengths, angles and mounting positions."
+      },
+      {
+        "value": "Directional Twin – A considerably skinnier tail width than in the tip provides ultimate downhill performance for attacking the mountain. A twin tip in the tail encourages playfulness and freestyle attitude, meaning you can ride switch with ease."
+      },
+      {
+        "value": "Tip Height – 63mm"
+      },
+      {
+        "value": "Tail Height – 50mm"
+      },
+      {
+        "value": "Fusion Wood Core – Our Fusion Wood Core technology is implemented in the Prodigy 0. 600mm of light poplar wood in the center of the ski ensures proper binding retention and solid downhill performance, while foam in the tips and tails provides a light swing weight that is appreciated by up-and-coming rippers."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "349.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "157"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Foam, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The narrowest, lightest and most affordable ski in the Prodigy adult lineup isn\u0027t a noodle - the Faction Prodigy 0 Skis will stay in your quiver long after you\u0027ve acquired other quiver arrows as a great ski to learn new tricks on and generally have a blast in the park - but the 85mm waist and lighter Fusion Core mean it is also a great ski for progression both for skiing in general and freestyle specific moves.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Faction Prodigy 0 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227161/939913/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227161/939911/faction-prodigy-0-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Snhbk8yiTMjVF_vwWAiEbwzYvWHCk47o-KR2dclRd-I/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Snhbk8yiTMjVF_vwWAiEbwzYvWHCk47o-KR2dclRd-I/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Snhbk8yiTMjVF_vwWAiEbwzYvWHCk47o-KR2dclRd-I/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Snhbk8yiTMjVF_vwWAiEbwzYvWHCk47o-KR2dclRd-I/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Snhbk8yiTMjVF_vwWAiEbwzYvWHCk47o-KR2dclRd-I/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "k2_fl3x_diverge_sc_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "A skier like Sammy Carlson demands a special kind of boot. He spends most of his time in the backcountry, bringing park moves to the powder, so he needs a boot that can do it all. The K2 FL3X Diverge SC Alpine Touring Ski Boots bring touring capability to the send squad with tech fittings, Gripwalk soles, and a sturdy walk mode. But that\u0027s not all. They feature the signature K2 FL3X ribbed tongue for park-style springiness, and a stout 120 flex to give them the power to drive big powder planks down the fall line. Paired up with a customizable Intuition Pro Tour Wrap liner, the Diverge SC is ready to help you blaze your own trail.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 FL3X Diverge SC Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224028/904717/k2-fl3x-diverge-sc-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2Tr-e0CKCHvwc5lPT4qnuATgn5QeH5fXwNA-YwRjGUI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2Tr-e0CKCHvwc5lPT4qnuATgn5QeH5fXwNA-YwRjGUI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2Tr-e0CKCHvwc5lPT4qnuATgn5QeH5fXwNA-YwRjGUI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2Tr-e0CKCHvwc5lPT4qnuATgn5QeH5fXwNA-YwRjGUI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2Tr-e0CKCHvwc5lPT4qnuATgn5QeH5fXwNA-YwRjGUI/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

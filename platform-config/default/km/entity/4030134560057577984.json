@@ -1,0 +1,41 @@
+{
+  "$id": "4030134560057577984",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_coverPhoto": {
+      "image": {
+        "height": 1030,
+        "sourceUrl": "https://images.unsplash.com/photo-1609952769887-7905b6b02c0f?ixlib\u003drb-4.0.3\u0026ixid\u003dMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d688\u0026q\u003d80",
+        "thumbnails": [
+          {
+            "height": 1030,
+            "url": "https://a.mktgcdn.com/p/GHA7B_Upv3HLyikqU1Z9AT1WmlGNWaHGV_6Hi5Fo0t4/688x1030.jpg",
+            "width": 688
+          },
+          {
+            "height": 927,
+            "url": "https://a.mktgcdn.com/p/GHA7B_Upv3HLyikqU1Z9AT1WmlGNWaHGV_6Hi5Fo0t4/619x927.jpg",
+            "width": 619
+          },
+          {
+            "height": 450,
+            "url": "https://a.mktgcdn.com/p/GHA7B_Upv3HLyikqU1Z9AT1WmlGNWaHGV_6Hi5Fo0t4/301x450.jpg",
+            "width": 301
+          },
+          {
+            "height": 293,
+            "url": "https://a.mktgcdn.com/p/GHA7B_Upv3HLyikqU1Z9AT1WmlGNWaHGV_6Hi5Fo0t4/196x293.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/GHA7B_Upv3HLyikqU1Z9AT1WmlGNWaHGV_6Hi5Fo0t4/688x1030.jpg",
+        "width": 688
+      }
+    },
+    "name": "Shop Women\u0027s New Arrivals"
+  },
+  "entityType": "ce_collection",
+  "folder": "yext/root",
+  "labels": []
+}

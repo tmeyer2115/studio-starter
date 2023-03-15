@@ -1,0 +1,60 @@
+{
+  "$id": "dynafit_blacklight_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "There\u0027s a narrow niche market called \"Speed Touring\" - not rando race light, but still feather-weight and versatile enough to navigate technical terrain with complete confidence - and Dynafit pretty much invented the genre. The Dynafit Blacklight Alpine Touring Ski Boots rule this category when it comes to footwear, with a carbon-cuffed 101mm lasted design that hits the scales at under 1,000 grams. Incredible range of cuff motion, the one-and-done transition ease of the Ultra Lock 5.0 top buckle system, and bomber Master Step (the heel fitting is bolted in place, a Dynafit exclusive) tech fittings make this the fast-n-light boot you want.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Dynafit Blacklight Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227983/917772/dynafit-blacklight-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/enY1J3ZOVxitKM4nRntt3L-vO4QJZ6lNf-YcEkSZYsc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/enY1J3ZOVxitKM4nRntt3L-vO4QJZ6lNf-YcEkSZYsc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/enY1J3ZOVxitKM4nRntt3L-vO4QJZ6lNf-YcEkSZYsc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/enY1J3ZOVxitKM4nRntt3L-vO4QJZ6lNf-YcEkSZYsc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/enY1J3ZOVxitKM4nRntt3L-vO4QJZ6lNf-YcEkSZYsc/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

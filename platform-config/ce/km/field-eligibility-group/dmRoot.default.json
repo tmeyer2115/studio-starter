@@ -1,0 +1,16 @@
+{
+  "$id": "ce_dmRoot.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "DM Root-default",
+  "entityType": "ce_dmRoot",
+  "fields": [
+    "c_primaryLogo",
+    "dm_baseEntityCount",
+    "dm_childEntityIds",
+    "dm_directoryChildren",
+    "dm_directoryChildrenCount",
+    "dm_directoryManagerId",
+    "dm_directoryParents"
+  ],
+  "required": []
+}

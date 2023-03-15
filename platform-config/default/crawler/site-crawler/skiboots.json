@@ -1,0 +1,23 @@
+{
+  "$id": "skiboots",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Ski Boots",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://www.evo.com/shop/ski/boots"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "blacklistedUrls": [
+    "https://www.evo.com/shop/ski/boots#/shop/ski/boots/.*",
+    "https://www.evo.com/shop/ski/boots/.*"
+  ],
+  "subPagesUrlStructures": [
+    "https://www.evo.com/alpine-ski-boots/*",
+    "https://www.evo.com/alpine-touring-ski-boots/*"
+  ],
+  "fileTypes": "allTypes",
+  "rateLimit": 2,
+  "maxDepth": 10
+}

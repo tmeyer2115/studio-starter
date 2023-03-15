@@ -1,0 +1,21 @@
+{
+  "$id": "skis",
+  "$schema": "https://schema.yext.com/config/crawler/site-crawler/v1",
+  "name": "Skis",
+  "enabled": true,
+  "crawlSchedule": "once",
+  "crawlStrategy": "subPages",
+  "domains": [
+    "https://www.evo.com/shop/ski/skis"
+  ],
+  "ignoreQueryParameterOption": "none",
+  "blacklistedUrls": [
+    "https://www.evo.com/shop/ski/skis/.*"
+  ],
+  "subPagesUrlStructures": [
+    "https://www.evo.com/skis/*"
+  ],
+  "fileTypes": "allTypes",
+  "rateLimit": 5,
+  "maxDepth": 10
+}

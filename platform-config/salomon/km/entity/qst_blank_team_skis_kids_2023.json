@@ -1,0 +1,185 @@
+{
+  "$id": "salomon_qst_blank_team_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_blank_team_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker"
+      },
+      {
+        "value": "Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations."
+      },
+      {
+        "value": "ABS Sidewalls"
+      },
+      {
+        "value": "Corund Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "299.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "128",
+      "137",
+      "152"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Series",
+        "value": "QST"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Salomon QST Blank Team Skis are the junior version of Salomon\u0027s premier big mountain freeride ski. If your kid is looking towards the steeps, this ski will keep them comfortable while they expand their skills and push their limits. They\u0027re perfect for riding powder, hitting jumps, and making sweet turns down the corduroy.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Salomon QST Blank Team Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219304/943350/salomon-qst-blank-team-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/S650GEbkQ7c9dFZlxndbtaBZN8Ve6gjvx-sF-EaGT7E/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/S650GEbkQ7c9dFZlxndbtaBZN8Ve6gjvx-sF-EaGT7E/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/S650GEbkQ7c9dFZlxndbtaBZN8Ve6gjvx-sF-EaGT7E/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/S650GEbkQ7c9dFZlxndbtaBZN8Ve6gjvx-sF-EaGT7E/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/S650GEbkQ7c9dFZlxndbtaBZN8Ve6gjvx-sF-EaGT7E/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219304/943344/salomon-qst-blank-team-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZiL-FERLCTg8n3gmli8gFnDoJh_Iwe_dNZMymcsA5pg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZiL-FERLCTg8n3gmli8gFnDoJh_Iwe_dNZMymcsA5pg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZiL-FERLCTg8n3gmli8gFnDoJh_Iwe_dNZMymcsA5pg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZiL-FERLCTg8n3gmli8gFnDoJh_Iwe_dNZMymcsA5pg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZiL-FERLCTg8n3gmli8gFnDoJh_Iwe_dNZMymcsA5pg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219304/943347/salomon-qst-blank-team-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/YCioOL6tX5UuwzSSG7sbOE_A1Licaw6PI1QjItzSgh4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YCioOL6tX5UuwzSSG7sbOE_A1Licaw6PI1QjItzSgh4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YCioOL6tX5UuwzSSG7sbOE_A1Licaw6PI1QjItzSgh4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YCioOL6tX5UuwzSSG7sbOE_A1Licaw6PI1QjItzSgh4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YCioOL6tX5UuwzSSG7sbOE_A1Licaw6PI1QjItzSgh4/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

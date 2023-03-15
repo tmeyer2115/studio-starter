@@ -1,0 +1,60 @@
+{
+  "$id": "k2_bfc_100_heat_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The K2 BFC 100 Heat Ski Boots rule the intermediate boot scene for those with wider and higher volume feet, simply because there isn\u0027t much else out there with the same level of comfort plus performance. The wide, 103mm last and Cushfit liner combined with a convenient walk mode switch mean you\u0027ll be loving life from the parking lot to the piste. Add an amazing Therm-ic® heated liner with Bluetooth® controls so you can change the heat level with your phone, and you can scratch \"cold feet\" off your list of boot problems, too",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 BFC 100 Heat Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201104/824487/k2-bfc-100-heat-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HyEIjGuXbmJxVo37wUGwAGdKAsLjThQ-kCOu5BftsJk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HyEIjGuXbmJxVo37wUGwAGdKAsLjThQ-kCOu5BftsJk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HyEIjGuXbmJxVo37wUGwAGdKAsLjThQ-kCOu5BftsJk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HyEIjGuXbmJxVo37wUGwAGdKAsLjThQ-kCOu5BftsJk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HyEIjGuXbmJxVo37wUGwAGdKAsLjThQ-kCOu5BftsJk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

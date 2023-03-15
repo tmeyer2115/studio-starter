@@ -1,0 +1,272 @@
+{
+  "$id": "nordica_enforcer_80_s_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_80_s_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – Smooth rocker at both tip and tail with camber underfoot provides balanced performance anywhere on the mountain."
+      },
+      {
+        "value": "Lite Performance Wood"
+      },
+      {
+        "value": "Energy CA Construction"
+      },
+      {
+        "value": "Sandwich Full Sidewall Construction"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "349.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "120",
+      "130",
+      "140",
+      "150"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "He\u0027s outgrown those wimpy kid\u0027s skis, now what? Get him the Nordica Enforcer 80 S Skis and step up to real ski construction and performance. Full wood core Energy CA construction with full sidewalls means power and control that rival performance adult skis, all executed with Nordica\u0027s superior build quality. Better skis \u003d better skiing \u003d more fun. Why not go for it?",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Nordica Enforcer 80 S Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224783/910258/nordica-enforcer-80-s-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224783/977862/nordica-enforcer-80-s-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/w0SE79JBvZ4T7tWSohWNxWSPm81f5IAdeMhw3QUekSY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/w0SE79JBvZ4T7tWSohWNxWSPm81f5IAdeMhw3QUekSY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/w0SE79JBvZ4T7tWSohWNxWSPm81f5IAdeMhw3QUekSY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/w0SE79JBvZ4T7tWSohWNxWSPm81f5IAdeMhw3QUekSY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/w0SE79JBvZ4T7tWSohWNxWSPm81f5IAdeMhw3QUekSY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224783/910258/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224783/910258/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224783/910258/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zwEXhTCRZI57jxqR15OfAACqOCcFqC4CLBfvkmrz_9Y/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224783/910256/nordica-enforcer-80-s-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/9xYFamcxCPk9q5WSui_a3kd6gQJPsreluv7AYz0goxk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/9xYFamcxCPk9q5WSui_a3kd6gQJPsreluv7AYz0goxk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/9xYFamcxCPk9q5WSui_a3kd6gQJPsreluv7AYz0goxk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/9xYFamcxCPk9q5WSui_a3kd6gQJPsreluv7AYz0goxk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/9xYFamcxCPk9q5WSui_a3kd6gQJPsreluv7AYz0goxk/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

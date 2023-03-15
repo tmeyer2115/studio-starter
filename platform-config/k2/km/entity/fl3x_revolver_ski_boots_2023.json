@@ -1,0 +1,60 @@
+{
+  "$id": "k2_fl3x_revolver_ski_boots_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "The artist formerly known as the Full Tilt Drop Kick is here to provide you with the freestyle flex you need to do it big in the park. The K2 FL3X Revolver Ski Boots have a new look and a new name, but they\u0027re still the best boots around for anytime stuntin\u0027. They\u0027re extra flexy, but thanks to the magic of the ribbed tongue and three piece design, that flex will never bottom out or give you shin bang. It\u0027s all smooth, bottomless tweakin\u0027 all the way down. There\u0027s a reason all the rippers at the terrain park are wearing these.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Revolver Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224022/904689/k2-fl3x-revolver-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_ZokC0V_CURQXEqg4xuwAj0ZgvcCRsMMuvARrBSKlMA/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_ZokC0V_CURQXEqg4xuwAj0ZgvcCRsMMuvARrBSKlMA/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_ZokC0V_CURQXEqg4xuwAj0ZgvcCRsMMuvARrBSKlMA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_ZokC0V_CURQXEqg4xuwAj0ZgvcCRsMMuvARrBSKlMA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_ZokC0V_CURQXEqg4xuwAj0ZgvcCRsMMuvARrBSKlMA/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

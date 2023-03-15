@@ -1,0 +1,165 @@
+{
+  "$id": "armada_whitewalker_121_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Powder",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/powder/armada_whitewalker_121_skis_2023",
+    "c_details": [
+      {
+        "value": "AR Freestyle Rocker – Rockered tips and tails are combined with positive camber underfoot to allow the ski to charge with ease through unpredictable snow and maintain a solid carve when asked to do so. Turn the whole mountain into your playground."
+      },
+      {
+        "value": "Flex (1\u003dSoft, 10\u003dStiff) – Tip: 8 | Mid: 6 | Tail: 10"
+      },
+      {
+        "value": "Pin Tip and Tail"
+      },
+      {
+        "value": "Caruba Core – Armada\u0027s lightest wood species creates the best uphill feel while retaining the power and dampness required for descending in the gnarliest of terrain. This core makes no concessions in its quest to be ultralight."
+      },
+      {
+        "value": "AR75 Sidewall – Sidewalls provide improved edge pressure under the boot, while cap constuction in the tip and tail provides smooth turn initiation and less hookiness - 75% sidewall, 25% cap."
+      },
+      {
+        "value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability on snow."
+      },
+      {
+        "value": "1.7 Lightweight Edge – Light and strong, these heat-treated edges effect the feel of the ski minimally to ensure a snappy, lightweight feel."
+      },
+      {
+        "value": "Swivel Tech – A 3D beveled base in the tip and tail creates a unique feel in all snow conditions. Less likely to catch in crud, self-centering in deep snow, and uncatchable on takeoffs, Swivel Tech lets you float effortlessly whether sliding forwards, backwards, left, or right."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "949.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "183"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Sammy Carlson"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1312210429080442948"
+    ],
+    "description": "Sammy C\u0027s Whitewalker Skis have quickly gone from experimental offering to freestyle staple, and now they have a big brother. The Armada Whitewalker 121 Skis feature the same pintail, twin tip design as the the originals, but with an even wider waist width for the deepest days. These skis are the ultimate playful powder tool. They\u0027re nimble, surfy, easy to spin, easy stomp, and ski just about as well backwards as they do forwards. And with a respectably lightweight build, they\u0027re an awesome choice to pair with a hybrid binding for a 50/50 powder ski.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_powder"
+    ],
+    "name": "Armada Whitewalker 121 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219341/919956/armada-whitewalker-121-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/CSFKvh8AjX-j6N8xztp5eNVo75d-4Hc4afbbGzBAeiE/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/CSFKvh8AjX-j6N8xztp5eNVo75d-4Hc4afbbGzBAeiE/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/CSFKvh8AjX-j6N8xztp5eNVo75d-4Hc4afbbGzBAeiE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/CSFKvh8AjX-j6N8xztp5eNVo75d-4Hc4afbbGzBAeiE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/CSFKvh8AjX-j6N8xztp5eNVo75d-4Hc4afbbGzBAeiE/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1498771755-a48f2136ee53ec97432d5fdd84fce2a84bfe221e5d07c26bf81cccad28914e10-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/GmNwc3smWpDrDLNoMx2ISzTycPFpAfxY10oRfiHfxL8/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/GmNwc3smWpDrDLNoMx2ISzTycPFpAfxY10oRfiHfxL8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/GmNwc3smWpDrDLNoMx2ISzTycPFpAfxY10oRfiHfxL8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/GmNwc3smWpDrDLNoMx2ISzTycPFpAfxY10oRfiHfxL8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/GmNwc3smWpDrDLNoMx2ISzTycPFpAfxY10oRfiHfxL8/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

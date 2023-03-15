@@ -1,0 +1,376 @@
+{
+  "$id": "season_pass_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/season_pass_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker"
+      },
+      {
+        "value": "Equal Height Tip and Tail"
+      },
+      {
+        "value": "Karuba Wood Core – Lightweight full wood core delivers a responsive, high-performance feel."
+      },
+      {
+        "value": "Carbon Fiber Reinforced Fiberglass"
+      },
+      {
+        "value": "360˚ ABS Sidewall – Increased vibration damping for a quieter, more stable ride."
+      },
+      {
+        "value": "Sintered 7500 Base"
+      },
+      {
+        "value": "Season Pass – Season Eqpt. is a new brand available exclusively at evo. Founded by Austin Smith and Eric Pollard, a snowboarder and skier coming together to create a timeless offering with the goal of keeping you on your product season in, season out. Find out more about the service Season Pass included with purchase of a Season product here: https://www.evo.com/discover/seasoneqpt/theseasonpass"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "165",
+      "176",
+      "185"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Eric Pollard"
+      },
+      {
+        "name": "Warranty",
+        "value": "Limited Lifetime"
+      }
+    ],
+    "c_terrain": [
+      "7096784237424891914"
+    ],
+    "description": "Introducing a backcountry ski for the most creative, pow-hungry earn-your-turners in the land, the Season Pass Skis are a wider, lighter take on the ultra-versatile Nexus skis, because the crew at Season know why you tour. Built with an ultra-light woodcore of Poplar and Paulownia and a nearly symmetrical twin shape, the Pass is light enough for full days on the trail but stout enough to shred hard on the way down. Never has there been such a wealth of options for skiing beyond the confines of the resort - the Season Pass pushes the envelope for the most playful and imaginative among us.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Season Pass Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/940709/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/940709/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/940709/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/r8rJM3yFB2MA21KvgodY9KJrdbM2XNmBDrxzk_XATeg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/917291/season-pass-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/GX-XpCVC97HfZJfm8n7SZFME8j-nWPkf_r3pxyKJVek/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/GX-XpCVC97HfZJfm8n7SZFME8j-nWPkf_r3pxyKJVek/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/GX-XpCVC97HfZJfm8n7SZFME8j-nWPkf_r3pxyKJVek/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/GX-XpCVC97HfZJfm8n7SZFME8j-nWPkf_r3pxyKJVek/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/GX-XpCVC97HfZJfm8n7SZFME8j-nWPkf_r3pxyKJVek/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/917293/season-pass-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/5qcE521HjpqMdTw7TrOrdQNfn3yShscHiGF40-94M9k/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/5qcE521HjpqMdTw7TrOrdQNfn3yShscHiGF40-94M9k/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/5qcE521HjpqMdTw7TrOrdQNfn3yShscHiGF40-94M9k/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/5qcE521HjpqMdTw7TrOrdQNfn3yShscHiGF40-94M9k/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/5qcE521HjpqMdTw7TrOrdQNfn3yShscHiGF40-94M9k/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/984011/season-pass-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OOwA_VnJed5FBv0CwA-zogQPTtte6seHCU5LJn9rR_8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OOwA_VnJed5FBv0CwA-zogQPTtte6seHCU5LJn9rR_8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OOwA_VnJed5FBv0CwA-zogQPTtte6seHCU5LJn9rR_8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OOwA_VnJed5FBv0CwA-zogQPTtte6seHCU5LJn9rR_8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OOwA_VnJed5FBv0CwA-zogQPTtte6seHCU5LJn9rR_8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/984014/season-pass-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zRD-mm-_w1sw9WCP0mB9b9e0Tbnlzv7saYGODr4OaOw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zRD-mm-_w1sw9WCP0mB9b9e0Tbnlzv7saYGODr4OaOw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zRD-mm-_w1sw9WCP0mB9b9e0Tbnlzv7saYGODr4OaOw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zRD-mm-_w1sw9WCP0mB9b9e0Tbnlzv7saYGODr4OaOw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zRD-mm-_w1sw9WCP0mB9b9e0Tbnlzv7saYGODr4OaOw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/984013/season-pass-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MqKXEmD86s73kL6FXW8FjRPQDGk40oVq38E9BDClP-4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MqKXEmD86s73kL6FXW8FjRPQDGk40oVq38E9BDClP-4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MqKXEmD86s73kL6FXW8FjRPQDGk40oVq38E9BDClP-4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MqKXEmD86s73kL6FXW8FjRPQDGk40oVq38E9BDClP-4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MqKXEmD86s73kL6FXW8FjRPQDGk40oVq38E9BDClP-4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225267/984019/season-pass-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2ut5jwTL08Wprr6aWLotPevRQThEfdAujfE2OP1C8ek/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2ut5jwTL08Wprr6aWLotPevRQThEfdAujfE2OP1C8ek/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2ut5jwTL08Wprr6aWLotPevRQThEfdAujfE2OP1C8ek/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2ut5jwTL08Wprr6aWLotPevRQThEfdAujfE2OP1C8ek/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2ut5jwTL08Wprr6aWLotPevRQThEfdAujfE2OP1C8ek/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

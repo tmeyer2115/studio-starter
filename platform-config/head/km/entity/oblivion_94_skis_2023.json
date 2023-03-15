@@ -1,0 +1,273 @@
+{
+  "$id": "head_oblivion_94_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/head_oblivion_94_skis_2023",
+    "c_details": [
+      {
+        "value": "PNP Rocker – Park \u0027n Pipe rocker features rocker at the tip and tail for easy switch maneuvers and forgiving landings, with camber underfoot for pop and energy."
+      },
+      {
+        "value": "Wood Core"
+      },
+      {
+        "value": "ISS - Independ-ent Suspension System"
+      },
+      {
+        "value": "Tuff-Wall / Base / Edge"
+      },
+      {
+        "value": "Structured UHM C Base – The same high quality material used in Head\u0027s world-leading race skis is used here. Different structured running base for all conditions."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "163",
+      "170",
+      "184"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "When one pair of skis needs to do it all, and you don\u0027t want to ruin a perfectly good powder day because you only have park skis, the Head Oblivion 94 Skis are the way to go. A Park \u0027n Pipe rocker profile combined with a mid-fat directional twin sidecut give you the best of all worlds, letting you rip and trick anywhere there\u0027s snow.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Head Oblivion 94 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208282/832656/head-oblivion-94-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208282/832663/head-oblivion-94-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208282/832656/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208282/832663/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208282/832656/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OCXt5tDubulKqKP4oBZz3fi25RrOD_tnDlPH4pqv9F8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208282/832663/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/im67ARAPdkQH8TP10qozFdwHJf1ClqUBt97QjWOstp0/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

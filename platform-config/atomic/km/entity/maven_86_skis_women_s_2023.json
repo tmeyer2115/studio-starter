@@ -1,0 +1,247 @@
+{
+  "$id": "atomic_maven_86_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/atomic_maven_86_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – 15% Tip Rocker / 75% Camber / 10% Tail Rocker"
+      },
+      {
+        "value": "Directional Shape"
+      },
+      {
+        "value": "Flow Profile – Flow Profile blends the perfect amount of rocker and camber for optimal effective edge contact during every turn. Utilizing the latest generation of HRZN Tech Tip, Flow Profile delivers the ideal combination of camber, shovel taper, and tip rocker to create a ski that hooks up on hardpack as well as floats in fresh snow."
+      },
+      {
+        "value": "OMatic Construction – The ultimate balance of stiffness and flex throughout the length of the ski. Precision milled poplar wood, lightweight fiberglass, and titanal layer or carbon insets. OMatic delivers effortless performance, balance, and stability from tip to tail."
+      },
+      {
+        "value": "Light Woodcore – Made from poplar wood, this core optimizes the ski\u0027s weight without sacrificing any shock absorption or stability."
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall from base to topsheet for controlled power transmission and great edge grip. The rounded shape of the Dura Cap is a fantastic durability feature as it picks up fewer dents and dings."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "399.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "153",
+      "161",
+      "169"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Atomic Maven 86 Skis are the perfect blend of powerful and easy going. They\u0027re an excellent tool for all around exploration of the ski resort. They\u0027re smooth and flowy down groomers, nimble through trees and bumps, and stable and predictable wherever you take them. With a featherlight weight and a stylish topsheet, these skis are perfect for any day on the slopes.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Atomic Maven 86 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219395/907104/atomic-maven-86-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OgfNVhddE1T18MnOVscb2NH0PybUD-z98eFqTqdJrDw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OgfNVhddE1T18MnOVscb2NH0PybUD-z98eFqTqdJrDw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OgfNVhddE1T18MnOVscb2NH0PybUD-z98eFqTqdJrDw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OgfNVhddE1T18MnOVscb2NH0PybUD-z98eFqTqdJrDw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OgfNVhddE1T18MnOVscb2NH0PybUD-z98eFqTqdJrDw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219395/907089/atomic-maven-86-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pcTNTYr8qrUDb1Ur5lKf0idHhncCCUY8mvpW7IAOOPo/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pcTNTYr8qrUDb1Ur5lKf0idHhncCCUY8mvpW7IAOOPo/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pcTNTYr8qrUDb1Ur5lKf0idHhncCCUY8mvpW7IAOOPo/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pcTNTYr8qrUDb1Ur5lKf0idHhncCCUY8mvpW7IAOOPo/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pcTNTYr8qrUDb1Ur5lKf0idHhncCCUY8mvpW7IAOOPo/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219395/907092/atomic-maven-86-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vZ23grgyMJiAkp8KYH3tdlAz4wqBoDMKibWh-De5gfc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vZ23grgyMJiAkp8KYH3tdlAz4wqBoDMKibWh-De5gfc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vZ23grgyMJiAkp8KYH3tdlAz4wqBoDMKibWh-De5gfc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vZ23grgyMJiAkp8KYH3tdlAz4wqBoDMKibWh-De5gfc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vZ23grgyMJiAkp8KYH3tdlAz4wqBoDMKibWh-De5gfc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219395/907090/atomic-maven-86-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/trx-o00CVrjo8V2rKkuesuhFXmbhJ80ftcWVo-SR0Ls/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/trx-o00CVrjo8V2rKkuesuhFXmbhJ80ftcWVo-SR0Ls/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/trx-o00CVrjo8V2rKkuesuhFXmbhJ80ftcWVo-SR0Ls/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/trx-o00CVrjo8V2rKkuesuhFXmbhJ80ftcWVo-SR0Ls/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/trx-o00CVrjo8V2rKkuesuhFXmbhJ80ftcWVo-SR0Ls/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219395/907093/atomic-maven-86-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xDcN0CbIC-uDehVYQ5i-D5kXF1XsuaXfVZcOWhojPNw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xDcN0CbIC-uDehVYQ5i-D5kXF1XsuaXfVZcOWhojPNw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xDcN0CbIC-uDehVYQ5i-D5kXF1XsuaXfVZcOWhojPNw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xDcN0CbIC-uDehVYQ5i-D5kXF1XsuaXfVZcOWhojPNw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xDcN0CbIC-uDehVYQ5i-D5kXF1XsuaXfVZcOWhojPNw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

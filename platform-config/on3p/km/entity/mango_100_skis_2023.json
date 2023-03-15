@@ -1,0 +1,181 @@
+{
+  "$id": "on3p_mango_100_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/on3p_mango_100_skis_2023",
+    "c_details": [
+      {
+        "value": "Freestyle Rocker – Larger tip rocker and tail rocker combined with camber underfoot. More playful, more fun, with enough camber underfoot to maintain a solid edge contact on hard snow."
+      },
+      {
+        "value": "Freestyle Flex – Solid underfoot platform with a round, progressive flex into the tip and tail. A close-to-symmetrical flex for performance going forward and backwards."
+      },
+      {
+        "value": "Elliptical Sidecut – The sidecut consists of an elliptical arc that begins at boot center and gets progressively smaller as it extends toward the tip and tail of the ski, resulting in a ski that carves harder the more it is put on edge, yet remains stable when skied flat."
+      },
+      {
+        "value": "Blended Tip Taper"
+      },
+      {
+        "value": "100% Bamboo Core – The heart of every pair of ON3P ski is a FSC-certified, vertically laminated, 100% bamboo core. Bamboo provides a responsive, yet damp characteristic to their skis that everyone has grown to love."
+      },
+      {
+        "value": "Hybrid Fiberglass / Carbon Composite – ON3P\u0027s new proprietary composite layup incorporates carbon into the triaxial fiberglass layer, allowing them to bond the glass directly to the core. This new layup improves strength and durability in the skis while decreasing weight."
+      },
+      {
+        "value": "UHMW Sidewalls – UHMW (Ultra High Molecular Weight Polyethylene) is an incredibly strong material, has a higher abrasion resistance than steel, and resists cracking."
+      },
+      {
+        "value": "1.8mm 4001 Durasurf Sintered Base – ON3P\u0027s Durasurf 4001 base material provides their skis with better glide and protection from damage compared to any other sintered and extruded base material, and is 50% thicker than the industry standard."
+      },
+      {
+        "value": "2.5mm x 2.5mm Extra Thick Edges – ON3P uses a 3/4 wrap for their 2.5mm x 2.5mm Rockwell 48 steel edges. The 3/4 wrap allows the tips and tails of the skis to flex, decreasing the risk of delamination."
+      },
+      {
+        "value": "Factory Detuned – To help minimize rail damage and provide a catch-free experience."
+      },
+      {
+        "value": "Made in Oregon – Every single pair of ON3P skis is built by an ON3P employee in their Portland, Oregon factory. No shortcuts of OEM here -- they do it themselves. Design, build, sell."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "166",
+      "171",
+      "181",
+      "186"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Bamboo, Carbon"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Jake Mageau"
+      },
+      {
+        "name": "Made in the USA",
+        "value": "Yes"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Jake Mageau wants you to have fun.That\u0027s the only reasonable explaination for his new pro model ON3P Mango 100 Skis. They epitomize his playful approach to skiing with a light, balanced feel, ample rocker, and an easy buttering style you rock both in and out of the park. With a newly modified tip taper, this all mountain capable park destroyer delivers freestyle fun to the masses in a true unisex size run. Nice!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "ON3P Mango 100 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/230645/940005/on3p-mango-100-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/04uQTUZ8k-vTH7Ft6l2XAiXi_t11wCX-QEFrDz-Ch30/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/04uQTUZ8k-vTH7Ft6l2XAiXi_t11wCX-QEFrDz-Ch30/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/04uQTUZ8k-vTH7Ft6l2XAiXi_t11wCX-QEFrDz-Ch30/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/04uQTUZ8k-vTH7Ft6l2XAiXi_t11wCX-QEFrDz-Ch30/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/04uQTUZ8k-vTH7Ft6l2XAiXi_t11wCX-QEFrDz-Ch30/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/230645/940003/on3p-mango-100-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jMHQ1vbXmhxhcSSTyqSbcb8oBS_cgeulyNK8m7M48iY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jMHQ1vbXmhxhcSSTyqSbcb8oBS_cgeulyNK8m7M48iY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jMHQ1vbXmhxhcSSTyqSbcb8oBS_cgeulyNK8m7M48iY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jMHQ1vbXmhxhcSSTyqSbcb8oBS_cgeulyNK8m7M48iY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jMHQ1vbXmhxhcSSTyqSbcb8oBS_cgeulyNK8m7M48iY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}
