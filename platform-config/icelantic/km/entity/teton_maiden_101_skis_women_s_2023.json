@@ -1,0 +1,196 @@
+{
+  "$id": "icelantic_teton_maiden_101_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/icelantic_teton_maiden_101_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Rocker / Camber / Rocker – 36 cm tip rocker / 2mm camber / 31 cm tail rocker"
+      },
+      {
+        "value": "Poplar Power Core – 100% Poplar wood for strength and power"
+      },
+      {
+        "value": "EXTL 2200 Tri-Axe Fiberglass"
+      },
+      {
+        "value": "Durasurf 2001 HDPE Sidewall"
+      },
+      {
+        "value": "Durasurf 4001 Sintered HDPE Base"
+      },
+      {
+        "value": "2.2mm Steel Edge"
+      },
+      {
+        "value": "Graphics by Travis Parr"
+      },
+      {
+        "value": "Made in Colorado"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "899.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "162",
+      "169"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Made in the USA",
+        "value": "Yes"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "There are those who believe the Icelantic Maiden 101 Skis are the finest and most versatile west coast daily driver yet built, and they may well be right. If you\u0027re among the believers, now\u0027s the time to grab a pair of the collectible Icelantic Teton Maiden 101 Skis, featuring a one-of-a-kind Travis Parr topsheet honoring Grand Teton National Park.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Icelantic Teton Maiden 101 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/228593/920412/icelantic-teton-maiden-101-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rsGS9gO1ujWMFVoMHle6MgI77Rl0ICusXvnlHVfjC0Q/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rsGS9gO1ujWMFVoMHle6MgI77Rl0ICusXvnlHVfjC0Q/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rsGS9gO1ujWMFVoMHle6MgI77Rl0ICusXvnlHVfjC0Q/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rsGS9gO1ujWMFVoMHle6MgI77Rl0ICusXvnlHVfjC0Q/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rsGS9gO1ujWMFVoMHle6MgI77Rl0ICusXvnlHVfjC0Q/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/228593/920408/icelantic-teton-maiden-101-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/UXFdb33QJB5g5U84SULgN1LQxWwuyogC9N1ySse7HcY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/UXFdb33QJB5g5U84SULgN1LQxWwuyogC9N1ySse7HcY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UXFdb33QJB5g5U84SULgN1LQxWwuyogC9N1ySse7HcY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/UXFdb33QJB5g5U84SULgN1LQxWwuyogC9N1ySse7HcY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UXFdb33QJB5g5U84SULgN1LQxWwuyogC9N1ySse7HcY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1484394089-a72e9c58559015593af23f3154f44da5f12c2f65b5a1fa39d0fb818b721b186e-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_pure_pro_heat_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Rossignol Pure Pro Heat GW Ski Boots combine performance with the ultimate in comfort for that elusive \"unicorn\" skiing experience you\u0027ve been missing. A Bluetooth® controlled Therm-ic® liner makes cold feet a thing of the past, and proven Dual Core Polyurethane construction takes care of the turns. How cool is this? One day skiing in the cold will convince you; you\u0027ll never go back.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Pure Pro Heat GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227415/918277/rossignol-pure-pro-heat-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/j8EQQowSoWcktfuJ2C5rG0cglmv-DeWZqM_aXVEuofI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/j8EQQowSoWcktfuJ2C5rG0cglmv-DeWZqM_aXVEuofI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/j8EQQowSoWcktfuJ2C5rG0cglmv-DeWZqM_aXVEuofI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/j8EQQowSoWcktfuJ2C5rG0cglmv-DeWZqM_aXVEuofI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/j8EQQowSoWcktfuJ2C5rG0cglmv-DeWZqM_aXVEuofI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

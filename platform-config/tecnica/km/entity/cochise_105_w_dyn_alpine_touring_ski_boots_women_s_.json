@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_cochise_105_w_dyn_alpine_touring_ski_boots_women_s_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The name\u0027s been around for a while, but the latest iteration of the Tecnica Cochise 105 W DYN Alpine Touring Ski Boots have been re-designed from the snow up. A new slimmer, lighter shape, an all-new T-Ride Hiking System walk mode with drastically improved range of motion and a lock option for ski mode, and even a true 22.5 Mondo size offering. These boots are money!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Tecnica Cochise 105 W DYN Alpine Touring Ski Boots - Women\u0027s",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197505/825158/tecnica-cochise-105-w-dyn-alpine-touring-ski-boots-women-s-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ITWZsTYxDjtbh9JWfvIqnJJqZ9rTdr_X3H7uDpGv-d0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ITWZsTYxDjtbh9JWfvIqnJJqZ9rTdr_X3H7uDpGv-d0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ITWZsTYxDjtbh9JWfvIqnJJqZ9rTdr_X3H7uDpGv-d0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ITWZsTYxDjtbh9JWfvIqnJJqZ9rTdr_X3H7uDpGv-d0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ITWZsTYxDjtbh9JWfvIqnJJqZ9rTdr_X3H7uDpGv-d0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_prime_130_professional_gw_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Atomic Hawx Prime 130 Professional GW Ski Boots let you direct all your skill and power to your skis, no doubt. Hard chargers and \"professionals\" with average-to-above average foot width and volume will appreciate the generous 100mm width and ample instep height of the Prime last, not to mention what can be done to improve the fit using the Memory Fit process. And that\u0027s not all, Atomic\u0027s newly developed Professional liner can be injected with foam to further improve heel and ankle hold. The Hawx Prime 130 Pro skis as well as many narrower lasted boots that crush your foot; and as we all know, more time on the mountain with less pain is a tough combination to beat.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Prime 130 Professional GW Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197856/847361/atomic-hawx-prime-130-professional-gw-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6QlWD881CymwI_vU_P2zm27Rzd0CbGIKTCP5Bpqdl8I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6QlWD881CymwI_vU_P2zm27Rzd0CbGIKTCP5Bpqdl8I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6QlWD881CymwI_vU_P2zm27Rzd0CbGIKTCP5Bpqdl8I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6QlWD881CymwI_vU_P2zm27Rzd0CbGIKTCP5Bpqdl8I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6QlWD881CymwI_vU_P2zm27Rzd0CbGIKTCP5Bpqdl8I/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,419 @@
+{
+  "$id": "season_aero_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/season_aero_skis_2023",
+    "c_details": [
+      {
+        "value": "Standard Camber / Raised Tail – 20cm Entry Rocker / 6mm Camber / 18cm Exit Rocker"
+      },
+      {
+        "value": "Stiff Flex"
+      },
+      {
+        "value": "Multi-Radius Sidecut – An initiation radius in the nose, stability radius underfoot and exit shape through the tail."
+      },
+      {
+        "value": "Progressive Shaping – Width and stance change depending on model length to support all riders."
+      },
+      {
+        "value": "Karuba Wood Core – Lightweight full wood core delivers a responsive, high-performance feel."
+      },
+      {
+        "value": "Titanal Reinforcement – Rail-to-rail reinforcement absorbs vibrations and charges through turns."
+      },
+      {
+        "value": "Biaxial Fiberglass"
+      },
+      {
+        "value": "Stainless Steel Tail Insert"
+      },
+      {
+        "value": "360˚ ABS Sidewall – Increased vibration damping for a quieter, more stable ride."
+      },
+      {
+        "value": "Sintered Base"
+      },
+      {
+        "value": "Season Pass – Season Eqpt. is a new brand available exclusively at evo. Founded by Austin Smith and Eric Pollard, a snowboarder and skier coming together to create a timeless offering with the goal of keeping you on your product season in, season out. Find out more about the service Season Pass included with purchase of a Season product here: https://www.evo.com/discover/seasoneqpt/theseasonpass"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "158",
+      "165",
+      "173",
+      "180"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Eric Pollard"
+      },
+      {
+        "name": "Warranty",
+        "value": "Limited Lifetime"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Being creative as a skier in a low tide month - or season - means coming at it with a versatile twin shape, good edgehold, and solid stability for the firm and fast. Enter the Season Aero Skis as evo\u0027s pick for best ski in this category, with its Karuba wood core, Titanal-reinforced construction, and plenty of tail rocker for travelling switch in style.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Season Aero Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/940702/season-aero-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/940702/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/940702/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/940702/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xK_-FP-QrHwdWMhJXMj6IoZiK0Bfe-kIA7BhBsWhcuU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/928904/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cbwJ0f5Iy_7-M8jk-R4crehW0D7W9oKk1nO6aqWSkQ4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cbwJ0f5Iy_7-M8jk-R4crehW0D7W9oKk1nO6aqWSkQ4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cbwJ0f5Iy_7-M8jk-R4crehW0D7W9oKk1nO6aqWSkQ4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cbwJ0f5Iy_7-M8jk-R4crehW0D7W9oKk1nO6aqWSkQ4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cbwJ0f5Iy_7-M8jk-R4crehW0D7W9oKk1nO6aqWSkQ4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/928893/season-aero-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/a-xZN_CFW5LR02VbJSu7lDk-6iYQlkA_suW0GXEsYkQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/a-xZN_CFW5LR02VbJSu7lDk-6iYQlkA_suW0GXEsYkQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/a-xZN_CFW5LR02VbJSu7lDk-6iYQlkA_suW0GXEsYkQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/a-xZN_CFW5LR02VbJSu7lDk-6iYQlkA_suW0GXEsYkQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/a-xZN_CFW5LR02VbJSu7lDk-6iYQlkA_suW0GXEsYkQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/984023/season-aero-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HflYnh5gQ57bieSXb2At9QBqqaM_U9ooVbZ2F2DeDtI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HflYnh5gQ57bieSXb2At9QBqqaM_U9ooVbZ2F2DeDtI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HflYnh5gQ57bieSXb2At9QBqqaM_U9ooVbZ2F2DeDtI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HflYnh5gQ57bieSXb2At9QBqqaM_U9ooVbZ2F2DeDtI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HflYnh5gQ57bieSXb2At9QBqqaM_U9ooVbZ2F2DeDtI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/984007/season-aero-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/llSowK8X9ewApebPxSuXLpi1kKekVkXT-jX4vz3GZPY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/llSowK8X9ewApebPxSuXLpi1kKekVkXT-jX4vz3GZPY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/llSowK8X9ewApebPxSuXLpi1kKekVkXT-jX4vz3GZPY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/llSowK8X9ewApebPxSuXLpi1kKekVkXT-jX4vz3GZPY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/llSowK8X9ewApebPxSuXLpi1kKekVkXT-jX4vz3GZPY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/984005/season-aero-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vaS2d3TC61tHk0D7hyORh4GO98fBzfl7SyWHICJTpO4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vaS2d3TC61tHk0D7hyORh4GO98fBzfl7SyWHICJTpO4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vaS2d3TC61tHk0D7hyORh4GO98fBzfl7SyWHICJTpO4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vaS2d3TC61tHk0D7hyORh4GO98fBzfl7SyWHICJTpO4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vaS2d3TC61tHk0D7hyORh4GO98fBzfl7SyWHICJTpO4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225264/984006/season-aero-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hkTwMZt2BHlmtM_OxtYFcVdnvG5AUBu8fVRVl2smj6E/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hkTwMZt2BHlmtM_OxtYFcVdnvG5AUBu8fVRVl2smj6E/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hkTwMZt2BHlmtM_OxtYFcVdnvG5AUBu8fVRVl2smj6E/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hkTwMZt2BHlmtM_OxtYFcVdnvG5AUBu8fVRVl2smj6E/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hkTwMZt2BHlmtM_OxtYFcVdnvG5AUBu8fVRVl2smj6E/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

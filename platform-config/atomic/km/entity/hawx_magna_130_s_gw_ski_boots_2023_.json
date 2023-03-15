@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_magna_130_s_gw_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Finally, a wide fit boot that can hang with the best. The Atomic Hawx Magna 130 S GW Ski Boots deliver exceptional comfort without skimping on downhill power and performance. Atomic\u0027s industry leading, heat-moldable Mimic Platinum Linerd ensure your fit is as close as possible around the ankle and heel, combining with a 102mm last and Memory Fit shell that means your forefoot doesn\u0027t have to suffer for it. For big dogs sending it down big lines, the Atomic Hawx Magna 130 S GW Ski Boots are right up there with the best.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Magna 130 S GW Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219575/904915/atomic-hawx-magna-130-s-gw-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jTczVIpiFthrvE6S1s9l6dlYBJQsPJ41dCnOSi6cmK0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jTczVIpiFthrvE6S1s9l6dlYBJQsPJ41dCnOSi6cmK0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jTczVIpiFthrvE6S1s9l6dlYBJQsPJ41dCnOSi6cmK0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jTczVIpiFthrvE6S1s9l6dlYBJQsPJ41dCnOSi6cmK0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jTczVIpiFthrvE6S1s9l6dlYBJQsPJ41dCnOSi6cmK0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

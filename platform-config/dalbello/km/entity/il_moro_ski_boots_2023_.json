@@ -1,0 +1,60 @@
+{
+  "$id": "dalbello_il_moro_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "The Dalbello Il Moro Ski Boots are a stone cold favorite of top freeskiers around the world, and for good reason. They offer a precise 98 mm last, time tested 3-piece Cabrio architecture, fully moldable Intuition ID liners, and a versatile 120 flex that allows for maximum performance all over the mountain. From burly big mountain lines to casual park hits, the Dalbello Il Moro Ski Boots set the gold standard year after year.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Il Moro Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/183407/725026/dalbello-il-moro-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Tw4yHknC3O5iECRso-YNA1VnSK51caAc5izJ8wTrCFc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Tw4yHknC3O5iECRso-YNA1VnSK51caAc5izJ8wTrCFc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Tw4yHknC3O5iECRso-YNA1VnSK51caAc5izJ8wTrCFc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Tw4yHknC3O5iECRso-YNA1VnSK51caAc5izJ8wTrCFc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Tw4yHknC3O5iECRso-YNA1VnSK51caAc5izJ8wTrCFc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

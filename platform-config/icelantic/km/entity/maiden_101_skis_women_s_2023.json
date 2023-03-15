@@ -1,0 +1,230 @@
+{
+  "$id": "icelantic_maiden_101_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/icelantic_maiden_101_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Directional Rocker – Tip Rocker: 36cm, Camber: 2mm, Tail Rocker: 31cm"
+      },
+      {
+        "value": "Hybrid Flight Core – Consisting of Poplar and Paulownia wood, the Hybrid Flight Core makes Icelantic\u0027s Freeride Collection lighter and more poppy, allowing you to effortlessly play all over the mountain."
+      },
+      {
+        "value": "20mm Rubber Foil"
+      },
+      {
+        "value": "ETXL 2200 Tri-Axial Fiberglass"
+      },
+      {
+        "value": "Matte Fiberglass Mounting Plate"
+      },
+      {
+        "value": "Full Durasurf 2001 HDPE Sidewalls"
+      },
+      {
+        "value": "Durasurf 4001 Sintered Base"
+      },
+      {
+        "value": "2.2mm Steel Edges"
+      },
+      {
+        "value": "Made in Colorado"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "849.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "155",
+      "162",
+      "169"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Made in the USA",
+        "value": "Yes"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Icelantic\u0027s best-selling Icelantic Maiden 101 Skis are imminently suitable for the type of skiing most people do most of time — all few groomers, a little cut up fresh, some bumps, some trees — a little of everything, and that\u0027s just the morning session. Light and lively with the Hybrid Flight Core of Poplar and Paulownia woods, laid up right by the craftspeople at Icelantic, and now with an awesome Butterfly motif to raise your spirits.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Icelantic Maiden 101 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226872/914863/icelantic-maiden-101-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6TwCqUjqLw-USSMjtWQkZb8xS86OVwu8DsLTMwehePk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6TwCqUjqLw-USSMjtWQkZb8xS86OVwu8DsLTMwehePk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6TwCqUjqLw-USSMjtWQkZb8xS86OVwu8DsLTMwehePk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6TwCqUjqLw-USSMjtWQkZb8xS86OVwu8DsLTMwehePk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6TwCqUjqLw-USSMjtWQkZb8xS86OVwu8DsLTMwehePk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226872/914847/icelantic-maiden-101-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/kzAN68RO74mw-GMH3YoJCTQ5rK66kKn_luR5EtF9Vyk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/kzAN68RO74mw-GMH3YoJCTQ5rK66kKn_luR5EtF9Vyk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/kzAN68RO74mw-GMH3YoJCTQ5rK66kKn_luR5EtF9Vyk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/kzAN68RO74mw-GMH3YoJCTQ5rK66kKn_luR5EtF9Vyk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/kzAN68RO74mw-GMH3YoJCTQ5rK66kKn_luR5EtF9Vyk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226872/914849/icelantic-maiden-101-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/W7oY3LiMyUK5RAiHy6kDt6T0M-Qdp1VmYkd_npbTBLs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/W7oY3LiMyUK5RAiHy6kDt6T0M-Qdp1VmYkd_npbTBLs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/W7oY3LiMyUK5RAiHy6kDt6T0M-Qdp1VmYkd_npbTBLs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/W7oY3LiMyUK5RAiHy6kDt6T0M-Qdp1VmYkd_npbTBLs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/W7oY3LiMyUK5RAiHy6kDt6T0M-Qdp1VmYkd_npbTBLs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1484394089-a72e9c58559015593af23f3154f44da5f12c2f65b5a1fa39d0fb818b721b186e-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vGvz7MDpvY7twbIHT8tgTxgIBszWwkmw7NsaZQz46B8/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

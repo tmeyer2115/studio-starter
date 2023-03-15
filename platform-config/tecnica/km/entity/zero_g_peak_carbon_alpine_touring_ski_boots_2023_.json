@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_zero_g_peak_carbon_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "949.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "Throw out everything you think you know about ultralight touring boots, the Tecnica Zero G Peak Carbon Alpine Touring Ski Boots are here. Born from the minds of the same team who created the Zero G Tour Pro, the Zero G Peak boots break new ground in the sub-1000 gram class with a unique \"interlocking\" shell overlap and a lighter version of the dual-blocking walk mechanism that provides unprecedented downhill control. With carbon fiber reinforced Grilamid construction and a true carbon fiber cuff, a full ISO 9523 sole, and a wide 40mm cinching power strap the Zero G Peak is unrivalled for power transmission in this class and is set to blow the other 1 kilo boots out of the water.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Tecnica Zero G Peak Carbon Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223185/906125/tecnica-zero-g-peak-carbon-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_uXrOgS2ARlM2IhdCNS1GZs5E9lCoZ1adxIK9oEQKa8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_uXrOgS2ARlM2IhdCNS1GZs5E9lCoZ1adxIK9oEQKa8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_uXrOgS2ARlM2IhdCNS1GZs5E9lCoZ1adxIK9oEQKa8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_uXrOgS2ARlM2IhdCNS1GZs5E9lCoZ1adxIK9oEQKa8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_uXrOgS2ARlM2IhdCNS1GZs5E9lCoZ1adxIK9oEQKa8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

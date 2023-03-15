@@ -1,0 +1,19 @@
+{
+  "$id": "ce_skiBoot.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Ski Boot-default",
+  "entityType": "ce_skiBoot",
+  "fields": [
+    "c_abilityLevel",
+    "c_categoryName",
+    "c_gender",
+    "c_genderName",
+    "c_price",
+    "c_productType",
+    "c_skiBootFlex",
+    "description",
+    "dm_directoryParents",
+    "photoGallery"
+  ],
+  "required": []
+}

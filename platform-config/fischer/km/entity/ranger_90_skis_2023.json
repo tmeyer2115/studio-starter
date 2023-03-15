@@ -1,0 +1,161 @@
+{
+  "$id": "fischer_ranger_90_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/fischer_ranger_90_skis_2023",
+    "c_details": [
+      {
+        "value": "Freeski Rocker – Long smooth tip rocker with camber underfoot and moderate tail rocker. Easy to turn and saves energy in all situations."
+      },
+      {
+        "value": "Flex-Cut"
+      },
+      {
+        "value": "Poplar Woodcore"
+      },
+      {
+        "value": "Shaped Ti 0.5 – Matching the thickness and shape of this high strength alloy to the performance and geometry of a ski allows optimal grip and stability with a smoother ride."
+      },
+      {
+        "value": "Sandwich Sidewall Construction – Wood core combined with ABS sidewalls in a classic Sandwich Construction for balanced flex and perfect rebound."
+      },
+      {
+        "value": "Sintered Bases – Sintered bases have exceptional waxing properties and a very long service life."
+      },
+      {
+        "value": "Progressive Edge Grip"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "156",
+      "163",
+      "170",
+      "177",
+      "184"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "For high octane performance both on- and off-piste, look to the Fischer Ranger 90 Skis. With a refined combination of stability and nimble responsiveness thanks to Fischer\u0027s Shaped Ti Titanal inserts underfoot and an easy-turning Flex Cut shape, these 90mm waisted skis offer a versatility that will be beloved by intermediate and advanced skiers alike. Complete with fast sintered bases and a durable sandwich sidewall construction, the Fischer Ranger 90 Skis are the perfect skis for those that like to carve deep trenches all over the mountain with minimal effort.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Fischer Ranger 90 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223706/897747/fischer-ranger-90-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jDu-zfUZSbNKZ_1myBwN0iSHR2y8IyrCEnxsABlve3s/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jDu-zfUZSbNKZ_1myBwN0iSHR2y8IyrCEnxsABlve3s/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jDu-zfUZSbNKZ_1myBwN0iSHR2y8IyrCEnxsABlve3s/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jDu-zfUZSbNKZ_1myBwN0iSHR2y8IyrCEnxsABlve3s/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jDu-zfUZSbNKZ_1myBwN0iSHR2y8IyrCEnxsABlve3s/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223706/897744/fischer-ranger-90-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/3nbAE1CsMQ3epiZYOxVdY9UKE0LIpjPxsx-nyTqUkv4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/3nbAE1CsMQ3epiZYOxVdY9UKE0LIpjPxsx-nyTqUkv4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/3nbAE1CsMQ3epiZYOxVdY9UKE0LIpjPxsx-nyTqUkv4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/3nbAE1CsMQ3epiZYOxVdY9UKE0LIpjPxsx-nyTqUkv4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3nbAE1CsMQ3epiZYOxVdY9UKE0LIpjPxsx-nyTqUkv4/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

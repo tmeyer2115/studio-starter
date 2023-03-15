@@ -1,0 +1,60 @@
+{
+  "$id": "nordica_promachine_105_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Push the boundaries of performance with the Nordica Promachine 105 Ski Boots. Equipped with Gripwalk soles and Tri-Force Construction that provides stiffness where you need it and softer plastic where you don\u0027t, these narrow width boots were made to charge. Their supportive cork liner effortlessly molds to the shape of your foot to provide all day hold that helps with power transmission. Add on ergonomic buckles and you\u0027ve got a good looking boot that supports fast and furious skiing when it\u0027s time to push hard.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Promachine 105 Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226889/911045/nordica-promachine-105-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nNA0Teobagci7Kq3nRdvGoc0v5tbQhJfgx5ERnFExo0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nNA0Teobagci7Kq3nRdvGoc0v5tbQhJfgx5ERnFExo0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nNA0Teobagci7Kq3nRdvGoc0v5tbQhJfgx5ERnFExo0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nNA0Teobagci7Kq3nRdvGoc0v5tbQhJfgx5ERnFExo0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nNA0Teobagci7Kq3nRdvGoc0v5tbQhJfgx5ERnFExo0/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,60 @@
+{
+  "$id": "k2_anthem_115_lv_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The K2 Anthem 115 LV Ski Boots provide the powerful platform and precision fit that strong female skiers demand. With exceptional out-of-the-box comfort and full heat molding capability, the Anthem 115 LVs are just the tool for expert skiers driving longer and wider skis at speed.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Anthem 115 LV Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201117/849330/k2-anthem-115-lv-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/A9pXq1ZMocz2P8GTaVXpfkL554l12UxrnaExs4IkSuw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/A9pXq1ZMocz2P8GTaVXpfkL554l12UxrnaExs4IkSuw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/A9pXq1ZMocz2P8GTaVXpfkL554l12UxrnaExs4IkSuw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/A9pXq1ZMocz2P8GTaVXpfkL554l12UxrnaExs4IkSuw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/A9pXq1ZMocz2P8GTaVXpfkL554l12UxrnaExs4IkSuw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,87 @@
+{
+  "$id": "7096784237424891914",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_icon": {
+      "image": {
+        "height": 16,
+        "thumbnails": [
+          {
+            "height": 16,
+            "url": "http://a.mktgcdn.com/p/v9vAb-aaHUIyOkJ4QqGcMWB0mC_7VM8zqY267we__hI/16x16.png",
+            "width": 16
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/v9vAb-aaHUIyOkJ4QqGcMWB0mC_7VM8zqY267we__hI/16x16.png",
+        "width": 16
+      }
+    },
+    "c_skisByTerrain": [
+      "head_kore_117_skis_2023",
+      "atomic_backland_107_skis_2023",
+      "black_crows_camox_freebird_skis_2023",
+      "atomic_backland_100_skis_2023",
+      "black_crows_navis_freebird_skis_2023",
+      "atomic_bent_chetler_120_skis_2023",
+      "atomic_backland_95_skis_2023",
+      "head_kore_111_skis_2023",
+      "armada_locator_112_skis_2023",
+      "atomic_backland_98_w_skis_women_s_2023",
+      "armada_locator_96_skis_2023",
+      "faction_agent_3x_skis_women_s_2023",
+      "salomon_mtn_96_carbon_skis_2023",
+      "rossignol_escaper_97_nano_skis_women_s_2023",
+      "blizzard_hustle_11_skis_2023",
+      "black_crows_corvus_freebird_skis_2023",
+      "atomic_backland_107_skis_women_s_2023",
+      "salomon_mtn_86_pro_skis_2023",
+      "armada_locator_104_skis_2023",
+      "icelantic_mystic_97_skis_women_s_2023",
+      "icelantic_maiden_lite_101_skis_women_s_2023",
+      "k2_wayback_96_skis_women_s_2023",
+      "faction_agent_3_skis_2023",
+      "season_pass_skis_2023",
+      "armada_arv_116_jj_ul_skis_2023"
+    ],
+    "description": "Alpine Touring, or backcountry, refers to skiing off of marked trails in the backcountry. This type of terrain can be very varied, including everything from powder to trees to steeps. Skiers who enjoy backcountry terrain typically have advanced or expert level skills and are comfortable navigating off-piste and in more remote areas. They may also use specialized equipment, such as touring bindings and skins, to access backcountry terrain.",
+    "name": "Alpine Touring",
+    "primaryPhoto": {
+      "image": {
+        "height": 1380,
+        "thumbnails": [
+          {
+            "height": 1380,
+            "url": "http://a.mktgcdn.com/p/DwlHKutihtCjZRWO-uuN5csxwz6uNuEidndODuhOGpA/2070x1380.jpg",
+            "width": 2070
+          },
+          {
+            "height": 1267,
+            "url": "http://a.mktgcdn.com/p/DwlHKutihtCjZRWO-uuN5csxwz6uNuEidndODuhOGpA/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p/DwlHKutihtCjZRWO-uuN5csxwz6uNuEidndODuhOGpA/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p/DwlHKutihtCjZRWO-uuN5csxwz6uNuEidndODuhOGpA/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p/DwlHKutihtCjZRWO-uuN5csxwz6uNuEidndODuhOGpA/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/DwlHKutihtCjZRWO-uuN5csxwz6uNuEidndODuhOGpA/2070x1380.jpg",
+        "width": 2070
+      }
+    }
+  },
+  "entityType": "ce_terrain",
+  "folder": "commerceSite",
+  "labels": []
+}

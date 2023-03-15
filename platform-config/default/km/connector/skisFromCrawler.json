@@ -1,0 +1,418 @@
+{
+  "$id": "skisFromCrawler",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Skis from Crawler",
+  "entityType": "ce_skis",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "skis",
+        "urlPatterns": [
+          "https://www.evo.com/skis/*"
+        ],
+        "fileTypes": [
+          "HTML"
+        ]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      },
+      {
+        "type": "CSS",
+        "header": "Name",
+        "path": ".pdp-header-title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Price",
+        "path": ".pdp-price-regular",
+        "mode": "DIRECT_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Image URL",
+        "path": ".pdp-hero-image",
+        "mode": "IMAGE_URL"
+      },
+      {
+        "type": "CSS",
+        "header": "Terrain",
+        "path": ".spec-terrain",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Ability Level",
+        "path": ".spec-ability-level",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Description",
+        "path": ".pdp-details-content",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Images",
+        "path": ".pdp-hero-alt-thumb",
+        "mode": "IMAGE_URL"
+      },
+      {
+        "type": "CSS",
+        "header": "Sizes",
+        "path": ".pdp-selection-list",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Terrain Name",
+        "path": ".spec-terrain",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Product Details",
+        "path": ".pdp-feature-description",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Product Detail Name",
+        "path": ".pdp-feature",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Spec Names",
+        "path": ".pdp-spec-list-title",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Spec Value",
+        "path": ".pdp-spec-list-description",
+        "mode": "ALL_TEXT"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "extractText": {
+        "inputHeader": "Page URL",
+        "newColumnHeader": "Gender ID",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_END",
+        "offsetLength": 0
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Name",
+        "newColumnHeader": "Formatted Page Title",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Price",
+        "newColumnHeader": "Formatted Price",
+        "extractOperation": "ALL_TEXT_AFTER",
+        "extractFrom": "OFFSET_FROM_BEGINNING",
+        "offsetLength": 1
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Gender ID"
+          ]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getGenderId"
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Ability Level"
+          ]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getAbilityLevelId"
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Terrain"
+          ]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getTerrainId"
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Product Type",
+        "columnValue": "Skis"
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Images"
+          ]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getImages"
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Sizes"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": " ",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ","
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Sizes"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": ",Size,Chart",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "Terrain Name"
+          ]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getCategoryName"
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Product Details"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "Product Details",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Name",
+        "newColumnHeader": "ID",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_END",
+        "offsetLength": 0
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Name",
+        "newColumnHeader": "SKI ID",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "FIRST_INSTANCE_MATCHING_TEXT",
+        "valueToFind": {
+          "plainText": {
+            "value": ",",
+            "ignoreCase": false
+          }
+        }
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": [
+            "SKI ID"
+          ]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "generateIdFromName"
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": [
+            "Spec Names"
+          ]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": ":",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "aIDataCleaning": {
+        "inputHeader": "Product Detail Name",
+        "taskDescription": "Extract Product Detail list name from comma separated list of product detail name and values. ",
+        "inputLabel": "Product Details Name and Value list",
+        "outputLabel": "Product Details Name list",
+        "inputOutputExamples": [
+          {
+            "input": "Rocker Type Tip and Tail Rocker,Core Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations.,\"Laminates C/FX Carbon Weave – C/FX is a fiber layer consisting of Carbon and Flax woven together. It combines the strength, stability, minimal weight of carbon with the increased level of dampening of the flax. TI Binding Reinforcement – A titanal insert edge-to-edge underfoot, running throughout the ski, for maximal power and increased hard snow edging.\",Graphics Glossy Topsheet,Binding Compatibility We recommend a brake width equal to or at most 15 mm wider than the ski waist width.",
+            "output": " Rocker Type, Core, Laminates, Sidewalls, Graphics, Binding Compatibility"
+          },
+          {
+            "input": "Rocker Type Tip and Tail Rocker,Core Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations.,\"Laminates C/FX Carbon Weave – C/FX is a fiber layer consisting of Carbon and Flax woven together. It combines the strength, stability, minimal weight of carbon with the increased level of dampening of the flax. Cork Damplifier – Cork is 16 times more absorptive than Koroyd. Using it in the tip and/or tail of the ski enables a high level of vibration absorption and dampening while decreasing weight. TI Binding Reinforcement – A titanal insert edge-to-edge underfoot, running throughout the ski, for maximal power and increased hard snow edging.\",Sidewalls Full Sandwich Sidewalls – A laminate construction with full length ABS sidewalls gives extraordinary smooth ski/snow contact and great terrain adaptation. Laminated construction enables Salomon to combine optimum material layers for targeted performance.,Graphics Glossy Topsheet,Binding Compatibility We recommend a brake width equal to or at most 15 mm wider than the ski waist width.",
+            "output": "Rocker Type, Core, Laminates, Sidewalls, Graphics, Binding Compatibility"
+          },
+          {
+            "input": "\"Rocker Type Amphibio Profile / Asymmetrical Design – The Amphibio profile is a revolutionary ski design that integrates both rocker and camber profiles into dedicated left and right skis. Amphibio skis feature a cambered inside edge assuring precision, edge grip, and stability while a rockered outside edge provides forgiveness, turning ease and smooth transitions.\",\"Core Tubelite Wood Core – To create the TubeLite Wood Core, two super lightweight Carbon tubes are inserted into a lightweight laminated wood core. Measuring 5mm in diameter and hollow in their construction, these tubes run along the length of the ski following the arc of the side cut. They provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability.\",\"Laminates Carbon Line Technology – Amphibio Carbon Line technology is a combination of innovations that provide the best balance of lightweight construction with power and performance. Amphibio Carbon Line technology elevates the asymmetrical ski design to the next level by strategically locating carbon reinforcement over the inside edges of the skis providing more power in the turn, while carbon rods inserted into the woodcore maximize weight savings and overall stability. The end result is an extremely lightweight high performance ski with uncompromised versatility and smooth performance. Vapor Tip Inserts – Vapor Tip inserts are advanced composites that are integrated into the tip and tail area of the ski‘s core. These inserts reduce weight and vibration, dramatically improving stability and ensuring a smooth ride even in the most demanding conditions. Fiberglass – Fiberglass reinforcement optimizes the ﬂex pattern and enhances torsional rigidity of the ski. The fibers are positioned either above or below the ski core and improve the ski’s structural integrity. Carbon Rods – Lightweight Carbon tubes inserted into the ski and run the length of the ski following the arc of the side cut. The carbon tubes provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability.\",\"Sidewalls SST Sidewall Construction – The SST Sidewall Construction provides quick, nimble and direct power transmission from the ski to snow as well as providing exceptional torsional rigidity.\",Base Sintered UHMW Base,Binding Compatibility We recommend a brake width equal to or at most 15 mm wider than the ski waist width.",
+            "output": "Rocker Type, Core, Laminates, Sidewalls, Base, Binding Compatibility"
+          }
+        ]
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "clearValueIfBlank": false,
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_specs",
+      "header": "Spec Value",
+      "subfieldPath": [
+        {
+          "name": "value"
+        }
+      ]
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "entityId",
+      "header": "SKI ID",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "name",
+      "header": "Formatted Page Title",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_specs",
+      "header": "Spec Names",
+      "subfieldPath": [
+        {
+          "name": "name"
+        }
+      ]
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_price",
+      "header": "Formatted Price",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_sizes",
+      "header": "Sizes",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_terrain",
+      "header": "Terrain",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_productType",
+      "header": "Product Type",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_categoryName",
+      "header": "Terrain Name",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_abilityLevel",
+      "header": "Ability Level",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_gender",
+      "header": "Gender ID",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_details",
+      "header": "Product Details",
+      "subfieldPath": [
+        {
+          "name": "value"
+        }
+      ]
+    }
+  ]
+}

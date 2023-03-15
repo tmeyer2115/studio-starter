@@ -1,0 +1,60 @@
+{
+  "$id": "lange_xt3_free_115_lv_gw_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "97 mm",
+    "description": "A \"crossover\" boot for big days, big lines and big hearts, the Lange XT3 Free 115 LV GW Ski Boots are capable of nailing the toughest terrain with the same authority normally reserved for pure alpine boots, but giving you the option of going just a bit further on skins to make the run yours alone. This is one of the burliest women\u0027s hybrid boots out there, with a low volume last for narrower feet, and a reputation for skiing better than the rest of the competition.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange XT3 Free 115 LV GW Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/228676/919611/lange-xt3-free-115-lv-gw-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WrP4vHHHL7m9KF3ks_AbT3sI1LzFRxyorrlu2zz8GdM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WrP4vHHHL7m9KF3ks_AbT3sI1LzFRxyorrlu2zz8GdM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WrP4vHHHL7m9KF3ks_AbT3sI1LzFRxyorrlu2zz8GdM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WrP4vHHHL7m9KF3ks_AbT3sI1LzFRxyorrlu2zz8GdM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WrP4vHHHL7m9KF3ks_AbT3sI1LzFRxyorrlu2zz8GdM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

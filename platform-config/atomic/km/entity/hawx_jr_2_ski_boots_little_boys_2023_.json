@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_jr_2_ski_boots_little_boys_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "109.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "Make their first season one to remember with the Atomic Hawx Jr 2 Ski Boots. With a kid friendly junior width and size adjusters to keep the fit on point as they grow, these comfy boots help keep them out on the slopes pizza pieing their way to a good time.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Jr 2 Ski Boots - Little Boys\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197903/916564/atomic-hawx-jr-2-ski-boots-little-boys-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/EZjjG4GWGUqcUzLge-vN1SMyTV-_5l-pkYeqvax9z-I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EZjjG4GWGUqcUzLge-vN1SMyTV-_5l-pkYeqvax9z-I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EZjjG4GWGUqcUzLge-vN1SMyTV-_5l-pkYeqvax9z-I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EZjjG4GWGUqcUzLge-vN1SMyTV-_5l-pkYeqvax9z-I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EZjjG4GWGUqcUzLge-vN1SMyTV-_5l-pkYeqvax9z-I/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

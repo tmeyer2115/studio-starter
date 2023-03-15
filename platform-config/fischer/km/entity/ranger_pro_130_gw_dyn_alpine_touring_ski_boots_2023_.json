@@ -1,0 +1,60 @@
+{
+  "$id": "fischer_ranger_pro_130_gw_dyn_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The new breed of backcountry athletes is always on the lookout for a boot that skis \"more\" like their alpine boot, and they\u0027re willing to take a hit on weight to get it. Fischer has answered the call with the new Fischer Ranger Pro 130 GW DYN Alpine Touring Ski Boots, essentially a burly 130 flex version of their Grilamid Ranger 130 but built with Thermoplastic Polyurethane for a more progressive and predictable flex pattern. This is about as close as you\u0027re going to get to true alpine boot performance with a decent walk mode, and the \"Cola\" colorway rocks pretty hard, too.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Fischer Ranger Pro 130 GW DYN Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227819/917538/fischer-ranger-pro-130-gw-dyn-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/NLf9dxb8Gpq_CWmloOdm1hyrwOLMf6pWx9CsnctELJI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/NLf9dxb8Gpq_CWmloOdm1hyrwOLMf6pWx9CsnctELJI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/NLf9dxb8Gpq_CWmloOdm1hyrwOLMf6pWx9CsnctELJI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/NLf9dxb8Gpq_CWmloOdm1hyrwOLMf6pWx9CsnctELJI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/NLf9dxb8Gpq_CWmloOdm1hyrwOLMf6pWx9CsnctELJI/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

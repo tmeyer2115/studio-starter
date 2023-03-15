@@ -1,0 +1,230 @@
+{
+  "$id": "line_skis_tom_wallisch_pro_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Park \u0026 Pipe",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/park-pipe/line_skis_tom_wallisch_pro_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Profile – 5mm Tip / 4mm Camber / 5mm Tail"
+      },
+      {
+        "value": "Symmetric Flex™ – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Maple Macroblock™ – Two full length maple stringers surrounded by aspen for increased strength and durability."
+      },
+      {
+        "value": "Carbon Olliband – Pre-stretched carbon down the center of the ski for added pop and play in freestyle skis."
+      },
+      {
+        "value": "Capwall™ – Combining the precision of sidewall underfoot and the lightweight, durable performance of cap in the tip, Capwall™ construction provides the best of both worlds."
+      },
+      {
+        "value": "Fatty Base | Sintered 1.7mm – High density sintered bases reduce friction against the snow allowing for more speed and better durability."
+      },
+      {
+        "value": "Fatty Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 20 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "164",
+      "171",
+      "178"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Tom Wallisch"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "463117075052872663"
+    ],
+    "description": "The Line Skis Tom Wallisch Pro Skis are where you go if you need the highest level of performance in the park. Deigned to be competition-ready, these sticks will help you push yourself to get around that one extra rotation, or to stomp that one trick you\u0027ve been trying all year. They\u0027re quick, balanced, and super poppy - perfect for pushing the boundaries of freestyle skiing.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_park_pipe"
+    ],
+    "name": "Line Skis Tom Wallisch Pro Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221776/906618/line-skis-tom-wallisch-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ABLI-S86_tXGaqH42Wlzin9Z-qw8x-IwYFSVK88Auxs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ABLI-S86_tXGaqH42Wlzin9Z-qw8x-IwYFSVK88Auxs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ABLI-S86_tXGaqH42Wlzin9Z-qw8x-IwYFSVK88Auxs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ABLI-S86_tXGaqH42Wlzin9Z-qw8x-IwYFSVK88Auxs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ABLI-S86_tXGaqH42Wlzin9Z-qw8x-IwYFSVK88Auxs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221776/906615/line-skis-tom-wallisch-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/mvQ4QOl2se0asNETswFzCoR6_nYZFVyZJ9h-k744Tps/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/mvQ4QOl2se0asNETswFzCoR6_nYZFVyZJ9h-k744Tps/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/mvQ4QOl2se0asNETswFzCoR6_nYZFVyZJ9h-k744Tps/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/mvQ4QOl2se0asNETswFzCoR6_nYZFVyZJ9h-k744Tps/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/mvQ4QOl2se0asNETswFzCoR6_nYZFVyZJ9h-k744Tps/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221776/906746/line-skis-tom-wallisch-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MmqFyQPVJhkoXOqNsmjFTam4ZFYuGfWt261164UgFTM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MmqFyQPVJhkoXOqNsmjFTam4ZFYuGfWt261164UgFTM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MmqFyQPVJhkoXOqNsmjFTam4ZFYuGfWt261164UgFTM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MmqFyQPVJhkoXOqNsmjFTam4ZFYuGfWt261164UgFTM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MmqFyQPVJhkoXOqNsmjFTam4ZFYuGfWt261164UgFTM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221776/906745/line-skis-tom-wallisch-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/R1Lyocnp_-itl8bb6XsvCYWXKnjiVQTPoRGYZ226rcA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/R1Lyocnp_-itl8bb6XsvCYWXKnjiVQTPoRGYZ226rcA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/R1Lyocnp_-itl8bb6XsvCYWXKnjiVQTPoRGYZ226rcA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/R1Lyocnp_-itl8bb6XsvCYWXKnjiVQTPoRGYZ226rcA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/R1Lyocnp_-itl8bb6XsvCYWXKnjiVQTPoRGYZ226rcA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

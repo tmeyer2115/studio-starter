@@ -1,0 +1,281 @@
+{
+  "$id": "armada_arw_106_ul_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/armada_arw_106_ul_skis_2023",
+    "c_details": [
+      {
+        "value": "AR Freestyle Rocker – Rockered tips and tails are combined with positive camber underfoot to allow the ski to charge with ease through unpredictable snow and maintain a solid carve when asked to do so. Turn the whole mountain into your playground."
+      },
+      {
+        "value": "Flex (1\u003dSoft, 10\u003dStiff) – Tip: 8 | Mid: 7 | Tail: 8"
+      },
+      {
+        "value": "Caruba Core – Armada\u0027s lightest wood species creates the best uphill feel while retaining the power and dampness required for descending in the gnarliest of terrain. This core makes no concessions in its quest to be ultralight."
+      },
+      {
+        "value": "AR75 Sidewall – Sidewalls provide improved edge pressure under the boot, while cap constuction in the tip and tail provides smooth turn initiation and less hookiness - 75% sidewall, 25% cap."
+      },
+      {
+        "value": "S7 Base – Durable and low maintenance, with a speed additive for quickness."
+      },
+      {
+        "value": "2.5 Impact Edge – Oversized and specially heat-treated, this edge is built to resist impact damage in the most demanding situations."
+      },
+      {
+        "value": "Smear Tech – A 3D beveled base in the tip and tail creates a unique feel in all snow conditions. Less likely to catch in crud, self-centering in deep snow, and uncatchable on takeoffs, Smear Tech lets you float effortlessly whether sliding forwards, backwards, left, or right."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "164",
+      "172",
+      "180",
+      "188"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Armada ARW 106 UL Skis are versatile, lightweight, and fun. For a great many skiers, this is the fabled one ski quiver. Wide enough for powder, narrow enough for groomers, sturdy enough for business, and playful enough for pleasure. They have Armada\u0027s freestyle twist on the all-mountain twin in the way of Smear Teach beveled tips for extra surfy buttery goodness, and they\u0027re made with an ultralight layup with that makes them very amenable to pairing with a sturdy set of touring bindings and taking to the the backcountry as well.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Armada ARW 106 UL Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219367/917788/armada-arw-106-ul-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219367/917788/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219367/917788/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219367/917788/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ttwMuQ8puTD_1pBADEatwoxBxncj2nnBYtOFUPZOy0I/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219367/917790/armada-arw-106-ul-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/-0OHpMntEhECo3u4zktNXMT9LShUB0xQivFkQeJcWNo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/-0OHpMntEhECo3u4zktNXMT9LShUB0xQivFkQeJcWNo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/-0OHpMntEhECo3u4zktNXMT9LShUB0xQivFkQeJcWNo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/-0OHpMntEhECo3u4zktNXMT9LShUB0xQivFkQeJcWNo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/-0OHpMntEhECo3u4zktNXMT9LShUB0xQivFkQeJcWNo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219367/917787/armada-arw-106-ul-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/36t94HHTjJFzGaonWUXwOgCJC92EECKAuUCZDwtOGV8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/36t94HHTjJFzGaonWUXwOgCJC92EECKAuUCZDwtOGV8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/36t94HHTjJFzGaonWUXwOgCJC92EECKAuUCZDwtOGV8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/36t94HHTjJFzGaonWUXwOgCJC92EECKAuUCZDwtOGV8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/36t94HHTjJFzGaonWUXwOgCJC92EECKAuUCZDwtOGV8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

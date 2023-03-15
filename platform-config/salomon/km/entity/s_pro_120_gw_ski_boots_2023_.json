@@ -1,0 +1,60 @@
+{
+  "$id": "salomon_s_pro_120_gw_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "A great expert-level boot that continues to charge hard in 2022, the Salomon S/Pro 120 GW Ski Boots gain Gripwalk soles just in time to save you from another icy parking lot catastrophe. With Salomon\u0027s Coreframe construction and Sense Amplifier cuff, this boot skis as well as any 120 flex boot in the business - not to mention many 130 flex models - and the Custom Shell HD heat molding process continues to impress both bootfitters and customers alike.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon S/Pro 120 GW Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197393/891849/salomon-s-pro-120-gw-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/azJpuE_hjl2WP1ynLKXwV0T4wiLjWyg8EjxZwq8gWfI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/azJpuE_hjl2WP1ynLKXwV0T4wiLjWyg8EjxZwq8gWfI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/azJpuE_hjl2WP1ynLKXwV0T4wiLjWyg8EjxZwq8gWfI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/azJpuE_hjl2WP1ynLKXwV0T4wiLjWyg8EjxZwq8gWfI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/azJpuE_hjl2WP1ynLKXwV0T4wiLjWyg8EjxZwq8gWfI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

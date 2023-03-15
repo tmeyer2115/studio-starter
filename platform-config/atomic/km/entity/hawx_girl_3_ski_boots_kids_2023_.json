@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_girl_3_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "129.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "The Atomic Hawx Girl 3 Ski Boots are a great starter boot fior the little ripper in your family. With a kid friendly junior width and included size adjusters to keep the fit on point as they grow, these comfy boots help keep your kid over their skis and on their toes.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Girl 3 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197905/916565/atomic-hawx-girl-3-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pKAT4EA4VCms4WKeb02qIxyyxamYJ_2M0HC4wKe-52k/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pKAT4EA4VCms4WKeb02qIxyyxamYJ_2M0HC4wKe-52k/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pKAT4EA4VCms4WKeb02qIxyyxamYJ_2M0HC4wKe-52k/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pKAT4EA4VCms4WKeb02qIxyyxamYJ_2M0HC4wKe-52k/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pKAT4EA4VCms4WKeb02qIxyyxamYJ_2M0HC4wKe-52k/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

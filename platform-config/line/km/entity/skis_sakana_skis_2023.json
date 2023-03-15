@@ -1,0 +1,472 @@
+{
+  "$id": "line_skis_sakana_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_sakana_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 10mm Tip / 4mm Camber / 0mm Tail"
+      },
+      {
+        "value": "Directional Flex – The softer tip floats and initiates turns easily while the stiffer tail provides power, stability and high speed control."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Swallowtail – A dramatic tail knockout de-couples the farthest reaches of the effective edge while simultaneously forcing the tail of the ski down in soft snow. The result is a ski that can be ridden at shorter lengths without sacrificing performance."
+      },
+      {
+        "value": "Partly Cloudy™ – A blend of lightweight Paulownia and Maple creating the best strength to weight ratio of Line\u0027s offerings."
+      },
+      {
+        "value": "Carbon Flax Tape – Carbon Stringers offset by Flax Taping create added stiffness without the pingy, deflective properties of Carbon."
+      },
+      {
+        "value": "Sidewall Construction – Ultra-high density Polyethylene vertical walls over the edges to absorb vibrations and provide powerful energy transmission."
+      },
+      {
+        "value": "Sintered 1.3 mm Base – Sintered bases reduce friction against the snow allowing for more speed, and more durability due to the high-density material they\u0027re crafted from."
+      },
+      {
+        "value": "2.1mm x 2mm"
+      },
+      {
+        "value": "Stance Back from Center – 80.5 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "166",
+      "174",
+      "181"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Flax, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Swallowtail"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Based on the success of the Pescado, the Line Skis Sakana Skis are swallow tail rippers for the shallower days. Designed to carve up the corduroy, the Sakana\u0027s short length, big shovel, and tight turn radius allow it turn over on a dime, and the long camber section throughout the ski gives it a ton of rebound out of each turn. But just like with it\u0027s big brother, the unique shape can\u0027t help but lend itself to surfy deep snow excellence. It\u0027s not often that one ski is so fun to ride both on the deepest and the shallowest days of the year, but the Sakana is here to your defy expectations.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Sakana Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906634/line-skis-sakana-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906632/line-skis-sakana-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906759/line-skis-sakana-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906761/line-skis-sakana-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906634/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906632/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906759/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906761/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906634/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M3vVVJcsfgg7MrfTfJTlLdqXDlab2Je9OS54ZH5bRUA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906632/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/i8uhvm-gQpWSVaSAUZTWxrFlcmQcJv2YiW7dXGy0qbY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906759/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/En_3pUZaZdY5TstGePHLVHgGWqEIsMhjF67x42iAuAk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221769/906761/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LN-LVMidFTtiDC5-og0GcWwfeBsG-bxvPa3g-7LitDk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

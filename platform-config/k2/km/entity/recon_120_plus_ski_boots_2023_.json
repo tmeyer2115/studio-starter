@@ -1,0 +1,60 @@
+{
+  "$id": "k2_recon_120_plus_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "599.97",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Just a few hues short of a full rainbow, the K2 Recon 120 Plus Ski Boots add a little color to your feet and some oomph to your turns. These eye-catching kicks pair top shelf features from the new Recon Team boot with a more palatable flex for everyday skiers. That means comfy, heat moldable PrecisionFit Pro Liners, premium G-Hook Powerstraps, and a close, responsive low volume fit, all wrapped up in a lightweight 120 flex shell that\u0027s capable of handling anything you throw at it. Wear your heart on your sleeve, your freak flag on your feet, and go get it!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Recon 120 Plus Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201114/902672/k2-recon-120-plus-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/EOgeRAE5F_3LdImqev1Y8VC8cuX6aC_WZ8T_I_NhGTI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EOgeRAE5F_3LdImqev1Y8VC8cuX6aC_WZ8T_I_NhGTI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EOgeRAE5F_3LdImqev1Y8VC8cuX6aC_WZ8T_I_NhGTI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EOgeRAE5F_3LdImqev1Y8VC8cuX6aC_WZ8T_I_NhGTI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EOgeRAE5F_3LdImqev1Y8VC8cuX6aC_WZ8T_I_NhGTI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

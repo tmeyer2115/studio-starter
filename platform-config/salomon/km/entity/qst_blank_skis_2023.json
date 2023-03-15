@@ -1,0 +1,641 @@
+{
+  "$id": "salomon_qst_blank_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_blank_skis_2023",
+    "c_details": [
+      {
+        "value": "Twin Rocker"
+      },
+      {
+        "value": "Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations."
+      },
+      {
+        "value": "C/FX Carbon Weave – The patented and exclusive C/FX technology provides superior an unrivaled versatility thanks to the power of carbon and flax, allowing for one of the best performance / weight ratios on the market."
+      },
+      {
+        "value": "Cork Damplifier – Cork is 16 times more absorptive than Koroyd. Using it in the tip and/or tail of the ski enables a high level of vibration absorption and dampening while decreasing weight."
+      },
+      {
+        "value": "Double Sidewall Construction – A high density injected piece of ABS underfoot combined with full length sidewalls creates a strong platform underfoot to maximize the grip on hard snow."
+      },
+      {
+        "value": "Glossy Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "178",
+      "186",
+      "194"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Flax, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Series",
+        "value": "QST"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The QST line has been the stuff of freeride legend since its inception. Now, it welcomes a new member. Looking to fill in a slot between the pow-specific 118 and the all-mountain 106, Salomon turned to their stacked roster of pro skiers and gave them a blank slate to design the best freeride sticks possible. The result is the aptly named Salomon QST Blank Skis. With a 112mm waist, a snappy and stable feel, and a bomber construction, these skis are as well rounded as they come. They excel in soft snow, thrive on speed, and are as comfortable weaving trees and spinning off side hits as they are gunning lines and stomping big drops. They\u0027re accessible, powerful, and simply excellent for any skilled jack-of-all-trades skier.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Salomon QST Blank Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/979086/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/802741/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965508/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965505/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965504/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965506/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/979086/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/802741/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965508/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965505/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965504/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965506/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/979081/salomon-qst-blank-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SnluSIoDsKWn3OXYA5EJ3OK_DNkqL7HADn34t1CKYHI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/802741/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MFbLddHWXfvXTno5s9l4C-gM95As9QA8Yz0CDTfIQKE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965508/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/01Z0jpMWlgSZh8S_rxlB-n3TJe1K5NCRucsuu40tE3Y/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965505/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rJTecRjkOBU3kprMJn9-HeQ12539N_6dUbhoMaiuLPw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965504/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/atKRVtwm5O4D0g5aiWxKjgMZdMqWJID5q-oH9TcZofQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197270/965506/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KyFfOOXwJuOTNRni8L1xKvBs4TTvNVfr8nIYlDaz6Xk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

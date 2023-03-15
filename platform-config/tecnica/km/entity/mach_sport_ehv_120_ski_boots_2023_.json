@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_mach_sport_ehv_120_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "There was a time when hard charging dudes with super high volume feet had to choose between crushing their feet, skiing a boot that was much too big, or simply quitting the sport. No longer. The Tecnica Mach Sport EHV 120 Ski Boots are the key to ripping performance without sacrificing comfort for you wider and thicker foot types. Featuring a 103mm last and a thinner liner to get even more interior room in the boot, this is about as high volume as you will find in the ski industry, and the boot still skis amazingly well.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Mach Sport EHV 120 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223154/906111/tecnica-mach-sport-ehv-120-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/z8j4509PFerdVXEII-OMnVoTXSZM8ahZZcYn9Zsw_hs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/z8j4509PFerdVXEII-OMnVoTXSZM8ahZZcYn9Zsw_hs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/z8j4509PFerdVXEII-OMnVoTXSZM8ahZZcYn9Zsw_hs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/z8j4509PFerdVXEII-OMnVoTXSZM8ahZZcYn9Zsw_hs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/z8j4509PFerdVXEII-OMnVoTXSZM8ahZZcYn9Zsw_hs/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,200 @@
+{
+  "$id": "black_crows_mirus_cor_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_mirus_cor_skis_2023",
+    "c_details": [
+      {
+        "value": "Double Rocker – Great handling, control, and pivot."
+      },
+      {
+        "value": "Classic Medium Camber – Classic camber underfoot with intermediate ski/ snow contact for a perfect balance between stability and handling."
+      },
+      {
+        "value": "Flex – Energetic flex with very good grip all along the ski. High performance, but very playful."
+      },
+      {
+        "value": "Very Short Radius – 13m radius for super reactivity."
+      },
+      {
+        "value": "Fish Tail"
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Mono Titanal Plate – Single titanal plate in the middle of the ski for bounce and tone, but also weight savings."
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -3.5cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "168",
+      "173",
+      "178",
+      "184"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Swallowtail"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "For too long, all new ski tech has been made only for the deepest powder, the steepest lines, and the biggest stomps. But over the past few years, a new trend has started. Crazy new shapes are coming out designed specifically for the average day. And we\u0027re all about it. The Black Crows Mirus Cor Skis are the wacky French ski manufacturers take on a wacky ski designed to have the funnest, wackiest time possible ripping around the resort on an otherwise unremarkable snow day. It has skinny waist, a short length, a super tight turn radius, an eye-catching swallow tail, a single plate of titanal, and a nearly symmetrical twin shape. If this sounds like a crazy mishmash of carving features and park features, you\u0027re right. If you think this sounds like a crazy amount of fun, you\u0027re right again.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Black Crows Mirus Cor Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224527/930759/black-crows-mirus-cor-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MclRu7xIJjvS2KTmM4VqfEpxobn54H8NDlPcKDgM-Gc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MclRu7xIJjvS2KTmM4VqfEpxobn54H8NDlPcKDgM-Gc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MclRu7xIJjvS2KTmM4VqfEpxobn54H8NDlPcKDgM-Gc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MclRu7xIJjvS2KTmM4VqfEpxobn54H8NDlPcKDgM-Gc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MclRu7xIJjvS2KTmM4VqfEpxobn54H8NDlPcKDgM-Gc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224527/930765/black-crows-mirus-cor-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VGjKZ4Rt4A08Le4iq_ALYCvAyhGRcxoKQQA8bRNGbRE/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VGjKZ4Rt4A08Le4iq_ALYCvAyhGRcxoKQQA8bRNGbRE/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VGjKZ4Rt4A08Le4iq_ALYCvAyhGRcxoKQQA8bRNGbRE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VGjKZ4Rt4A08Le4iq_ALYCvAyhGRcxoKQQA8bRNGbRE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VGjKZ4Rt4A08Le4iq_ALYCvAyhGRcxoKQQA8bRNGbRE/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224527/930756/black-crows-mirus-cor-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/83SMPkgHINHrx3kx33fU49LST8OQCJh1a2yc2SVir6Y/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/83SMPkgHINHrx3kx33fU49LST8OQCJh1a2yc2SVir6Y/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/83SMPkgHINHrx3kx33fU49LST8OQCJh1a2yc2SVir6Y/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/83SMPkgHINHrx3kx33fU49LST8OQCJh1a2yc2SVir6Y/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/83SMPkgHINHrx3kx33fU49LST8OQCJh1a2yc2SVir6Y/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

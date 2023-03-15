@@ -1,0 +1,247 @@
+{
+  "$id": "black_crows_junius_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_junius_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "Double Rocker – Great handling, control, and pivot."
+      },
+      {
+        "value": "Classic Medium Camber – Classic camber underfoot with intermediate ski/ snow contact for a perfect balance between stability and handling."
+      },
+      {
+        "value": "Flex – Soft, comfortable, and accessible."
+      },
+      {
+        "value": "Short Radius – Good handling in curves, makes it easier to learn how to carve."
+      },
+      {
+        "value": "Foam Core"
+      },
+      {
+        "value": "Cap Construction"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "259.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "130",
+      "140",
+      "150"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Beginner-Intermediate"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Foam"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Black Crows Junius Skis are the perfect learning tools for new skiers. These little, lightweight skis feature a soft flex, plenty of catch-free rocker in the tip and tails, and a nice short turn radius for easy carving. They encourage having fun, trying new things, falling and getting back up, and trying and having fun all over again. Also available with a pink topsheet under the name Junius Birdie.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Black Crows Junius Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224556/930825/black-crows-junius-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224556/930825/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224556/930825/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xM6FLGM2rWoCow3_WquuMMAijY8Hc4R7YK90I3aVua4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224556/930822/black-crows-junius-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cJqQJeiwJE_hDT9GnVs36Kch7DE9FNW2yhUiQwGqObk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cJqQJeiwJE_hDT9GnVs36Kch7DE9FNW2yhUiQwGqObk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cJqQJeiwJE_hDT9GnVs36Kch7DE9FNW2yhUiQwGqObk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cJqQJeiwJE_hDT9GnVs36Kch7DE9FNW2yhUiQwGqObk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cJqQJeiwJE_hDT9GnVs36Kch7DE9FNW2yhUiQwGqObk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224556/930818/black-crows-junius-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/3oL84bDflAMoCw85WDFO6uPKdEhqJdRB3dLRa_tl9Zk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/3oL84bDflAMoCw85WDFO6uPKdEhqJdRB3dLRa_tl9Zk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/3oL84bDflAMoCw85WDFO6uPKdEhqJdRB3dLRa_tl9Zk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/3oL84bDflAMoCw85WDFO6uPKdEhqJdRB3dLRa_tl9Zk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3oL84bDflAMoCw85WDFO6uPKdEhqJdRB3dLRa_tl9Zk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

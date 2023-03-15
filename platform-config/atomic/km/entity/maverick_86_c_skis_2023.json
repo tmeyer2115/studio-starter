@@ -1,0 +1,249 @@
+{
+  "$id": "atomic_maverick_86_c_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/atomic_maverick_86_c_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – 15% Tip Rocker / 75% Camber / 10% Tail Rocker"
+      },
+      {
+        "value": "Directional Shape"
+      },
+      {
+        "value": "Flow Profile – Flow Profile blends the perfect amount of rocker and camber for optimal effective edge contact during every turn. Utilizing the latest generation of HRZN Tech Tip, Flow Profile delivers the ideal combination of camber, shovel taper, and tip rocker to create a ski that hooks up on hardpack as well as floats in fresh snow."
+      },
+      {
+        "value": "OMatic Construction – The ultimate balance of stiffness and flex throughout the length of the ski. Precision milled poplar wood, lightweight fiberglass, and titanal layer or carbon insets. OMatic delivers effortless performance, balance, and stability from tip to tail."
+      },
+      {
+        "value": "Light Woodcore – Made from poplar wood, this core optimizes the ski\u0027s weight without sacrificing any shock absorption or stability."
+      },
+      {
+        "value": "Carbon Backbone – An ultra-lightweight carbon insert that runs the length of the ski like a stabilizing backbone. This provides exceptional agility and edge hold with no extra weight."
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall from base to topsheet for controlled power transmission and great edge grip. The rounded shape of the Dura Cap is a fantastic durability feature as it picks up fewer dents and dings."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "169",
+      "176"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Atomic Maverick 86 C Skis offer all mountain magic in a lightweight package. The smooth directional design takes cues from Atomic\u0027s big mountain shapes as well as their frontside models, making a ski that carves extremely well, handles itself off piste, and bends to a wide variety of turn shapes. It has a nimble feel edge to edge and makes all mountain exploration that much easier.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Atomic Maverick 86 C Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219392/907088/atomic-maverick-86-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/kNszKMcbOb6uTST7yt4GZiMXZqZMEbTVKH7nEVfG0GY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/kNszKMcbOb6uTST7yt4GZiMXZqZMEbTVKH7nEVfG0GY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/kNszKMcbOb6uTST7yt4GZiMXZqZMEbTVKH7nEVfG0GY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/kNszKMcbOb6uTST7yt4GZiMXZqZMEbTVKH7nEVfG0GY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/kNszKMcbOb6uTST7yt4GZiMXZqZMEbTVKH7nEVfG0GY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219392/907084/atomic-maverick-86-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Re3H_FvlGP3wXoom0khz4NpSq8l4zfvhbAiFDgy7o18/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Re3H_FvlGP3wXoom0khz4NpSq8l4zfvhbAiFDgy7o18/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Re3H_FvlGP3wXoom0khz4NpSq8l4zfvhbAiFDgy7o18/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Re3H_FvlGP3wXoom0khz4NpSq8l4zfvhbAiFDgy7o18/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Re3H_FvlGP3wXoom0khz4NpSq8l4zfvhbAiFDgy7o18/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219392/907083/atomic-maverick-86-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/7YTOIBcVTquFVyRd6VV6CFDmzpIOyAGd-gFxOqQv40w/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7YTOIBcVTquFVyRd6VV6CFDmzpIOyAGd-gFxOqQv40w/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7YTOIBcVTquFVyRd6VV6CFDmzpIOyAGd-gFxOqQv40w/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7YTOIBcVTquFVyRd6VV6CFDmzpIOyAGd-gFxOqQv40w/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7YTOIBcVTquFVyRd6VV6CFDmzpIOyAGd-gFxOqQv40w/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219392/907082/atomic-maverick-86-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/fLTm0jo0N6PaNcAt-RgExJU9hrYGS_oDfgYRBLtkfsg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fLTm0jo0N6PaNcAt-RgExJU9hrYGS_oDfgYRBLtkfsg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fLTm0jo0N6PaNcAt-RgExJU9hrYGS_oDfgYRBLtkfsg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fLTm0jo0N6PaNcAt-RgExJU9hrYGS_oDfgYRBLtkfsg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fLTm0jo0N6PaNcAt-RgExJU9hrYGS_oDfgYRBLtkfsg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219392/907086/atomic-maverick-86-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_HVyT7ovcm43y2OJPgy-_iDzdqkyCwBP9U9voykeBq8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_HVyT7ovcm43y2OJPgy-_iDzdqkyCwBP9U9voykeBq8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_HVyT7ovcm43y2OJPgy-_iDzdqkyCwBP9U9voykeBq8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_HVyT7ovcm43y2OJPgy-_iDzdqkyCwBP9U9voykeBq8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_HVyT7ovcm43y2OJPgy-_iDzdqkyCwBP9U9voykeBq8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

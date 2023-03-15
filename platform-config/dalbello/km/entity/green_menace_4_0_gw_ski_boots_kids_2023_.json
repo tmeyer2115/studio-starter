@@ -1,0 +1,60 @@
+{
+  "$id": "dalbello_green_menace_4_0_gw_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "179.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "As your kid\u0027s skill level advances, so should her boots, and moving on to a more supportive 4-buckle design is the right approach. Especially if it\u0027s a super product like the Dalbello Green Menace 4.0 GW Ski Boots, and made in a more sustainable process using recycled DB Hyperlite plastic. Go Green or go home!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Green Menace 4.0 GW Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227750/916391/dalbello-green-menace-4-0-gw-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_AQiaSQT9x8QFak5cPP2i7jr_xuy46-QTCdFUqqOsDo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_AQiaSQT9x8QFak5cPP2i7jr_xuy46-QTCdFUqqOsDo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_AQiaSQT9x8QFak5cPP2i7jr_xuy46-QTCdFUqqOsDo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_AQiaSQT9x8QFak5cPP2i7jr_xuy46-QTCdFUqqOsDo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_AQiaSQT9x8QFak5cPP2i7jr_xuy46-QTCdFUqqOsDo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

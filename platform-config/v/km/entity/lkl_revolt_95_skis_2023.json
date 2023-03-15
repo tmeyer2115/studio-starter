@@ -1,0 +1,216 @@
+{
+  "$id": "v_lkl_revolt_95_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_revolt_95_skis_2023",
+    "c_details": [
+      {
+        "value": "Tip \u0026 Tail Rocker – Bends up only in the shovel and tail zones, with a camber shape in the middle."
+      },
+      {
+        "value": "Multilayer Woodcore – The combination of aspen and maple results in an extremely durable wood core composed of hard wood in the binding area and lighter wood surrounding it."
+      },
+      {
+        "value": "Full Sidewall – Direct and strong power transmission with full length sidewalls."
+      },
+      {
+        "value": "P-Tex 2100 – A sintered high-density and high molecular weight polyethylene base with great gliding characteristics and high durability."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "449.99",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "157",
+      "165",
+      "173",
+      "181"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Ahmet Dadali"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "When it comes to blending high level trickery and big time amplitude, there\u0027s nothing better than the quality and stability of theVölkl Revolt 95 Skis. Here\u0027s a park ride you can confidently take anywhere on the mountain from sketchy steeps to blower pow and feel totally at ease. Full sidewall construction with a Mini Cap at the tips and tails for durability and a classic Völkl Multilayer Woodcore mean the Revolt 95 will still be kicking years down the road.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Völkl Revolt 95 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227096/915730/volkl-revolt-95-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227096/915730/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227096/915730/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227096/915730/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nCvptj92wCclQEeZLeek4krdAhClg76D9ssI3eJYLnk/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

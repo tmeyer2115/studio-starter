@@ -1,0 +1,289 @@
+{
+  "$id": "on3p_woodsman_102_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/on3p_woodsman_102_skis_2023",
+    "c_details": [
+      {
+        "value": "Modified Freeride Rocker – Larger tip rocker combined with a shorter, lower tail rocker and camber underfoot. Great for driving the ski while maintaining the stability needed to remain confident at speed."
+      },
+      {
+        "value": "Bi-Radius Sidecut – The sidecut consists of a smaller turn radius in the tip that works in conjunction with a larger turn radius in the tail, creating a directional ski that is stable going straight, but will easily carve once the turn is initiated and the ski is on edge."
+      },
+      {
+        "value": "100% Bamboo Core – The heart of every pair of ON3P ski is a FSC-certified, vertically laminated, 100% bamboo core. Bamboo provides a responsive, yet damp characteristic to their skis that everyone has grown to love."
+      },
+      {
+        "value": "Hybrid Fiberglass / Carbon Composite – ON3P\u0027s new proprietary composite layup incorporates carbon into the triaxial fiberglass layer, allowing them to bond the glass directly to the core. This new layup improves strength and durability in the skis while decreasing weight."
+      },
+      {
+        "value": "UHMW Sidewalls – UHMW (Ultra High Molecular Weight Polyethylene) is an incredibly strong material, has a higher abrasion resistance than steel, and resists cracking."
+      },
+      {
+        "value": "1.8mm 4001 Durasurf Sintered Base – ON3P\u0027s Durasurf 4001 base material provides their skis with better glide and protection from damage compared to any other sintered and extruded base material, and is 50% thicker than the industry standard."
+      },
+      {
+        "value": "2.5mm x 2.5mm Extra Thick Edges – ON3P uses a 3/4 wrap for their 2.5mm x 2.5mm Rockwell 48 steel edges. The 3/4 wrap allows the tips and tails of the skis to flex, decreasing the risk of delamination."
+      },
+      {
+        "value": "Made in Oregon – Every single pair of ON3P skis is built by an ON3P employee in their Portland, Oregon factory. No shortcuts of OEM here -- they do it themselves. Design, build, sell."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "849.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "162",
+      "167",
+      "182",
+      "187",
+      "192"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Bamboo, Carbon"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Made in the USA",
+        "value": "Yes"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The ON3P Woodsman 102 Skis return with an updated core profile, a slightly more directional mount point, and the same thirst for aggressive freeriding. The tweaked geo delivers a more powerful, drivable ride, while retaining the ability to smear a turn when your line changes at short notice. Wide enough to float when in the deep yet narrow enough to thrive on hard pack, this is a fantastic daily driver for skiers who never know what the day will bring.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "ON3P Woodsman 102 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/210626/875536/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/210626/875536/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/210626/875536/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/210626/875536/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/210626/875536/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_5j_ZihmVFeNWUtbRy0CdLk2FvfAm2jDL6z_sdmoEL4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/210626/875532/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DRUlWvOn4ds5lgbYhLvq7D6YQw4BYUjD-qP1S16ZhUc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DRUlWvOn4ds5lgbYhLvq7D6YQw4BYUjD-qP1S16ZhUc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DRUlWvOn4ds5lgbYhLvq7D6YQw4BYUjD-qP1S16ZhUc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DRUlWvOn4ds5lgbYhLvq7D6YQw4BYUjD-qP1S16ZhUc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DRUlWvOn4ds5lgbYhLvq7D6YQw4BYUjD-qP1S16ZhUc/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,83 @@
+{
+  "$id": "ski_finder",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_coverPhoto": {
+      "image": {
+        "height": 1930,
+        "thumbnails": [
+          {
+            "height": 1930,
+            "url": "http://a.mktgcdn.com/p/V10_1kNGptpG3ZuCnbJUnWioyR4tLXFw8LNt5ArDjLM/3432x1930.jpg",
+            "width": 3432
+          },
+          {
+            "height": 1068,
+            "url": "http://a.mktgcdn.com/p/V10_1kNGptpG3ZuCnbJUnWioyR4tLXFw8LNt5ArDjLM/1900x1068.jpg",
+            "width": 1900
+          },
+          {
+            "height": 348,
+            "url": "http://a.mktgcdn.com/p/V10_1kNGptpG3ZuCnbJUnWioyR4tLXFw8LNt5ArDjLM/619x348.jpg",
+            "width": 619
+          },
+          {
+            "height": 337,
+            "url": "http://a.mktgcdn.com/p/V10_1kNGptpG3ZuCnbJUnWioyR4tLXFw8LNt5ArDjLM/600x337.jpg",
+            "width": 600
+          },
+          {
+            "height": 110,
+            "url": "http://a.mktgcdn.com/p/V10_1kNGptpG3ZuCnbJUnWioyR4tLXFw8LNt5ArDjLM/196x110.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/V10_1kNGptpG3ZuCnbJUnWioyR4tLXFw8LNt5ArDjLM/3432x1930.jpg",
+        "width": 3432
+      }
+    },
+    "c_filters": [
+      {
+        "filterId": "c_gender.name",
+        "filterItems": [
+          "5929891552541128688",
+          "6490805738900090466"
+        ],
+        "title": "What type of Skis are you looking for?"
+      },
+      {
+        "description": "We have something for seasoned vets and newbies.",
+        "filterId": "c_abilityLevel.name",
+        "filterItems": [
+          "3726456647343833499",
+          "4422719013200450384",
+          "5195394095823606585"
+        ],
+        "title": "What is your skill level?"
+      },
+      {
+        "description": "Champagne powder, east coast ice, and everything in between.",
+        "filterId": "c_terrain.name",
+        "filterItems": [
+          "1295894924104146377",
+          "7096784237424891914",
+          "7200013882251703847",
+          "2656065563766201506",
+          "463117075052872663",
+          "1312210429080442948"
+        ],
+        "title": "What kind of terrain do you like to ski?"
+      }
+    ],
+    "c_finderDescriptionText": "Your answers to the following questions will help us recommend the best skis based on your skills and preferences.",
+    "c_finderHeadingText": "Welcome to the Ski Finder",
+    "c_headingText": "Find the skis of your dreams today!",
+    "c_subHeadingText": "Picking the right skis is tough. but we\u0027re here to help.",
+    "name": "Ski Finder",
+    "slug": "index.html"
+  },
+  "entityType": "ce_searchPage",
+  "folder": "commerceSite",
+  "labels": []
+}

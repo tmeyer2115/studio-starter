@@ -1,0 +1,60 @@
+{
+  "$id": "salomon_select_90_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "For casual slashers, up and comers, and the budget minded, pick up the Salomon Select 90 Ski Boots and don\u0027t compromise on quality. With a mid width fit and included calf adjusters, these boots are made for all day comfort and performance. Get out on the groomers and learn what you like, with the Select 90, you\u0027ll choose skiing in no time!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon Select 90 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197404/891848/salomon-select-90-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cqNgXNNxmhy07q3o2_sP2tewy7Zg0G8JYDeXp-jNH5A/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cqNgXNNxmhy07q3o2_sP2tewy7Zg0G8JYDeXp-jNH5A/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cqNgXNNxmhy07q3o2_sP2tewy7Zg0G8JYDeXp-jNH5A/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cqNgXNNxmhy07q3o2_sP2tewy7Zg0G8JYDeXp-jNH5A/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cqNgXNNxmhy07q3o2_sP2tewy7Zg0G8JYDeXp-jNH5A/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

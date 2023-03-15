@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_cochise_team_ski_boots_kids_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "349.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Tecnica Cochise Team Ski Boots are full-featured walk mode boots designed for \u0027tweens and lighter skiers with a scaled-back flex of 90. They share the new T-Ride Hiking System walk mode and recognizable style of the adult Cochise boots, but without the tech fittings for use with tech touring bindings. The Cochise Team is still a great all-mountain choice for the developing skier and suitable for short tours with a frame AT binding.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Cochise Team Ski Boots - Kids\u0027",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197510/827128/tecnica-cochise-team-ski-boots-kids-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/qA1EBAfIjvJAlkwHSyHGpmezWenxCpBZW4U19TKEW_I/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/qA1EBAfIjvJAlkwHSyHGpmezWenxCpBZW4U19TKEW_I/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/qA1EBAfIjvJAlkwHSyHGpmezWenxCpBZW4U19TKEW_I/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/qA1EBAfIjvJAlkwHSyHGpmezWenxCpBZW4U19TKEW_I/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/qA1EBAfIjvJAlkwHSyHGpmezWenxCpBZW4U19TKEW_I/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

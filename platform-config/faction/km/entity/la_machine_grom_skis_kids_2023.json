@@ -1,0 +1,294 @@
+{
+  "$id": "faction_la_machine_grom_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_la_machine_grom_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Flat-Rocker – Tip Rocker: 138 \u003d 250mm, 147 \u003d 270mm, 156 \u003d 300mm | Camber: All Sizes \u003d 0 | Tail Rocker: 138 \u003d 150mm, 147 \u003d 160mm, 156 \u003d 180mm"
+      },
+      {
+        "value": "Elliptical Sidecut – Elliptical Sidecut is made up of a longer radius underfoot and shorter radii in the tip and tail of the ski. The long radius underfoot means you can pivot faster and easier, while a shorter radius in the tip and tail result in easier turn initiation. This sidecut allows for a wide variety of turn lengths, angles and mounting positions."
+      },
+      {
+        "value": "Tip Height – 138 \u003d 48mm, 147 \u003d 54mm, 156 \u003d 60mm"
+      },
+      {
+        "value": "Tail Height – 138 \u003d 24mm, 147 \u003d 27mm, 156 \u003d 30mm"
+      },
+      {
+        "value": "Lightweight Sustainable Paulownia Wood Core"
+      },
+      {
+        "value": "Full Carbon Weave – Between 8 and 12 strips of carbon, sandwiching either side of the ski’s woodcore, are laid unidirectionally, providing extra stability to the ski, without adding weight to the build. Each carbon strip is woven into the fiberglass to provide strength and stiffness in the full length of the ski."
+      },
+      {
+        "value": "Phenol Binding Reinforcement Plate"
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "1% For the Planet"
+      },
+      {
+        "value": "Bio-Based Resin"
+      },
+      {
+        "value": "Made in Austria"
+      },
+      {
+        "value": "Drill Bit – 138 and 147: 3.6 x 7mm 156: 4.1 x 9mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "449.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "147",
+      "156"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Flat/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Swiss have a unique perspective on life. Super cautious and meticulous at times (like getting your car registered), but they let toddlers roam playgrounds basically unattended (their parents are there, but not close). They tend toward the latter approach when it comes to mountain sports, so it figures they\u0027d be the ones to build a real touring ski for kids — the Faction La Machine Grom Skis. The Grom features the same carbon and Paulownia layup as the adult La Machine lineup, so if your kid can fend for themselves on the playground it\u0027s high time to get them out on the skintrack.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Faction La Machine Grom Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227153/939903/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227153/996245/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227153/996246/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227153/939903/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0-clIhO0bA2HyeWrHmXJqeORAh4-w74XKaFqo61sYLA/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227153/996245/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EDI-w2SsovMicw0SUb36tiuFObshhyF5sqRzgtqKOP4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227153/996246/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aZaAmuRdTb1iy3Obwf_DS1-yGmqLmkDcYvcUC7MXN7M/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

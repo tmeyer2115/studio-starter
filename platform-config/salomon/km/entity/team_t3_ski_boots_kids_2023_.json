@@ -1,0 +1,60 @@
+{
+  "$id": "salomon_team_t3_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "124.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "A stalwart of the Salomon youth series, the Salomon Team T3 Ski Boots return for another season of fun. Perfect for the young ripper who can\u0027t quite bend an adult boot but needs the support of 3 buckles, the Team T3 rocks a PU shell with a lightweight Polyolefin cuff.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon Team T3 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/183507/811459/salomon-team-t3-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pPN1u4WOmbGl5K8jKMbgvZu-YHT1cKAfv1EWTKMeX3o/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pPN1u4WOmbGl5K8jKMbgvZu-YHT1cKAfv1EWTKMeX3o/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pPN1u4WOmbGl5K8jKMbgvZu-YHT1cKAfv1EWTKMeX3o/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pPN1u4WOmbGl5K8jKMbgvZu-YHT1cKAfv1EWTKMeX3o/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pPN1u4WOmbGl5K8jKMbgvZu-YHT1cKAfv1EWTKMeX3o/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

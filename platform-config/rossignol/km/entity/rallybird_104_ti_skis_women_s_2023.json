@@ -1,0 +1,171 @@
+{
+  "$id": "rossignol_rallybird_104_ti_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/big-mountain/rossignol_rallybird_104_ti_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Free Rocker – 25% Tip Rocker / 60% Camber / 15% Tail Rocker"
+      },
+      {
+        "value": "Progressive Sidecut – Firm grip while opening up more scope and fluidity to cruise, dazzle and carve on all terrain and in any snow conditions."
+      },
+      {
+        "value": "Paulownia Wood Core – The paulownia wood core reduces the ski\u0027s weight by up to 30% for improved agility and handling while retaining control."
+      },
+      {
+        "value": "Air Tip – The Air Tip lightens the tip and tail of the ski for improved maneuverability and turn control in all snow conditions."
+      },
+      {
+        "value": "Extended Core – The Extended Core construction increases ski-snow contact and the torsional stability of the ski, boosting precision and control in varied snow conditions."
+      },
+      {
+        "value": "Double LCT ABS – The Double LCT ABS construction is an adaptation of Line Control Technology on wider skis to improve line control with power and energy."
+      },
+      {
+        "value": "Damp Tech – The Damp Tech insert at the tip reduces ski vibrations to absorb irregularities in the terrain."
+      },
+      {
+        "value": "Diagofiber – Diagofiber technology meets ultra-lightweight paulownia cores. The complementary duo of technologies gives most skiers the opportunity to get up close and personal with the peaks and explore new landscapes with absolute composure."
+      },
+      {
+        "value": "Titanal Beam – The Titanal Beam delivers the right amount of power under the foot and enhances grip across the entire length of the ski."
+      },
+      {
+        "value": "Carbon Alloy Matrix – The unique carbon and basalt weave with fiberglass is the culmination of a clever and unrivalled blend of materials. This fusion produces a powerful and solid ski with a dynamic lightweight design, without forgetting maximum vibration absorption and a balanced flex from tip to tail."
+      },
+      {
+        "value": "Rectangular Full Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "849.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "163",
+      "171"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "7200013882251703847"
+    ],
+    "description": "Born from the demands of hard charging gals who need a ski that can keep on steep descents in variable conditions, the titanal injected Rossignol Rallybird 104 Ti Skis deliver! With a 104mm waist width, these skis straddle the line between powder-worthy float and the everyday edge control you need to carve confidently both off-piste and on groomers. If you\u0027re in the market for a strong, stable ski that won\u0027t leave you longing for more whether conditions are firm or soft, look to the ladies specific Rossignol Rallybird 104 Ti Skis.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_big_mountain"
+    ],
+    "name": "Rossignol Rallybird 104 Ti Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216289/898236/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/gNHiY8kRqHZG9n3v7_VTUod2gOSb0l-In3-MIacK5PA/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gNHiY8kRqHZG9n3v7_VTUod2gOSb0l-In3-MIacK5PA/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gNHiY8kRqHZG9n3v7_VTUod2gOSb0l-In3-MIacK5PA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gNHiY8kRqHZG9n3v7_VTUod2gOSb0l-In3-MIacK5PA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gNHiY8kRqHZG9n3v7_VTUod2gOSb0l-In3-MIacK5PA/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216289/914074/rossignol-rallybird-104-ti-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ytqUpEJ2keDC3bDJJOiPmwft1AcYTJNzFuV9HhK_39M/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ytqUpEJ2keDC3bDJJOiPmwft1AcYTJNzFuV9HhK_39M/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ytqUpEJ2keDC3bDJJOiPmwft1AcYTJNzFuV9HhK_39M/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ytqUpEJ2keDC3bDJJOiPmwft1AcYTJNzFuV9HhK_39M/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ytqUpEJ2keDC3bDJJOiPmwft1AcYTJNzFuV9HhK_39M/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

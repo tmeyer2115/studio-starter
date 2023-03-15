@@ -1,0 +1,204 @@
+{
+  "$id": "black_crows_anima_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/black_crows_anima_skis_2023",
+    "c_details": [
+      {
+        "value": "Double Rocker – Great maneuverability, control, and pivot."
+      },
+      {
+        "value": "Classic Short Camber – Classic camber underfoot with short ski/ snow contact for more maneuverability."
+      },
+      {
+        "value": "Flex – Very progressive flex in the tip and tail, but firmer at the ski/ snow contact points. Good deformation in soft snow and efficient on hard snow."
+      },
+      {
+        "value": "Long Sidecut – Long curve radius, high speed stability, and good grip."
+      },
+      {
+        "value": "Progressive and Consistent Tip Floatation – Easy to get off the ground."
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Carbon / Kevlar Tape"
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -6cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "999.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "176",
+      "182",
+      "189",
+      "194"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Aramid (Kevlar®), Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Kristofer Turdell"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "7200013882251703847"
+    ],
+    "description": "The Black Crows Anima Skis are wild things. Anyone seeking to tame them should simply look for a different ski. This is a ski that needs to be let loose, and laughs at attempts to simmer it down. But if you can prove yourself to be as fearsome, as bold, and as uncouth as the Anima, you\u0027ll never find a more reliable partner in crime. This big mountain ski is designed for Freeride World Tour descents, with the blend of soft snow handling, firm snow precision, balance in the air, and power through crud that you need to send huge lines and ride out the other side.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Black Crows Anima Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224538/930780/black-crows-anima-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ub2KPXhlZIuqUJnSAmMKavr4bkGjt8P7FXGBRkl-TMs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ub2KPXhlZIuqUJnSAmMKavr4bkGjt8P7FXGBRkl-TMs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ub2KPXhlZIuqUJnSAmMKavr4bkGjt8P7FXGBRkl-TMs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ub2KPXhlZIuqUJnSAmMKavr4bkGjt8P7FXGBRkl-TMs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ub2KPXhlZIuqUJnSAmMKavr4bkGjt8P7FXGBRkl-TMs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224538/930781/black-crows-anima-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dtlp3Vz7xSHfpPGwQM-6CochBxA98PVsRE40-L68Q0E/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dtlp3Vz7xSHfpPGwQM-6CochBxA98PVsRE40-L68Q0E/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dtlp3Vz7xSHfpPGwQM-6CochBxA98PVsRE40-L68Q0E/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dtlp3Vz7xSHfpPGwQM-6CochBxA98PVsRE40-L68Q0E/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dtlp3Vz7xSHfpPGwQM-6CochBxA98PVsRE40-L68Q0E/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224538/930775/black-crows-anima-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4g46R3A_rwid9gkmEJmUjJfTw2O-WpW4IPe__qIvjzA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4g46R3A_rwid9gkmEJmUjJfTw2O-WpW4IPe__qIvjzA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4g46R3A_rwid9gkmEJmUjJfTw2O-WpW4IPe__qIvjzA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4g46R3A_rwid9gkmEJmUjJfTw2O-WpW4IPe__qIvjzA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4g46R3A_rwid9gkmEJmUjJfTw2O-WpW4IPe__qIvjzA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

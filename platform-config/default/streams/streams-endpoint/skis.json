@@ -1,0 +1,27 @@
+{
+  "$id": "skis",
+  "$schema": "https://schema.yext.com/config/streams/streams-endpoint/v1",
+  "name": "Skis",
+  "stream": {
+    "source": "knowledgeGraph",
+    "fields": [
+      "name",
+      "description",
+      "c_price",
+      "c_terrain",
+      "photoGallery",
+      "c_abilityLevel.c_skisByGender",
+      "c_abilityLevel.c_skisByTerrain",
+      "c_abilityLevel.c_subHeadingText"
+    ],
+    "localization": {}
+  },
+  "fieldIndexes": [
+    {
+      "field": "name"
+    },
+    {
+      "field": "description"
+    }
+  ]
+}

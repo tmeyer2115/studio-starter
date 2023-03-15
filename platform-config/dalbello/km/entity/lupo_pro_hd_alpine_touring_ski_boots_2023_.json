@@ -1,0 +1,60 @@
+{
+  "$id": "dalbello_lupo_pro_hd_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "For the uncompromising big mountain charger who rips just as hard in the BC as they do inbounds, we present the Dalbello Lupo Pro HD Alpine Touring Ski Boots. The foot-hugging 98mm last and burly 130 flex continue unabated, the Dynalink buckle system still pulls your heel into place better than anything else in the business, and the removeable tongue design is money. Any more freeride touring questions? The Lupo Pro HD is probably the answer.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Dalbello Lupo Pro HD Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208286/848518/dalbello-lupo-pro-hd-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/czywn8kTBBDV_uIwiSN3-QGgW5J2dZuRB21dc5YTg9E/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/czywn8kTBBDV_uIwiSN3-QGgW5J2dZuRB21dc5YTg9E/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/czywn8kTBBDV_uIwiSN3-QGgW5J2dZuRB21dc5YTg9E/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/czywn8kTBBDV_uIwiSN3-QGgW5J2dZuRB21dc5YTg9E/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/czywn8kTBBDV_uIwiSN3-QGgW5J2dZuRB21dc5YTg9E/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

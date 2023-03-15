@@ -1,0 +1,60 @@
+{
+  "$id": "k2_luvbug_1_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "99.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "The K2 Luvbug 1 Ski Boots are a perfect first pair for the little ski nugget in your life. These little tiny ski boots are super easy to slip on and off, fitting securely with a single buckle closure so there\u0027s no fuss in the morning, and making it a breeze to get changed for their afternoon appointment with the hot cocoa maker.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Luvbug 1 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/182203/722420/k2-luvbug-1-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/UHQLT2b0acNxrWCxVC87v0YtM7KtJy94jG39NqyZlGc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/UHQLT2b0acNxrWCxVC87v0YtM7KtJy94jG39NqyZlGc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UHQLT2b0acNxrWCxVC87v0YtM7KtJy94jG39NqyZlGc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/UHQLT2b0acNxrWCxVC87v0YtM7KtJy94jG39NqyZlGc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UHQLT2b0acNxrWCxVC87v0YtM7KtJy94jG39NqyZlGc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

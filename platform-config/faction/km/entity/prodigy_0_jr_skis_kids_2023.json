@@ -1,0 +1,164 @@
+{
+  "$id": "faction_prodigy_0_jr_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "3726456647343833499"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_prodigy_0_jr_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 103 \u003d 200mm, 113 \u003d 215mm, 123 \u003d 235mm, 133 \u003d 255mm | Camber: All Sizes \u003d 2mm | Tail Rocker: 103 \u003d 160mm, 113 \u003d 170mm, 123 \u003d 190mm, 133 \u003d 220mm"
+      },
+      {
+        "value": "Flex: 5 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Directional Twin – A considerably skinnier tail width than in the tip provides ultimate downhill performance for attacking the mountain. A twin tip in the tail encourages playfulness and freestyle attitude, meaning you can ride switch with ease."
+      },
+      {
+        "value": "Tip Height – 50mm"
+      },
+      {
+        "value": "Tail Height – 38mm"
+      },
+      {
+        "value": "Polyfly Core – The Polyfly core is utilized in the 0JR and 0XJR. Polyfly is a foam core that provides the lightest possible weight while also dampening vibrations, ensuring effortless skiing for the ripping groms."
+      },
+      {
+        "value": "Cap Construction"
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 3.6 x 7mm"
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "279.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "123"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Beginner-Intermediate"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Foam"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "A light and forgiving way to get your grom up and skiing in a hurry, the Faction Prodigy 0 JR Skis are a beginner\u0027s treat with their light Polyfly Core and 82mm waist. There\u0027s nothing like a cool ski that makes learning easy to keep it fun.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Faction Prodigy 0 JR Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227162/939915/faction-prodigy-0-jr-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/EH9WxMGxQfpGHdUWhWFY0phwS_7D_bBYTG5rBRDR2RY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227162/939912/faction-prodigy-0-jr-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SKuvfvX7-Cl34AWGM05RHRTo47MutJBF0wfZMABLVA8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SKuvfvX7-Cl34AWGM05RHRTo47MutJBF0wfZMABLVA8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SKuvfvX7-Cl34AWGM05RHRTo47MutJBF0wfZMABLVA8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SKuvfvX7-Cl34AWGM05RHRTo47MutJBF0wfZMABLVA8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SKuvfvX7-Cl34AWGM05RHRTo47MutJBF0wfZMABLVA8/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

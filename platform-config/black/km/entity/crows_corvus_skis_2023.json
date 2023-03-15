@@ -1,0 +1,194 @@
+{
+  "$id": "black_crows_corvus_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_corvus_skis_2023",
+    "c_details": [
+      {
+        "value": "Reverse Camber with Flat Surface in the Middle of the Ski – Lots of pivot and very powerful grip."
+      },
+      {
+        "value": "Flex – Solid flex underfoot and progressive flex in the tip and tail for comfort and efficiency."
+      },
+      {
+        "value": "21 Meter Radius – Attacking soul."
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Double Titanal Plate – For stability and precision."
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -8cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "999.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "176",
+      "183",
+      "188",
+      "193"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Flat/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Black Crows Corvus Skis are at the heart of what the iconic French ski manufacturer is all about. Defined by their unique juxtaposition of a reverse camber shape with two plates of titanal and versatile big mountain waist width, these skis are freeride chargers with a twist. They\u0027re damp, expressive, nimble, and forceful - graceful on both technical lines and cruiser resort runs. By blending serious materials with playful design cues, the Corvus is a fresh alternative to the traditional 108 charger, delivering the same aggressive performance but with a bit of free-spirited soul injected into every turn.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Black Crows Corvus Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224539/930782/black-crows-corvus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Y9mrljTdAEE3PmkqIOMHxPcJUzHavT3WFntkx7kqWYs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Y9mrljTdAEE3PmkqIOMHxPcJUzHavT3WFntkx7kqWYs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Y9mrljTdAEE3PmkqIOMHxPcJUzHavT3WFntkx7kqWYs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Y9mrljTdAEE3PmkqIOMHxPcJUzHavT3WFntkx7kqWYs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Y9mrljTdAEE3PmkqIOMHxPcJUzHavT3WFntkx7kqWYs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224539/930785/black-crows-corvus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/YRQiYUw-BdQgxT1jf1zkBePoYo_kYRRmKN8JiGszoDs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YRQiYUw-BdQgxT1jf1zkBePoYo_kYRRmKN8JiGszoDs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YRQiYUw-BdQgxT1jf1zkBePoYo_kYRRmKN8JiGszoDs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YRQiYUw-BdQgxT1jf1zkBePoYo_kYRRmKN8JiGszoDs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YRQiYUw-BdQgxT1jf1zkBePoYo_kYRRmKN8JiGszoDs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224539/930777/black-crows-corvus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vnS3vOCy6Q72JXyUT7TWJTASqOZA-1yXQmhEHEs_yVQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vnS3vOCy6Q72JXyUT7TWJTASqOZA-1yXQmhEHEs_yVQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vnS3vOCy6Q72JXyUT7TWJTASqOZA-1yXQmhEHEs_yVQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vnS3vOCy6Q72JXyUT7TWJTASqOZA-1yXQmhEHEs_yVQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vnS3vOCy6Q72JXyUT7TWJTASqOZA-1yXQmhEHEs_yVQ/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

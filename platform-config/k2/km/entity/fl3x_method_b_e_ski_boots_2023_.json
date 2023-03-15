@@ -1,0 +1,60 @@
+{
+  "$id": "k2_fl3x_method_b_e_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "When you step into the joint pro-model boot for both Henrik Harlaut and Phil Casabon, you know you\u0027re in for some dialed freestyle magic. The K2 FL3X Method B\u0026E Ski Boots are some of the best park boots in the game. The mid-soft flex is just right for creative park skiing, and the wide 102mm last provides all day comfort for laid-back styling without sacrificing precision and control.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Method B\u0026E Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224023/968329/k2-fl3x-method-be-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZOSmD9esPwtzE6gbTL4lRVOidhQR1847O8cEPcAcHKM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZOSmD9esPwtzE6gbTL4lRVOidhQR1847O8cEPcAcHKM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZOSmD9esPwtzE6gbTL4lRVOidhQR1847O8cEPcAcHKM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZOSmD9esPwtzE6gbTL4lRVOidhQR1847O8cEPcAcHKM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZOSmD9esPwtzE6gbTL4lRVOidhQR1847O8cEPcAcHKM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

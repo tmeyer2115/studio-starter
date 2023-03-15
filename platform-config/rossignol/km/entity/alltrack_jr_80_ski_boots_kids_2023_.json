@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_alltrack_jr_80_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "379.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Rossignol Alltrack Jr 80 Ski Boots are adult-quality all-mountain freeride boots with the flex softened to an 80, more than appropriate for smaller skiers who know how to ski. They include Rossi\u0027s proven Hike Mode 2.0 walk/ride system and an Optisensor T4 liner for heat moldable comfort. When they start wanting to tag along on your sidecountry adventures, this boot will be a big help.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Alltrack Jr 80 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201526/830043/rossignol-alltrack-jr-80-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/O6ayCFumr2C_6b1ppPhUC1ex0YfVyz_lO5PSSkQ2H-0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/O6ayCFumr2C_6b1ppPhUC1ex0YfVyz_lO5PSSkQ2H-0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/O6ayCFumr2C_6b1ppPhUC1ex0YfVyz_lO5PSSkQ2H-0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/O6ayCFumr2C_6b1ppPhUC1ex0YfVyz_lO5PSSkQ2H-0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/O6ayCFumr2C_6b1ppPhUC1ex0YfVyz_lO5PSSkQ2H-0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

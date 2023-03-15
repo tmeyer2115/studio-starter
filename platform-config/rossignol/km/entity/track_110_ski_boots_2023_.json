@@ -1,0 +1,60 @@
+{
+  "$id": "rossignol_track_110_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "479.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "You say your foot\u0027s too wide and tall to fit in any ski boot? Don\u0027t look now, but the Rossignol Track 110 Ski Boots are coming in hot and daring you to try them on. This 104mm last is about the roomiest in the industry at present, and one of the roomiest ever designed. Add that fact to Rossignol\u0027s penchant for refusing to downgrade the performance of their comfort boots, and you get a genuine 110 flex performance boot that skis as well as it accommodates a wide foot - a rare combination.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Track 110 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201477/830009/rossignol-track-110-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Cmg3aCi69xLdGs08R77DwQwEl7c6LB7MI40-eOsFOhM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Cmg3aCi69xLdGs08R77DwQwEl7c6LB7MI40-eOsFOhM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Cmg3aCi69xLdGs08R77DwQwEl7c6LB7MI40-eOsFOhM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Cmg3aCi69xLdGs08R77DwQwEl7c6LB7MI40-eOsFOhM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Cmg3aCi69xLdGs08R77DwQwEl7c6LB7MI40-eOsFOhM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

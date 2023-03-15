@@ -1,0 +1,70 @@
+{
+  "$id": "seemly-tiny-ladybird-b7f59",
+  "$schema": "https://schema.yext.com/config/pages/yextsite-config/v1",
+  "siteName": "Commerce Site",
+  "repoConfig": "ardently-azure-redbird-5a253",
+  "siteSettings": {
+    "autoDeploy": true,
+    "autoStage": true,
+    "autoPublish": false,
+    "pullRequestsEnabled": false,
+    "stagingCredentials": {
+      "password": "",
+      "username": ""
+    }
+  },
+  "branches": [
+    {
+      "name": "main",
+      "envVars": [
+        {
+          "key": "YEXT_PUBLIC_SKI_FILTER",
+          "value": "1262162023"
+        },
+        {
+          "key": "YEXT_PUBLIC_SEARCH_API_KEY",
+          "value": "61836bbb8fa572b8c9306eedfa4a2d2e"
+        }
+      ],
+      "isProductionBranch": true
+    },
+    {
+      "name": "avs-dev",
+      "envVars": [
+        {
+          "key": "YEXT_PUBLIC_SKI_FILTER",
+          "value": "1262151225"
+        },
+        {
+          "key": "YEXT_PUBLIC_SEARCH_API_KEY",
+          "value": "YEXT_PUBLIC_SEARCH_API_KEY"
+        }
+      ],
+      "isProductionBranch": false
+    },
+    {
+      "name": "pre-prod",
+      "envVars": [
+        {
+          "key": "YEXT_PUBLIC_SKI_FILTER",
+          "value": "1262151225"
+        },
+        {
+          "key": "YEXT_PUBLIC_SEARCH_API_KEY",
+          "value": "61836bbb8fa572b8c9306eedfa4a2d2e"
+        }
+      ],
+      "isProductionBranch": false
+    },
+    {
+      "name": "aaron/search",
+      "envVars": [
+        {
+          "key": "YEXT_PUBLIC_SEARCH_API_KEY",
+          "value": "61836bbb8fa572b8c9306eedfa4a2d2e"
+        }
+      ],
+      "isProductionBranch": false
+    }
+  ]
+}

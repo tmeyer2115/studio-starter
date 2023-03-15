@@ -1,0 +1,171 @@
+{
+  "$id": "faction_prodigy_2x_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/faction_prodigy_2x_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 159 \u003d 320mm, 165 \u003d 330mm, 171 \u003d 340mm | Camber: All Sizes \u003d 3mm | Tail Rocker: 159 \u003d 255mm, 165 \u003d 265mm, 171 \u003d 275mm"
+      },
+      {
+        "value": "Directional Twin – A considerably skinnier tail width than in the tip provides ultimate downhill performance for attacking the mountain. A twin tip in the tail encourages playfulness and freestyle attitude, meaning you can ride switch with ease."
+      },
+      {
+        "value": "Tip Height – 67mm"
+      },
+      {
+        "value": "Tail Height – 56mm"
+      },
+      {
+        "value": "Sustainable Poplar Wood Core – Poplar is a light-colored, medium-weight, durable softwood that flexes and pops nicely as well as having a whole load of vibration absorption capabilities. Used as the only wood in this core, it allows the ski to pop, butter and stomp like an all-mountain freestyle ski and also have enough torsional stability to grip impressively on the downhill."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": [
+      "6490805738900090466"
+    ],
+    "c_genderName": "Women",
+    "c_price": "599.00",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "159",
+      "171"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "Faction\u0027s most versatile freeride model for women comes in with a 98mm waist, directional twin shape, and a rocker-camber-rocker profile to let you stomp everything from techy steeps to park features in style. The Faction Prodigy 2X Skis build on a sustainable Poplar wood core with multi-axial fiberglass, an anti-chip topsheet and XL 2.5mm edges for pop, power and longevity.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Faction Prodigy 2X Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227216/939931/faction-prodigy-2x-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/G8IcnlcmiQxnKmWuRKNzyv1msKcRcF7N7UuVcelbdUk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/G8IcnlcmiQxnKmWuRKNzyv1msKcRcF7N7UuVcelbdUk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/G8IcnlcmiQxnKmWuRKNzyv1msKcRcF7N7UuVcelbdUk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/G8IcnlcmiQxnKmWuRKNzyv1msKcRcF7N7UuVcelbdUk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/G8IcnlcmiQxnKmWuRKNzyv1msKcRcF7N7UuVcelbdUk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227216/939928/faction-prodigy-2x-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZytgxHMDQlILWV7p0Muh-Bx9m5rTkkdlJI9i1Q1c93U/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZytgxHMDQlILWV7p0Muh-Bx9m5rTkkdlJI9i1Q1c93U/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZytgxHMDQlILWV7p0Muh-Bx9m5rTkkdlJI9i1Q1c93U/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZytgxHMDQlILWV7p0Muh-Bx9m5rTkkdlJI9i1Q1c93U/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZytgxHMDQlILWV7p0Muh-Bx9m5rTkkdlJI9i1Q1c93U/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

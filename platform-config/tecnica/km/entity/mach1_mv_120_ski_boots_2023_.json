@@ -1,0 +1,60 @@
+{
+  "$id": "tecnica_mach1_mv_120_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "One of the best-selling expert level boots of all time, the venerable Tecnica Mach1 MV 120 Ski Boots have gotten consistent upgrades over the years to make them even better. Two seasons ago, it was the addition of the T.Drive spine that gave the boot added snap and power, especially when finishing turns. This season the boot remains largely the same but for some small liner improvements and GripWalk soles, but it\u0027s still the same blend of powerhouse downhill tool and slipper-like comfort you know and love.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Mach1 MV 120 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223165/906120/tecnica-mach1-mv-120-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/yWTTOsFPJ5Qhj3J20WEVdFSO12MhFfzIr04jKX6Z3-g/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/yWTTOsFPJ5Qhj3J20WEVdFSO12MhFfzIr04jKX6Z3-g/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/yWTTOsFPJ5Qhj3J20WEVdFSO12MhFfzIr04jKX6Z3-g/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/yWTTOsFPJ5Qhj3J20WEVdFSO12MhFfzIr04jKX6Z3-g/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/yWTTOsFPJ5Qhj3J20WEVdFSO12MhFfzIr04jKX6Z3-g/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

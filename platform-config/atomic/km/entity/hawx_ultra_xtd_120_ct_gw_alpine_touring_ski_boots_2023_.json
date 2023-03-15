@@ -1,0 +1,60 @@
+{
+  "$id": "atomic_hawx_ultra_xtd_120_ct_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "Step into the Atomic Hawx Ultra XTD 120 CT GW Alpine Touring Ski Boots and get ready to rip the backcountry. Made with a stiff flex and a narrow last for peak performance and response, these skin track superstars have a huge range of motion, one click buckles for easy transitions, and an extra customizable Mimic Liner to help get your fit all dialed in. For the skier who wants one boot to rule them all, the Hawx Ultra XTD 120s are a dream.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Atomic Hawx Ultra XTD 120 CT GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219602/904925/atomic-hawx-ultra-xtd-120-ct-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/afsgGHH-E1pxjNFZ1v1aXfK2-65nVnAkmn2gsskyw9U/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/afsgGHH-E1pxjNFZ1v1aXfK2-65nVnAkmn2gsskyw9U/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/afsgGHH-E1pxjNFZ1v1aXfK2-65nVnAkmn2gsskyw9U/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/afsgGHH-E1pxjNFZ1v1aXfK2-65nVnAkmn2gsskyw9U/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/afsgGHH-E1pxjNFZ1v1aXfK2-65nVnAkmn2gsskyw9U/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

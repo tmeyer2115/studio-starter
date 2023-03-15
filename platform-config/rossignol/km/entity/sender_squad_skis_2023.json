@@ -1,0 +1,137 @@
+{
+  "$id": "rossignol_sender_squad_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/rossignol_sender_squad_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker"
+      },
+      {
+        "value": "Pop: High – Higher pop translates to energized rebound for aggressive skiing, jumps, and responsive flex."
+      },
+      {
+        "value": "Poplar Wood Core – Poplar wood core balances weight, flex, and stability for a versatile blend of power and playfulness."
+      },
+      {
+        "value": "Extended Core – Extended Core increases snow contact and torsional stability for enhanced precision and control in varied snow conditions."
+      },
+      {
+        "value": "Titanal Beam – The Titanal Beam delivers power underfoot and enhances grip across the entire length of the ski."
+      },
+      {
+        "value": "Diago Fiber – Race-developed Diago Fiber reduces weight and enhances responsiveness."
+      },
+      {
+        "value": "Damp Tech – A Damp Tech insert at the tip reduces ski vibration, absorbing irregularities in the terrain."
+      },
+      {
+        "value": "Double LCT VISCO – 2LCT Visco construction adapts Line Control Technology for wider skis to harness energy input for increased power and control."
+      },
+      {
+        "value": "Rectangular Sidewalls – Rectangular Sidewall constructions feature a horizontal layering of core materials (wood, fiberglass, metal, etc.) combined with full-length vertical sidewalls to deliver optimized edge grip, precision, balance, and power."
+      },
+      {
+        "value": "Sustainability – The BLACKOPS range has been developed with a strong focus on material sourcing and the product lifecycle. Each ski has been constructed using PEFC™ certified poplar or FSC® certified paulownia wood cores combined with recycled topsheet, base, and edge materials to help reduce their environmental impact."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "949.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "194"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "7200013882251703847"
+    ],
+    "description": "You\u0027re big, strong and know how to bend a ski, and you\u0027ve never found a ski that\u0027s up to your definition of \"charging.\" Hold on to your beer, because the Rossignol Sender Squad Skis are here. Check your complaints about wimpy skis at the door, this monster comes only in a 194 with a race-derived Titanal-infused layup that won\u0027t quit until well after you do. There aren\u0027t many of these to go around, but if you\u0027re the type of skier who needs them, you probably already know it.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Rossignol Sender Squad Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227334/914077/rossignol-sender-squad-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/AFwUwKs2GPZdZj_lJTsBpLdqJia6h-8nkdhxxvajEz8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/AFwUwKs2GPZdZj_lJTsBpLdqJia6h-8nkdhxxvajEz8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/AFwUwKs2GPZdZj_lJTsBpLdqJia6h-8nkdhxxvajEz8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/AFwUwKs2GPZdZj_lJTsBpLdqJia6h-8nkdhxxvajEz8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/AFwUwKs2GPZdZj_lJTsBpLdqJia6h-8nkdhxxvajEz8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

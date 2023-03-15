@@ -1,0 +1,467 @@
+{
+  "$id": "black_crows_atris_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_atris_skis_2023",
+    "c_details": [
+      {
+        "value": "Double Rocker – Great maneuverability, control, and pivot."
+      },
+      {
+        "value": "Classic Medium Camber – Classic camber underfoot with intermediate ski/ snow contact for a perfect balance between stability and handling."
+      },
+      {
+        "value": "Flex – Firm and constant flex, a very stable ski."
+      },
+      {
+        "value": "Slightly Straight Sidecut – More stability at high speed and better balance between firmness and maneuverability."
+      },
+      {
+        "value": "Progressive Tip Floatation – Great consistency in turns, easy to get off the ground."
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -8cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "172",
+      "178",
+      "184",
+      "190"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "The Atris is one of the most popular birds in the Black Crows\u0027 flock. This traditionally cambered freeride ski has one of the most balanced skill sets around. It is the quintessential playful charger, providing excellent high end performance in freeride-style lines, while also remaining smooth and accessible for all-mountain endeavors. With a 105mm width that\u0027s floaty enough for powder days and maneuverable enough for groomers, the Black Crows Atris Skis are an excellent choice for competent all-mountain skiers looking to tackle any day of the season.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Black Crows Atris Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/987184/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940595/black-crows-atris-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940591/black-crows-atris-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/987184/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940595/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940591/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/987184/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940595/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940591/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/987184/black-crows-atris-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pn2FaIwM0MZ9f0tsNlwpAAuXBysr6uWfZAAiuJWMcgg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940595/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6oQwCapi4v-19nYfxRKposVVr-a5EATNXmzGMCN8M_8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224540/940591/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0pGf9CsoeEIcnRSSuyRxxTL6C0dHpmP7fm7OV9kKwro/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

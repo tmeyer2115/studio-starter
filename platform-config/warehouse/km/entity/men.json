@@ -1,0 +1,59 @@
+{
+  "$id": "warehouse_men",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_featuredCollections": [
+      "2630537345253385105",
+      "1944780937862102495"
+    ],
+    "dm_baseEntityCount": "397",
+    "dm_childEntityIds": [
+      "82237265",
+      "82237339"
+    ],
+    "dm_directoryChildren": [
+      "warehouse_men_skis",
+      "warehouse_men_ski_boots"
+    ],
+    "dm_directoryChildrenCount": "411",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": [
+      "warehouse"
+    ],
+    "name": "Men",
+    "primaryPhoto": {
+      "image": {
+        "height": 667,
+        "sourceUrl": "https://a.mktgcdn.com/p/5TRi1fT6cJBtGRZMxzeAN8SVZu9_Z1yQBcWEHuUIzuw/1000x667.png",
+        "thumbnails": [
+          {
+            "height": 667,
+            "url": "https://a.mktgcdn.com/p/5TRi1fT6cJBtGRZMxzeAN8SVZu9_Z1yQBcWEHuUIzuw/1000x667.png",
+            "width": 1000
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p/5TRi1fT6cJBtGRZMxzeAN8SVZu9_Z1yQBcWEHuUIzuw/619x413.png",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p/5TRi1fT6cJBtGRZMxzeAN8SVZu9_Z1yQBcWEHuUIzuw/600x400.png",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p/5TRi1fT6cJBtGRZMxzeAN8SVZu9_Z1yQBcWEHuUIzuw/196x131.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/5TRi1fT6cJBtGRZMxzeAN8SVZu9_Z1yQBcWEHuUIzuw/1000x667.png",
+        "width": 1000
+      }
+    },
+    "slug": "men"
+  },
+  "entityType": "ce_gender",
+  "labels": []
+}

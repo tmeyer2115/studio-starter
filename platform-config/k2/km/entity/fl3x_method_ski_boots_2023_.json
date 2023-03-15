@@ -1,0 +1,60 @@
+{
+  "$id": "k2_fl3x_method_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "4422719013200450384"
+    ],
+    "c_categoryName": "Downhill",
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "There\u0027s a method to the madness. And the K2 FL3X Method Ski Boots are here to help you figure it out for yourself. With a 102mm last and a 90 flex, these boots are nice and roomy, and super smooth flexing. They\u0027ll keep you feeling good while you\u0027re working on progressions in the park, or just riding around the resort in search of stoke.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Method Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224024/904698/k2-fl3x-method-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/NhfJMUbU7G8sIYJ_rApQ47OTE0rsdfwToe58mG7fkkw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/NhfJMUbU7G8sIYJ_rApQ47OTE0rsdfwToe58mG7fkkw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/NhfJMUbU7G8sIYJ_rApQ47OTE0rsdfwToe58mG7fkkw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/NhfJMUbU7G8sIYJ_rApQ47OTE0rsdfwToe58mG7fkkw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/NhfJMUbU7G8sIYJ_rApQ47OTE0rsdfwToe58mG7fkkw/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

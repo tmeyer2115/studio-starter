@@ -1,0 +1,231 @@
+{
+  "$id": "rossignol_sender_106_ti_plus_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": [
+      "5195394095823606585"
+    ],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_sender_106_ti_plus_skis_2023",
+    "c_details": [
+      {
+        "value": "Free Rocker – 25% Tip Rocker / 60% Camber / 15% Tail Rocker"
+      },
+      {
+        "value": "Progressive Sidecut – Firm grip while opening up more scope and fluidity to cruise, dazzle and carve on all terrain and in any snow conditions."
+      },
+      {
+        "value": "Poplar PEFC™ Wood Core – A very versatile construction designed to ensure liveliness, grip and a feeling of safety. The Poplar wood cores are PEFC™ certified which guarantees sustainable forest management."
+      },
+      {
+        "value": "Extended Core – The Extended Core construction increases ski-snow contact and the torsional stability of the ski, boosting precision and control in varied snow conditions."
+      },
+      {
+        "value": "Air Tip – The Air Tip lightens the tip and tail of the ski for improved maneuverability and turn control in all snow conditions."
+      },
+      {
+        "value": "Ti Plus Beam – The Titanal Beam delivers the right amount of power under the foot and enhances grip across the entire length of the ski."
+      },
+      {
+        "value": "Damp Tech – The Damp Tech insert at the tip reduces ski vibrations to absorb irregularities in the terrain."
+      },
+      {
+        "value": "Double LCT ABS – The Double LCT ABS construction is an adaptation of Line Control Technology on wider skis to improve line control with power and energy."
+      },
+      {
+        "value": "Carbon Alloy Matrix – The unique carbon and basalt weave with fiberglass is the culmination of a clever and unrivalled blend of materials. This fusion produces a powerful and solid ski with a dynamic lightweight design, without forgetting maximum vibration absorption and a balanced flex from tip to tail."
+      },
+      {
+        "value": "Rectangular Sidewalls"
+      },
+      {
+        "value": "PEFC™-Certified Wood \u0026 Recycled Materials – The skis in the Sender Series have been developed with close attention to the selection of raw materials and the use of recycled materials to minimize Rossignol\u0027s environmental impact. Rossignol\u0027s factory uses 100% clean electrical energy."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": [
+      "5929891552541128688"
+    ],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Skis",
+    "c_sizes": [
+      "180",
+      "187"
+    ],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": [
+      "1295894924104146377"
+    ],
+    "description": "As crown jewel of their new Sender series, the Rossignol Sender 106 Ti Plus Skis carry the torch passed down from Rossi\u0027s previously iconic S-Series skis and trust us, they carry it well! With a unique combination of a poplar wood core, titanal metal, carbon alloy, and dampening laminates — not to mention Rossignol\u0027s signature AirTip tips/tails — the Sender 106 delivers a fusion of technical precision, high-octane stability, and all-mountain versatility. Whether you\u0027re presented with knee-deep pow, chopped up leftovers, steep trees, or fast, top-to-bottom groomers, you\u0027ll feel right at home on the Rossignol Sender 106 Ti Plus Skis.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Rossignol Sender 106 Ti Plus Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216291/898237/rossignol-sender-106-ti-plus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216291/914082/rossignol-sender-106-ti-plus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216291/898237/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vO1ZrUXre0Xbbw3EDTVLCunU41RN37d-S4F4CgeNfdo/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216291/914082/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/83xznRigTzIdYBiOfoYxi8nOSLdzW2kpClx4xi2I8i4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}
