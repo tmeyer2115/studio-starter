@@ -42,7 +42,11 @@ export default function Product({ document }: TemplateProps) {
           <CenteredContainer>
             <GridContainer>
               <VStack>
-                <Headline value={`New Name`} fontWeight="bold" textSize="4xl" />
+                <Headline
+                  value={`Add Name Here 1`}
+                  fontWeight="bold"
+                  textSize="4xl"
+                />
                 <HStack>
                   <Label value={document.c_price} />
                   <Reviews averageRating={5} reviewCount={1995} />
