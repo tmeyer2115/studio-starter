@@ -23,7 +23,7 @@ export const config: TemplateConfig = {
     $id: "skis",
     filter: { entityTypes: ["ce_skis"] },
     localization: { locales: ["en"], primary: false },
-    fields: ["photoGallery", "c_price", "slug"],
+    fields: ["c_price", "photoGallery", "slug"],
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
@@ -42,11 +42,7 @@ export default function Product({ document }: TemplateProps) {
           <CenteredContainer>
             <GridContainer>
               <VStack>
-                <Headline
-                  value={`Ski Name - Add Here`}
-                  fontWeight="bold"
-                  textSize="4xl"
-                />
+                <Headline value={`New Name`} fontWeight="bold" textSize="4xl" />
                 <HStack>
                   <Label value={document.c_price} />
                   <Reviews averageRating={5} reviewCount={1995} />
