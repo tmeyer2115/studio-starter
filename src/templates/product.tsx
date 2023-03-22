@@ -23,7 +23,7 @@ export const config: TemplateConfig = {
     $id: "skis",
     filter: { entityTypes: ["ce_skis"] },
     localization: { locales: ["en"], primary: false },
-    fields: ["c_price", "photoGallery", "slug"],
+    fields: ["name", "c_price", "description", "photoGallery", "slug"],
   },
 };
 export const getPath: GetPath<TemplateProps> = ({ document }) => {
@@ -43,7 +43,7 @@ export default function Product({ document }: TemplateProps) {
             <GridContainer>
               <VStack>
                 <Headline
-                  value={`Add Name Here 1`}
+                  value={`${document.name}`}
                   fontWeight="bold"
                   textSize="4xl"
                 />
@@ -52,7 +52,7 @@ export default function Product({ document }: TemplateProps) {
                   <Reviews averageRating={5} reviewCount={1995} />
                 </HStack>
                 <Paragraph
-                  value={`Add Description Here`}
+                  value={`${document.description}`}
                   fontWeight=""
                   textSize=""
                 />
