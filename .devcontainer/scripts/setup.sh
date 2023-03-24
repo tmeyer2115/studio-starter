@@ -1,8 +1,8 @@
 #!/bin/bash
 source $NVM_DIR/nvm.sh
 cd /workspaces/studio-repo-demo
-nvm install 17
-nvm use 17
+nvm install 18
+nvm use 18
 npm install
 wget https://yext-cli-pub.s3.amazonaws.com/cli/linux/yext
 sudo mv yext /usr/local/bin
