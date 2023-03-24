@@ -1,0 +1,56 @@
+{
+  "$id": "k2_indy_2_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "109.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "Offering a two buckle closure system, these tiny ski boots provide your youngster with just a bit more performance as they start to learn the ropes on the ski hill. Built to optimize comfort and simplicity, the K2 Indy 2 Ski Boots have an Easy Entry system to make the morning rush a breeze and get your family out on the slopes making memories as quick as possible.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Indy 2 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/182199/722423/k2-indy-2-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/l117JWTHxGx_2Me6dDceV8L7VeR2IhaEiar6AUreQp4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l117JWTHxGx_2Me6dDceV8L7VeR2IhaEiar6AUreQp4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l117JWTHxGx_2Me6dDceV8L7VeR2IhaEiar6AUreQp4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l117JWTHxGx_2Me6dDceV8L7VeR2IhaEiar6AUreQp4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l117JWTHxGx_2Me6dDceV8L7VeR2IhaEiar6AUreQp4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,210 @@
+{
+  "$id": "v_lkl_kendo_88_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_kendo_88_skis_2023",
+    "c_details": [
+      {
+        "value": "Tip \u0026 Tail Rocker – Bends up only in the shovel and tail zones, with a camber shape in the middle."
+      },
+      {
+        "value": "3D Radius Sidecut – Three radii in one ski shape deliver maximum versatility - long radii at the tip and tail for stability and smoothness, and a short radius in the mid-body allows the skier to switch from long arcs to short turns at will, at any speed."
+      },
+      {
+        "value": "Multlayer Woodcore – The combination of beech and poplar results in an extremely durable wood core composed of hard wood in the binding area and lighter wood surrounding it."
+      },
+      {
+        "value": "Tailored Carbon Tips – In this innovative manufacturing process the new Tailored Carbon Tips are produced by embroidering the individual carbon fibers onto a carrier material. This allows them to be positioned exactly along the stress lines, opening up completely new possibilities, for performance at the front of the ski, which has a decisive influence on handling."
+      },
+      {
+        "value": "Tailored Titanal Frame – The size of the frames is tailored to the skier\u0027s height, skiing ability and power. This means that longer ski models have a higher titanal content for more stiffness, more direct power transmission and stronger dampening. The shorter the length, the lower the titanal content, which makes the ski more agile, so that smaller, lighter and less powerful skiers can use the full potential performance of the ski."
+      },
+      {
+        "value": "Full Sidewall – Direct and strong power transmission with full length sidewalls."
+      },
+      {
+        "value": "P-Tex 2100 – A sintered high-density and high molecular weight polyethylene base with great gliding characteristics and high durability."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.99",
+    "c_productType": "Skis",
+    "c_sizes": ["163", "170", "177", "184"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Carving, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Just like sending a Rottweiler to obedience school and your dog coming back with a veneer of civility until he really needs to use his teeth, the storied Völkl Kendo 88 Skis get an update that makes them a tad more forgiving at slower speeds without losing any of their grit when the chips are down. That means better slow and mid speed performance, less hookiness at the tip, and still with the tenacious edge grip you expect when you lay the ski over. Völkl gets it done with the addition of Tailored Technology - the Titanal laminate has been sculpted - and Tailored Carbon Tips, and you\u0027re the beneficiary.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Völkl Kendo 88 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227083/915715/volkl-kendo-88-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227083/915715/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227083/915715/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227083/915715/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ceM2W9SqRkuUZFjH07P8jgJSa2WZCXSentU4eAuDu90/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

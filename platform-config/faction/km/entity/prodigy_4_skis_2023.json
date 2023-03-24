@@ -1,0 +1,267 @@
+{
+  "$id": "faction_prodigy_4_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/faction_prodigy_4_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 179 \u003d 430mm, 185 \u003d 445mm, 191 \u003d 460mm | Camber: All Sizes \u003d 3mm | Tail Rocker: 179 \u003d 345mm, 185 \u003d 355mm, 191 \u003d 370mm"
+      },
+      {
+        "value": "Flex: 8 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Moustache Flex – This flex works best for most skiers. Enjoy stability in front of, and behind the binding area to provide solid edge hold. Then, we transition to smooth, progressive flex in the tips and tails to easily absorb all the different bumps and snow debris the mountain throws at you. This flex allows for an easier turn initiation and finish."
+      },
+      {
+        "value": "Elliptical Sidecut – Elliptical Sidecut is made up of a longer radius underfoot and shorter radii in the tip and tail of the ski. The long radius underfoot means you can pivot faster and easier, while a shorter radius in the tip and tail result in easier turn initiation. This sidecut allows for a wide variety of turn lengths, angles and mounting positions."
+      },
+      {
+        "value": "Directional Twin – A considerably skinnier tail width than in the tip provides ultimate downhill performance for attacking the mountain. A twin tip in the tail encourages playfulness and freestyle attitude, meaning you can ride switch with ease."
+      },
+      {
+        "value": "Tip Height – 74mm"
+      },
+      {
+        "value": "Tail Height – 58mm"
+      },
+      {
+        "value": "Sustainable Poplar Wood Core – Poplar is a light-colored, medium-weight, durable softwood that flexes and pops nicely as well as having a whole load of vibration absorption capabilities. Used as the only wood in this core, it allows the ski to pop, butter and stomp like an all-mountain freestyle ski and also have enough torsional stability to grip impressively on the downhill."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "Bio-Based Resin"
+      },
+      {
+        "value": "Made in Austria"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.00",
+    "c_productType": "Skis",
+    "c_sizes": ["185", "191"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "Big lines and hero snow call for a ski with heart, and the Faction Prodigy 4 Skis are as good as they come. Serious float with a 140mm wide tip and 116mm waist, along with huge rocker lines at both tip and tail mean unparalleled float in the deep stuff, while stout construction and a bomber Poplar wood core keep these things planted and headed down the fall line no matter what.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Faction Prodigy 4 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227219/939936/faction-prodigy-4-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/01iARjzCh9wAPNNXLwoJsNT1BbeYJuZE_HlHHGLJDpE/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/01iARjzCh9wAPNNXLwoJsNT1BbeYJuZE_HlHHGLJDpE/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/01iARjzCh9wAPNNXLwoJsNT1BbeYJuZE_HlHHGLJDpE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/01iARjzCh9wAPNNXLwoJsNT1BbeYJuZE_HlHHGLJDpE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/01iARjzCh9wAPNNXLwoJsNT1BbeYJuZE_HlHHGLJDpE/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227219/939933/faction-prodigy-4-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vD2o7OUq8OSYyhcB1ZxFYLysMRiMWahhfnXSV37nyco/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vD2o7OUq8OSYyhcB1ZxFYLysMRiMWahhfnXSV37nyco/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vD2o7OUq8OSYyhcB1ZxFYLysMRiMWahhfnXSV37nyco/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vD2o7OUq8OSYyhcB1ZxFYLysMRiMWahhfnXSV37nyco/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vD2o7OUq8OSYyhcB1ZxFYLysMRiMWahhfnXSV37nyco/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227219/989666/faction-prodigy-4-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/7hxa4td-SWWWAgImVTbP4DqS3cllE_8yM9x80xjpWoE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/7hxa4td-SWWWAgImVTbP4DqS3cllE_8yM9x80xjpWoE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/7hxa4td-SWWWAgImVTbP4DqS3cllE_8yM9x80xjpWoE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/7hxa4td-SWWWAgImVTbP4DqS3cllE_8yM9x80xjpWoE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/7hxa4td-SWWWAgImVTbP4DqS3cllE_8yM9x80xjpWoE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227219/989665/faction-prodigy-4-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HKAq7yvoQpkvyK6gSYMHVqekKmQXTGZ04vctI-UgCqA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HKAq7yvoQpkvyK6gSYMHVqekKmQXTGZ04vctI-UgCqA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HKAq7yvoQpkvyK6gSYMHVqekKmQXTGZ04vctI-UgCqA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HKAq7yvoQpkvyK6gSYMHVqekKmQXTGZ04vctI-UgCqA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HKAq7yvoQpkvyK6gSYMHVqekKmQXTGZ04vctI-UgCqA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227219/989668/faction-prodigy-4-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/3VQGmfU7C2LmxfhbLnC33YOuGuAS6BsgH6mDI7HI3kY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/3VQGmfU7C2LmxfhbLnC33YOuGuAS6BsgH6mDI7HI3kY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/3VQGmfU7C2LmxfhbLnC33YOuGuAS6BsgH6mDI7HI3kY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/3VQGmfU7C2LmxfhbLnC33YOuGuAS6BsgH6mDI7HI3kY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3VQGmfU7C2LmxfhbLnC33YOuGuAS6BsgH6mDI7HI3kY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

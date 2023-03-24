@@ -1,0 +1,207 @@
+{
+  "$id": "armada_reliance_92_ti_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/armada_reliance_92_ti_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "EST All Mountain Rocker – Rocker is paired with tapered sidecuts both tip and tail provide floatation in soft snow as well as forgiveness in turn shape. Camber underfoot maintains edge hold on the hardpack."
+      },
+      {
+        "value": "Caruba Core – Armada\u0027s lightest wood species keeps the overall weight low while retaining the power and dampness you want while skiing."
+      },
+      {
+        "value": "Articulated Titanal Banding – Titanal adds horsepower and strength, while an Elastic Compound Layer allows the ski to enter the turn with ease, compressing and releasing more energy than a traditional TI layer."
+      },
+      {
+        "value": "AR100 Sidewall – Superior edge grip for precision on the hardest of snow surfaces."
+      },
+      {
+        "value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability"
+      },
+      {
+        "value": "2.1 All Mountain Edge"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "699.95",
+    "c_productType": "Skis",
+    "c_sizes": ["156", "164", "172", "180"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Armada Reliance 92 Ti Skis are built to thrive in any snow, any conditions, any time you head to the mountains. Built on a lightweight Caruba chassis with an innovative Articulated Titanal Banding layup, they\u0027re nimble and energetic in tight terrain, with fantastic turn and burn grip on firmer snow. Add a touch of rocker for soft snow versatility and you\u0027ve got an incredibly capable ski you can reach for any day of the season.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Armada Reliance 92 Ti Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198722/920816/armada-reliance-92-ti-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/B7Tl3aYisqssdfVlOZcWBWfFRiFe4cf4q1pKVVZ63Ks/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/B7Tl3aYisqssdfVlOZcWBWfFRiFe4cf4q1pKVVZ63Ks/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/B7Tl3aYisqssdfVlOZcWBWfFRiFe4cf4q1pKVVZ63Ks/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/B7Tl3aYisqssdfVlOZcWBWfFRiFe4cf4q1pKVVZ63Ks/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B7Tl3aYisqssdfVlOZcWBWfFRiFe4cf4q1pKVVZ63Ks/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198722/920814/armada-reliance-92-ti-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/y_tD1R0zZd9KAtFJJO74pKwZ08EYa4PTinh5MxJ06Ss/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/y_tD1R0zZd9KAtFJJO74pKwZ08EYa4PTinh5MxJ06Ss/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/y_tD1R0zZd9KAtFJJO74pKwZ08EYa4PTinh5MxJ06Ss/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/y_tD1R0zZd9KAtFJJO74pKwZ08EYa4PTinh5MxJ06Ss/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/y_tD1R0zZd9KAtFJJO74pKwZ08EYa4PTinh5MxJ06Ss/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198722/920813/armada-reliance-92-ti-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/JuYAOQ7SZm9RRkXmG4MVoEM7gLZGbPpR-FRdV0lWqVo/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/JuYAOQ7SZm9RRkXmG4MVoEM7gLZGbPpR-FRdV0lWqVo/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/JuYAOQ7SZm9RRkXmG4MVoEM7gLZGbPpR-FRdV0lWqVo/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/JuYAOQ7SZm9RRkXmG4MVoEM7gLZGbPpR-FRdV0lWqVo/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/JuYAOQ7SZm9RRkXmG4MVoEM7gLZGbPpR-FRdV0lWqVo/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1502371366-4347fbeae7db73d4b13915ecad6bd629acbb292fa276556403a829148c365a62-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

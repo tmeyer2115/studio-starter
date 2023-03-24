@@ -1,0 +1,234 @@
+{
+  "$id": "nordica_unleashed_98_w_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/nordica_unleashed_98_w_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Shovel / Tail Rocker – LONGER RUNNING BASE LENGTH \u003d Less tip and tail rocker depth to better support the playful tip and tail shovel shapes. MORE TURNED UP TAIL \u003d Easier to swivel and break free while also offering a more favorable setup for riding switch. STEEPER TIP SHOVEL \u003d More tip initiation and deflection in soft snow"
+      },
+      {
+        "value": "Performance Wood Core"
+      },
+      {
+        "value": "Terrain Specific Metal – The size and shape of the Titanal layer is specifically engineered for each ski width, providing stability where you need it and flexibility where you want it."
+      },
+      {
+        "value": "Carbon Fiber Glass"
+      },
+      {
+        "value": "ABS Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "699.99",
+    "c_productType": "Skis",
+    "c_sizes": ["156", "162", "168"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Elevate every day with the new Nordica Unleashed 98 W Skis. This twin tip machine is designed to crush bumps, slash pow, and bring pop and play to your favorite tree runs. Constructed with traditional camber underfoot and a longer running base length, the Unleashed 98 is nimble and playful when you need it, damp and stable when you don\u0027t. Discover the power of the new Unleashed series and let your inner child run wild.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Nordica Unleashed 98 W Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224781/910257/nordica-unleashed-98-w-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224781/910257/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224781/910257/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TMPgtqSMVET-oA13-MY0O5FGvrvFtP6YXUa9tlReblY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224781/910252/nordica-unleashed-98-w-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/X5YJC33fWetPO8nTM3ZcPx3vrs5hvwo4OEtD97NpKxM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/X5YJC33fWetPO8nTM3ZcPx3vrs5hvwo4OEtD97NpKxM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/X5YJC33fWetPO8nTM3ZcPx3vrs5hvwo4OEtD97NpKxM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/X5YJC33fWetPO8nTM3ZcPx3vrs5hvwo4OEtD97NpKxM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/X5YJC33fWetPO8nTM3ZcPx3vrs5hvwo4OEtD97NpKxM/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224781/910248/nordica-unleashed-98-w-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/fzwJoFvtjXPxN5G2wEStsaHpYk-tOgOtUOSzmBk6t7Q/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fzwJoFvtjXPxN5G2wEStsaHpYk-tOgOtUOSzmBk6t7Q/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fzwJoFvtjXPxN5G2wEStsaHpYk-tOgOtUOSzmBk6t7Q/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fzwJoFvtjXPxN5G2wEStsaHpYk-tOgOtUOSzmBk6t7Q/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fzwJoFvtjXPxN5G2wEStsaHpYk-tOgOtUOSzmBk6t7Q/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,294 @@
+{
+  "$id": "k2_mindbender_90_c_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/k2_mindbender_90_c_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Aspen Veneer Core – Lightweight and resilient, the perfect all around core material."
+      },
+      {
+        "value": "Carbon Spectral Braid™ – A variable angle carbon fiber laminate allows the torsional and longitudinal stiffness to be adjusted independently. This construct keeps skis lighter and more playful for conditions when power and damping are less important."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "SlantWall – Adding a 30° angle to the sidewall in K2’s Hybritech construction, SlantWall increases a ski\u0027s agility and responsiveness while maintaining accuracy and power."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "499.95",
+    "c_productType": "Skis",
+    "c_sizes": ["156", "163", "170"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Confidence is key when you\u0027re on a mission for improvement. The K2 Mindbender 90 C Skis are solid all-mountain machines for ladies who love spending time on groomers but are up to some off-piste adventuring when the feeling is right. They\u0027re lightweight, forgiving, and agile enough to navigate tight spots with composure and poise. What\u0027s not to love?",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "K2 Mindbender 90 C Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978084/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KOPRyzLrZBupyCkTRvcS2u57yGX-z6iZc8MGR-V1dw4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KOPRyzLrZBupyCkTRvcS2u57yGX-z6iZc8MGR-V1dw4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KOPRyzLrZBupyCkTRvcS2u57yGX-z6iZc8MGR-V1dw4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KOPRyzLrZBupyCkTRvcS2u57yGX-z6iZc8MGR-V1dw4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KOPRyzLrZBupyCkTRvcS2u57yGX-z6iZc8MGR-V1dw4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978086/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/mFhHYBfEAoSK3ZPKHF9XTDahVrUSK6qpeMQVWXh8-CY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/mFhHYBfEAoSK3ZPKHF9XTDahVrUSK6qpeMQVWXh8-CY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/mFhHYBfEAoSK3ZPKHF9XTDahVrUSK6qpeMQVWXh8-CY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/mFhHYBfEAoSK3ZPKHF9XTDahVrUSK6qpeMQVWXh8-CY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/mFhHYBfEAoSK3ZPKHF9XTDahVrUSK6qpeMQVWXh8-CY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978082/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/u8vL2u8A5dC2nSP1Ana0As1TkzNE_z-pu2QpwJEPBn0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/u8vL2u8A5dC2nSP1Ana0As1TkzNE_z-pu2QpwJEPBn0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/u8vL2u8A5dC2nSP1Ana0As1TkzNE_z-pu2QpwJEPBn0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/u8vL2u8A5dC2nSP1Ana0As1TkzNE_z-pu2QpwJEPBn0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/u8vL2u8A5dC2nSP1Ana0As1TkzNE_z-pu2QpwJEPBn0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978087/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HbJLqUfVTBJJ9z2-6RdE0RXWG-z-VFjVZ0oMyZ3o8l0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HbJLqUfVTBJJ9z2-6RdE0RXWG-z-VFjVZ0oMyZ3o8l0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HbJLqUfVTBJJ9z2-6RdE0RXWG-z-VFjVZ0oMyZ3o8l0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HbJLqUfVTBJJ9z2-6RdE0RXWG-z-VFjVZ0oMyZ3o8l0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HbJLqUfVTBJJ9z2-6RdE0RXWG-z-VFjVZ0oMyZ3o8l0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978083/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/q5rhIL17g0oOOnxNMa8QCzd9JGtilZi7Jn_T4A0FcDk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/q5rhIL17g0oOOnxNMa8QCzd9JGtilZi7Jn_T4A0FcDk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/q5rhIL17g0oOOnxNMa8QCzd9JGtilZi7Jn_T4A0FcDk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/q5rhIL17g0oOOnxNMa8QCzd9JGtilZi7Jn_T4A0FcDk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/q5rhIL17g0oOOnxNMa8QCzd9JGtilZi7Jn_T4A0FcDk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978085/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Wu483OAX7pfcuZiSxcktEJVNPaU4AlAOGhS7vZIUDe8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Wu483OAX7pfcuZiSxcktEJVNPaU4AlAOGhS7vZIUDe8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Wu483OAX7pfcuZiSxcktEJVNPaU4AlAOGhS7vZIUDe8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Wu483OAX7pfcuZiSxcktEJVNPaU4AlAOGhS7vZIUDe8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Wu483OAX7pfcuZiSxcktEJVNPaU4AlAOGhS7vZIUDe8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221687/978081/k2-mindbender-90-c-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/mpCveGTtAFJrFaQWLQCeqIRDybRgVCfVmyNjOoc6Ykw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/mpCveGTtAFJrFaQWLQCeqIRDybRgVCfVmyNjOoc6Ykw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/mpCveGTtAFJrFaQWLQCeqIRDybRgVCfVmyNjOoc6Ykw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/mpCveGTtAFJrFaQWLQCeqIRDybRgVCfVmyNjOoc6Ykw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/mpCveGTtAFJrFaQWLQCeqIRDybRgVCfVmyNjOoc6Ykw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

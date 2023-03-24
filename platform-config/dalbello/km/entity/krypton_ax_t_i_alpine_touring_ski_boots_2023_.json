@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_krypton_ax_t_i_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Slotting in just beneath the Krypton 130 T.I. and intended for the skier who does it all but a bit more comfort and a more forgiving flex, the Dalbello Krypton AX T.I. Ski Boots feature a mechanical walk mode and a serious 120 flex as well as the Lupo Air liner for weight reduction and better range of cuff motion. An all-terrain vehicle for the burliest of lines that can walk the walk on-piste as well, the Krypton AX T.I. 100mm last is also roomier and intended to fit most average to slightly wider feet with ease.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Krypton AX T.I. Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227752/917391/dalbello-krypton-ax-t-i-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hWF4tubJUJRoWl8iw3sL4JmNUk1Skcli8fFYfJzYGTU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hWF4tubJUJRoWl8iw3sL4JmNUk1Skcli8fFYfJzYGTU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hWF4tubJUJRoWl8iw3sL4JmNUk1Skcli8fFYfJzYGTU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hWF4tubJUJRoWl8iw3sL4JmNUk1Skcli8fFYfJzYGTU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hWF4tubJUJRoWl8iw3sL4JmNUk1Skcli8fFYfJzYGTU/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

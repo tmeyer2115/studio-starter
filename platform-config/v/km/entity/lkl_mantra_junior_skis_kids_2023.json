@@ -1,0 +1,108 @@
+{
+  "$id": "v_lkl_mantra_junior_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_mantra_junior_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "Tip \u0026 Tail Rocker – Bends up only in the shovel and tail zones, with a camber shape in the middle."
+      },
+      {
+        "value": "Full Sensor Woodcore – Harder wood in the binding mount area and softer wood elsewhere provides power underfoot with a forgiving flex at tip and tail."
+      },
+      {
+        "value": "Full Sidewall – Direct and strong power transmission with full length sidewalls."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "329.99",
+    "c_productType": "Skis",
+    "c_sizes": ["118", "128", "138", "148", "158"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "There comes a time in every parent\u0027s life when they look up the hill and go, \"There\u0027s a good skier . . . wait a minute, that\u0027s my kid!\" That\u0027s the moment you know they need real ski, and no company does it better than Völkl. The Völkl Mantra Junior Skis, as one might expect, emulate the power and precision of the adult Mantra skis, but without the Titanal frame or carbon webbing. They still offer rock solid Full Sidewall construction and the Power Construction layup, and deliver the kind of performance good kids deserve.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Völkl Mantra Junior Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227087/915718/volkl-mantra-junior-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/kXOQytmHQIViHhpqbBmsfRtp1FC8cNKVLOus-7Ll6As/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/kXOQytmHQIViHhpqbBmsfRtp1FC8cNKVLOus-7Ll6As/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/kXOQytmHQIViHhpqbBmsfRtp1FC8cNKVLOus-7Ll6As/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/kXOQytmHQIViHhpqbBmsfRtp1FC8cNKVLOus-7Ll6As/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/kXOQytmHQIViHhpqbBmsfRtp1FC8cNKVLOus-7Ll6As/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

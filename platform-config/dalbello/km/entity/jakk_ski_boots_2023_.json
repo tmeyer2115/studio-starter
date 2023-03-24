@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_jakk_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "299.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Jakk is back, and ready for the highest volume freestyle feet you can swing their way. Dalbello Jakk Ski Boots feature a 103mm last, tall instep and a laid-back 80 flex, making them the perfect choice for park and pipe kids who want to avoid any foot-binding discomfort and/or whose feet are just ahead of their bodies on the growth curve. Classic Dalbello Cabrio architecture and quality, and ready to jib away the hours, the Jakk is a freestyle-oriented winner that won\u0027t go away.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Jakk Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227751/916389/dalbello-jakk-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SmJ8hb-HcLgrAqApzNfC7WkmhOETBCB7qGgeJyFK1fo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SmJ8hb-HcLgrAqApzNfC7WkmhOETBCB7qGgeJyFK1fo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SmJ8hb-HcLgrAqApzNfC7WkmhOETBCB7qGgeJyFK1fo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SmJ8hb-HcLgrAqApzNfC7WkmhOETBCB7qGgeJyFK1fo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SmJ8hb-HcLgrAqApzNfC7WkmhOETBCB7qGgeJyFK1fo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

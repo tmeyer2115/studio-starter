@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_ultra_95_s_w_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "449.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Subtle improvements make a winner even better in the Atomic Hawx Ultra 95 S W GW Ski Boots. The switch to highly moldable Mimic Gold liners and grippy Gripwalk sole pads are welcome changes that will improve comfort and safety, but the groundswell of approval that\u0027s met the Hawx Ultra 95 among skiers of all kinds will be sure to continue. Don\u0027t be put off by the nominal \"narrow\" last, this boot can be made to fit many average width feet remarkably well in the hands of a skilled bootfitter, and the results are worth it.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Ultra 95 S W GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197854/826612/atomic-hawx-ultra-95-s-w-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MOubimRft5EnkwoLseO0c9m_omUz72zq0ROFDYgDvUg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MOubimRft5EnkwoLseO0c9m_omUz72zq0ROFDYgDvUg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MOubimRft5EnkwoLseO0c9m_omUz72zq0ROFDYgDvUg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MOubimRft5EnkwoLseO0c9m_omUz72zq0ROFDYgDvUg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MOubimRft5EnkwoLseO0c9m_omUz72zq0ROFDYgDvUg/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

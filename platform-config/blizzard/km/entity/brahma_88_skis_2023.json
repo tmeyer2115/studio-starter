@@ -1,0 +1,246 @@
+{
+  "$id": "blizzard_brahma_88_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_brahma_88_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "Carbon Flipcore Technology – A revolutionary rockered ski production process that incorporates a uni-directional carbon frame onto the core of the ski that results in great performance with a light and easy feel."
+      },
+      {
+        "value": "TrueBlend Woodcore – Combining Beech and Poplar woods in a uniquely balanced blend that\u0027s tailored to the performance needs of each Blizzard all-mountain ski, the TrueBlend cores are labor-intensive but worth the extra effort."
+      },
+      {
+        "value": "Two Layers of Titanal®"
+      },
+      {
+        "value": "Bi-Directional Carbon Fiber"
+      },
+      {
+        "value": "Titanium Binding Reinforcement Layer"
+      },
+      {
+        "value": "Anti-Shock Layer"
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Skis",
+    "c_sizes": ["165", "171", "177", "189"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Carving, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "When you\u0027re going to a knife fight, bring a knife. Hard snow and speed require just such an implement, and the Blizzard Brahma 88 Skis are as good as they get. Two sheets of Titanal sandwiching a Beech and Poplar TrueBlend core give the Brahma 88 the grip and power to slice and dice those groomers as well as anything not currently being used on the World Cup circuit, but aren\u0027t too demanding for those without World Cup legs. This ski is legendary, and the legend continues to grow year by year.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Blizzard Brahma 88 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223100/906220/blizzard-brahma-88-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223100/906220/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223100/906220/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223100/906220/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MoWBLm7JpB8e7j6f40d58cKPuNOn_Pp6LmUxtAZETxg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1521779765-7108d0b87dd35e46ec523f0e92af275cd6f82341358ed8f99577b4ee44e73112-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/mVNTXvxSxyFEkTwYfjOEk_mv7SsArgE_ls-XNPTRVVI/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/mVNTXvxSxyFEkTwYfjOEk_mv7SsArgE_ls-XNPTRVVI/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/mVNTXvxSxyFEkTwYfjOEk_mv7SsArgE_ls-XNPTRVVI/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/mVNTXvxSxyFEkTwYfjOEk_mv7SsArgE_ls-XNPTRVVI/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/mVNTXvxSxyFEkTwYfjOEk_mv7SsArgE_ls-XNPTRVVI/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

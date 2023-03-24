@@ -1,0 +1,156 @@
+{
+  "$id": "blizzard_rustler_9_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_rustler_9_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "Shape Concept – Progressive wide body style with an aggressive radius. Early rise tail designed to be playful in softer snow."
+      },
+      {
+        "value": "Carbon Flipcore Technology – A revolutionary rockered ski production process that incorporates a uni-directional carbon frame onto the core of the ski that results in great performance with a light and easy feel."
+      },
+      {
+        "value": "TrueBlend Free Core – Combining Beech, Poplar and Paulownia woods in a uniquely balanced blend that\u0027s tailored to the performance needs of each Hustler ski, the TrueBlend Free cores are labor-intensive but worth the extra effort."
+      },
+      {
+        "value": "Carbon Flipcore D.R.T. – Blizzard\u0027s Dynamic Release Technology utilizes a specially shaped Titanal component that is full width under the boot but tapers toward the tip and tail of the ski, to increase the ski\u0027s playfulness without the weight penalty and without sacrificing stability. Combined with unidirectional carbon fiber in the tip and tail, longitudinal stability is retained while torsional rigidity is lessened for a more playful and less hooky feel."
+      },
+      {
+        "value": "D.R.T Titanal"
+      },
+      {
+        "value": "Uni-Directional Carbon Frame"
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": ["164", "172", "180", "188"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "A funny thing happened in the winter of \u002721-22. Winter went dry for months in most of North America, and the wide ski powder maniacs were stuck for a low tide answer. A few of them got out on the Blizzard Rustler 9 Skis and were blown away. Who woulda thought, with that rocker line and limited edge contact, but here is ski that can rail with the best of the flat-tailed carvers and not punish the rider in bumps and re-frozen slop! The Titanal D.R.T. laminate does just what it was intended to do, namely smooth out the ride and make the ski feel uber-confident at speed, and the tail rocker means the Rustler doesn\u0027t lock in and take you for a ride. Do yourself a favor and check these out.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Blizzard Rustler 9 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223106/906218/blizzard-rustler-9-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/1CYbR2giv4cSCloHuQUG3-InsOC91RHyR8CqEemSaS0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/1CYbR2giv4cSCloHuQUG3-InsOC91RHyR8CqEemSaS0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1CYbR2giv4cSCloHuQUG3-InsOC91RHyR8CqEemSaS0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/1CYbR2giv4cSCloHuQUG3-InsOC91RHyR8CqEemSaS0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1CYbR2giv4cSCloHuQUG3-InsOC91RHyR8CqEemSaS0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1521781370-d4639e9acf2c8957c44719b1de5c592ba17e86aaf02da78d7cd5326f9784f8ca-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gaCV4E3w41Eu0FNKaj88KNoMUEWxedyo-EFx67cwJyI/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

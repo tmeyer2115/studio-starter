@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_s_pro_alpha_120_el_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Indulge yourself in a comfortable and powerful day on the slopes with the new Salomon S/Pro Alpha 120 EL Ski Boots. These super customizable shoes have a custom HD shell and liner that are fully heat moldable, and an updated design that provides more space over the top of your foot without pinching a nerve. Not only that, this model comes with an adjustable tongue in the liner that allows you to dial your instep height to perfection. Thanks to their stiff flex and gripwalk soles, the Alpha 120 is just as capable ripping down a chundery black diamond as it is walking through an icy parking lot. What can\u0027t the S/Pro Alpha do?",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon S/Pro Alpha 120 EL Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219338/910822/salomon-s-pro-alpha-120-el-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WmHjAeDcGlxL0ZgA63M5jAwT8jRR6JF-rmWHGpC-iwo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WmHjAeDcGlxL0ZgA63M5jAwT8jRR6JF-rmWHGpC-iwo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WmHjAeDcGlxL0ZgA63M5jAwT8jRR6JF-rmWHGpC-iwo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WmHjAeDcGlxL0ZgA63M5jAwT8jRR6JF-rmWHGpC-iwo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WmHjAeDcGlxL0ZgA63M5jAwT8jRR6JF-rmWHGpC-iwo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

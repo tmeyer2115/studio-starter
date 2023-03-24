@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_prime_xtd_120_ct_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "Based on the popular 100mm Hawx Prime last, the Hawx Prime XTD 120 CT GW gives backcountry skiers with higher volume feet a chance to join in the fun. Bootfitters using the Atomic Memory Fit HD process and a few tricks have been successful in fitting many wider and taller feet in the Hawx Prime boots, and the XTD version is no exception - EXCEPT that it happens to also tour great. A 54˚ range of motion, the proven Free/Lock 4.0 lever system, and Atomic\u0027s Prolite construction mean you can be at the head of the pack going both uphill and downhill.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Atomic Hawx Prime XTD 120 CT GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197886/981764/atomic-hawx-prime-xtd-120-ct-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Zpc0l8AIaGEpp0iJNpYoRedR2Oabelt6vu6qjYTgVa0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Zpc0l8AIaGEpp0iJNpYoRedR2Oabelt6vu6qjYTgVa0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Zpc0l8AIaGEpp0iJNpYoRedR2Oabelt6vu6qjYTgVa0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Zpc0l8AIaGEpp0iJNpYoRedR2Oabelt6vu6qjYTgVa0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Zpc0l8AIaGEpp0iJNpYoRedR2Oabelt6vu6qjYTgVa0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

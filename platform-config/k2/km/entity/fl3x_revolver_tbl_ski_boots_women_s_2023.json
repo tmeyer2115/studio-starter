@@ -1,0 +1,56 @@
+{
+  "$id": "k2_fl3x_revolver_tbl_ski_boots_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "After shredding the Full Tilt Soul Sisters for years, all it took was the creation of K2 FL3X for Taylor Lundquist to get her very own pro model boot. The K2 FL3X Revolver TBL Ski Boots are the ultimate in women\u0027s park riding. Fully heat modable, infinitely flexy, and super smooth riding, these things will have you feeling nimble in the air, powerful on landings, and locked-in on rails and presses.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Revolver TBL Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224030/981085/k2-fl3x-revolver-tbl-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/tLaJslTBbqDRITcBZCVD4Ue_vJUfkZY6OG0bzcyHJI8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/tLaJslTBbqDRITcBZCVD4Ue_vJUfkZY6OG0bzcyHJI8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/tLaJslTBbqDRITcBZCVD4Ue_vJUfkZY6OG0bzcyHJI8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/tLaJslTBbqDRITcBZCVD4Ue_vJUfkZY6OG0bzcyHJI8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tLaJslTBbqDRITcBZCVD4Ue_vJUfkZY6OG0bzcyHJI8/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

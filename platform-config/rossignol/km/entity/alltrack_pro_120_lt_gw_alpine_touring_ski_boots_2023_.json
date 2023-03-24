@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_alltrack_pro_120_lt_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "The Rossignol Alltrack Pro 120 LT GW Alpine Touring Ski Boots aren\u0027t just any old boot. They\u0027re a powerful all-mountain weapon to drive the biggest skis on the biggest lines both in and out of bounds. A combination of Grilamid plastic and Rossi\u0027s GenerativeGrid construction brings the weight down to touring boot range, with a 50˚ ROM hike mode that makes skinning a pleasure, but they still retain plenty of oomph for the downhill. Rossi\u0027s Dual Core Technology means the Alltrack Pro 120 LTs pack a super smooth and progressive flex that performs in everything from icy chutes and tight tree lines to resort moguls and chop.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Rossignol Alltrack Pro 120 LT GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/185232/747889/rossignol-alltrack-pro-120-lt-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rROCoB4MxlJH6t13xcdAUY0PezsvwmiRuzPArk9HDEk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rROCoB4MxlJH6t13xcdAUY0PezsvwmiRuzPArk9HDEk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rROCoB4MxlJH6t13xcdAUY0PezsvwmiRuzPArk9HDEk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rROCoB4MxlJH6t13xcdAUY0PezsvwmiRuzPArk9HDEk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rROCoB4MxlJH6t13xcdAUY0PezsvwmiRuzPArk9HDEk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

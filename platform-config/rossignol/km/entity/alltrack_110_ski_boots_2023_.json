@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_alltrack_110_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "529.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Get on with your business on the frontside, backside, or anywhere in between with the Rossignol Alltrack 110 Ski Boots. A smooth walk mode, sturdy all-mountain Dual Core design, and a flex that adapts easily to both groomers and untracked, the Alltrack 110 features a roomy 102mm last and classic Rossignol quality.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Alltrack 110 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201473/915268/rossignol-alltrack-110-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/GZK_KnxT4-JEnSCDMgE4UIdy6G-cuDB5-u79U0YZgy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/GZK_KnxT4-JEnSCDMgE4UIdy6G-cuDB5-u79U0YZgy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/GZK_KnxT4-JEnSCDMgE4UIdy6G-cuDB5-u79U0YZgy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/GZK_KnxT4-JEnSCDMgE4UIdy6G-cuDB5-u79U0YZgy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/GZK_KnxT4-JEnSCDMgE4UIdy6G-cuDB5-u79U0YZgy4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

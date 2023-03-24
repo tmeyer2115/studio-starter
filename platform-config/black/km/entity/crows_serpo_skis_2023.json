@@ -1,0 +1,186 @@
+{
+  "$id": "black_crows_serpo_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_serpo_skis_2023",
+    "c_details": [
+      {
+        "value": "Progressive Front Rocker and Light Rear Rocker – Pivot control, maneuverability, and floatation."
+      },
+      {
+        "value": "Classic Camber – Balance between stability and maneuverability."
+      },
+      {
+        "value": "Flex – Energetic with double titanal plates for a better response."
+      },
+      {
+        "value": "20 Meter Radius – Attacking soul."
+      },
+      {
+        "value": "Poplar / Fiberglass"
+      },
+      {
+        "value": "Double Titanal Plate Underfoot"
+      },
+      {
+        "value": "Semi Cap Construction"
+      },
+      {
+        "value": "ABS Sidewalls All Around"
+      },
+      {
+        "value": "Mounting Point – -8cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Skis",
+    "c_sizes": ["168", "174", "180", "186"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Black Crows Serpo Skis are all-mountain rippers with a frontside focus. They combine a moderate flex with titanal reinforcement to give you the best of both words. They\u0027re powerful and decisive on edge, perfect for ripping down groomers at speed, but they also are forgiving and versatile enough for some off-piste adventuring when the mood strikes you. If you\u0027re looking for an everyday ski that you can lay down some hip dragging carves with, the Serpo is what you need.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Black Crows Serpo Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224533/930774/black-crows-serpo-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/XaNi9iYUB4Zem6olMvVHq_TfvNZXcCgEKjdoyJBlzAw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/XaNi9iYUB4Zem6olMvVHq_TfvNZXcCgEKjdoyJBlzAw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/XaNi9iYUB4Zem6olMvVHq_TfvNZXcCgEKjdoyJBlzAw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XaNi9iYUB4Zem6olMvVHq_TfvNZXcCgEKjdoyJBlzAw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XaNi9iYUB4Zem6olMvVHq_TfvNZXcCgEKjdoyJBlzAw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224533/930773/black-crows-serpo-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Ah3uptx04gbmaS0qKuyBPk2JiV6iq_pz0k4HbPBENSw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Ah3uptx04gbmaS0qKuyBPk2JiV6iq_pz0k4HbPBENSw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Ah3uptx04gbmaS0qKuyBPk2JiV6iq_pz0k4HbPBENSw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Ah3uptx04gbmaS0qKuyBPk2JiV6iq_pz0k4HbPBENSw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Ah3uptx04gbmaS0qKuyBPk2JiV6iq_pz0k4HbPBENSw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224533/930769/black-crows-serpo-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DpupT1rqxeHhbxd_rvsgBY_-aH2WFt6sFunJBWPiqb4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DpupT1rqxeHhbxd_rvsgBY_-aH2WFt6sFunJBWPiqb4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DpupT1rqxeHhbxd_rvsgBY_-aH2WFt6sFunJBWPiqb4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DpupT1rqxeHhbxd_rvsgBY_-aH2WFt6sFunJBWPiqb4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DpupT1rqxeHhbxd_rvsgBY_-aH2WFt6sFunJBWPiqb4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

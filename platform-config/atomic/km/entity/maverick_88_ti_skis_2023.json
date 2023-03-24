@@ -1,0 +1,243 @@
+{
+  "$id": "atomic_maverick_88_ti_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/atomic_maverick_88_ti_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – 15% Tip Rocker / 75% Camber / 10% Tail Rocker"
+      },
+      {
+        "value": "Flow Profile – Flow Profile blends the perfect amount of rocker and camber for optimal effective edge contact during every turn. Utilizing the latest generation of HRZN Tech Tip, Flow Profile delivers the ideal combination of camber, shovel taper, and tip rocker to create a ski that hooks up on hardpack as well as floats in fresh snow."
+      },
+      {
+        "value": "HRZN Tech Tip – HRZN Tech adds 10% more surface area at your ski tips. For awesome flotation in powder plus less tip deflection and better tracking through chop."
+      },
+      {
+        "value": "OMatic Construction – The ultimate balance of stiffness and flex throughout the length of the ski. Precision milled poplar wood, lightweight fiberglass, and titanal layer or carbon insets. OMatic delivers effortless performance, balance, and stability from tip to tail."
+      },
+      {
+        "value": "Light Woodcore – Made from poplar wood, this core optimizes the ski\u0027s weight without sacrificing any shock absorption or stability."
+      },
+      {
+        "value": "Titanium Powered – Actually, not Titanium but rather .4mm layers of Titanal alloy above and below the core"
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall for power transmission combined with a small cap for durability."
+      },
+      {
+        "value": "Atomic Base – High-density sintered bases that are fast in a variety of snow conditions and accept wax readily"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "599.95",
+    "c_productType": "Skis",
+    "c_sizes": ["169", "176", "184"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Atomic Maverick 88 TI Skis were developed after an extensive testing program in North America which targeted the type of skiing North American skiers got after (ie, not just \"faux racing\" on groomers). They came up with the Maverick lineup in response to testers who wanted more stability at speed and better performance in fresh and cut up snow, and they came up with a winner. Not only do the Maverick 88 TI\u0027s feel more solid and planted on firm snow, they yield better float and directional confidence off-piste. The new Flow Profile is a mashup of previous Atomic technologies like the HRZN Tech Tip plus deeper sidecuts and longer rocker profiles, and the new OMatic cores are a further evolution of Atomic\u0027s poplar cores but more finely tuned to individual skier weights and ski lengths.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Atomic Maverick 88 Ti Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219393/902838/atomic-maverick-88-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QubXiyFhB78EAxll60ZRlqy8bZE_9BrFj98c22Doff8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QubXiyFhB78EAxll60ZRlqy8bZE_9BrFj98c22Doff8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QubXiyFhB78EAxll60ZRlqy8bZE_9BrFj98c22Doff8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QubXiyFhB78EAxll60ZRlqy8bZE_9BrFj98c22Doff8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QubXiyFhB78EAxll60ZRlqy8bZE_9BrFj98c22Doff8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219393/902829/atomic-maverick-88-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nznjXmxZJAeX70yNpuZtL-QRA2qjZtYZ1G1fQfYxDZc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nznjXmxZJAeX70yNpuZtL-QRA2qjZtYZ1G1fQfYxDZc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nznjXmxZJAeX70yNpuZtL-QRA2qjZtYZ1G1fQfYxDZc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nznjXmxZJAeX70yNpuZtL-QRA2qjZtYZ1G1fQfYxDZc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nznjXmxZJAeX70yNpuZtL-QRA2qjZtYZ1G1fQfYxDZc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219393/902828/atomic-maverick-88-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/L6xTGWkxcJXyHylcrKOpU208TuV6aX-rxYkY16yrd44/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/L6xTGWkxcJXyHylcrKOpU208TuV6aX-rxYkY16yrd44/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/L6xTGWkxcJXyHylcrKOpU208TuV6aX-rxYkY16yrd44/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/L6xTGWkxcJXyHylcrKOpU208TuV6aX-rxYkY16yrd44/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/L6xTGWkxcJXyHylcrKOpU208TuV6aX-rxYkY16yrd44/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219393/902827/atomic-maverick-88-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xk211B6E4zQMzuIna1ytLewn0bE5rnMAjjKUH_yqYng/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xk211B6E4zQMzuIna1ytLewn0bE5rnMAjjKUH_yqYng/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xk211B6E4zQMzuIna1ytLewn0bE5rnMAjjKUH_yqYng/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xk211B6E4zQMzuIna1ytLewn0bE5rnMAjjKUH_yqYng/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xk211B6E4zQMzuIna1ytLewn0bE5rnMAjjKUH_yqYng/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219393/902831/atomic-maverick-88-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/uvoRgbBrhBEsMqwEttwza5Hfr1uL5JowYwuv4wHd8U4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/uvoRgbBrhBEsMqwEttwza5Hfr1uL5JowYwuv4wHd8U4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/uvoRgbBrhBEsMqwEttwza5Hfr1uL5JowYwuv4wHd8U4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/uvoRgbBrhBEsMqwEttwza5Hfr1uL5JowYwuv4wHd8U4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uvoRgbBrhBEsMqwEttwza5Hfr1uL5JowYwuv4wHd8U4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

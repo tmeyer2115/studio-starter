@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_s_lab_mtn_summit_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "For most, touring isn\u0027t about being the fastest, lightest, or even reaching the top. But when you\u0027re out on the big trips and weight really matters, look no further than the new Salomon S/Lab MTN Summit Alpine Touring Ski Boots. Developed with input from professional masochist and evo ambassador, Cody Townsend, the Summit boots are stacked with features to make life on the skin track more efficient. Crafted with Salomon\u0027s heat moldable Custom Shell and a Boa at the instep for easy adjustments, there\u0027s nothing these boots can\u0027t attempt. Even if you DO turn around during the bushwhack.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Salomon S/Lab MTN Summit Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219482/921932/salomon-s-lab-mtn-summit-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/3O0bneZkkPVDFKGsF4Qg1Vp995O1XDSgMTeHnnj4gYo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/3O0bneZkkPVDFKGsF4Qg1Vp995O1XDSgMTeHnnj4gYo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/3O0bneZkkPVDFKGsF4Qg1Vp995O1XDSgMTeHnnj4gYo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/3O0bneZkkPVDFKGsF4Qg1Vp995O1XDSgMTeHnnj4gYo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/3O0bneZkkPVDFKGsF4Qg1Vp995O1XDSgMTeHnnj4gYo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

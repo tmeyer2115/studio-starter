@@ -1,0 +1,219 @@
+{
+  "$id": "line_skis_pandora_94_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/line_skis_pandora_94_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Proflie – 8mm Tip / 4mm Camber / 2mm Tail"
+      },
+      {
+        "value": "Directional Flex – The softer tip floats and initiates turns easily while the stiffer tail provides power, stability and high speed control."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Aspenlite™ Core – 100% Aspen wood for the lightest, most nimble feel."
+      },
+      {
+        "value": "Carbon Magic Fingers™ – A wide array of carbon stretching from tip to tail for added stability without sacrificing weight."
+      },
+      {
+        "value": "Capwall™Construction – Combining the precision of sidewall underfoot, and the lightweight, durable performance of cap construction in the tip and tail, Capwall™ Construction provides the best of both worlds."
+      },
+      {
+        "value": "Sintered 1.3 mm Base – Sintered bases reduce friction against the snow allowing for more speed, and more durability due to the high-density material they\u0027re crafted from."
+      },
+      {
+        "value": "2.1mm x 2mm"
+      },
+      {
+        "value": "Stance Back from Center – 59.1 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "549.95",
+    "c_productType": "Skis",
+    "c_sizes": ["158", "165", "172"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Line Skis Pandora 94 Skis are just plain fun. If you\u0027re an all-mountain rider who tends a bit more towards the hard pack, these skis will help make the blank canvases of cord into a place that\u0027s brimming with bright potential for colorful swoops and expressive turns. Plus, they\u0027re super lightweight, which leads many riders to pair them with tech bindings and take them into the backcountry. Whichever direction you point your Pandora 94s in, a treasure trove of splendor awaits you.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Line Skis Pandora 94 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221765/906625/line-skis-pandora-94-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/kDYJf2s7xegaHEajYoKAItYjarOPxBaQIL8o5M0HZ7w/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/kDYJf2s7xegaHEajYoKAItYjarOPxBaQIL8o5M0HZ7w/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/kDYJf2s7xegaHEajYoKAItYjarOPxBaQIL8o5M0HZ7w/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/kDYJf2s7xegaHEajYoKAItYjarOPxBaQIL8o5M0HZ7w/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/kDYJf2s7xegaHEajYoKAItYjarOPxBaQIL8o5M0HZ7w/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221765/906628/line-skis-pandora-94-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/RWL9JSWYa1VAcdWa-nyKpiyDIi8mkrfTOxVxherHScw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/RWL9JSWYa1VAcdWa-nyKpiyDIi8mkrfTOxVxherHScw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/RWL9JSWYa1VAcdWa-nyKpiyDIi8mkrfTOxVxherHScw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/RWL9JSWYa1VAcdWa-nyKpiyDIi8mkrfTOxVxherHScw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/RWL9JSWYa1VAcdWa-nyKpiyDIi8mkrfTOxVxherHScw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221765/906753/line-skis-pandora-94-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/gNrswgQlcs5dM7N1m93Ma88ojXcXA_OWcu4yYf8a6r4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/gNrswgQlcs5dM7N1m93Ma88ojXcXA_OWcu4yYf8a6r4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/gNrswgQlcs5dM7N1m93Ma88ojXcXA_OWcu4yYf8a6r4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/gNrswgQlcs5dM7N1m93Ma88ojXcXA_OWcu4yYf8a6r4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/gNrswgQlcs5dM7N1m93Ma88ojXcXA_OWcu4yYf8a6r4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221765/906756/line-skis-pandora-94-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/vvgCiGNZ40Z8Wz5SOesUfNXDe-Zh0rNs5M764iuwdns/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/vvgCiGNZ40Z8Wz5SOesUfNXDe-Zh0rNs5M764iuwdns/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/vvgCiGNZ40Z8Wz5SOesUfNXDe-Zh0rNs5M764iuwdns/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/vvgCiGNZ40Z8Wz5SOesUfNXDe-Zh0rNs5M764iuwdns/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/vvgCiGNZ40Z8Wz5SOesUfNXDe-Zh0rNs5M764iuwdns/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

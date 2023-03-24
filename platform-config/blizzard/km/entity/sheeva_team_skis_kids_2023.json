@@ -1,0 +1,111 @@
+{
+  "$id": "blizzard_sheeva_team_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_sheeva_team_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "Beech and Poplar core"
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "349.95",
+    "c_productType": "Skis",
+    "c_sizes": ["140", "148", "156"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "When girlfriend starts pushing YOUR limits, she needs real skis to do the job. Get her on the Blizzard Sheeva Team Skis and watch her thrive. The Sheeva Team features quality wood cores and Blizzard\u0027s classic Sandwich compound Partial Sidewall construction and is built to rip but scaled down for smaller bodies.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Blizzard Sheeva Team Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223111/906223/blizzard-sheeva-team-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/qkk9PoKc9FWN7-aO8cNw4QGWZLoaV4ZW9ZZjkAii3sU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/qkk9PoKc9FWN7-aO8cNw4QGWZLoaV4ZW9ZZjkAii3sU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/qkk9PoKc9FWN7-aO8cNw4QGWZLoaV4ZW9ZZjkAii3sU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/qkk9PoKc9FWN7-aO8cNw4QGWZLoaV4ZW9ZZjkAii3sU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/qkk9PoKc9FWN7-aO8cNw4QGWZLoaV4ZW9ZZjkAii3sU/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

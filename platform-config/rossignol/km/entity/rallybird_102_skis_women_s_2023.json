@@ -1,0 +1,306 @@
+{
+  "$id": "rossignol_rallybird_102_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/big-mountain/rossignol_rallybird_102_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Free Rocker – 25% Tip Rocker / 60% Camber / 15% Tail Rocker"
+      },
+      {
+        "value": "Progressive Sidecut – Firm grip while opening up more scope and fluidity to cruise, dazzle and carve on all terrain and in any snow conditions."
+      },
+      {
+        "value": "Paulownia Wood Core – The paulownia wood core reduces the ski\u0027s weight by up to 30% for improved agility and handling while retaining control."
+      },
+      {
+        "value": "Air Tip – The Air Tip lightens the tip and tail of the ski for improved maneuverability and turn control in all snow conditions."
+      },
+      {
+        "value": "Extended Core – The Extended Core construction increases ski-snow contact and the torsional stability of the ski, boosting precision and control in varied snow conditions."
+      },
+      {
+        "value": "Double LCT ABS – The Double LCT ABS construction is an adaptation of Line Control Technology on wider skis to improve line control with power and energy."
+      },
+      {
+        "value": "Damp Tech – The Damp Tech insert at the tip reduces ski vibrations to absorb irregularities in the terrain."
+      },
+      {
+        "value": "Diagofiber – Diagofiber technology meets ultra-lightweight paulownia cores. The complementary duo of technologies gives most skiers the opportunity to get up close and personal with the peaks and explore new landscapes with absolute composure."
+      },
+      {
+        "value": "Rectangular Full Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["154", "162", "170"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "For the contemporary all-mountain skier with a freeride flair, the Rossignol Rallybird 102 Skis is a very worthy vessel! Combining a progressive sidecut and Free Rocker profile, the Rallybird 102 gives you the edgehold you need to carve on corduroy while still maintaining a fun, easy-to-turn characteristic when you find yourself navigating through trees or moguls. Simultaneously light yet damp, the Rossignol Rallybird 102 Skis and their 102mm waist width strike the perfect balance of carvability on firmer snow and plenty of float in the pow.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_big_mountain"
+    ],
+    "name": "Rossignol Rallybird 102 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/983427/rossignol-rallybird-102-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/983426/rossignol-rallybird-102-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/c6CfcyRYRAPTQtKa0v5HSsWaKkHt1mfQHJjYas92MsU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/c6CfcyRYRAPTQtKa0v5HSsWaKkHt1mfQHJjYas92MsU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/c6CfcyRYRAPTQtKa0v5HSsWaKkHt1mfQHJjYas92MsU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/c6CfcyRYRAPTQtKa0v5HSsWaKkHt1mfQHJjYas92MsU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/c6CfcyRYRAPTQtKa0v5HSsWaKkHt1mfQHJjYas92MsU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/983427/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/983427/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/43NIo9iGDRQ8ZxT5ILVe0PQehustIZhySNQi3Ac4lj4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/981747/rossignol-rallybird-102-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jQE0pUI5tPdQtOIQSOp-fn9JqQk60_1_mA_eCbs2kZo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jQE0pUI5tPdQtOIQSOp-fn9JqQk60_1_mA_eCbs2kZo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jQE0pUI5tPdQtOIQSOp-fn9JqQk60_1_mA_eCbs2kZo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jQE0pUI5tPdQtOIQSOp-fn9JqQk60_1_mA_eCbs2kZo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jQE0pUI5tPdQtOIQSOp-fn9JqQk60_1_mA_eCbs2kZo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/981744/rossignol-rallybird-102-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/qKke5IAlR_oUjrp6zZ6L961Hs2mE-eVf4Z1V1Cyv2H8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/qKke5IAlR_oUjrp6zZ6L961Hs2mE-eVf4Z1V1Cyv2H8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/qKke5IAlR_oUjrp6zZ6L961Hs2mE-eVf4Z1V1Cyv2H8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/qKke5IAlR_oUjrp6zZ6L961Hs2mE-eVf4Z1V1Cyv2H8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/qKke5IAlR_oUjrp6zZ6L961Hs2mE-eVf4Z1V1Cyv2H8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216290/981745/rossignol-rallybird-102-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rIrmRVELYqipo-u0mes4g2J1etNuHR543Ycl95FDgdg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rIrmRVELYqipo-u0mes4g2J1etNuHR543Ycl95FDgdg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rIrmRVELYqipo-u0mes4g2J1etNuHR543Ycl95FDgdg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rIrmRVELYqipo-u0mes4g2J1etNuHR543Ycl95FDgdg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rIrmRVELYqipo-u0mes4g2J1etNuHR543Ycl95FDgdg/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

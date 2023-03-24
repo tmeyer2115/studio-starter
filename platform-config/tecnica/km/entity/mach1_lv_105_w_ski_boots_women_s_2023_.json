@@ -1,0 +1,56 @@
+{
+  "$id": "tecnica_mach1_lv_105_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Tecnica Mach1 LV 105 W Ski Boots set the standard for performance-oriented skiers looking for the best balance of downhill power and comfort. Ready to deliver when the chips are down, the Mach 1 LV 105 skis as well as many stiffer boots without making you regret you ever took up the sport during the break-in period. Easy entry with the Quick Instep insert, strong performance from the C.A.S. PU shell and T.Drive spine, and the warmth of the Celliant® insulated Performance liner are all part of this excellent package.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Mach1 LV 105 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223168/906122/tecnica-mach1-lv-105-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/95iYwnV3WksKhuIPsss65tpVWx9vGOJHfvV_WS0uR2k/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/95iYwnV3WksKhuIPsss65tpVWx9vGOJHfvV_WS0uR2k/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/95iYwnV3WksKhuIPsss65tpVWx9vGOJHfvV_WS0uR2k/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/95iYwnV3WksKhuIPsss65tpVWx9vGOJHfvV_WS0uR2k/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/95iYwnV3WksKhuIPsss65tpVWx9vGOJHfvV_WS0uR2k/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

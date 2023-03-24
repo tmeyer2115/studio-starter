@@ -1,0 +1,56 @@
+{
+  "$id": "scott_celeste_tour_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "750.00",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "Buck up, my wide-footed friend, touring comfort is within your grasp with the Scott Celeste Tour Alpine Touring Ski Boots. The successor to the proven Celeste III continues with the wide, 103.5mm last and drops weight to hit the 1150 gram mark with a powerful and progressive flex for the down and 60˚ of cuff motion for the up.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Scott Celeste Tour Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208941/848243/scott-celeste-tour-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/03sGzffvxG2BI6Rjn91YwJ9XKXVEbVsvMIoyfFWaYtg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/03sGzffvxG2BI6Rjn91YwJ9XKXVEbVsvMIoyfFWaYtg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/03sGzffvxG2BI6Rjn91YwJ9XKXVEbVsvMIoyfFWaYtg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/03sGzffvxG2BI6Rjn91YwJ9XKXVEbVsvMIoyfFWaYtg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/03sGzffvxG2BI6Rjn91YwJ9XKXVEbVsvMIoyfFWaYtg/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

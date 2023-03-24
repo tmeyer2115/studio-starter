@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_magna_95_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "449.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Having trouble finding the perfect fit? Never fear, the Atomic Hawx Magna 95 W Ski Boots are here! Their wide width, adaptive cuff, and heat moldable shell make them a great choice for everyone on the blues and beyond. If you need a performance oriented boot that doesn\u0027t shrink on comfort, step into the Atomic Hawx Magna 95 W Ski Boots and you won\u0027t look back.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Magna 95 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219579/916575/atomic-hawx-magna-95-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DDec7vAlPKkBOrfzaltGxLcfMvo82KOI51ysUUoLsRA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DDec7vAlPKkBOrfzaltGxLcfMvo82KOI51ysUUoLsRA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DDec7vAlPKkBOrfzaltGxLcfMvo82KOI51ysUUoLsRA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DDec7vAlPKkBOrfzaltGxLcfMvo82KOI51ysUUoLsRA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DDec7vAlPKkBOrfzaltGxLcfMvo82KOI51ysUUoLsRA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

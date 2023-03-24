@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_kelia_50_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "219.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Light, super comfortable straight out of the box, and with a relaxed 104mm fit that compares to standing in warm sand at the beach barefoot, the Rossignol Kelia 50 Ski Boots are a great choice for those new to skiing or less aggressive skiers with high volume feet. Lightweight construction using Polyolefine plastic mean the Kelia 50 is easy nimble and less tiring to walk in, and the three buckle design is a snap to get in and out of.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Kelia 50 Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227421/918283/rossignol-kelia-50-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4HDQ4e9FQx5bwvc07ZRtv7o7dqZafkH6CrEgL8XHf5Y/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4HDQ4e9FQx5bwvc07ZRtv7o7dqZafkH6CrEgL8XHf5Y/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4HDQ4e9FQx5bwvc07ZRtv7o7dqZafkH6CrEgL8XHf5Y/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4HDQ4e9FQx5bwvc07ZRtv7o7dqZafkH6CrEgL8XHf5Y/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4HDQ4e9FQx5bwvc07ZRtv7o7dqZafkH6CrEgL8XHf5Y/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

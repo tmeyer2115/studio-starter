@@ -1,0 +1,21 @@
+{
+  "$id": "warehouse_men_skis_powder",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "dm_baseEntityCount": "3",
+    "dm_childEntityIds": ["82280356", "82280221", "82280448"],
+    "dm_directoryChildren": [
+      "line_skis_pescado_skis_2023",
+      "armada_arv_116_jj_skis_2023",
+      "armada_whitewalker_121_skis_2023"
+    ],
+    "dm_directoryChildrenCount": "3",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": ["warehouse", "warehouse_men", "warehouse_men_skis"],
+    "name": "Powder",
+    "slug": "men/skis/powder"
+  },
+  "entityType": "ce_category",
+  "labels": []
+}

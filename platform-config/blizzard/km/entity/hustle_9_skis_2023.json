@@ -1,0 +1,150 @@
+{
+  "$id": "blizzard_hustle_9_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_hustle_9_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "Shape Concept – Progressive wide body style with an aggressive radius. Early rise tail designed to be playful in softer snow."
+      },
+      {
+        "value": "TrueBlend Free Core – Combining Beech, Poplar and Paulownia woods in a uniquely balanced blend that\u0027s tailored to the performance needs of each Hustler ski, the TrueBlend Free cores are labor-intensive but worth the extra effort."
+      },
+      {
+        "value": "Carbon Flipcore Technology – A revolutionary rockered ski production process that incorporates a uni-directional carbon frame onto the core of the ski that results in great performance with a light and easy feel."
+      },
+      {
+        "value": "Carbon D.R.T. – The Dynamic Release Technology concept has been thoroughly tested and enthusiastically approved by users of the Rustler series skis, and the carbon iteration pushes the D.R.T. concept even further. Using a shorter Carbon and fiberglass insert rather than Titanal allows Blizzard to keep the strength and stability with less weight."
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["157", "164", "172", "180", "188"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Ok, now we\u0027re talking. Take the proven Rustler 9 platform, substitute a carbon and fiberglass DRT laminate for the Titanal one to drop weight but keep the classic Blizzard edgehold and precision, and BAM, you\u0027ve got a ripper\u0027s delight that\u0027s light enough to tour on but still has the guts to serve as your daily driver. The new Blizzard Hustle 9 Skis are the droids you seek.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Blizzard Hustle 9 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223105/906213/blizzard-hustle-9-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/GTH5nM38f3RoChtHkD-s_mweEilU_8cxOCdKITEOAQk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/GTH5nM38f3RoChtHkD-s_mweEilU_8cxOCdKITEOAQk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/GTH5nM38f3RoChtHkD-s_mweEilU_8cxOCdKITEOAQk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/GTH5nM38f3RoChtHkD-s_mweEilU_8cxOCdKITEOAQk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/GTH5nM38f3RoChtHkD-s_mweEilU_8cxOCdKITEOAQk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1521780894-ad9acc38bc5ef9fd26703f1b0829699d85d03726643aae4db8ff295d0608adc7-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/IaeIxpuRMEr3BsRglQhebGv7R0d6ewENrifOFL3QhJM/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/IaeIxpuRMEr3BsRglQhebGv7R0d6ewENrifOFL3QhJM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/IaeIxpuRMEr3BsRglQhebGv7R0d6ewENrifOFL3QhJM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/IaeIxpuRMEr3BsRglQhebGv7R0d6ewENrifOFL3QhJM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/IaeIxpuRMEr3BsRglQhebGv7R0d6ewENrifOFL3QhJM/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,41 @@
+{
+  "$id": "1944780937862102495",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_coverPhoto": {
+      "image": {
+        "height": 980,
+        "sourceUrl": "https://images.unsplash.com/photo-1486684338211-1a7ced564b0d?ixlib\u003drb-4.0.3\u0026ixid\u003dMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\u0026auto\u003dformat\u0026fit\u003dcrop\u0026w\u003d1470\u0026q\u003d80",
+        "thumbnails": [
+          {
+            "height": 980,
+            "url": "https://a.mktgcdn.com/p/stZZozuk_6jL_ATb0ihu5e9RYGRaygI687t1Uz4UAAY/1470x980.jpg",
+            "width": 1470
+          },
+          {
+            "height": 413,
+            "url": "https://a.mktgcdn.com/p/stZZozuk_6jL_ATb0ihu5e9RYGRaygI687t1Uz4UAAY/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "https://a.mktgcdn.com/p/stZZozuk_6jL_ATb0ihu5e9RYGRaygI687t1Uz4UAAY/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "https://a.mktgcdn.com/p/stZZozuk_6jL_ATb0ihu5e9RYGRaygI687t1Uz4UAAY/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/stZZozuk_6jL_ATb0ihu5e9RYGRaygI687t1Uz4UAAY/1470x980.jpg",
+        "width": 1470
+      }
+    },
+    "name": "Shop the 2024 Collection"
+  },
+  "entityType": "ce_collection",
+  "folder": "yext/root",
+  "labels": []
+}

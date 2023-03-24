@@ -1,0 +1,56 @@
+{
+  "$id": "nordica_hf_elite_w_heat_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "We can\u0027t count the number of times people have inquired about rear entry boots. Like bell-bottomed jeans, the cycle is complete with the Nordica HF Elite Heat GW Ski Boots. The Nordica HF Elite Heat GW Ski Boots go one further and include a Therm-ic® heated liner with Bluetooth® control, so in addition to the ultra comfy 102mm fit, your feet remain toasty all day. Hey presto, that\u0027s half of your first world problems solved in the blink of an eye.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica HF Elite W Heat Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198294/911028/nordica-hf-elite-w-heat-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/YjKTrzqZdekqMPJB6a9-dEmpfIAYQdPpvY4NMypU1x8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YjKTrzqZdekqMPJB6a9-dEmpfIAYQdPpvY4NMypU1x8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YjKTrzqZdekqMPJB6a9-dEmpfIAYQdPpvY4NMypU1x8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YjKTrzqZdekqMPJB6a9-dEmpfIAYQdPpvY4NMypU1x8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YjKTrzqZdekqMPJB6a9-dEmpfIAYQdPpvY4NMypU1x8/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

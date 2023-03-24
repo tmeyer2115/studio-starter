@@ -1,0 +1,116 @@
+{
+  "$id": "fischer_ranger_108_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/fischer_ranger_108_skis_2023",
+    "c_details": [
+      {
+        "value": "Freeski Rocker – Long smooth tip rocker with camber underfoot and moderate tail rocker. Easy to turn and saves energy in all situations."
+      },
+      {
+        "value": "Flex-Cut"
+      },
+      {
+        "value": "Beech / Poplar Wood Core"
+      },
+      {
+        "value": "Shaped Ti 0.5 – Matching the thickness and shape of this high strength alloy to the performance and geometry of a ski allows optimal grip and stability with a smoother ride."
+      },
+      {
+        "value": "Sandwich Sidewall Construction – Wood core combined with ABS sidewalls in a classic Sandwich Construction for balanced flex and perfect rebound."
+      },
+      {
+        "value": "Sintered Bases – Sintered bases have exceptional waxing properties and a very long service life."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": ["Sand", "171", "178", "185", "192"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "Powder bred, hard snow approved. The all new Fischer Ranger 108 Skis were made for some good old fashioned freeride fluff and that includes the turbulence-riddled runout at the end too. With poplar and beech construction, a shaped titanal insert underfoot, and Fischer\u0027s Freeski Rocker, the Ranger 108 shines through the big turns, and doesn\u0027t mind the little guys either. If you\u0027re looking for hard charging stability that\u0027s now easier than ever to maneuver too, the Fischer Ranger 108 Skis deliver in spades!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Fischer Ranger 108 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223724/916449/fischer-ranger-108-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FqcpfZYGlc8SOQpRnwC2-jpU61_GokSwybjVHQMOENs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FqcpfZYGlc8SOQpRnwC2-jpU61_GokSwybjVHQMOENs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FqcpfZYGlc8SOQpRnwC2-jpU61_GokSwybjVHQMOENs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FqcpfZYGlc8SOQpRnwC2-jpU61_GokSwybjVHQMOENs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FqcpfZYGlc8SOQpRnwC2-jpU61_GokSwybjVHQMOENs/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

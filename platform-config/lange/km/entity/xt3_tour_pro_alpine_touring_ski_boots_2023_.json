@@ -1,0 +1,56 @@
+{
+  "$id": "lange_xt3_tour_pro_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "Lange steps up to the \"real touring boot weight class\" this season with the introduction of the Lange XT3 Tour Pro Alpine Touring Ski Boots. Typically, this is a company that prioritizes downhill performance, and this is no rando race shoe but a solid, 4 buckle overlap contender with a real cuff and tongue liner. They\u0027ve dropped the weight dramatically by switching to Grilamid® plastic and adopting glued-on lightweight ISO 9523 soles, which is typical in this category. Ski performance is on a higher level than pure touring boots in the same weight range, so if downhill performance matters to you (and it should), you\u0027ll be a happy camper indeed.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Lange XT3 Tour Pro Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198882/825854/lange-xt3-tour-pro-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KaEX1Avfy0sO5iBEAg9O-0H1rlmG6ap8q9xy2o1qXlc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KaEX1Avfy0sO5iBEAg9O-0H1rlmG6ap8q9xy2o1qXlc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KaEX1Avfy0sO5iBEAg9O-0H1rlmG6ap8q9xy2o1qXlc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KaEX1Avfy0sO5iBEAg9O-0H1rlmG6ap8q9xy2o1qXlc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KaEX1Avfy0sO5iBEAg9O-0H1rlmG6ap8q9xy2o1qXlc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

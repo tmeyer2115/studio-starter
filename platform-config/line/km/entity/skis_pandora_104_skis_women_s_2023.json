@@ -1,0 +1,459 @@
+{
+  "$id": "line_skis_pandora_104_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/line_skis_pandora_104_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Proflie – 12mm Tip / 4mm Camber / 6mm Tail"
+      },
+      {
+        "value": "Directional Flex – The softer tip floats and initiates turns easily while the stiffer tail provides power, stability and high speed control."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Aspenlite™ – 100% Aspen wood for the lightest, most nimble feel."
+      },
+      {
+        "value": "Carbon Magic Fingers™ – A wide array of carbon stretching from tip to tail for added stability without sacrificing weight."
+      },
+      {
+        "value": "Capwall™ – Combining the precision of sidewall underfoot and the lightweight, durable performance of cap in the tip, Capwall™ construction provides the best of both worlds."
+      },
+      {
+        "value": "Sintered 1.3 mm Base – Sintered bases reduce friction against the snow allowing for more speed, and more durability due to the high-density material they\u0027re crafted from."
+      },
+      {
+        "value": "2.1mm x 2mm"
+      },
+      {
+        "value": "Stance Back from Center – 65.2 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": ["158", "165", "172"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Line Skis Pandora 104 Skis offer all-mountain excellence in a lightweight package. As one of the more traditional members of the Line family, these skis excel ripping groomers and riding hard around the resort. But it\u0027s still a Line ski, so you can expect a ton of pop, and a playful, nimble feel bouncing from edge to edge. Plus, the featherweight feel of the ski does more than provide a zippy ride - it also makes the Pandora 104 an excellent option as a stable, do-everything touring ski.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Line Skis Pandora 104 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906629/line-skis-pandora-104-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906626/line-skis-pandora-104-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906750/line-skis-pandora-104-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906754/line-skis-pandora-104-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906629/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906626/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906750/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906754/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906629/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XTD3jZLbm8M2Smz_BAQLe_b4C4sgnRuA49pdL9vFtEM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906626/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C5yaW1yEVGssC34zd5WfXf1v2aaIa90emS7apIrEhKc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906750/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8KgFnhlj6z4WpzgOUY716VNyPW-1mOaia0P9Nt14Ekg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221763/906754/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WY_ybvv3p_6HukeLU3aeQOf1QCSQH1OTpnI8ltqqVFc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

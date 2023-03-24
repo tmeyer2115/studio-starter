@@ -1,0 +1,36 @@
+{
+  "$id": "warehouse",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_primaryLogo": {
+      "image": {
+        "height": 300,
+        "sourceUrl": "https://a.mktgcdn.com/p/R9FjcYjRNA5dAespqgHFLMvu2m18-E5Apnb3KON0oJY/300x300.png",
+        "thumbnails": [
+          {
+            "height": 300,
+            "url": "https://a.mktgcdn.com/p/R9FjcYjRNA5dAespqgHFLMvu2m18-E5Apnb3KON0oJY/300x300.png",
+            "width": 300
+          },
+          {
+            "height": 196,
+            "url": "https://a.mktgcdn.com/p/R9FjcYjRNA5dAespqgHFLMvu2m18-E5Apnb3KON0oJY/196x196.png",
+            "width": 196
+          }
+        ],
+        "url": "https://a.mktgcdn.com/p/R9FjcYjRNA5dAespqgHFLMvu2m18-E5Apnb3KON0oJY/300x300.png",
+        "width": 300
+      }
+    },
+    "dm_baseEntityCount": "471",
+    "dm_childEntityIds": ["82241806", "82237261", "82281622"],
+    "dm_directoryChildren": ["warehouse_men", "warehouse_women"],
+    "dm_directoryChildrenCount": "515",
+    "dm_directoryManagerId": "warehouse",
+    "name": "Warehouse",
+    "slug": "root"
+  },
+  "entityType": "ce_dmRoot",
+  "labels": []
+}

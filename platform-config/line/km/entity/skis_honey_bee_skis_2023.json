@@ -1,0 +1,226 @@
+{
+  "$id": "line_skis_honey_bee_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Park \u0026 Pipe",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/park-pipe/line_skis_honey_bee_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 2mm Tip / 2mm Camber / 2mm Tail"
+      },
+      {
+        "value": "Symmetric Flex™ – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Early Taper™ – The widest part of the sidecut begins tapering earlier in the tip and tail which reduces tail hook ups in powder."
+      },
+      {
+        "value": "Thin Tip™ – Super thin core \u0026 sidewall in the tips are 100 grams lighter per pair for reduced swing weight \u0026 tip bounce."
+      },
+      {
+        "value": "Aspenlite™ – 100% Aspen wood for the lightest, most nimble feel."
+      },
+      {
+        "value": "4D Fibercap Construction – 4 directions of fiberglass are woven across the top of the core for durability without unnecessary weight."
+      },
+      {
+        "value": "Fatty Base | Sintered 1.7mm – High density sintered bases reduce friction against the snow allowing for more speed and better durability."
+      },
+      {
+        "value": "Fatty Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 30 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Skis",
+    "c_sizes": ["144", "155", "166", "172"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Taylor Lundquist"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["463117075052872663"],
+    "description": "With entry level pricing and pro level performance, these a whole lot of reasons to be buzzing about the Line Skis Honey Bee Skis. If they\u0027re sweet enough for Taylor Lundquist to throw down on, they\u0027ve surely got more than enough bumble for the rest of us. These things are fast, nimble, and extremely boostable. Plus, they\u0027re built with Line\u0027s Fatty bases and edges, not to mention a cap construction that makes them borderline indestructible. There\u0027s no sweeter sting than that.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_park_pipe"
+    ],
+    "name": "Line Skis Honey Bee Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221778/906622/line-skis-honey-bee-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/N0Ld66YXPqIOvH8Up1L4pvBylHfNdVC7gKzhmiKzoRY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/N0Ld66YXPqIOvH8Up1L4pvBylHfNdVC7gKzhmiKzoRY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/N0Ld66YXPqIOvH8Up1L4pvBylHfNdVC7gKzhmiKzoRY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/N0Ld66YXPqIOvH8Up1L4pvBylHfNdVC7gKzhmiKzoRY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/N0Ld66YXPqIOvH8Up1L4pvBylHfNdVC7gKzhmiKzoRY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221778/906620/line-skis-honey-bee-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dWpa-qBKCMIe88RzJo-v0gAVnThN68HQmx9ILWJTt5Q/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dWpa-qBKCMIe88RzJo-v0gAVnThN68HQmx9ILWJTt5Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dWpa-qBKCMIe88RzJo-v0gAVnThN68HQmx9ILWJTt5Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dWpa-qBKCMIe88RzJo-v0gAVnThN68HQmx9ILWJTt5Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dWpa-qBKCMIe88RzJo-v0gAVnThN68HQmx9ILWJTt5Q/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221778/906749/line-skis-honey-bee-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/0N2SxZPew3B6ZvuWEiXFnZXtoXTVwF_gYtmvK8njZrI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/0N2SxZPew3B6ZvuWEiXFnZXtoXTVwF_gYtmvK8njZrI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/0N2SxZPew3B6ZvuWEiXFnZXtoXTVwF_gYtmvK8njZrI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/0N2SxZPew3B6ZvuWEiXFnZXtoXTVwF_gYtmvK8njZrI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/0N2SxZPew3B6ZvuWEiXFnZXtoXTVwF_gYtmvK8njZrI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221778/906748/line-skis-honey-bee-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Xs0KdFKHnSdqiX1umO_tcYnCjHl8wcxqzJsYfi1m7Ks/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Xs0KdFKHnSdqiX1umO_tcYnCjHl8wcxqzJsYfi1m7Ks/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Xs0KdFKHnSdqiX1umO_tcYnCjHl8wcxqzJsYfi1m7Ks/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Xs0KdFKHnSdqiX1umO_tcYnCjHl8wcxqzJsYfi1m7Ks/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Xs0KdFKHnSdqiX1umO_tcYnCjHl8wcxqzJsYfi1m7Ks/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

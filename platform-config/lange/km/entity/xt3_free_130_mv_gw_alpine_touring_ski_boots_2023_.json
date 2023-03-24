@@ -1,0 +1,56 @@
+{
+  "$id": "lange_xt3_free_130_mv_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "Feeling a need to knock off that faraway line you\u0027ve been eyeing for years? The Lange XT3 Free 130 MV GW Alpine Touring Ski Boots feed that need with their 53˚ of Active Power V-Lock touring mode and power-packed 130 flex downhill mode. Chargers who know their ski boots insist the XT3 130 has no peer when it comes to skiing like a true alpine boot, and plenty of them have turned the XT3 into their quiver of one for all things freeride. Chaulk it up to the Dual Core Polyether construction, the classic four-buckle overlap design, or the heel retention of the Dual Full 3D Liner (or maybe all three) - the XT3 130 is money when it comes to getting the goods off the beaten path.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange XT3 Free 130 MV GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/228653/919581/lange-xt3-free-130-mv-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/uOJ447OVUg2cCykY8gMTq478taiEhdmh-FxCDHqeDQc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/uOJ447OVUg2cCykY8gMTq478taiEhdmh-FxCDHqeDQc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/uOJ447OVUg2cCykY8gMTq478taiEhdmh-FxCDHqeDQc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/uOJ447OVUg2cCykY8gMTq478taiEhdmh-FxCDHqeDQc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uOJ447OVUg2cCykY8gMTq478taiEhdmh-FxCDHqeDQc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,114 @@
+{
+  "$id": "v_lkl_blaze_86_w_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/v_lkl_blaze_86_w_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Tip \u0026 Tail Rocker – Bends up only in the shovel and tail zones, with a camber shape in the middle."
+      },
+      {
+        "value": "Hybrid Multilayer Woodcore – The extra-light hybrid multilayer wood core is a very complex core that is used in the Blaze. Light and very stable poplar and beech woods, individually weighed and selected by weight before gluing, are used in this wood core. In the tip-to-tail construction, the wood extends to the tip of the blade and end, giving them the sophisticated combination of good stability and low weight. In the center of the core, a CNC-milled Isocore area contributes to optimal liveliness and dynamic development. All in all, this design allows the stability of the ski to meet the high demands of a freeride ski, and this at a weight that is only slightly higher than that of a touring ski."
+      },
+      {
+        "value": "Suspension Tips and Tails – Inserts made of elastic TPU material on the edges of the tip and tail which act like a bumper in wind-blown or tracked snow. Its shock-absorbing elasticity ensures better stability and catch-free float."
+      },
+      {
+        "value": "Full Sidewall – Direct and strong power transmission with full length sidewalls."
+      },
+      {
+        "value": "P-Tex 2100 Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "549.99",
+    "c_productType": "Skis",
+    "c_sizes": ["146", "152", "159", "166"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Light as a feather at 1290 grams in the 152cm size, the Völkl Blaze 86 W Skis are a great choice for quick bump runs, slashing through the trees, and mounting up with a touring or hybrid binding to head out touring. Yes, it is possible to get all of that in one ski, and Völkl\u0027s decades of experience makes the difference. A Multilayer Woodcore Light construction with 3D Radius Sidecut and full sidewalls contribute to make this one of the most versatile and dependable light skis out there.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Völkl Blaze 86 W Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227077/915708/volkl-blaze-86-w-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pepQWqz04yTUqUoyHEohQmSSfkEfuBr0gljHL44AT3o/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pepQWqz04yTUqUoyHEohQmSSfkEfuBr0gljHL44AT3o/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pepQWqz04yTUqUoyHEohQmSSfkEfuBr0gljHL44AT3o/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pepQWqz04yTUqUoyHEohQmSSfkEfuBr0gljHL44AT3o/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pepQWqz04yTUqUoyHEohQmSSfkEfuBr0gljHL44AT3o/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

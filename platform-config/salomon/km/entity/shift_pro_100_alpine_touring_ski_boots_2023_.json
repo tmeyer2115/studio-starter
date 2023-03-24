@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_shift_pro_100_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "599.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Medium",
+    "description": "If you’re just at the beginning of your touring journey, get out on the skin track in style. The Salomon Shift Pro 100 Alpine Touring Ski Boots give you the option to hit the resort all day or flip it into hike mode and explore the backcountry. Custom HD shells and super comfortable seamless liners provide a glove-like fit for your feet so you can drive, push, and slash with ease, wherever you decide to point it. When you’re ready for a new challenge, grab the Salomon Shift Pro 100 Alpine Touring Ski Boots and explore what the mountains have to offer.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Salomon Shift Pro 100 Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219492/921343/salomon-shift-pro-100-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/bdES3pZeqisaNnZ57H4GjK8a8ukjGtOVx8uwCgGLS4I/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bdES3pZeqisaNnZ57H4GjK8a8ukjGtOVx8uwCgGLS4I/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bdES3pZeqisaNnZ57H4GjK8a8ukjGtOVx8uwCgGLS4I/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bdES3pZeqisaNnZ57H4GjK8a8ukjGtOVx8uwCgGLS4I/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bdES3pZeqisaNnZ57H4GjK8a8ukjGtOVx8uwCgGLS4I/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

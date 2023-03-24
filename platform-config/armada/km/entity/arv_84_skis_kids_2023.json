@@ -1,0 +1,117 @@
+{
+  "$id": "armada_arv_84_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/armada_arv_84_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "AR Freestyle Rocker – Rockered tips and tails are combined with positive camber underfoot to allow the ski to charge with ease through unpredictable snow and maintain a solid carve when asked to do so. Turn the whole mountain into your playground."
+      },
+      {
+        "value": "Flex (1\u003dSoft, 10\u003dStiff) – Tip: 6 | Mid: 6 | Tail: 8"
+      },
+      {
+        "value": "Hybrid Poplar / Composite Core – Wood plus Injectzone add performance and dampening to an affordable product."
+      },
+      {
+        "value": "AR50 Sidewall – Sidewalls provide improved edge pressure under the boot, while cap constuction in the tip and tail provides smooth turn initiation and less hookiness - 50% sidewall, 50% cap."
+      },
+      {
+        "value": "S7 Base – Durable and low maintenance, with a speed additive for quickness."
+      },
+      {
+        "value": "2.5 Impact Edge – Oversized and specially heat-treated, this edge is built to resist impact damage in the most demanding situations."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Skis",
+    "c_sizes": ["133", "143", "150"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Beginner-Intermediate"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Composite, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Whether they\u0027re just getting started in the park, or just getting started on the mountain, the Armada ARV 84 Skis are a perfect first step. They\u0027re made with a lightweight, highly durable composite core, plus semi-cap sidewalls and oversized edges for maximum durability. They\u0027re soft and easy to press into a variety of turn shapes, which makes them perfect for mastering the art of the turn, or bashing against rails on the way to their very first stomp.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Armada ARV 84 Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219356/923876/armada-arv-84-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iBhy3mcKkMfpmjDtHD5Ev8qx46BmHJR5OEVnU6KVxqg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iBhy3mcKkMfpmjDtHD5Ev8qx46BmHJR5OEVnU6KVxqg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iBhy3mcKkMfpmjDtHD5Ev8qx46BmHJR5OEVnU6KVxqg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iBhy3mcKkMfpmjDtHD5Ev8qx46BmHJR5OEVnU6KVxqg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iBhy3mcKkMfpmjDtHD5Ev8qx46BmHJR5OEVnU6KVxqg/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

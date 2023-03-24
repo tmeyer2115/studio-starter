@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_s_pro_hv_100_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Salomon S/Pro HV 100 GW Ski Boots were made for intermediate riders with wide feet, who want a custom fit that doesn\u0027t skimp on performance. Thanks to Salomon\u0027s signature features like a fully heat moldable shell and easy Dual Sensifit step in, this all mountain freeride boot gives you the tools to rip it up on the slopes.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon S/Pro HV 100 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219474/921335/salomon-s-pro-hv-100-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LTyXscl5Cb0-V3OcGlTKtrx1Gf2JGIxgs5QKI79IqTA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LTyXscl5Cb0-V3OcGlTKtrx1Gf2JGIxgs5QKI79IqTA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LTyXscl5Cb0-V3OcGlTKtrx1Gf2JGIxgs5QKI79IqTA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LTyXscl5Cb0-V3OcGlTKtrx1Gf2JGIxgs5QKI79IqTA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LTyXscl5Cb0-V3OcGlTKtrx1Gf2JGIxgs5QKI79IqTA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

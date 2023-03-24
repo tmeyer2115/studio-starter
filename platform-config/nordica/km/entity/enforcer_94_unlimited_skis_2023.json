@@ -1,0 +1,444 @@
+{
+  "$id": "nordica_enforcer_94_unlimited_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_94_unlimited_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – Smooth rocker at both tip and tail with camber underfoot provides balanced performance anywhere on the mountain."
+      },
+      {
+        "value": "True Tip LT – By trimming the amount of heavy ABS plastic in the tip and extending the lightweight wood core into this area with a taper that further reduces weight, Nordica enhances playfulness and maneuverability of the ski without compromising that unmatchable feeling of powerful and control."
+      },
+      {
+        "value": "Lite Performance Wood | Poplar / Beech"
+      },
+      {
+        "value": "Carbon Chassis LT – A proprietary blend of carbon materials to reduce weight while maximizing performance."
+      },
+      {
+        "value": "ABS Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Skis",
+    "c_sizes": ["165", "172", "179", "186"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The all new Nordica Enforcer 94 Unlimited Skis are ready to take the touring world by storm. Lightweight, maneuverable, and super efficient on the skin track, they give the classic Enforcer design a gram-conscious makeover that doesn\u0027t skimp on downhill performance. Nordica\u0027s Carbon Chassis LT brings the heat instead of heavy Titanal, and early rise tip and tail rocker makes them formidable in variable snow while remaining plenty approachable to those looking for a powerful, yet easy to control ski. Whether you\u0027re ditching civilization for a Spring tour or just ripping around the sidecountry, the Nordica Enforcer 94 Unlimited Skis deliver the goods.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Nordica Enforcer 94 Unlimited Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882112/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882098/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882096/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882112/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882098/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882096/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882112/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882098/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882096/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882112/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Y-UCfQEs0xpOPi7jdLDJGVpfSvg93aSwYtRgUTq0-vI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882098/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e4v4_qDo93UdgKmMyw3mZvFoBkYWSnJ1q9JjQmOLTqU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/217382/882096/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B_l2MirCpTD-inElww-D8WawZwfvIQM5KD-rgjYTeoI/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

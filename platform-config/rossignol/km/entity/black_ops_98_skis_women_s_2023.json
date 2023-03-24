@@ -1,0 +1,111 @@
+{
+  "$id": "rossignol_black_ops_98_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/rossignol_black_ops_98_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker"
+      },
+      {
+        "value": "Poplar PEFC™ Wood Core – A very versatile construction designed to ensure liveliness, grip and a feeling of safety. The Poplar wood cores are PEFC™ certified which guarantees sustainable forest management."
+      },
+      {
+        "value": "Rectangular Sidewalls"
+      },
+      {
+        "value": "Graphics by David Habben"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["160", "170"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "With a shape that inspires creative skiing and a fresh new graphic that makes us long for snow, the Rossignol Black Ops 98 Skis are for those who want more out of their ski life than just pretty turns on corduroy. Why not switch it up, look for some features, go backwards and in circles - all in the name of fun? A great choice for those who alternate between piste and park, groomers and pow, and love the freedom to experiment with their style from one run to the next, the Black Ops 98 isn\u0027t under cover anymore.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Rossignol Black Ops 98 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227340/914086/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/G29fjmhT86izh5WcYT5Ls7RNVayP6bt6sekQqXiY-Ng/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/G29fjmhT86izh5WcYT5Ls7RNVayP6bt6sekQqXiY-Ng/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/G29fjmhT86izh5WcYT5Ls7RNVayP6bt6sekQqXiY-Ng/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/G29fjmhT86izh5WcYT5Ls7RNVayP6bt6sekQqXiY-Ng/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/G29fjmhT86izh5WcYT5Ls7RNVayP6bt6sekQqXiY-Ng/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,147 @@
+{
+  "$id": "fischer_ranger_96_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/fischer_ranger_96_skis_2023",
+    "c_details": [
+      {
+        "value": "Freeski Rocker – Long smooth tip rocker with camber underfoot and moderate tail rocker. Easy to turn and saves energy in all situations."
+      },
+      {
+        "value": "Flex-Cut"
+      },
+      {
+        "value": "Beech / Poplar Wood Core"
+      },
+      {
+        "value": "Shaped Ti 0.5 – Matching the thickness and shape of this high strength alloy to the performance and geometry of a ski allows optimal grip and stability with a smoother ride."
+      },
+      {
+        "value": "Sandwich Sidewall Construction – Wood core combined with ABS sidewalls in a classic Sandwich Construction for balanced flex and perfect rebound."
+      },
+      {
+        "value": "Sintered Bases – Sintered bases have exceptional waxing properties and a very long service life."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Skis",
+    "c_sizes": ["159", "166", "173", "180", "187"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Like a Toyota 4Runner, the Fischer Ranger 96 Skis are built to go anywhere and everywhere no matter the conditions. Leveraging a unique construction consisting of a lightweight and responsive beech/poplar woodcore, Shaped Ti Titanal underfoot, and a Freeski Rocker profile, the Ranger 96 strikes the coveted balance of hard charging stability and effortless maneuverability. Available in two different colorways to match your style, the Fischer Ranger 96 Skis is the versatile daily driver every skier longs to have in their arsenal.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Fischer Ranger 96 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223711/897746/fischer-ranger-96-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/sAarG-B0o1CI6xbNIZFGwbo1Jp41xkFrpbnUIzSj3Rs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/sAarG-B0o1CI6xbNIZFGwbo1Jp41xkFrpbnUIzSj3Rs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/sAarG-B0o1CI6xbNIZFGwbo1Jp41xkFrpbnUIzSj3Rs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/sAarG-B0o1CI6xbNIZFGwbo1Jp41xkFrpbnUIzSj3Rs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sAarG-B0o1CI6xbNIZFGwbo1Jp41xkFrpbnUIzSj3Rs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223711/897748/fischer-ranger-96-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/sRWttLuaObf44H4VLnhubaLwo_212P9yqJ84YuIRHSM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/sRWttLuaObf44H4VLnhubaLwo_212P9yqJ84YuIRHSM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/sRWttLuaObf44H4VLnhubaLwo_212P9yqJ84YuIRHSM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/sRWttLuaObf44H4VLnhubaLwo_212P9yqJ84YuIRHSM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/sRWttLuaObf44H4VLnhubaLwo_212P9yqJ84YuIRHSM/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

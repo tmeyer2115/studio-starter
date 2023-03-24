@@ -1,0 +1,56 @@
+{
+  "$id": "k2_anthem_105_mv_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "K2 is leading the charge when it comes to building stiffer boots for lady chargers, and the K2 Anthem 105 MV Ski Boots are a cornerstone of the program. This is an ideal choice for freeriders who love to ski hard both on and off piste, and who\u0027ve grown too wise to put up with full days of discomfort on the hill. A heat moldable shell, relaxed 100mm last, and a remarkably light but powerful shell design are the path to lower limb Nirvana.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Anthem 105 MV Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201119/824459/k2-anthem-105-mv-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_qUkdubZe461LIQxn6MUiEzbd4Yf5fFzJVmaS0GwSLo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_qUkdubZe461LIQxn6MUiEzbd4Yf5fFzJVmaS0GwSLo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_qUkdubZe461LIQxn6MUiEzbd4Yf5fFzJVmaS0GwSLo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_qUkdubZe461LIQxn6MUiEzbd4Yf5fFzJVmaS0GwSLo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_qUkdubZe461LIQxn6MUiEzbd4Yf5fFzJVmaS0GwSLo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

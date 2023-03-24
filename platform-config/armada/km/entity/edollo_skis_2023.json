@@ -1,0 +1,184 @@
+{
+  "$id": "armada_edollo_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Park \u0026 Pipe",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/park-pipe/armada_edollo_skis_2023",
+    "c_details": [
+      {
+        "value": "AR Nose Rocker – A traditional sidecut is paired with tip rocker and standard camber for easier turn initiation without compromising edge hold."
+      },
+      {
+        "value": "Flex (1\u003dSoft, 10\u003dStiff) – Tip: 6 | Mid: 6 | Tail: 7"
+      },
+      {
+        "value": "Poplar Ash Core – Lightweight poplar is combined with higher density full-length ask stringers to create an impossibly lively ski that has all the power needed for boosting to new elevations."
+      },
+      {
+        "value": "Laminate Matrix – A directional layering of fiberglass dictates the flex pattern and torsional rigidity of the ski to create the ultimate lively and forgiving feel with quick response."
+      },
+      {
+        "value": "AR75 Sidewall – Sidewalls provide improved edge pressure under the boot, while cap constuction in the tip and tail provides smooth turn initiation and less hookiness - 75% sidewall, 25% cap."
+      },
+      {
+        "value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability on snow."
+      },
+      {
+        "value": "2.5 Impact Edge – Oversized and specially heat-treated, this edge is built to resist impact damage in the most demanding situations."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": ["164", "172"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Henrik Harlaut"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["463117075052872663"],
+    "description": "Henrik Harlaut is a bonafide ski legend, and his pro model skis are legendary in their own right. Just as he has pushed the envelope of what\u0027s possible on skis over the years, his pro model has pushed the envelope of what defines a modern park ski. The Armada Edollo Skis have a silky smooth medium flex, a bit more tip rocker than you\u0027d expect out of a sub-100 waisted ski, and are built to crush everything in the park. They\u0027re stable, nimble, and can boost to the moon. Wu-tang is for the children, but the Edollo skis are for you.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_park_pipe"
+    ],
+    "name": "Armada Edollo Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219358/918247/armada-edollo-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/udv8XEMHwlo5ELILm1PCSXWTGrQwfBeoH-0pOS9CGB0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/udv8XEMHwlo5ELILm1PCSXWTGrQwfBeoH-0pOS9CGB0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/udv8XEMHwlo5ELILm1PCSXWTGrQwfBeoH-0pOS9CGB0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/udv8XEMHwlo5ELILm1PCSXWTGrQwfBeoH-0pOS9CGB0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/udv8XEMHwlo5ELILm1PCSXWTGrQwfBeoH-0pOS9CGB0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219358/918245/armada-edollo-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iv7f4ZzbZxoALiV46OpDBof6ST3aplXf3uI2PVkkc0k/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iv7f4ZzbZxoALiV46OpDBof6ST3aplXf3uI2PVkkc0k/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iv7f4ZzbZxoALiV46OpDBof6ST3aplXf3uI2PVkkc0k/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iv7f4ZzbZxoALiV46OpDBof6ST3aplXf3uI2PVkkc0k/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iv7f4ZzbZxoALiV46OpDBof6ST3aplXf3uI2PVkkc0k/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219358/918242/armada-edollo-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/CqvhcugJDgNT7ZI8BMRofg1lEXlimLi2jVXwIBzxPHM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/CqvhcugJDgNT7ZI8BMRofg1lEXlimLi2jVXwIBzxPHM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/CqvhcugJDgNT7ZI8BMRofg1lEXlimLi2jVXwIBzxPHM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/CqvhcugJDgNT7ZI8BMRofg1lEXlimLi2jVXwIBzxPHM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/CqvhcugJDgNT7ZI8BMRofg1lEXlimLi2jVXwIBzxPHM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "tecnica_cochise_130_dyn_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The product cycle for the proven Cochise starts anew with a complete re-design of the Tecnica Cochise 130 DYN Alpine Touring Ski Boots, and it was worth the wait. Lighter and more anatomic without giving up the power the Cochise 130 was known for, the new boot uses a freshly developed walk mode mechanism dubbed the T-Ride Hiking System. With better range of motion and a new locking switch for the downhill mode, T-Ride is a win-win move. The 130 DYN combination of Gripwalk sole blocks and Dynafit-certified tech fittings means you can go between Gripwalk-compatible alpine bindings and tech bindings seamlessly - a huge plus in our book.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Tecnica Cochise 130 DYN Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197501/827083/tecnica-cochise-130-dyn-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QUeabzA2BcVxQ-dEx9pb6WxjEf6Pqga7GaMDmAw5sfc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QUeabzA2BcVxQ-dEx9pb6WxjEf6Pqga7GaMDmAw5sfc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QUeabzA2BcVxQ-dEx9pb6WxjEf6Pqga7GaMDmAw5sfc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QUeabzA2BcVxQ-dEx9pb6WxjEf6Pqga7GaMDmAw5sfc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QUeabzA2BcVxQ-dEx9pb6WxjEf6Pqga7GaMDmAw5sfc/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

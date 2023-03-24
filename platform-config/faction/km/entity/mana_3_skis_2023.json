@@ -1,0 +1,288 @@
+{
+  "$id": "faction_mana_3_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/faction_mana_3_skis_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 165 \u003d 360mm, 172 \u003d 375mm | Camber: All Sizes \u003d 2mm | Tail Rocker: 165 \u003d 320mm, 172 \u003d 325mm"
+      },
+      {
+        "value": "Flex Rating – 7 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Boat Flex – Heavy rocker is best complemented by solid, stiffer tips and tails, to help settle the skis and power through variable snow. Additionally, the stiff tips absorb more vibration when skiers touch down after going airborne. Just add a touch more flex underfoot and it allows the skis to load up and POP on request."
+      },
+      {
+        "value": "Mana Stance – With regards to the Mana Series, the narrowest point of the ski is the center of the radius, which happens to be the most intuitive place from which to initiate pivoting of the supernatural freestyle variety. Mounting here also works wonders for carving and popping off the back and front of your skis."
+      },
+      {
+        "value": "Mana Progressive Twin Shape – This shape is inspired by symmetrical freestyle ski design, but tweaked for a freeride approach. A slightly skinnier tail width than tip width means this ski is faster and performs better on the downhill than a completely symmetrical ski. It keeps the identical twin tip height for switch skiing and landings. Moderately tapered tips and tails are complemented by an elliptical radius sidecut for efficient, precise handling and carving. A combination of generous rocker and modest camber results in a wonderfully playful character, injecting new energy into an otherwise routine day on the mountain. We designed the Mana shape for the increasingly popular category of high-performance all-mountain skis with freestyle flair."
+      },
+      {
+        "value": "Sustainable Lightweight Poplar Wood Core – Poplar is a light-colored, medium-weight, durable softwood that flexes and pops nicely as well as having a whole load of vibration absorption capabilities. Used as the only wood in this core, it allows the ski to pop, butter and stomp like an all-mountain freestyle ski and also have enough torsional stability to grip impressively on the downhill."
+      },
+      {
+        "value": "Carbon-Rubber Stomp Pad – A 600mm-long, 15mm-wide carbon/rubber reinforcement underfoot, above the edge, adds strength where it matters most to this playful all-mountain ski. In addition to protecting the wood core from heavy-duty impact on rails, the carbon and rubber inlay adds stability and vibration absorption under your boots, so that stomped landings feel better, both for you and your skis."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.00",
+    "c_productType": "Skis",
+    "c_sizes": ["172", "178", "184", "190"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "The Mana series thrives in the grey area between backcountry and freestyle, and the Faction Mana 3 Skis rule this domain. At 112mm in the waist, this is the ski for creative powder riders to realize their dreams on, whether they be in the area or somewhere outside it. If you\u0027re looking for a vehicle to shred to the limits of your imagination, the new Mana 3 just may be the one.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Faction Mana 3 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227143/939881/faction-mana-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Ld2w-0897XIxgHfpXrOpIeTAQ5p203Z2IDAxB1bPer4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Ld2w-0897XIxgHfpXrOpIeTAQ5p203Z2IDAxB1bPer4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Ld2w-0897XIxgHfpXrOpIeTAQ5p203Z2IDAxB1bPer4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Ld2w-0897XIxgHfpXrOpIeTAQ5p203Z2IDAxB1bPer4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Ld2w-0897XIxgHfpXrOpIeTAQ5p203Z2IDAxB1bPer4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227143/939883/faction-mana-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WqA7FfNKvNLqb70KQiRo1W2_XCLtkXQzhOOHfPreMZA/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WqA7FfNKvNLqb70KQiRo1W2_XCLtkXQzhOOHfPreMZA/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WqA7FfNKvNLqb70KQiRo1W2_XCLtkXQzhOOHfPreMZA/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WqA7FfNKvNLqb70KQiRo1W2_XCLtkXQzhOOHfPreMZA/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WqA7FfNKvNLqb70KQiRo1W2_XCLtkXQzhOOHfPreMZA/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227143/989629/faction-mana-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/oUktt5V6mHvKdJDO_f5A0xJpIs0ekInSTdhQT1aPYKs/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oUktt5V6mHvKdJDO_f5A0xJpIs0ekInSTdhQT1aPYKs/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oUktt5V6mHvKdJDO_f5A0xJpIs0ekInSTdhQT1aPYKs/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oUktt5V6mHvKdJDO_f5A0xJpIs0ekInSTdhQT1aPYKs/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oUktt5V6mHvKdJDO_f5A0xJpIs0ekInSTdhQT1aPYKs/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227143/989631/faction-mana-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/zseefw3JIqr_R_5PzEZ0qdRDcsZdAU84tzBGkNbB6nM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/zseefw3JIqr_R_5PzEZ0qdRDcsZdAU84tzBGkNbB6nM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/zseefw3JIqr_R_5PzEZ0qdRDcsZdAU84tzBGkNbB6nM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/zseefw3JIqr_R_5PzEZ0qdRDcsZdAU84tzBGkNbB6nM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/zseefw3JIqr_R_5PzEZ0qdRDcsZdAU84tzBGkNbB6nM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227143/989633/faction-mana-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TGbgSX18kjjk_Kb3x6O9VT_59-1hZIe7zlq9U9oOolQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TGbgSX18kjjk_Kb3x6O9VT_59-1hZIe7zlq9U9oOolQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TGbgSX18kjjk_Kb3x6O9VT_59-1hZIe7zlq9U9oOolQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TGbgSX18kjjk_Kb3x6O9VT_59-1hZIe7zlq9U9oOolQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TGbgSX18kjjk_Kb3x6O9VT_59-1hZIe7zlq9U9oOolQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227143/989627/faction-mana-3-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/BI7xotwkwdeTrjoCF3OW_-AZrTWkdvQP5DsC3-YeSF8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/BI7xotwkwdeTrjoCF3OW_-AZrTWkdvQP5DsC3-YeSF8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/BI7xotwkwdeTrjoCF3OW_-AZrTWkdvQP5DsC3-YeSF8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/BI7xotwkwdeTrjoCF3OW_-AZrTWkdvQP5DsC3-YeSF8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/BI7xotwkwdeTrjoCF3OW_-AZrTWkdvQP5DsC3-YeSF8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

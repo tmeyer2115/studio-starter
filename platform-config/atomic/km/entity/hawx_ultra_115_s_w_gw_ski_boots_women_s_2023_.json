@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_ultra_115_s_w_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Atomic\u0027s top-tier women\u0027s freeride boot is on a tear, and only getting better. The Atomic Hawx Ultra 115 S W GW Ski Boots march on as the most precise fit in the industry around the midfoot and ankle, letting you deliver the message to your skis that much quicker (as well as ski more subtly using just ankle movement). Atomic\u0027s Memory Fit process may seem \"old hat\" after many years, but it still is the premier heat molding technology in the industry and can deliver a remarkable improvement in a boot\u0027s fit in minutes. New this season is the Mimic Professional liner, which features both heat molding and foam injection technologies along with fantastic heel hold. All this sounds like more to think about, but it isn\u0027t really - just buy this boot and get on with skiing on a higher and more intuitive level. You deserve it.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Ultra 115 S W GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197853/826608/atomic-hawx-ultra-115-s-w-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/fI2st26AiMIAR8WJrGdWfT6V9v-8H-Ja5Btn9EiEGJI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fI2st26AiMIAR8WJrGdWfT6V9v-8H-Ja5Btn9EiEGJI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fI2st26AiMIAR8WJrGdWfT6V9v-8H-Ja5Btn9EiEGJI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fI2st26AiMIAR8WJrGdWfT6V9v-8H-Ja5Btn9EiEGJI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fI2st26AiMIAR8WJrGdWfT6V9v-8H-Ja5Btn9EiEGJI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

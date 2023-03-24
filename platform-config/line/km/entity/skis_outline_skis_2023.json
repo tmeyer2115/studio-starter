@@ -1,0 +1,189 @@
+{
+  "$id": "line_skis_outline_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/line_skis_outline_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 15mm Tip / 3mm Camber / 15mm Tail"
+      },
+      {
+        "value": "Symmetric Flex™ – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "3D Convex Technology™ – Convex contouring across the tip and tail of the ski loosed the ski feel by increasing displacement - and creating a tip and tail more inclined to plane - for an added dimension of turn shape."
+      },
+      {
+        "value": "Partly Cloudy™ – A blend of lightweight Paulownia and Maple creating the best strength to weight ratio of Line\u0027s offerings."
+      },
+      {
+        "value": "Sidewall Construction – Ultra-high density Polyethylene vertical walls over the edges to absorb vibrations and provide powerful energy transmission."
+      },
+      {
+        "value": "Fatty Base | Sintered 1.7mm – High density sintered bases reduce friction against the snow allowing for more speed and better durability."
+      },
+      {
+        "value": "Fatty Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 40 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Skis",
+    "c_sizes": ["186"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "If powder days to you just mean that the whole mountain turns into a terrain park, the Line Skis Outline Skis are the big guns for you. Built to ride just like your freestyle skis, these things are seriously fun when the faucet in on. They are almost completely symmetrical, with super flared tips and tails, and a fairly soft flex. Turning them sideways to smash a wind lip is as easy as breathing, and they stomp backwards in pow better than almost any skis on the market. The 3D Convex tips and tails help you surf through fluff, and they make butters in any conditions just feel so right. Get weird with it on your next powder day, and go have some fun on the Line Outline.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "Line Skis Outline Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221770/906610/line-skis-outline-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8Lvc7380RkkGxDiJycnXl3gSEm2gdUECgT0QrmsEBUI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8Lvc7380RkkGxDiJycnXl3gSEm2gdUECgT0QrmsEBUI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8Lvc7380RkkGxDiJycnXl3gSEm2gdUECgT0QrmsEBUI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8Lvc7380RkkGxDiJycnXl3gSEm2gdUECgT0QrmsEBUI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8Lvc7380RkkGxDiJycnXl3gSEm2gdUECgT0QrmsEBUI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221770/906737/line-skis-outline-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/MuGUst24jaPswA3_3IPG3nXDADjF4Mv8fwsR1SHjQwM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/MuGUst24jaPswA3_3IPG3nXDADjF4Mv8fwsR1SHjQwM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/MuGUst24jaPswA3_3IPG3nXDADjF4Mv8fwsR1SHjQwM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/MuGUst24jaPswA3_3IPG3nXDADjF4Mv8fwsR1SHjQwM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/MuGUst24jaPswA3_3IPG3nXDADjF4Mv8fwsR1SHjQwM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221770/906738/line-skis-outline-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8Zpnk0wDUHv3HHlZeUXFerlzibdwVGM5CGpKwbH-DYk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8Zpnk0wDUHv3HHlZeUXFerlzibdwVGM5CGpKwbH-DYk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8Zpnk0wDUHv3HHlZeUXFerlzibdwVGM5CGpKwbH-DYk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8Zpnk0wDUHv3HHlZeUXFerlzibdwVGM5CGpKwbH-DYk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8Zpnk0wDUHv3HHlZeUXFerlzibdwVGM5CGpKwbH-DYk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

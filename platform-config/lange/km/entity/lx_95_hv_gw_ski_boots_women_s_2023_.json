@@ -1,0 +1,56 @@
+{
+  "$id": "lange_lx_95_hv_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "479.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Lange LX 95 HV GW Ski Boots are a solid choice for the advanced skier with a higher volume foot looking for the best balance of comfort and performance. With a smooth-flexing Polyurethane shell, versatile 95 flex, and years of Lange know-how built in, you can\u0027t go wrong with the LX 95.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange LX 95 HV GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/228674/919601/lange-lx-95-hv-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QlYiRHhC4rowaFXWd7S1tf_2pRp4r2qwJjLBVrfffAM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QlYiRHhC4rowaFXWd7S1tf_2pRp4r2qwJjLBVrfffAM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QlYiRHhC4rowaFXWd7S1tf_2pRp4r2qwJjLBVrfffAM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QlYiRHhC4rowaFXWd7S1tf_2pRp4r2qwJjLBVrfffAM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QlYiRHhC4rowaFXWd7S1tf_2pRp4r2qwJjLBVrfffAM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

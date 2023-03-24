@@ -1,0 +1,360 @@
+{
+  "$id": "armada_locator_104_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/armada_locator_104_skis_2023",
+    "c_details": [
+      {
+        "value": "EST Freeride Rocker – Forebody rocker and extra tip taper combine to create EST for optimized float in the soft stuff. Positive camber under foot with no tail rocker ensures these skis stay on rails when carving is the priority."
+      },
+      {
+        "value": "Caruba Core – Armada\u0027s lightest wood species creates the best uphill feel while retaining the power and dampness required for descending in the gnarliest of terrain. This core makes no concessions in its quest to be ultralight."
+      },
+      {
+        "value": "TI Binding Dampener – Below the binding, a sandwich of rubber, titanal, and finally more rubber works to dampen vibration that otherwise chatters into your bots and shortens your day. Ski bell to bell with extra damping provided."
+      },
+      {
+        "value": "Carbon Reinforcement – Specially placed carbon stringers add pop and stiffness without adding weight."
+      },
+      {
+        "value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability on snow."
+      },
+      {
+        "value": "1.7 Lightweight Edge – Light and strong, these heat-treated edges effect the feel of the ski minimally to ensure a snappy, lightweight feel."
+      },
+      {
+        "value": "AR Bat Tail Self Center Tail Clip Design"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": ["162", "170", "178", "186"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7096784237424891914"],
+    "description": "Let\u0027s face it. Most people just don\u0027t have enough time, money, or garage space for a whole quiver of resort skis AND a whole quiver of touring skis. You might have some powder planks and a hard snow setup for the inbounds, but when it comes to touring skis, you\u0027re probably looking for one ski that can do it all. But doing it all in a place like the backcountry, which can grant you the deepest snow, the longest climbs, and the mankiest crud, sometimes all in the same lap, is no small feat. And that\u0027s exactly what the Armada Locator 104 Skis are built to do. Coming in at less than 1500 grams per ski, they\u0027re insanely lightweight for their size. Pair that with versatile waist width, burly construction, and playful-yet-serious shape, and these things are an incredible jack of all trades for the backcountry. Whether your touring day is long or short, deep or shallow, the Locator 104 is up for the challenge.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Armada Locator 104 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903528/armada-locator-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903532/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903528/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903532/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903528/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903532/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/JafmfU-oReqJ8jH8_C5RKkkfzzKsSR-e2gfS00WiKeE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903528/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rEjMdna4QJXen6TGIc4FKyHKa54pbUOaTFAL5sHf3qI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219348/903532/armada-locator-104-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TC4xV8VWGYmSm9GPC_RRzL4VRaRLt3TFwpaKbBQAZI8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TC4xV8VWGYmSm9GPC_RRzL4VRaRLt3TFwpaKbBQAZI8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TC4xV8VWGYmSm9GPC_RRzL4VRaRLt3TFwpaKbBQAZI8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TC4xV8VWGYmSm9GPC_RRzL4VRaRLt3TFwpaKbBQAZI8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TC4xV8VWGYmSm9GPC_RRzL4VRaRLt3TFwpaKbBQAZI8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1502381744-fe11500e480c61815188b752c7059f20080ca83d9e18df40be5efa0d4fdb92a2-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/wljhuOo66zL8-AE5mpzrg9OuxSn4D27BpHLMwu_zxu8/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/wljhuOo66zL8-AE5mpzrg9OuxSn4D27BpHLMwu_zxu8/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/wljhuOo66zL8-AE5mpzrg9OuxSn4D27BpHLMwu_zxu8/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/wljhuOo66zL8-AE5mpzrg9OuxSn4D27BpHLMwu_zxu8/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/wljhuOo66zL8-AE5mpzrg9OuxSn4D27BpHLMwu_zxu8/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

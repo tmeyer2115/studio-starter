@@ -1,0 +1,123 @@
+{
+  "$id": "v_lkl_yumi_84_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/v_lkl_yumi_84_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Tip \u0026 Tail Rocker – Bends up only in the shovel and tail zones, with a camber shape in the middle."
+      },
+      {
+        "value": "3D Radius Sidecut – Three radii in one ski shape deliver maximum versatility - long radii at the tip and tail for stability and smoothness, and a short radius in the mid-body allows the skier to switch from long arcs to short turns at will, at any speed."
+      },
+      {
+        "value": "Multilayer Woodcore – The combination of beech and poplar results in an extremely durable wood core composed of hard wood in the binding area and lighter wood surrounding it."
+      },
+      {
+        "value": "Glass Frame"
+      },
+      {
+        "value": "Titanal Binding Platform"
+      },
+      {
+        "value": "Full Sidewall Construction – Sidewalls from tip to tail delivers maximum power to the edge."
+      },
+      {
+        "value": "P-Tex 2100 Base"
+      },
+      {
+        "value": "Brushed Structure"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "649.99",
+    "c_productType": "Skis",
+    "c_sizes": ["147", "154", "161", "168"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The moment you click into the Völkl Yumi 84 Skis, you\u0027ll see what people mean when they say Völkl\u0027s frontside skis have no peer. Rock solid on firm snow with their full sidewall glass frame construction, forgiving when they need to be but powerful when you demand it courtesy of the dial-in 3D Radius sidecut, and with Völkl quality evident at every step of the construction process, the Yumi is one of the most versatile groomer skis out there.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Völkl Yumi 84 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227104/915728/volkl-yumi-84-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/meGVEAgfB27uehPah7pgUZNkAEgQRQJADaF0I6msfJY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/meGVEAgfB27uehPah7pgUZNkAEgQRQJADaF0I6msfJY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/meGVEAgfB27uehPah7pgUZNkAEgQRQJADaF0I6msfJY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/meGVEAgfB27uehPah7pgUZNkAEgQRQJADaF0I6msfJY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/meGVEAgfB27uehPah7pgUZNkAEgQRQJADaF0I6msfJY/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

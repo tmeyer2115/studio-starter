@@ -1,0 +1,177 @@
+{
+  "$id": "faction_dancer_3x_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/faction_dancer_3x_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 164 \u003d 350mm, 172 \u003d 370mm | Camber: All Sizes \u003d 4mm | Tail Rocker: 164 \u003d 210mm, 172 \u003d 220mm"
+      },
+      {
+        "value": "Flex: 8 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Moustache Flex – This flex works best for most skiers. Enjoy stability in front of, and behind the binding area to provide solid edge hold. Then, we transition to smooth, progressive flex in the tips and tails to easily absorb all the different bumps and snow debris the mountain throws at you. This flex allows for an easier turn initiation and finish."
+      },
+      {
+        "value": "Elliptical Sidecut – Elliptical Sidecut is made up of a longer radius underfoot and shorter radii in the tip and tail of the ski. The long radius underfoot means you can pivot faster and easier, while a shorter radius in the tip and tail result in easier turn initiation. This sidecut allows for a wide variety of turn lengths, angles and mounting positions."
+      },
+      {
+        "value": "Freeride Flat Tail – Traditional flat tail design is built for speed, ultimate edge grip and control throughout charging turns. Brought into the modern day with a slight tail rocker, this shape is easier than ever to slash your turn into a slarve and won’t hook up in fresh conditions."
+      },
+      {
+        "value": "Sustainable Lightweight Poplar Wood Core – Poplar is a light-colored, medium-weight, durable softwood that flexes and pops nicely as well as having a whole load of vibration absorption capabilities. Used as the only wood in this core, it allows the ski to pop, butter and stomp like an all-mountain freestyle ski and also have enough torsional stability to grip impressively on the downhill."
+      },
+      {
+        "value": "Dual Span Titanal – Titanal is one of the most sturdy metals out there. Its isotropic qualities, equally strong in all directions, mean that the ski loves being on an edge, blasts through bumps and feels stable even in changeable snow, making it the perfect chassis for a holy grail, hard-charging freeride ski."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "Bio-Based Resin"
+      },
+      {
+        "value": "Made in Austria"
+      },
+      {
+        "value": "1% For the Planet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "799.00",
+    "c_productType": "Skis",
+    "c_sizes": ["164"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The all-mountain freeride ski for those who like to make clean turns every time and FINISH them for God\u0027s sake, the Faction Dancer 3X Skis combine big mountain width and stoutness with a flatter tail rocker profile and two sheets of Titanal in the build to make you feel invincible even when you\u0027re figure-11\u0027ing it. The 106mm waist is a perfect compromise between powder-worthiness and inbounds dexterity, and the tip rocker/flat tail design nails it when you\u0027re looking for power out of the turn.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Faction Dancer 3X Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227151/939900/faction-dancer-3x-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/a1HTlnN1s7mIaDWT2att_Rzn91cPPXviI2h74df-wC0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/a1HTlnN1s7mIaDWT2att_Rzn91cPPXviI2h74df-wC0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/a1HTlnN1s7mIaDWT2att_Rzn91cPPXviI2h74df-wC0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/a1HTlnN1s7mIaDWT2att_Rzn91cPPXviI2h74df-wC0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/a1HTlnN1s7mIaDWT2att_Rzn91cPPXviI2h74df-wC0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227151/939898/faction-dancer-3x-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/V0dRxifAyatXdTeWqds6I1KS90VUq55MzPgCq01OaOs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/V0dRxifAyatXdTeWqds6I1KS90VUq55MzPgCq01OaOs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/V0dRxifAyatXdTeWqds6I1KS90VUq55MzPgCq01OaOs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/V0dRxifAyatXdTeWqds6I1KS90VUq55MzPgCq01OaOs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/V0dRxifAyatXdTeWqds6I1KS90VUq55MzPgCq01OaOs/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

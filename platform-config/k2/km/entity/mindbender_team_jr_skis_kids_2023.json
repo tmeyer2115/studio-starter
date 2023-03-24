@@ -1,0 +1,138 @@
+{
+  "$id": "k2_mindbender_team_jr_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/k2_mindbender_team_jr_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Aspen – Lightweight and resilient, Aspen is a great all-around core material."
+      },
+      {
+        "value": "Hybritech – Features sidewalls along the running surface that flow into the tip and tail; reducing swing-weight, optimizing turn initiation, and providing unrivaled durability."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Skis",
+    "c_sizes": ["145", "155"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "For the junior senders who like to roll with the big dogs, the K2 Mindbender Team Jr Skis are your ticket to shred town. With a responsive Aspen Veneer core and versatile All-Terrain Rocker, they are made to last through rugged freeride terrain. Coming in at 98mm underfoot, these skis are geared up to be the do-it-all, smack the lip, carve through crud kind of ski that fosters progression from opening day till the end of the season. Time to bust it down and tear it up.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "K2 Mindbender Team Jr Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221745/907230/k2-mindbender-team-jr-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/l3qEXYacgi8XgPhm_EmjwS1KBtOZUbIYpgD0X8mX8sg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/l3qEXYacgi8XgPhm_EmjwS1KBtOZUbIYpgD0X8mX8sg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/l3qEXYacgi8XgPhm_EmjwS1KBtOZUbIYpgD0X8mX8sg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/l3qEXYacgi8XgPhm_EmjwS1KBtOZUbIYpgD0X8mX8sg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/l3qEXYacgi8XgPhm_EmjwS1KBtOZUbIYpgD0X8mX8sg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221745/907226/k2-mindbender-team-jr-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HX-bhOEyReGoOFuEuUS4ruHB4oHICtbD6sMK5tuEpWU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HX-bhOEyReGoOFuEuUS4ruHB4oHICtbD6sMK5tuEpWU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HX-bhOEyReGoOFuEuUS4ruHB4oHICtbD6sMK5tuEpWU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HX-bhOEyReGoOFuEuUS4ruHB4oHICtbD6sMK5tuEpWU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HX-bhOEyReGoOFuEuUS4ruHB4oHICtbD6sMK5tuEpWU/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

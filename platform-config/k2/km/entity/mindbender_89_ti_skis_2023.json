@@ -1,0 +1,291 @@
+{
+  "$id": "k2_mindbender_89_ti_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_mindbender_89_ti_skis_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Aspen – Lightweight and resilient, Aspen is a great all-around core material."
+      },
+      {
+        "value": "Ti Y-Beam – TCD-optimized shape, placing Titanal directly over the edges in the forebody of the ski for powerful and consistent turn entry in variable and off-piste conditions. Underfoot, the Titanal spans the full width of the ski for maximum power transfer and control. In the tail, the Titanal narrows, tapering to allow the ski to break free on the back end of the turn while still remaining supportive."
+      },
+      {
+        "value": "PowerWall – Power transfer to the ski\u0027s edges is dramatically enhanced with oversized ABS sidewalls that are laminated and pocketed within the wood core in the midbody of the ski."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Skis",
+    "c_sizes": ["176"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "When the jet stream leaves you high and dry, look to the K2 Mindbender 89 Ti Skis to keep you moving and shaking til the next storm rolls in. These Titanal powered rocketships deliver the goods when conditions are firm while remaining versatile and nimble enough to navigate bumps, trees, and even that surprise overnight refresh. K2\u0027s signature Titanal Y-Beam construction has been tweaked to improve turn initiation and edge-hold, along with an All-Terrain Rocker profile that knows no bounds. Ride the skis that put K2 back on the map, the Mindbenders are up there with the best.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "K2 Mindbender 89 Ti Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976860/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ldwgtn2nU8L-1RcfkL9kx2UK23U7wxf05rHKaZKa6Co/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ldwgtn2nU8L-1RcfkL9kx2UK23U7wxf05rHKaZKa6Co/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ldwgtn2nU8L-1RcfkL9kx2UK23U7wxf05rHKaZKa6Co/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ldwgtn2nU8L-1RcfkL9kx2UK23U7wxf05rHKaZKa6Co/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ldwgtn2nU8L-1RcfkL9kx2UK23U7wxf05rHKaZKa6Co/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976857/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/yJp7lTzsk7vzF3pmyVqwKiazv9UNHW51rQhKNZ7w7bE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/yJp7lTzsk7vzF3pmyVqwKiazv9UNHW51rQhKNZ7w7bE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/yJp7lTzsk7vzF3pmyVqwKiazv9UNHW51rQhKNZ7w7bE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/yJp7lTzsk7vzF3pmyVqwKiazv9UNHW51rQhKNZ7w7bE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/yJp7lTzsk7vzF3pmyVqwKiazv9UNHW51rQhKNZ7w7bE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976861/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2mbbPcK1knKs11g03J5uG6AtQ_GOSFKrhD2KXVIHm18/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2mbbPcK1knKs11g03J5uG6AtQ_GOSFKrhD2KXVIHm18/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2mbbPcK1knKs11g03J5uG6AtQ_GOSFKrhD2KXVIHm18/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2mbbPcK1knKs11g03J5uG6AtQ_GOSFKrhD2KXVIHm18/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2mbbPcK1knKs11g03J5uG6AtQ_GOSFKrhD2KXVIHm18/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976856/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Hoz1RNY9LUKm8quJZquC8AH8KZua0QT2QA0a6K9rN74/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Hoz1RNY9LUKm8quJZquC8AH8KZua0QT2QA0a6K9rN74/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Hoz1RNY9LUKm8quJZquC8AH8KZua0QT2QA0a6K9rN74/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Hoz1RNY9LUKm8quJZquC8AH8KZua0QT2QA0a6K9rN74/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Hoz1RNY9LUKm8quJZquC8AH8KZua0QT2QA0a6K9rN74/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976858/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/w6rlqt6hsqUnw7oTZx92DuJN5aXQu-UvIUWmGb29pNk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/w6rlqt6hsqUnw7oTZx92DuJN5aXQu-UvIUWmGb29pNk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/w6rlqt6hsqUnw7oTZx92DuJN5aXQu-UvIUWmGb29pNk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/w6rlqt6hsqUnw7oTZx92DuJN5aXQu-UvIUWmGb29pNk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/w6rlqt6hsqUnw7oTZx92DuJN5aXQu-UvIUWmGb29pNk/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976865/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/SxepA1eg8oAfwLbFlZQJVYGo2VS96T-w_iWj0IyqQUM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/SxepA1eg8oAfwLbFlZQJVYGo2VS96T-w_iWj0IyqQUM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/SxepA1eg8oAfwLbFlZQJVYGo2VS96T-w_iWj0IyqQUM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/SxepA1eg8oAfwLbFlZQJVYGo2VS96T-w_iWj0IyqQUM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/SxepA1eg8oAfwLbFlZQJVYGo2VS96T-w_iWj0IyqQUM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221666/976859/k2-mindbender-89-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/bUyNlQ24LQLiOBvRdtyGzHDQ1uWnA2gO0OQN5RX89tw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bUyNlQ24LQLiOBvRdtyGzHDQ1uWnA2gO0OQN5RX89tw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bUyNlQ24LQLiOBvRdtyGzHDQ1uWnA2gO0OQN5RX89tw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bUyNlQ24LQLiOBvRdtyGzHDQ1uWnA2gO0OQN5RX89tw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bUyNlQ24LQLiOBvRdtyGzHDQ1uWnA2gO0OQN5RX89tw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

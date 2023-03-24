@@ -1,0 +1,117 @@
+{
+  "$id": "elan_ripstick_94_black_edition_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/elan_ripstick_94_black_edition_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Amphibio Profile / Asymmetrical Design – The Amphibio profile is a revolutionary ski design that integrates both rocker and camber profiles into dedicated left and right skis. Amphibio skis feature a cambered inside edge assuring precision, edge grip, and stability while a rockered outside edge provides forgiveness, turning ease and smooth transitions."
+      },
+      {
+        "value": "Tubelite Wood Core – To create the TubeLite Wood Core, two super lightweight Carbon tubes are inserted into a lightweight laminated wood core. Measuring 5mm in diameter and hollow in their construction, these tubes run along the length of the ski following the arc of the side cut. They provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+      },
+      {
+        "value": "Carbon Line Technology – Amphibio Carbon Line technology is a combination of innovations that provide the best balance of lightweight construction with power and performance. Amphibio Carbon Line technology elevates the asymmetrical ski design to the next level by strategically locating carbon reinforcement over the inside edges of the skis providing more power in the turn, while carbon rods inserted into the woodcore maximize weight savings and overall stability. The end result is an extremely lightweight high performance ski with uncompromised versatility and smooth performance."
+      },
+      {
+        "value": "QuadRod Reinforcement – Expanded upon its TubeLite Woodcore, which features two full-length carbon rods placed in the core, adjacent to the edges and the shape if the side cut, by adding two additional carbon rods to the center of the ski, one in the tip and one in the tail, resulting in QuadRod Technology. It delivers next level smoothness and drip, with a natural flex pattern for the perfect blend of playful, yet powerful performance."
+      },
+      {
+        "value": "100% Recycled Vapor Tip Inserts – Vapor Tip inserts are advanced composites that are integrated into the tip and tail area of the ski‘s core. These inserts reduce weight and vibration, dramatically improving stability and ensuring a smooth ride even in the most demanding conditions."
+      },
+      {
+        "value": "SST Sidewall Construction – The SST Sidewall Construction provides quick, nimble and direct power transmission from the ski to snow as well as providing exceptional torsional rigidity."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "749.99",
+    "c_productType": "Skis",
+    "c_sizes": ["154", "162", "170", "178"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Elan Ripstick 94 Black Edition Skis are like an emotionally mature partner: powerful, controlled, and great at challenging your skiing without ever wavering in their support. Constructed with a full wood core reinforced with carbon QuadRods, these skis are so powerful, groomers will gasp in awe when they see you ripping down the hill. Their asymmetrical flex design provides targeted control and edge precision, delighting your thigh muscles and cutting perfectly into groomed snow and variable terrain. For the boot benders looking for something that\u0027ll make them reach for a stiffer power strap, the Elan Ripstick 94 Black Edition Skis are the whole package. Get them a ring asap!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Elan Ripstick 94 Black Edition Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226937/913465/elan-ripstick-94-black-edition-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/G0sJxXXahp4lV148S9Vk6NsR7wNXfZbPVDos-AL6FF8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/G0sJxXXahp4lV148S9Vk6NsR7wNXfZbPVDos-AL6FF8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/G0sJxXXahp4lV148S9Vk6NsR7wNXfZbPVDos-AL6FF8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/G0sJxXXahp4lV148S9Vk6NsR7wNXfZbPVDos-AL6FF8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/G0sJxXXahp4lV148S9Vk6NsR7wNXfZbPVDos-AL6FF8/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

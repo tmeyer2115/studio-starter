@@ -1,0 +1,56 @@
+{
+  "$id": "fischer_ranger_115_gw_dyn_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "All-terrain skiers have long known that a Polyurethane shell and cuff simply ski better, with a more progressive and smoother flex, but they\u0027ve balked at 2,000 gram boots for backcountry use. Now there\u0027s no need to compromise when the Fischer Ranger 115 GW DYN Alpine Touring Ski Boots are a reality. Here\u0027s a backcountry-friendly boot with awesome touring ability, but built of Thermoplastic Polyurethane for the flex and feel you want when you\u0027re really pushing it, and at a sub-1800 gram weight to \"boot.\" Ready and waiting for the hardest chargers with a 115 flex and cinch-type Phatt Maxx power strap, consider this boot a done deal.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Fischer Ranger 115 GW DYN Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227816/917542/fischer-ranger-115-gw-dyn-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/N3DQ_vV3HCazQaqC_wQPxzW2mHzLlmOOUI4nKfB7uPc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/N3DQ_vV3HCazQaqC_wQPxzW2mHzLlmOOUI4nKfB7uPc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/N3DQ_vV3HCazQaqC_wQPxzW2mHzLlmOOUI4nKfB7uPc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/N3DQ_vV3HCazQaqC_wQPxzW2mHzLlmOOUI4nKfB7uPc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/N3DQ_vV3HCazQaqC_wQPxzW2mHzLlmOOUI4nKfB7uPc/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "tecnica_zero_g_tour_scout_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "The Tecnica Zero G Tour Scout Alpine Touring Ski Boots continue to be one of the best choices out there for backcountry lovers who only want one boot in their quiver. Awesome power and control on the down combined with one of the lightest constructions in the hybrid category mean plenty of dedicated ski tourers have no qualms about choosing this as their daily boot. To no one\u0027s surprise, the carbon-infused Grilamid construction with double-blocking walk mode lever carry over and the only thing new is the ultra-stealthy black-on-black colorway.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Tecnica Zero G Tour Scout Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223180/906126/tecnica-zero-g-tour-scout-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/mwIGmXeOiTdRXv-uYi_hJhOxhNfDGEGAjccsaGAe77Q/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/mwIGmXeOiTdRXv-uYi_hJhOxhNfDGEGAjccsaGAe77Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/mwIGmXeOiTdRXv-uYi_hJhOxhNfDGEGAjccsaGAe77Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/mwIGmXeOiTdRXv-uYi_hJhOxhNfDGEGAjccsaGAe77Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/mwIGmXeOiTdRXv-uYi_hJhOxhNfDGEGAjccsaGAe77Q/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

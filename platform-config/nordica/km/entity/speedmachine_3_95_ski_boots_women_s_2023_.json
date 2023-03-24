@@ -1,0 +1,56 @@
+{
+  "$id": "nordica_speedmachine_3_95_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "549.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Nordica Speedmachine 3 95 Ski Boots are true to their name. These resort rippers combine supreme performance with Nordica\u0027s fit customization technology, to give you the comfort and precision you need to ski your best all day long. Equipped with a heat moldable 3D Cork Fit Primaloft Liner that comforms to the shape of your foot, this versatile winter shoe really gets after it.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Speedmachine 3 95 Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226891/911049/nordica-speedmachine-3-95-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/eVXwD7cdQJEBmegJ4BrzvH4qogr9wRfpJEe2QyWPUQw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/eVXwD7cdQJEBmegJ4BrzvH4qogr9wRfpJEe2QyWPUQw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/eVXwD7cdQJEBmegJ4BrzvH4qogr9wRfpJEe2QyWPUQw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/eVXwD7cdQJEBmegJ4BrzvH4qogr9wRfpJEe2QyWPUQw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/eVXwD7cdQJEBmegJ4BrzvH4qogr9wRfpJEe2QyWPUQw/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

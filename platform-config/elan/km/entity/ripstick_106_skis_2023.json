@@ -1,0 +1,187 @@
+{
+  "$id": "elan_ripstick_106_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/elan_ripstick_106_skis_2023",
+    "c_details": [
+      {
+        "value": "Amphibio Profile – The Amphibio profile is a revolutionary ski design that integrates both rocker and camber profiles into dedicated left and right skis. Amphibio skis feature a cambered inside edge assuring precision, edge grip, and stability while a rockered outside edge provides forgiveness, turning ease and smooth transitions."
+      },
+      {
+        "value": "Tubelite Wood Core – To create the TubeLite Wood Core, two super lightweight Carbon tubes are inserted into a lightweight laminated wood core. Measuring 5mm in diameter and hollow in their construction, these tubes run along the length of the ski following the arc of the side cut. They provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+      },
+      {
+        "value": "Carbon Line Technology – Amphibio Carbon Line technology is a combination of innovations that provide the best balance of lightweight construction with power and performance. Amphibio Carbon Line technology elevates the asymmetrical ski design to the next level by strategically locating carbon reinforcement over the inside edges of the skis providing more power in the turn, while carbon rods inserted into the woodcore maximize weight savings and overall stability. The end result is an extremely lightweight high performance ski with uncompromised versatility and smooth performance."
+      },
+      {
+        "value": "Vapor Tip Inserts – Vapor Tip inserts are advanced composites that are integrated into the tip and tail area of the ski‘s core. These inserts reduce weight and vibration, dramatically improving stability and ensuring a smooth ride even in the most demanding conditions."
+      },
+      {
+        "value": "Fiberglass – Fiberglass reinforcement optimizes the ﬂex pattern and enhances torsional rigidity of the ski. The fibers are positioned either above or below the ski core and improve the ski’s structural integrity."
+      },
+      {
+        "value": "Carbon Rods – Lightweight Carbon tubes inserted into the ski and run the length of the ski following the arc of the side cut. The carbon tubes provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+      },
+      {
+        "value": "SST Sidewall Construction – The SST Sidewall Construction provides quick, nimble and direct power transmission from the ski to snow as well as providing exceptional torsional rigidity."
+      },
+      {
+        "value": "Sintered UHMW Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.99",
+    "c_productType": "Skis",
+    "c_sizes": ["172", "180", "188"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Athletes",
+        "value": "Glen Plake"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Elan Ripstick 106 Skis are so good you\u0027ll be saying \"I love you,\" before the end of the first date. Adept at both short and long radius turns on anything from boilerplate ice to knee deep pow, these all-mountain tools aren\u0027t picky about where you take them, and with all new Carbon Line Technology for increased power through the turn, they\u0027re snappier than ever. I now pronounce you, Ripstick and Ripper.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Elan Ripstick 106 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226934/913470/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226934/913470/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226934/913470/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e_r_nX3syv045Lu3zA0M-ivPIRSOd8GlYa2lZpHiy8M/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

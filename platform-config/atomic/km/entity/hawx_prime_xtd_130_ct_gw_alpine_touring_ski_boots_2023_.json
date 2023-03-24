@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_prime_xtd_130_ct_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "Re-introducing the Atomic Hawx Prime XTD 130 CT GW Alpine Touring Ski Boots, a super stiff freeride touring boot, made for demanding backcountry riders of any size. A high performance medium width delivers comfort and performance for those with medium volume feet, and fully customizable shell and Mimic 3D liner mean there\u0027s plenty your favorite bootfitter can do to make your toes snug as a bug in a rug, ready to roll out on the skin track. With a low cuff in sizes 23.5 and smaller, the XTD 130 is specially made to accommodate different bodies without sacrificing performance. Get ready to grip it and rip it, the Atomic Hawx Prime XTD 130 CT GW Alpine Touring Ski Boots have the tools you need to succeed.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Atomic Hawx Prime XTD 130 CT GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219599/904926/atomic-hawx-prime-xtd-130-ct-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/uybZkngSwEyFdTNio3-JmSSp7hqux7tpEjeohn44e0U/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/uybZkngSwEyFdTNio3-JmSSp7hqux7tpEjeohn44e0U/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/uybZkngSwEyFdTNio3-JmSSp7hqux7tpEjeohn44e0U/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/uybZkngSwEyFdTNio3-JmSSp7hqux7tpEjeohn44e0U/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uybZkngSwEyFdTNio3-JmSSp7hqux7tpEjeohn44e0U/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

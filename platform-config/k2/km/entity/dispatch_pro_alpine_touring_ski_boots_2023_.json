@@ -1,0 +1,56 @@
+{
+  "$id": "k2_dispatch_pro_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "New for this year, K2 has created the Dispatch line of touring-specific ski boots. The K2 Dispatch Pro Alpine Touring Ski Boots are the crown jewel of the line, with a freeride-ready 130 flex plus a skin track ready 1530 gram weight. K2\u0027s new Powerlock 2.0 walk mode allows for a whopping 60 range of motion in walk mode, and a BOA-power liner keeps your foot locked in place for the downhill. If you\u0027re looking for a premium uphill boot that charges hard on the way down, this new offering from K2 might be just what you\u0027ve been waiting for.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 Dispatch Pro Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224014/904651/k2-dispatch-pro-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jO6NuYQZyon_PYDKq9TBOSkjLawOTfSVET4BA7OsOxg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jO6NuYQZyon_PYDKq9TBOSkjLawOTfSVET4BA7OsOxg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jO6NuYQZyon_PYDKq9TBOSkjLawOTfSVET4BA7OsOxg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jO6NuYQZyon_PYDKq9TBOSkjLawOTfSVET4BA7OsOxg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jO6NuYQZyon_PYDKq9TBOSkjLawOTfSVET4BA7OsOxg/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

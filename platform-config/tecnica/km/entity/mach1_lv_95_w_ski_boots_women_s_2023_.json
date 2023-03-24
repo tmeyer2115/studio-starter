@@ -1,0 +1,56 @@
+{
+  "$id": "tecnica_mach1_lv_95_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "599.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Tecnica Mach1 LV 95 W Ski Boots are the ticket for narrow-footed skiers seeking to extract maximum performance from their boots while still seeking all-day comfort. With a 98mm last and a C.A.S. shell that gives your bootfitter some great material to work with, the Mach1 LV 95 has a not-too-stiff but not-too-soft flex just right for all mountain exploration. As with all the Mach1 boots this season, the LV 95 gets GripWalk soles for more security and less effort on your way from the car to the ticket window.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Mach1 LV 95 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223152/906108/tecnica-mach1-lv-95-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QB4YKyCN6Agw_nD8hPJ33ni3o7C3RWxIoLkr94J_tvM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QB4YKyCN6Agw_nD8hPJ33ni3o7C3RWxIoLkr94J_tvM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QB4YKyCN6Agw_nD8hPJ33ni3o7C3RWxIoLkr94J_tvM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QB4YKyCN6Agw_nD8hPJ33ni3o7C3RWxIoLkr94J_tvM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QB4YKyCN6Agw_nD8hPJ33ni3o7C3RWxIoLkr94J_tvM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

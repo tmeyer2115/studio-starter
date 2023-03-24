@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_select_hv_80_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "349.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Newer skier with high volume feet? Not to worry, Salomon has you covered with the Salomon Select HV 80 Ski Boots, designed with built-in comfort to get you and your skills cranking through the gears. A wide 102 mm last provides all-day comfort, and Salomon\u0027s new Dual Sensifit shell makes the Select HV 80 super easy to put on and take off. Learning skiers have enough to worry about already - take boots off that list with the Select HV 80.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon Select HV 80 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219476/921339/salomon-select-hv-80-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/z5i-tsAw0rNJpomqXboazNJKrvKlALR0MYCieaW1pEk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/z5i-tsAw0rNJpomqXboazNJKrvKlALR0MYCieaW1pEk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/z5i-tsAw0rNJpomqXboazNJKrvKlALR0MYCieaW1pEk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/z5i-tsAw0rNJpomqXboazNJKrvKlALR0MYCieaW1pEk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/z5i-tsAw0rNJpomqXboazNJKrvKlALR0MYCieaW1pEk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_alltrack_elite_130_lt_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "Built with the gnarliest freeriders in mind, the Rossignol Alltrack Elite 130 LT GW Alpine Touring Ski Boots weight a mere 1740 grams per boot but drive bigger skis as well as any pure alpine boot in the business. That\u0027s down to the lightweight yet rock solid Grilamid Dual Core construction with Generative Grid reinforcement in the most heavily stressed areas of the shell. Add Gripwalk soles for traction while hiking or booting, and genuine Dynafit tech fittings for use in pure tech or hybrid AT bindings, and the Alltrack Elite 130 LTs deliver the goods on the skin track, too.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Rossignol Alltrack Elite 130 LT GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201497/830017/rossignol-alltrack-elite-130-lt-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/F70FsuzhXTc1zOhz95LNO-3G-uKrMMJYffBxEQCnX8g/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/F70FsuzhXTc1zOhz95LNO-3G-uKrMMJYffBxEQCnX8g/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/F70FsuzhXTc1zOhz95LNO-3G-uKrMMJYffBxEQCnX8g/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/F70FsuzhXTc1zOhz95LNO-3G-uKrMMJYffBxEQCnX8g/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/F70FsuzhXTc1zOhz95LNO-3G-uKrMMJYffBxEQCnX8g/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

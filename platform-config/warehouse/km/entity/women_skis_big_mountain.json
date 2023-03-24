@@ -1,0 +1,35 @@
+{
+  "$id": "warehouse_women_skis_big_mountain",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "dm_baseEntityCount": "6",
+    "dm_childEntityIds": [
+      "82280380",
+      "82280419",
+      "82280327",
+      "82280414",
+      "82280318",
+      "82280396"
+    ],
+    "dm_directoryChildren": [
+      "rossignol_rallybird_104_ti_skis_women_s_2023",
+      "rossignol_rallybird_102_skis_women_s_2023",
+      "nordica_santa_ana_110_free_skis_women_s_2023",
+      "blizzard_sheeva_11_skis_women_s_2023",
+      "icelantic_maiden_111_skis_women_s_2023",
+      "icelantic_nia_pro_105_skis_women_s_2023"
+    ],
+    "dm_directoryChildrenCount": "6",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis"
+    ],
+    "name": "Big Mountain",
+    "slug": "women/skis/big-mountain"
+  },
+  "entityType": "ce_category",
+  "labels": []
+}

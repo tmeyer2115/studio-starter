@@ -1,0 +1,141 @@
+{
+  "$id": "k2_sight_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_sight_skis_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Twin Rocker – All-Terrain Twin Rocker is a gradual, extended rise at the tip and tail for added versatility and control in all conditions with twin tip skis."
+      },
+      {
+        "value": "Aspen – Lightweight and resilient, Aspen is a great all-around core material."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "TwinTech Sidewalls – A durable sidewall construction originally developed for twin tip skis that makes the top edges more resistant to ski vs. ski impact damage"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Skis",
+    "c_sizes": ["159"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "From the homemade PVC pipe feature in your backyard to the hefty halfpipe, technical tricks and the K2 Sight Skis go together like milk \u0027n cookies. With creativity and progression at the forefront of this design, K2\u0027s Carbon Boost tech gives them the agility and pop needed to get schwifty on the slopes - aka let loose and throw down. Drum roll, please!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "K2 Sight Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221704/905925/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Mor64A8PRZmNXWHeOCBZyJ27atS4ZzmNuId7irY72eE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Mor64A8PRZmNXWHeOCBZyJ27atS4ZzmNuId7irY72eE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Mor64A8PRZmNXWHeOCBZyJ27atS4ZzmNuId7irY72eE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Mor64A8PRZmNXWHeOCBZyJ27atS4ZzmNuId7irY72eE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Mor64A8PRZmNXWHeOCBZyJ27atS4ZzmNuId7irY72eE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221704/905920/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VdBL-nAwnngGZB7O-8zlw0ynOFqXVYafEFXRI7kDRL8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VdBL-nAwnngGZB7O-8zlw0ynOFqXVYafEFXRI7kDRL8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VdBL-nAwnngGZB7O-8zlw0ynOFqXVYafEFXRI7kDRL8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VdBL-nAwnngGZB7O-8zlw0ynOFqXVYafEFXRI7kDRL8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VdBL-nAwnngGZB7O-8zlw0ynOFqXVYafEFXRI7kDRL8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

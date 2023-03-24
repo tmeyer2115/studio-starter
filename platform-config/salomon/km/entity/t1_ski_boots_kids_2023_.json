@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_t1_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "99.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "Ideal for the young \"pizza and French fries\" crowd, the Salomon T1 Ski Boots make the boot part of the ski setup easy, and that\u0027s a good thing because there\u0027s plenty of other things to sort out. Lightweight polyolefin construction and a single ratcheting top buckle that junior will be able to master on his own make this an effortless decision.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon T1 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197376/811188/salomon-t1-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/T97sMkyPMDcTklAZ6rvMxQYqvC-AEKkKmWArah3JiJk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/T97sMkyPMDcTklAZ6rvMxQYqvC-AEKkKmWArah3JiJk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/T97sMkyPMDcTklAZ6rvMxQYqvC-AEKkKmWArah3JiJk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/T97sMkyPMDcTklAZ6rvMxQYqvC-AEKkKmWArah3JiJk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/T97sMkyPMDcTklAZ6rvMxQYqvC-AEKkKmWArah3JiJk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

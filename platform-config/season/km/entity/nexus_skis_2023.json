@@ -1,0 +1,438 @@
+{
+  "$id": "season_nexus_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/season_nexus_skis_2023",
+    "c_details": [
+      {
+        "value": "Elongated Nose / Standard Camber / Raised Tail – 27cm Entry Rocker / 6mm Camber / 27cm Exit Rocker"
+      },
+      {
+        "value": "Medium Flex"
+      },
+      {
+        "value": "Multi-Radius Sidecut – An initiation radius in the nose, stability radius underfoot and exit shape through the tail."
+      },
+      {
+        "value": "Progressive Shaping – Width and stance change depending on model length to support all riders."
+      },
+      {
+        "value": "Karuba Wood Core – Lightweight full wood core delivers a responsive, high-performance feel."
+      },
+      {
+        "value": "Biaxial Fiberglass"
+      },
+      {
+        "value": "Stainless Steel Tail Insert"
+      },
+      {
+        "value": "360˚ ABS Sidewall – Increased vibration damping for a quieter, more stable ride."
+      },
+      {
+        "value": "30˚ CNC Sidewall Route – Less material means less weight, better control, and better snow feel."
+      },
+      {
+        "value": "Sintered Base"
+      },
+      {
+        "value": "Season Pass – Season Eqpt. is a new brand available exclusively at evo. Founded by Austin Smith and Eric Pollard, a snowboarder and skier coming together to create a timeless offering with the goal of keeping you on your product season in, season out. Find out more about the service Season Pass included with purchase of a Season product here: https://www.evo.com/discover/seasoneqpt/theseasonpass"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_productType": "Skis",
+    "c_sizes": ["158", "167", "177", "183", "189"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Eric Pollard"
+      },
+      {
+        "name": "Warranty",
+        "value": "Limited Lifetime"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Skiers in snowy locales know the drill well. Powder is always on your mind, but reality often presents itself in the form of crud, mank, leftovers, frozen debris and the like. The Season Nexus Skis are designed and built to shine in any conditions reality lays down, from the sublime to the heinous, and make your day better because of it. With a mid-100s waist and an all-directions tip and tail rocker spec, the Nexus is surprisingly quick edge-to-edge and tracks very well on groomed snow so you won\u0027t be a washout if all else fails and snow doesn\u0027t arrive as hoped for. Pray for pow, but nail down your insurance policy in the form of the Nexus; you won\u0027t be disappointed.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Season Nexus Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/940699/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/940699/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/940699/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/940699/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/940699/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DWRRE8Jaq3ha0uTS8cpPfXayjKbpZtYd2nI5j5AW5Ig/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/928896/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dRjRD8FfQQsNC1OuMhk4w5QVDhoai0AFTRQKZKItFrs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dRjRD8FfQQsNC1OuMhk4w5QVDhoai0AFTRQKZKItFrs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dRjRD8FfQQsNC1OuMhk4w5QVDhoai0AFTRQKZKItFrs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dRjRD8FfQQsNC1OuMhk4w5QVDhoai0AFTRQKZKItFrs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dRjRD8FfQQsNC1OuMhk4w5QVDhoai0AFTRQKZKItFrs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/928889/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/oD0QgafJGe07Wv-w9p9DD4IS_VGZ-64DZrp9_t65iEs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/oD0QgafJGe07Wv-w9p9DD4IS_VGZ-64DZrp9_t65iEs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/oD0QgafJGe07Wv-w9p9DD4IS_VGZ-64DZrp9_t65iEs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/oD0QgafJGe07Wv-w9p9DD4IS_VGZ-64DZrp9_t65iEs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/oD0QgafJGe07Wv-w9p9DD4IS_VGZ-64DZrp9_t65iEs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/984003/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/u27sz3_Yb61ox5SdKbCPSSUqSdHyl0wn_3BeT243GIA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/u27sz3_Yb61ox5SdKbCPSSUqSdHyl0wn_3BeT243GIA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/u27sz3_Yb61ox5SdKbCPSSUqSdHyl0wn_3BeT243GIA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/u27sz3_Yb61ox5SdKbCPSSUqSdHyl0wn_3BeT243GIA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/u27sz3_Yb61ox5SdKbCPSSUqSdHyl0wn_3BeT243GIA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/984001/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Qo6O5OnWe-hKJcovlRtLVonufmW_gZ_F5KouEcnjbBU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Qo6O5OnWe-hKJcovlRtLVonufmW_gZ_F5KouEcnjbBU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Qo6O5OnWe-hKJcovlRtLVonufmW_gZ_F5KouEcnjbBU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Qo6O5OnWe-hKJcovlRtLVonufmW_gZ_F5KouEcnjbBU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Qo6O5OnWe-hKJcovlRtLVonufmW_gZ_F5KouEcnjbBU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/984004/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/CABdGNJ5gtYAyjCbYfkgtcxVnWCBteooDmFgvJW5m10/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/CABdGNJ5gtYAyjCbYfkgtcxVnWCBteooDmFgvJW5m10/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/CABdGNJ5gtYAyjCbYfkgtcxVnWCBteooDmFgvJW5m10/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/CABdGNJ5gtYAyjCbYfkgtcxVnWCBteooDmFgvJW5m10/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/CABdGNJ5gtYAyjCbYfkgtcxVnWCBteooDmFgvJW5m10/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/225262/984002/season-nexus-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2jDY_-2Ii7RUpHTqoPFq7wGNEaBigBPwNB-jsvVU-mI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2jDY_-2Ii7RUpHTqoPFq7wGNEaBigBPwNB-jsvVU-mI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2jDY_-2Ii7RUpHTqoPFq7wGNEaBigBPwNB-jsvVU-mI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2jDY_-2Ii7RUpHTqoPFq7wGNEaBigBPwNB-jsvVU-mI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2jDY_-2Ii7RUpHTqoPFq7wGNEaBigBPwNB-jsvVU-mI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

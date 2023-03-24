@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_s_pro_100_gw_ski_boots_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "494.96",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Salomon S/Pro 100 GW Ski Boots return for yet another victory lap with the added safety of Gripwalk soles. This medium-flexing, mid-width superstar gets the job done for thousands of feet each season, turning minor fit issues into memories with Salomon\u0027s amazing Custom Shell HD heat molding process (get this done at your favorite ski shop). Join the army of satisfied S/Pro users and turn your skiing into something special.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon S/Pro 100 GW Ski Boots",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197395/811226/salomon-s-pro-100-gw-ski-boots-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/25mP5xHSLMvXwoPHRUcAFrQZfx8Wxa9Nq-iD2O5nwdM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/25mP5xHSLMvXwoPHRUcAFrQZfx8Wxa9Nq-iD2O5nwdM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/25mP5xHSLMvXwoPHRUcAFrQZfx8Wxa9Nq-iD2O5nwdM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/25mP5xHSLMvXwoPHRUcAFrQZfx8Wxa9Nq-iD2O5nwdM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/25mP5xHSLMvXwoPHRUcAFrQZfx8Wxa9Nq-iD2O5nwdM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

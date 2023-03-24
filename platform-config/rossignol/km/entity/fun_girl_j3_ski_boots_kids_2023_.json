@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_fun_girl_j3_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "149.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Basic",
+    "description": "When your little lady has their pizza pie honed to cheesy perfection and the french fry is looking pretty good too, the Rossignol Fun Girl J3 Ski Boots are ready and waiting. With a more supportive 3 buckle design, they\u0027ll be flying up the learning curve and down the mountain like a rocketship.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Fun Girl J3 Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/185240/747925/rossignol-fun-girl-j3-ski-boots-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/5kltiv1FsVPACCpMV65b5wlQgO51MRP-zQ_-K1xFxww/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/5kltiv1FsVPACCpMV65b5wlQgO51MRP-zQ_-K1xFxww/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/5kltiv1FsVPACCpMV65b5wlQgO51MRP-zQ_-K1xFxww/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/5kltiv1FsVPACCpMV65b5wlQgO51MRP-zQ_-K1xFxww/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/5kltiv1FsVPACCpMV65b5wlQgO51MRP-zQ_-K1xFxww/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

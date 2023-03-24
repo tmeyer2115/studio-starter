@@ -1,0 +1,165 @@
+{
+  "$id": "faction_agent_3x_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/alpine-touring/faction_agent_3x_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Rocker-Camber-Rocker – Tip Rocker: 164 \u003d 30mm, 172 \u003d 370mm, 178 \u003d 380mm | Camber: All Sizes \u003d 4mm | Tail Rocker: 164 \u003d 210mm, 172 \u003d 220mm, 178 \u003d 230mm"
+      },
+      {
+        "value": "Moustache Flex – This flex works best for most skiers. Enjoy stability in front of, and behind the binding area to provide solid edge hold. Then, we transition to smooth, progressive flex in the tips and tails to easily absorb all the different bumps and snow debris the mountain throws at you. This flex allows for an easier turn initiation and finish."
+      },
+      {
+        "value": "Flex Rating – 7 (1 \u003d Soft, 10 \u003d Stiff)"
+      },
+      {
+        "value": "Elliptical Sidecut – Elliptical Sidecut is made up of a longer radius underfoot and shorter radii in the tip and tail of the ski. The long radius underfoot means you can pivot faster and easier, while a shorter radius in the tip and tail result in easier turn initiation. This sidecut allows for a wide variety of turn lengths, angles and mounting positions."
+      },
+      {
+        "value": "Freeride Flat Tail – Traditional flat tail design is built for speed, ultimate edge grip and control throughout charging turns. Brought into the modern day with a slight tail rocker, this shape is easier than ever to slash your turn into a slarve and won’t hook up in fresh conditions."
+      },
+      {
+        "value": "Tip Height – 70mm"
+      },
+      {
+        "value": "Tail Height – 26mm"
+      },
+      {
+        "value": "Lightweight Karuba Core – Karuba is an extremely lightweight woodcore with good strength properties. Despite being little-known, Karuba provides excellent flex and vibration absorption capabilities without adding weight, making it an ideal woodcore for a touring ski that performs just as well on the uphill as on the downhill."
+      },
+      {
+        "value": "Full Carbon Weave – Between 8 and 12 strips of carbon, sandwiching either side of the ski’s woodcore, are laid unidirectionally, providing extra stability to the ski, without adding weight to the build. Each carbon strip is woven into the fiberglass to provide strength and stiffness in the full length of the ski."
+      },
+      {
+        "value": "Titanal Binding Plate – Adds pullout strength with minimal weight gain."
+      },
+      {
+        "value": "Microcap Full Strength Sidewall – Micro-cap construction is a hybrid of a premium, sandwich sidewall construction fused with a lightweight, durable cap construction. With micro-cap, the sandwich construction provides awesome edge hold and torsional stability while the ski’s topsheet wraps around and meets the sidewall, protecting the fragile joint that can be prone to chipping."
+      },
+      {
+        "value": "XL 2.5mm Edges – Fractions of a millimeter might not sound like much, but when it comes to edges, it adds up. The 2.5mm edges stack an extra 25% of height on top of our already super-durable standard 2.0mm edges. This extra steel gives the rider a pair of skis that are going to take more abuse and last longer."
+      },
+      {
+        "value": "100% Renewable Energy Factory"
+      },
+      {
+        "value": "Locally Sourced Materials"
+      },
+      {
+        "value": "Recycled Materials"
+      },
+      {
+        "value": "Made in Austria"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      },
+      {
+        "value": "Drill Bit – 4.1 x 9mm"
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "799.00",
+    "c_productType": "Skis",
+    "c_sizes": ["164", "172", "178"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7096784237424891914"],
+    "description": "The most versatile mid-winter touring design in the Faction collection, the Faction Agent 3X Skis combine a mid-fat 106mm waist, light Karuba wood core, and full Carbon Weave layup in a package that\u0027s light but tough. Dependable and confidence-inspiring on anything from icy steeps to knee-deep freshies, the Agent 3X features a flatter tail with skin notch for your touring pleasure.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_alpine_touring"
+    ],
+    "name": "Faction Agent 3X Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227139/939872/faction-agent-3x-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/yHk61pYAOrTU_xFTmkeYes9rrTkwLf0RYWXPuY9yza8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/yHk61pYAOrTU_xFTmkeYes9rrTkwLf0RYWXPuY9yza8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/yHk61pYAOrTU_xFTmkeYes9rrTkwLf0RYWXPuY9yza8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/yHk61pYAOrTU_xFTmkeYes9rrTkwLf0RYWXPuY9yza8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/yHk61pYAOrTU_xFTmkeYes9rrTkwLf0RYWXPuY9yza8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 1365,
+          "sourceUrl": "https://media.istockphoto.com/id/899358914/vector/skiing-in-the-mountains.jpg?s\u003d2048x2048\u0026w\u003dis\u0026k\u003d20\u0026c\u003dIe8IXNSQPQDzBQhEpfu0id7Bbnkt3RQmO9uKykxWAt8\u003d",
+          "thumbnails": [
+            {
+              "height": 1365,
+              "url": "https://a.mktgcdn.com/p/l4VWjAcA0a5UyOH7YJbxr_g7tfC9jzYM_1pJyhQUacI/2048x1365.jpg",
+              "width": 2048
+            }
+          ],
+          "url": "https://a.mktgcdn.com/p/l4VWjAcA0a5UyOH7YJbxr_g7tfC9jzYM_1pJyhQUacI/2048x1365.jpg",
+          "width": 2048
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

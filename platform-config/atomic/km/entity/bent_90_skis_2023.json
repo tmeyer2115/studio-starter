@@ -1,0 +1,397 @@
+{
+  "$id": "atomic_bent_90_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/atomic_bent_90_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – 20% Tip Rocker / 70% Camber / 10% Tail Rocker"
+      },
+      {
+        "value": "HRZN Tech Tip and Tail – HRZN Tech Tip \u0026 Tail takes an ABS sidewall construction and blends it with a revolutionary across-the-ski, horizontal rocker. It adds 10% more surface area in tip and tail for awesome float – plus less tip deflection and better tracking through chop. The ultimate design for powder skiers."
+      },
+      {
+        "value": "Directional Shape"
+      },
+      {
+        "value": "Light Woodcore – Made from poplar wood, this core optimizes the ski\u0027s weight without sacrificing any shock absorption or stability."
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall for power transmission combined with a small cap for durability."
+      },
+      {
+        "value": "Atomic Base – High-density sintered bases that are fast in a variety of snow conditions and accept wax readily"
+      },
+      {
+        "value": "Resist Edges – Beefier edges offer better durability for hitting rails."
+      },
+      {
+        "value": "Glossy Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Skis",
+    "c_sizes": ["175", "184"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Athletes",
+        "value": "Chris Benchetler"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "While the Bent family may have been born in pow, the Atomic Bent 90 Skis have their feet firmly in the park. Combining HRZN tech tips and tails with a Carbon Backbone layup, the Bent 90s are happy to surf the soft stuff all morning as long as you promise to hit some features on the way back down. Resist Edges provide long lasting durability for rails and boxes, and Atomic\u0027s Light Woodcore delivers the pop you crave. A true Jack of all trades for the freestyle inclined skier.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Atomic Bent 90 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896911/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896908/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896900/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896901/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896902/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896911/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6J1i6ZvZo_NH36NLdeZYaLw1dzwMES7m8_Kq7HgMN3o/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896908/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/aV8ta12ZPtOkdREM8siwbCZJEiOuKSnw0SEiwa8y-kU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896900/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/N0MH5G4MMnuewrjZMmmGjxOkR94IFiGi2UggtKyWyx4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896901/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/HzcOJZvkRATIuXXxYJPX_HiMFIqrV1vXEH9SRJlobBo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219401/896902/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lUyvB2YRONyGgN1y6cz65ofxJG8Vq6wEPvIHKQs4GmY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

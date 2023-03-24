@@ -1,0 +1,159 @@
+{
+  "$id": "black_crows_camox_freebird_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/black_crows_camox_freebird_skis_2023",
+    "c_details": [
+      {
+        "value": "Progressive Front Rocker and Light Rear Rocker – Pivot control, maneuverability, and floatation."
+      },
+      {
+        "value": "Classic Medium Camber – Classic camber underfoot with intermediate ski/ snow contact for a perfect balance between stability and handling."
+      },
+      {
+        "value": "Progressive Tail – Secures support and facilitates pivoting."
+      },
+      {
+        "value": "Flex – Intermediate flex along the entire length of the ski for performance and forgiveness."
+      },
+      {
+        "value": "Paulownia"
+      },
+      {
+        "value": "Mixed Glass / Carbon Fiber"
+      },
+      {
+        "value": "Titanal Binding Reinforcement – Features a titanal plate under the foot to better accommodate new hybrid bindings."
+      },
+      {
+        "value": "Partial Semi Cap Construction – Semi cap all around with cap construction in tip area for weight sacing, lightness, and handling."
+      },
+      {
+        "value": "ABS Sidewalls (Except on Tip)"
+      },
+      {
+        "value": "Mounting Point – -9cm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": ["157", "164", "171", "178", "183", "188"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7096784237424891914"],
+    "description": "The Black Crows Camox Freebird Skis make the backcountry more accessible than ever before. These super light touring skis offer easier handling that almost any touring ski on the market, with a smooth directional design and moderate flex. The 95mm waist width is versatile and nimble through the varied conditions you\u0027re likely to find beyond the reach of groomers and ski patrollers, making this an awesome choice for experienced riders to expand their repertoire. They pair well with sturdy touring bindings, a well-rounded avalanche education, and a knowledgeable ski partner.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Black Crows Camox Freebird Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224549/930812/black-crows-camox-freebird-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/fmxwRNDDZhyjCOHWy6mf-dh6OfY4jZHuuGbkmQWxBB4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/fmxwRNDDZhyjCOHWy6mf-dh6OfY4jZHuuGbkmQWxBB4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/fmxwRNDDZhyjCOHWy6mf-dh6OfY4jZHuuGbkmQWxBB4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/fmxwRNDDZhyjCOHWy6mf-dh6OfY4jZHuuGbkmQWxBB4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/fmxwRNDDZhyjCOHWy6mf-dh6OfY4jZHuuGbkmQWxBB4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224549/930800/black-crows-camox-freebird-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cjOXnqjSr_J69lf1CBTMs4ShZ9v2ytZD_fOQ-cfl8Eo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cjOXnqjSr_J69lf1CBTMs4ShZ9v2ytZD_fOQ-cfl8Eo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cjOXnqjSr_J69lf1CBTMs4ShZ9v2ytZD_fOQ-cfl8Eo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cjOXnqjSr_J69lf1CBTMs4ShZ9v2ytZD_fOQ-cfl8Eo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cjOXnqjSr_J69lf1CBTMs4ShZ9v2ytZD_fOQ-cfl8Eo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "k2_fl3x_diverge_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Medium",
+    "description": "When you think touring boots, you probably imagine something sleek and aero, spangled in carbon fiber and secured with nylon cable and Dyneema. But this? The K2 FL3X Diverge Alpine Touring Ski Boots are a freetouring dream. With design notes taken from the freestyle world, these three piece, smooth flexing kicks prove that you can get up the hill without being stuffy about the way back down. They\u0027ve got the low weight, tech fittings, and walk mode you need out of a touring boot, plus the solid feel, bomber heel hold, and linear flex you need to ride with confidence once you\u0027ve ripped off your skins.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 FL3X Diverge Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/233069/956470/k2-fl3x-diverge-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cInHzkBWObOOA_K1HQxTQ3u4wEh8v4HsERhkO4_XdmY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cInHzkBWObOOA_K1HQxTQ3u4wEh8v4HsERhkO4_XdmY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cInHzkBWObOOA_K1HQxTQ3u4wEh8v4HsERhkO4_XdmY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cInHzkBWObOOA_K1HQxTQ3u4wEh8v4HsERhkO4_XdmY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cInHzkBWObOOA_K1HQxTQ3u4wEh8v4HsERhkO4_XdmY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "k2_fl3x_revolver_w_ski_boots_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "The artist formerly known as the Soul Sister is here to provide you with the freestyle flex you need to do it big in the park. The K2 FL3X Revolver W Ski Boots have a new look and a new name, but they\u0027re still the best boots around for anytime stuntin\u0027. They\u0027re extra flexy, but thanks to the magic of the ribbed tongue and three piece design, that flex will never bottom out. It\u0027s all smooth, bottomless tweakin\u0027 all the way down. There\u0027s a reason all the rippers at the terrain park are wearing these.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Revolver W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224032/904731/k2-fl3x-revolver-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8BitO9FP4YW1YlLpSBuLwvSCWeI9CYKRNmkpJvwTjK8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8BitO9FP4YW1YlLpSBuLwvSCWeI9CYKRNmkpJvwTjK8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8BitO9FP4YW1YlLpSBuLwvSCWeI9CYKRNmkpJvwTjK8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8BitO9FP4YW1YlLpSBuLwvSCWeI9CYKRNmkpJvwTjK8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8BitO9FP4YW1YlLpSBuLwvSCWeI9CYKRNmkpJvwTjK8/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

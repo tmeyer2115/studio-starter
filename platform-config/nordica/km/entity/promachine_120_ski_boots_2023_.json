@@ -1,0 +1,56 @@
+{
+  "$id": "nordica_promachine_120_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "High performance doesn\u0027t need to be punishing, and the Nordica Promachine 120 Ski Boots prove it. They\u0027re built with a low volume fit and high performance Isotherm 3D Cork Fit liners for lightening fast edge to edge response and superior heel retention when navigating technical terrain, but Tri-Fit Technology means comfort isn\u0027t just an afterthought; it\u0027s built right into the DNA. The 120 flex is smooth, progressive, and ideal for expert skiers who like a little more suspension than a 130 boot can offer.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Promachine 120 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/183563/724738/nordica-promachine-120-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Wpyf7iFSATd_VIuru6ntQ6o9z5DoVqx3oxTcrRYPUt0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Wpyf7iFSATd_VIuru6ntQ6o9z5DoVqx3oxTcrRYPUt0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Wpyf7iFSATd_VIuru6ntQ6o9z5DoVqx3oxTcrRYPUt0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Wpyf7iFSATd_VIuru6ntQ6o9z5DoVqx3oxTcrRYPUt0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Wpyf7iFSATd_VIuru6ntQ6o9z5DoVqx3oxTcrRYPUt0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

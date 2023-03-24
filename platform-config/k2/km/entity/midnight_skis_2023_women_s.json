@@ -1,0 +1,261 @@
+{
+  "$id": "k2_midnight_skis_2023_women_s",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_midnight_skis_2023_women_s",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker – Skis with All-Terrain rocker have a gradual rise to the tip for great versatility in all conditions, with a short, low rise in the tail for added control variable snow."
+      },
+      {
+        "value": "Aspen – Lightweight and resilient, Aspen is a great all-around core material."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "TwinTech Sidewalls – A durable sidewall construction originally developed for twin tip skis that makes the top edges more resistant to ski vs. ski impact damage"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "449.95",
+    "c_productType": "Skis",
+    "c_sizes": ["149", "159", "169"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Swift and stealthy, the K2 Midnight Skis come alive in the park like a thief in the night. All-Terrain Rocker adds control to the setup so it can coast you through variable conditions while the aspen wood core keeps things light and sturdy. Practice makes perfect, and thanks to the durable sidewall construction, you can lap the park till you absolutely stomp the landing. We think you\u0027re raily, raily gonna like this one.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "K2 Midnight Skis 2023 - Women\u0027s",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221706/905927/k2-midnight-skis-2023-women-s-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221706/905923/k2-midnight-skis-2023-women-s-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221706/905927/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221706/905923/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221706/905927/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/UVn2mTbCGNR-6S-3-7pBuzv27IOTDpq-EdynVhHK5J0/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221706/905923/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/E5x6pWsRN2iTcczciadZNHCiIyh-hQczQc2jKvPVdRA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

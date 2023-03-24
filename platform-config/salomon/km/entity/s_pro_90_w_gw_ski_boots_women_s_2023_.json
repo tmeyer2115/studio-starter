@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_s_pro_90_w_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "499.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The iconic Salomon S/Pro 90 W GW Ski Boots continue their walk toward greatness with the addition of Gripwalk soles for easier walking and better traction - and why not? The S/Pro 90\u0027s host of performance and comfort features is legendary. The Coreframe shell lets you deliver power precisely where you need it, the seamless toe design of the My Custom Fit 3D liner solves a \"pinky toe\" issue common in other boots, and the full heat molding potential of Salomon\u0027s Custom Shell process needs to be experienced to be believed. Game over, get this boot and forget your foot issues ever existed.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon S/Pro 90 W GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197398/811239/salomon-s-pro-90-w-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/23EI4BajbKDT7BSeU1bupoSMxOKRSIXGEt0uf36yrOI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/23EI4BajbKDT7BSeU1bupoSMxOKRSIXGEt0uf36yrOI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/23EI4BajbKDT7BSeU1bupoSMxOKRSIXGEt0uf36yrOI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/23EI4BajbKDT7BSeU1bupoSMxOKRSIXGEt0uf36yrOI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/23EI4BajbKDT7BSeU1bupoSMxOKRSIXGEt0uf36yrOI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "k2_mindbender_120_lv_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "You want a lightweight touring boot with tech fittings, a sturdy walk mode, and tons of range of motion? The K2 Mindbender 120 LV Alpine Touring Ski Boots have all the bases covered. You want a super capable all-mountain boot with 120 flex and precision handling? Yup, Mindbenders. They\u0027re perfect for hard charging tourists or competent jacks-of-all trades. It\u0027s not every day that you come across a boot this capable.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 Mindbender 120 LV Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224003/904598/k2-mindbender-120-lv-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/01OE3jxyifEgcxx_1HRIFiW9VG3oPpA1ukmY8RBaWYg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/01OE3jxyifEgcxx_1HRIFiW9VG3oPpA1ukmY8RBaWYg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/01OE3jxyifEgcxx_1HRIFiW9VG3oPpA1ukmY8RBaWYg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/01OE3jxyifEgcxx_1HRIFiW9VG3oPpA1ukmY8RBaWYg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/01OE3jxyifEgcxx_1HRIFiW9VG3oPpA1ukmY8RBaWYg/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

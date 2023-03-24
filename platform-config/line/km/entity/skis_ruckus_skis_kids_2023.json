@@ -1,0 +1,210 @@
+{
+  "$id": "line_skis_ruckus_skis_kids_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_ruckus_skis_kids_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 2mm Tip / 3mm Camber / 2mm Tail"
+      },
+      {
+        "value": "Symmetric Flex – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Aspen Veneer Core – An amalgam of Aspen Stringers brought together for a lightweight, snappy, and engaged feel."
+      },
+      {
+        "value": "4D Fibercap Construction – 4 directions of fiberglass are woven across the top of the core for durability without unnecessary weight."
+      },
+      {
+        "value": "Stance Back from Center – 24.8mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "329.95",
+    "c_productType": "Skis",
+    "c_sizes": ["135", "145", "155"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Park \u0026 Pipe, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Beginner-Intermediate"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Those crazy kids you see in YouTube videos throwing tricks you\u0027d never dream of didn\u0027t start from nowhere. For younger riders looking to take their first steps down the path of the park, the Line Skis Ruckus Skis have all the answers. These entry level park skis are soft, light, and quick - perfect for learning to press into butters and slides, and to practice balance on rails and in the air. Plus they\u0027re built to be as durable as possible to hold up to the bumps and crashes that come along with freestyle progression.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Ruckus Skis - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221780/906644/line-skis-ruckus-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WcEW4zLVeMIB5R3eMTxUAJ1gZm8jSO4Jxq5x44Ocbyw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WcEW4zLVeMIB5R3eMTxUAJ1gZm8jSO4Jxq5x44Ocbyw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WcEW4zLVeMIB5R3eMTxUAJ1gZm8jSO4Jxq5x44Ocbyw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WcEW4zLVeMIB5R3eMTxUAJ1gZm8jSO4Jxq5x44Ocbyw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WcEW4zLVeMIB5R3eMTxUAJ1gZm8jSO4Jxq5x44Ocbyw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221780/906645/line-skis-ruckus-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/nzBkEreFZSnP_G5SpT10R0TFKJxBl58OYml25BRJpuY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/nzBkEreFZSnP_G5SpT10R0TFKJxBl58OYml25BRJpuY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/nzBkEreFZSnP_G5SpT10R0TFKJxBl58OYml25BRJpuY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/nzBkEreFZSnP_G5SpT10R0TFKJxBl58OYml25BRJpuY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/nzBkEreFZSnP_G5SpT10R0TFKJxBl58OYml25BRJpuY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221780/906772/line-skis-ruckus-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Ts5tFtUwn8RbNg8hXVZtPGh3EKjw1LomXv-I8ceziuM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Ts5tFtUwn8RbNg8hXVZtPGh3EKjw1LomXv-I8ceziuM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Ts5tFtUwn8RbNg8hXVZtPGh3EKjw1LomXv-I8ceziuM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Ts5tFtUwn8RbNg8hXVZtPGh3EKjw1LomXv-I8ceziuM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Ts5tFtUwn8RbNg8hXVZtPGh3EKjw1LomXv-I8ceziuM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221780/906770/line-skis-ruckus-skis-kids-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rfhgNmdYtO578EIYesaUpAOXum3-ycIcGUSsK_W91Ac/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rfhgNmdYtO578EIYesaUpAOXum3-ycIcGUSsK_W91Ac/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rfhgNmdYtO578EIYesaUpAOXum3-ycIcGUSsK_W91Ac/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rfhgNmdYtO578EIYesaUpAOXum3-ycIcGUSsK_W91Ac/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rfhgNmdYtO578EIYesaUpAOXum3-ycIcGUSsK_W91Ac/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

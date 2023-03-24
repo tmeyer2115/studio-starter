@@ -1,0 +1,240 @@
+{
+  "$id": "Boots",
+  "$schema": "https://schema.yext.com/config/km/connector/v3",
+  "displayName": "Boots",
+  "entityType": "ce_skiBoot",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "skiboots",
+        "urlPatterns": [],
+        "fileTypes": ["HTML"]
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      },
+      {
+        "type": "CSS",
+        "header": "Price",
+        "path": ".pdp-price-regular",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Description",
+        "path": ".pdp-details-content",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Ability",
+        "path": ".pdp-spec-list-description",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Details",
+        "path": ".pdp-spec-list-description",
+        "mode": "ALL_TEXT"
+      },
+      {
+        "type": "CSS",
+        "header": "Hero Image",
+        "path": ".pdp-hero-image",
+        "mode": "IMAGE_URL"
+      },
+      {
+        "type": "CSS",
+        "header": "Gender",
+        "path": ".pdp-header-title",
+        "mode": "ALL_TEXT"
+      }
+    ]
+  },
+  "transforms": [
+    {
+      "filterRows": {
+        "action": "REMOVE",
+        "combinator": "AND",
+        "rules": [
+          {
+            "columnHeader": "Price",
+            "conditional": "IS_BLANK"
+          }
+        ]
+      }
+    },
+    {
+      "splitColumn": {
+        "inputHeader": "Page Title",
+        "newColumnHeaders": ["Boot Name", "Extra"],
+        "delimiter": "|"
+      }
+    },
+    {
+      "splitColumn": {
+        "inputHeader": "Details",
+        "newColumnHeaders": [
+          "Ability Level",
+          "Something",
+          "Something Else",
+          "Boot Flex",
+          "Other"
+        ],
+        "delimiter": ","
+      }
+    },
+    {
+      "findAndReplace": {
+        "inputHeaders": {
+          "headers": ["Price"]
+        },
+        "valueToFind": {
+          "plainText": {
+            "value": "$",
+            "ignoreCase": false
+          }
+        },
+        "replacement": ""
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": ["Ability Level"]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getAbilityLevelId"
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": ["Gender"]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getGenderId"
+      }
+    },
+    {
+      "splitColumn": {
+        "inputHeader": "Hero Image",
+        "newColumnHeaders": ["Formatted Image", "Junk"],
+        "delimiter": ","
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": ["Page URL"]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "getBootTypeFromPageUrl"
+      }
+    },
+    {
+      "addColumn": {
+        "newColumnHeader": "Product Type",
+        "columnValue": "Ski Boots"
+      }
+    },
+    {
+      "extractText": {
+        "inputHeader": "Boot Name",
+        "newColumnHeader": "Boot ID",
+        "extractOperation": "ALL_TEXT_BEFORE",
+        "extractFrom": "OFFSET_FROM_END",
+        "offsetLength": 0
+      }
+    },
+    {
+      "function": {
+        "inputHeaders": {
+          "headers": ["Boot ID"]
+        },
+        "plugin": "ski-warehouse-plugin",
+        "function": "generateIdFromName"
+      }
+    }
+  ],
+  "mappings": [
+    {
+      "clearValueIfBlank": false,
+      "field": "c_categoryName",
+      "header": "Page URL",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "description",
+      "header": "Description",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_price",
+      "header": "Price",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_productType",
+      "header": "Product Type",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_skiBootFlex",
+      "header": "Boot Flex",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "photoGallery",
+      "header": "Formatted Image",
+      "subfieldPath": [
+        {
+          "name": "image"
+        },
+        {
+          "name": "url"
+        }
+      ]
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_abilityLevel",
+      "header": "Ability Level",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "c_gender",
+      "header": "Gender",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "name",
+      "header": "Boot Name",
+      "subfieldPath": []
+    },
+    {
+      "clearValueIfBlank": false,
+      "field": "entityId",
+      "header": "Boot ID",
+      "subfieldPath": []
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "$id": "nordica_santa_ana_110_free_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/big-mountain/nordica_santa_ana_110_free_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Powder Rocker – 35% Tip Rocker / 40% Camber / 25% Tail Rocker"
+      },
+      {
+        "value": "True Tip Technology – By trimming the amount of heavy ABS plastic in the tip and extending the lightweight wood core into this area with a tapered shape that further reduces weight, Nordica increase the playfulness and maneuverability while maintaining the classic powerful and stable feel."
+      },
+      {
+        "value": "Energy 2 TI W – Race inspired technology. A women-specific full wood core with a sheet of metal for top end power transmission, torsional stability, and edge grip."
+      },
+      {
+        "value": "Terrain Specific Metal – Titanal shapes designed to provide both power and playfulness where you need it."
+      },
+      {
+        "value": "Carbon Chassis – A carbon laminate down the center of the ski adds stiffness and snap"
+      },
+      {
+        "value": "Sandwich Full Sidewall Construction"
+      },
+      {
+        "value": "Sintered UHMW base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "799.99",
+    "c_productType": "Skis",
+    "c_sizes": ["161", "169", "177"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "This big mama of the Santa Ana series is the tool of dreams when the snowpack gets deep and the terrain gets gnarly. Pick the Nordica Santa Ana 110 Free Skis out of the rack when you know it\u0027s gonna be that kind of day and you want the right ski for the job. Easy to slash and pivot in tight spots but impeccably solid when you\u0027re really moving, the Santa Ana 110 sports a women-specific design for a lighter and easier handling big ski that handles every big mountain and deep snow scenario with ease.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_big_mountain"
+    ],
+    "name": "Nordica Santa Ana 110 Free Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224775/910247/nordica-santa-ana-110-free-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224775/910247/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224775/910247/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lKYWtns7FUFEpMP3iIMV91oUAxg9SWTD94Ksk7FUWfY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224775/910240/nordica-santa-ana-110-free-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jMEpth7z9fRP4WaErySawE809fMmQsyuuNTKCZwZr9I/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jMEpth7z9fRP4WaErySawE809fMmQsyuuNTKCZwZr9I/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jMEpth7z9fRP4WaErySawE809fMmQsyuuNTKCZwZr9I/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jMEpth7z9fRP4WaErySawE809fMmQsyuuNTKCZwZr9I/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jMEpth7z9fRP4WaErySawE809fMmQsyuuNTKCZwZr9I/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_s_pro_alpha_110_el_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Finally, a pro boot for women that\u0027s made with the same hardware as the men\u0027s! The Salomon S/Pro Alpha 110 EL Ski Boots are packed with customizable features for a powerful fit that absolutely rips anywhere you take it. Added space over the instep reduces pinching on the top of your foot, while a 4D heat moldable liner and Custom Shell HD help create a custom boot that contours the lines of your feet with ease. Carve smooth lines into morning corduroy or smash a fresh field of pow. With the Salomon S/Pro Alpha 110 EL Ski Boots, the possibilities are endless.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Salomon S/Pro Alpha 110 EL Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219464/910828/salomon-s-pro-alpha-110-el-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/K9WWLMUcsJIB6VctRL3DtJOGzG8uNxpTcXO6Gijv8vY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/K9WWLMUcsJIB6VctRL3DtJOGzG8uNxpTcXO6Gijv8vY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/K9WWLMUcsJIB6VctRL3DtJOGzG8uNxpTcXO6Gijv8vY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/K9WWLMUcsJIB6VctRL3DtJOGzG8uNxpTcXO6Gijv8vY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/K9WWLMUcsJIB6VctRL3DtJOGzG8uNxpTcXO6Gijv8vY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

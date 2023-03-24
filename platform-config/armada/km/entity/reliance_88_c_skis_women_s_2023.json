@@ -1,0 +1,207 @@
+{
+  "$id": "armada_reliance_88_c_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/armada_reliance_88_c_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "EST All Mountain Rocker – Rocker is paired with tapered sidecuts both tip and tail provide floatation in soft snow as well as forgiveness in turn shape. Camber underfoot maintains edge hold on the hardpack."
+      },
+      {
+        "value": "Flex (1\u003dSoft, 10\u003dStiff) – Tip: 4 | Mid: 6 | Tail: 4"
+      },
+      {
+        "value": "Caruba Core – Armada\u0027s lightest wood species keeps the overall weight low while retaining the power and dampness you want while skiing."
+      },
+      {
+        "value": "Woven Carbon Stringers"
+      },
+      {
+        "value": "Comp Series Base – Sintered UHMW polyethylene with added carbon aids in speed and durability"
+      },
+      {
+        "value": "2.1 All Mountain Edge"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": ["160", "168", "176"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Light, quick and snappy, the Armada Reliance 88 C Skis are the perfect all-mountain tool for the skier who loves to get her carve on but craves the challenge of bumps and trees along the way. A super light construction based on a Caruba wood core, along with carbon stringers for pop and response combines with Armada\u0027s proven EST All Mountain Rocker for an all-conditions missile that you can \"rely\" on day in, day out.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Armada Reliance 88 C Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198719/839689/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198719/839689/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198719/839689/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/4NTZBek94QD6-_wloelj00-74HGHerHg0KPHIg81K64/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1502371366-4347fbeae7db73d4b13915ecad6bd629acbb292fa276556403a829148c365a62-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tFtfLRilRf6D777t59JV66UvdG_x42CuI1KzpAUqfVk/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

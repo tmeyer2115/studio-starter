@@ -1,0 +1,153 @@
+{
+  "$id": "nordica_enforcer_88_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_88_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – Smooth rocker at both tip and tail with camber underfoot provides balanced performance anywhere on the mountain."
+      },
+      {
+        "value": "True Tip Technology – By trimming the amount of heavy ABS plastic in the tip and extending the lightweight wood core into this area with a tapered shape that further reduces weight, Nordica increase the playfulness and maneuverability while maintaining the classic powerful and stable feel."
+      },
+      {
+        "value": "Wood Core"
+      },
+      {
+        "value": "Energy 2 TI – Race inspired technology full wood core with two sheets of metal over the edges. Top end power transmission, torsional stability, and edge grip."
+      },
+      {
+        "value": "Carbon Chassis – A carbon laminate down the center of the ski adds stiffness and snap"
+      },
+      {
+        "value": "Sandwich Full Sidewall Construction"
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "Geometric Running Base Design – The Enforcer and Santa Ana running base design has a specific geometric shape to show two features of the ski: a horizontal cut indicates where the rocker starts; the intersection of the diagonal cut with the edge shows the ski’s widest point."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.99",
+    "c_productType": "Skis",
+    "c_sizes": ["165"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Looking for a frontside ski that rails like Lewis Hamilton at Monza but doesn\u0027t make you feel like a quitter when it\u0027s late in the day and your legs are noodles? Check out the Nordica Enforcer 88 Skis, a ride with a race pedigree built by people who know you\u0027re still human and maybe don\u0027t want to work that hard all day long.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Nordica Enforcer 88 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224771/910233/nordica-enforcer-88-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8l-B0VLeEiIF_pJGpekO7vYRRMhaO5zUqRwEaXH4Ey4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8l-B0VLeEiIF_pJGpekO7vYRRMhaO5zUqRwEaXH4Ey4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8l-B0VLeEiIF_pJGpekO7vYRRMhaO5zUqRwEaXH4Ey4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8l-B0VLeEiIF_pJGpekO7vYRRMhaO5zUqRwEaXH4Ey4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8l-B0VLeEiIF_pJGpekO7vYRRMhaO5zUqRwEaXH4Ey4/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224771/910230/nordica-enforcer-88-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/uryBq8lZEFwrqcguChGyx1ZWzQHbAr0R82DZB3I5wlI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/uryBq8lZEFwrqcguChGyx1ZWzQHbAr0R82DZB3I5wlI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/uryBq8lZEFwrqcguChGyx1ZWzQHbAr0R82DZB3I5wlI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/uryBq8lZEFwrqcguChGyx1ZWzQHbAr0R82DZB3I5wlI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uryBq8lZEFwrqcguChGyx1ZWzQHbAr0R82DZB3I5wlI/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

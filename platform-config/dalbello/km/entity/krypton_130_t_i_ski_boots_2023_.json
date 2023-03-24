@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_krypton_130_t_i_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "When some of the baddest freeriders in the world asked for tech fittings without a walk mode, some eyebrows were raised by Dalbello did it. Now the Dalbello Krypton 130 T.I. Ski Boots look like some sort of oracle, as more and more people find this combination attractive. Sure, it\u0027s only for the last few hundred feet of the climb, and it requires some sort of hybrid binding solution, but there\u0027s no feeling finer than being able to rip a burly line no one else has been able to get to in a boot with real downhill power. Think about it, then do it — the classic 98mm Krypton fit and wrap ID Max liner are just what you are looking for.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Krypton 130 T.I. Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227769/916400/dalbello-krypton-130-t-i-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/tpWhLxoHUYkok-Mwv81aufYHZFfF8Njku3_KoI9UFkY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/tpWhLxoHUYkok-Mwv81aufYHZFfF8Njku3_KoI9UFkY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/tpWhLxoHUYkok-Mwv81aufYHZFfF8Njku3_KoI9UFkY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/tpWhLxoHUYkok-Mwv81aufYHZFfF8Njku3_KoI9UFkY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/tpWhLxoHUYkok-Mwv81aufYHZFfF8Njku3_KoI9UFkY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

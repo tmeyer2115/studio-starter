@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_alltrack_elite_90_lt_w_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Medium",
+    "description": "A one-boot solution for the woman who wants to do some touring but isn\u0027t sure how much, the Rossignol Alltrack Elite 90 LT W GW Alpine Touring Ski Boots feature lightweight polyolefine construction, a precision 98mm fit, genuine Dynafit tech fittings, and the super smooth Rossignol Dual Core shell. Armed with Gripwalk soles for security in hiking and walking, the Alltrack Elite 90 gives up very little in downhill performance over a comparably stiff alpine boot, but the potential for comfort and mobility away from the ski area are a huge upside.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Rossignol Alltrack Elite 90 LT W GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201499/830029/rossignol-alltrack-elite-90-lt-w-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rD3D9qLFf0fdqAYmvRLeyWNASxonJAyQnyNG-u9-NBA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rD3D9qLFf0fdqAYmvRLeyWNASxonJAyQnyNG-u9-NBA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rD3D9qLFf0fdqAYmvRLeyWNASxonJAyQnyNG-u9-NBA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rD3D9qLFf0fdqAYmvRLeyWNASxonJAyQnyNG-u9-NBA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rD3D9qLFf0fdqAYmvRLeyWNASxonJAyQnyNG-u9-NBA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,400 @@
+{
+  "$id": "icelantic_riveter_95_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/icelantic_riveter_95_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Directional Rocker – Tip Rocker: 31cm, Camber: 5mm, Tail Rocker: 21cm"
+      },
+      {
+        "value": "Poplar Power Core – Consisting of 100% Poplar wood, the Poplar Power Core gives Icelantic\u0027s All-Mountain Collection the strength and power necessary to excel all over the mountain."
+      },
+      {
+        "value": "20mm Rubber Foil"
+      },
+      {
+        "value": "ETXL 2200 Tri-Axial Fiberglass"
+      },
+      {
+        "value": "Matte Fiberglass Mounting Plate"
+      },
+      {
+        "value": "Full Durasurf 2001 HDPE Sidewalls"
+      },
+      {
+        "value": "Durasurf 4001 Sintered Base"
+      },
+      {
+        "value": "2.2mm Steel Edges"
+      },
+      {
+        "value": "Made in Colorado"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "779.00",
+    "c_productType": "Skis",
+    "c_sizes": ["155", "162", "169"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Made in the USA",
+        "value": "Yes"
+      },
+      {
+        "name": "Warranty",
+        "value": "3 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "A scrappy little cur of a ski that grabs a run by its neck and won\u0027t let go until it\u0027s conquered, the Icelantic Riveter 95 Skis will endear themselves to you in any and all conditions. The 95mm waist is tailor-made for just about any snow and any slope, and the Poplar Power Core provides plenty of power and snap. There\u0027s a reason they\u0027re fast becoming known as \"Woman\u0027s Best Friend.\"",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Icelantic Riveter 95 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914862/icelantic-riveter-95-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914857/icelantic-riveter-95-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dRF9rcG94IS-zGCL5Lohg9nqx8Pzwu40OEcMDxjFIIs/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dRF9rcG94IS-zGCL5Lohg9nqx8Pzwu40OEcMDxjFIIs/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dRF9rcG94IS-zGCL5Lohg9nqx8Pzwu40OEcMDxjFIIs/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dRF9rcG94IS-zGCL5Lohg9nqx8Pzwu40OEcMDxjFIIs/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dRF9rcG94IS-zGCL5Lohg9nqx8Pzwu40OEcMDxjFIIs/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914856/icelantic-riveter-95-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Bn92f5rgAv1HIv1AYhCaN3W0sCCxl2hT89j_TTXZXcE/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Bn92f5rgAv1HIv1AYhCaN3W0sCCxl2hT89j_TTXZXcE/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Bn92f5rgAv1HIv1AYhCaN3W0sCCxl2hT89j_TTXZXcE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Bn92f5rgAv1HIv1AYhCaN3W0sCCxl2hT89j_TTXZXcE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Bn92f5rgAv1HIv1AYhCaN3W0sCCxl2hT89j_TTXZXcE/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914862/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914857/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914856/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914862/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PrK8w_ndttGHv3c0yGP2TSzG03ZJMbrs0npbVNjtHAY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914857/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p43oo7W4erDGMjTFdZ241zmP3-yh9ulzsWTtXbQ4geI/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226875/914856/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iA8w51DVVvb_Mw579ZH6ZRdoLXKfevF_T7QkkU1tK38/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1484381786-4c11ad1e91a15b97d52f5221b8b86947db501fccd39977ee496e427d6f9bb8d4-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/W0DAjpWiZlvBf5o3TRcOR2u1wLplvCot5HPnCVzfJaM/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/W0DAjpWiZlvBf5o3TRcOR2u1wLplvCot5HPnCVzfJaM/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/W0DAjpWiZlvBf5o3TRcOR2u1wLplvCot5HPnCVzfJaM/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/W0DAjpWiZlvBf5o3TRcOR2u1wLplvCot5HPnCVzfJaM/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/W0DAjpWiZlvBf5o3TRcOR2u1wLplvCot5HPnCVzfJaM/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

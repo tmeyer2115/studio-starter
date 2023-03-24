@@ -1,0 +1,294 @@
+{
+  "$id": "nordica_unleashed_90_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_unleashed_90_skis_2023",
+    "c_details": [
+      {
+        "value": "Shovel / Tail Rocker – LONGER RUNNING BASE LENGTH \u003d Less tip and tail rocker depth to better support the playful tip and tail shovel shapes. MORE TURNED UP TAIL \u003d Easier to swivel and break free while also offering a more favorable setup for riding switch. STEEPER TIP SHOVEL \u003d More tip initiation and deflection in soft snow"
+      },
+      {
+        "value": "Performance Wood Core"
+      },
+      {
+        "value": "Terrain Specific Metal – The size and shape of the Titanal layer is specifically engineered for each ski width, providing stability where you need it and flexibility where you want it."
+      },
+      {
+        "value": "Carbon Fiber Glass"
+      },
+      {
+        "value": "ABS Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.99",
+    "c_productType": "Skis",
+    "c_sizes": ["144", "152", "160", "168", "174"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "For the park kids and the up and comers who don\u0027t want to sacrifice performance for their trick fix, the Nordica Unleashed 90 Skis are made to do it all. A confidence boosting full wood core and vertical sidewalls support playful riding that delivers from the park to the piste and beyond. Twin tip rocker and traditional camber support backwards shenanigans while providing grip when you don\u0027t quite land that 360. What can\u0027t the Nordica Unleashed 90 Skis do? Nothing. The answer is nothing.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Nordica Unleashed 90 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910246/nordica-unleashed-90-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910246/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910246/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910246/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910246/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FexctmUS-MRY9uBAadswMq3MuYrAHbrUv8c51vOrYkU/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910242/nordica-unleashed-90-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/guMGc_WODg-59JBfibXzO2SS3637_pgo9RYqLouViEc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/guMGc_WODg-59JBfibXzO2SS3637_pgo9RYqLouViEc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/guMGc_WODg-59JBfibXzO2SS3637_pgo9RYqLouViEc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/guMGc_WODg-59JBfibXzO2SS3637_pgo9RYqLouViEc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/guMGc_WODg-59JBfibXzO2SS3637_pgo9RYqLouViEc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224774/910239/nordica-unleashed-90-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/YJmlGMQeYKXP4AFNTuq5ArQ0queCxQN7NpmR44-_LN0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YJmlGMQeYKXP4AFNTuq5ArQ0queCxQN7NpmR44-_LN0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YJmlGMQeYKXP4AFNTuq5ArQ0queCxQN7NpmR44-_LN0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YJmlGMQeYKXP4AFNTuq5ArQ0queCxQN7NpmR44-_LN0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YJmlGMQeYKXP4AFNTuq5ArQ0queCxQN7NpmR44-_LN0/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

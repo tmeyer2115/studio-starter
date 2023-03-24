@@ -1,0 +1,56 @@
+{
+  "$id": "lange_xt3_free_140_pro_lv_gw_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "When Richard Permin wants to access one of those crazy lines of his (maybe not the rooftops), you can bet he\u0027s rocking his signature Lange XT3 Free 140 Pro LV GW Alpine Touring Ski Boots. Not only does he want to get up there in style, he also wants to ensure he\u0027s got every advantage for the descent. Off-the-charts power and control PLUS a decent walk mode are not easy to find in a ski boot, but if you\u0027re that skier this is that boot.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange XT3 Free 140 Pro LV GW Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/228668/919600/lange-xt3-free-140-pro-lv-gw-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/T-ZQZU5C8T0X2SIO4-sz8h1TZ69gA-oMT3ejeyPRFMY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/T-ZQZU5C8T0X2SIO4-sz8h1TZ69gA-oMT3ejeyPRFMY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/T-ZQZU5C8T0X2SIO4-sz8h1TZ69gA-oMT3ejeyPRFMY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/T-ZQZU5C8T0X2SIO4-sz8h1TZ69gA-oMT3ejeyPRFMY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/T-ZQZU5C8T0X2SIO4-sz8h1TZ69gA-oMT3ejeyPRFMY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

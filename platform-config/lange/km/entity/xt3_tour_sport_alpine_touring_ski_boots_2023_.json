@@ -1,0 +1,56 @@
+{
+  "$id": "lange_xt3_tour_sport_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "Lange drops into true touring boot territory with the introduction of the XT3 Tour series. The Lange XT3 Tour Sport Alpine Touring Ski Boots are the middle of the range flex-wise, with a flex index of 120 and a weight of 1525 grams in a 26.5 size. Still a bomber overlap design with four buckles, the XT3 Tour Sport \"makes weight\" by going to a Grilamid® shell with glued on Vibram® Touring Sole. Using the excellent Friction Free Hinge from the XT3, Lange\u0027s new Tour group competes on an even weight footing with many established touring boots, and may well out-ski them.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Lange XT3 Tour Sport Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198883/825859/lange-xt3-tour-sport-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Raas6hfLfOhw9tM8Jfm2wfGHEnF877sbnCryOko9n3E/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Raas6hfLfOhw9tM8Jfm2wfGHEnF877sbnCryOko9n3E/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Raas6hfLfOhw9tM8Jfm2wfGHEnF877sbnCryOko9n3E/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Raas6hfLfOhw9tM8Jfm2wfGHEnF877sbnCryOko9n3E/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Raas6hfLfOhw9tM8Jfm2wfGHEnF877sbnCryOko9n3E/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

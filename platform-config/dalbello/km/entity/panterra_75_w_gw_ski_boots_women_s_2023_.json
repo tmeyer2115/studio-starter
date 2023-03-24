@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_panterra_75_w_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "379.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Take a clue from the legions of experienced skiers who love the comfort, convenience and performance of the Dalbello Panterra line, and check out the Dalbello Panterra 75 W GW Ski Boots. A great choice for the newer skier, the Panterra 75 sports a smooth flexing Cabrio (three-piece) design, and Gripwalk soles for safety and walking comfort.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Panterra 75 W GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208285/848516/dalbello-panterra-75-w-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/1fQ4CMhLxHbz6rOqTIxtd0Ahsyy-A3GvmZywU12bMU8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/1fQ4CMhLxHbz6rOqTIxtd0Ahsyy-A3GvmZywU12bMU8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1fQ4CMhLxHbz6rOqTIxtd0Ahsyy-A3GvmZywU12bMU8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/1fQ4CMhLxHbz6rOqTIxtd0Ahsyy-A3GvmZywU12bMU8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1fQ4CMhLxHbz6rOqTIxtd0Ahsyy-A3GvmZywU12bMU8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

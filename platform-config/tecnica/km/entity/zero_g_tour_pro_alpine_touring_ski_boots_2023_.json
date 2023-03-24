@@ -1,0 +1,56 @@
+{
+  "$id": "tecnica_zero_g_tour_pro_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "899.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The Tecnica Zero G Tour Pro Alpine Touring Ski Boots lead the pack for skiers seeking equal parts touring efficiency and downhill power. Whether you\u0027re finessing turns outside the ski area boundary or scouting hidstoric first descents in the Himilayas, it\u0027s safe to say your own backcountry objectives are in good hands. That\u0027s all down to an excellent 55˚ ROM walk mode, fully-rockered Vibram® rubber soles, and a true 130 flex that rivals your alpine boots for precision and power transmission. If you\u0027re seeking the best in lightweight backcountry performance, look no further than the Tecnica Zero G Tour Pro Alpine Touring Ski Boots.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Tecnica Zero G Tour Pro Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223176/906128/tecnica-zero-g-tour-pro-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Iuv8cSL5zopssgeYehRR2XUqSpuajhpKBGVhV2D03qc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Iuv8cSL5zopssgeYehRR2XUqSpuajhpKBGVhV2D03qc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Iuv8cSL5zopssgeYehRR2XUqSpuajhpKBGVhV2D03qc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Iuv8cSL5zopssgeYehRR2XUqSpuajhpKBGVhV2D03qc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Iuv8cSL5zopssgeYehRR2XUqSpuajhpKBGVhV2D03qc/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

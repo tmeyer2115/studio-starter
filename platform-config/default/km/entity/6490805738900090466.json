@@ -1,0 +1,245 @@
+{
+  "$id": "6490805738900090466",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_collection": {
+      "filterID": "c_productType",
+      "filters": [
+        {
+          "image": {
+            "image": {
+              "alternateText": "Women\u0027s Skis",
+              "height": 576,
+              "thumbnails": [
+                {
+                  "height": 576,
+                  "url": "http://a.mktgcdn.com/p/u5SWn-xXzODO9XHjs47kmqMcWUQxX02TFongJyjJ6Cw/1024x576.jpg",
+                  "width": 1024
+                },
+                {
+                  "height": 348,
+                  "url": "http://a.mktgcdn.com/p/u5SWn-xXzODO9XHjs47kmqMcWUQxX02TFongJyjJ6Cw/619x348.jpg",
+                  "width": 619
+                },
+                {
+                  "height": 338,
+                  "url": "http://a.mktgcdn.com/p/u5SWn-xXzODO9XHjs47kmqMcWUQxX02TFongJyjJ6Cw/600x338.jpg",
+                  "width": 600
+                },
+                {
+                  "height": 110,
+                  "url": "http://a.mktgcdn.com/p/u5SWn-xXzODO9XHjs47kmqMcWUQxX02TFongJyjJ6Cw/196x110.jpg",
+                  "width": 196
+                }
+              ],
+              "url": "http://a.mktgcdn.com/p/u5SWn-xXzODO9XHjs47kmqMcWUQxX02TFongJyjJ6Cw/1024x576.jpg",
+              "width": 1024
+            }
+          },
+          "value": "Skis"
+        },
+        {
+          "image": {
+            "image": {
+              "height": 1772,
+              "thumbnails": [
+                {
+                  "height": 1772,
+                  "url": "http://a.mktgcdn.com/p/D7g4kMpyGGYGS_L-wc29R9FTQ9T4OmMSOsFgGvI17Oc/2110x1772.jpg",
+                  "width": 2110
+                },
+                {
+                  "height": 1596,
+                  "url": "http://a.mktgcdn.com/p/D7g4kMpyGGYGS_L-wc29R9FTQ9T4OmMSOsFgGvI17Oc/1900x1596.jpg",
+                  "width": 1900
+                },
+                {
+                  "height": 520,
+                  "url": "http://a.mktgcdn.com/p/D7g4kMpyGGYGS_L-wc29R9FTQ9T4OmMSOsFgGvI17Oc/619x520.jpg",
+                  "width": 619
+                },
+                {
+                  "height": 450,
+                  "url": "http://a.mktgcdn.com/p/D7g4kMpyGGYGS_L-wc29R9FTQ9T4OmMSOsFgGvI17Oc/536x450.jpg",
+                  "width": 536
+                },
+                {
+                  "height": 165,
+                  "url": "http://a.mktgcdn.com/p/D7g4kMpyGGYGS_L-wc29R9FTQ9T4OmMSOsFgGvI17Oc/196x165.jpg",
+                  "width": 196
+                }
+              ],
+              "url": "http://a.mktgcdn.com/p/D7g4kMpyGGYGS_L-wc29R9FTQ9T4OmMSOsFgGvI17Oc/2110x1772.jpg",
+              "width": 2110
+            }
+          },
+          "value": "Boots"
+        },
+        {
+          "image": {
+            "image": {
+              "height": 1097,
+              "thumbnails": [
+                {
+                  "height": 1097,
+                  "url": "http://a.mktgcdn.com/p/G3GZQPbRpNCX_3zwfcg2uaMzueKdTiBNFuCXg-eJyfk/1280x1097.jpg",
+                  "width": 1280
+                },
+                {
+                  "height": 531,
+                  "url": "http://a.mktgcdn.com/p/G3GZQPbRpNCX_3zwfcg2uaMzueKdTiBNFuCXg-eJyfk/619x531.jpg",
+                  "width": 619
+                },
+                {
+                  "height": 450,
+                  "url": "http://a.mktgcdn.com/p/G3GZQPbRpNCX_3zwfcg2uaMzueKdTiBNFuCXg-eJyfk/525x450.jpg",
+                  "width": 525
+                },
+                {
+                  "height": 168,
+                  "url": "http://a.mktgcdn.com/p/G3GZQPbRpNCX_3zwfcg2uaMzueKdTiBNFuCXg-eJyfk/196x168.jpg",
+                  "width": 196
+                }
+              ],
+              "url": "http://a.mktgcdn.com/p/G3GZQPbRpNCX_3zwfcg2uaMzueKdTiBNFuCXg-eJyfk/1280x1097.jpg",
+              "width": 1280
+            }
+          },
+          "value": "Bindings"
+        },
+        {
+          "image": {
+            "image": {
+              "height": 440,
+              "thumbnails": [
+                {
+                  "height": 440,
+                  "url": "http://a.mktgcdn.com/p/qIO-bDb-L6DMciWl01mEDOaCfdB1x3DJVutscU0Miqg/429x440.jpg",
+                  "width": 429
+                },
+                {
+                  "height": 201,
+                  "url": "http://a.mktgcdn.com/p/qIO-bDb-L6DMciWl01mEDOaCfdB1x3DJVutscU0Miqg/196x201.jpg",
+                  "width": 196
+                }
+              ],
+              "url": "http://a.mktgcdn.com/p/qIO-bDb-L6DMciWl01mEDOaCfdB1x3DJVutscU0Miqg/429x440.jpg",
+              "width": 429
+            }
+          },
+          "value": "Poles"
+        }
+      ]
+    },
+    "c_skisByGender": [
+      "black_crows_atris_birdie_skis_women_s_2023",
+      "elan_ripstick_102_skis_women_s_2023",
+      "nordica_santa_ana_98_skis_women_s_2023",
+      "v_lkl_blaze_86_w_skis_women_s_2023",
+      "atomic_maven_86_c_skis_women_s_2023",
+      "line_skis_blade_w_skis_women_s_2023",
+      "salomon_qst_stella_106_skis_women_s_2023",
+      "black_crows_vertis_birdie_skis_women_s_2023",
+      "faction_dancer_2x_skis_women_s_2023",
+      "blizzard_black_pearl_82_skis_women_s_2023",
+      "armada_arw_106_ul_skis_2023",
+      "line_skis_pandora_104_skis_women_s_2023",
+      "line_skis_pandora_84_skis_women_s_2023",
+      "v_lkl_blaze_94_w_skis_women_s_2023",
+      "black_crows_captis_birdie_skis_women_s_2023",
+      "elan_ripstick_88_skis_women_s_2023",
+      "salomon_qst_lumen_98_skis_women_s_2023",
+      "v_lkl_kenja_88_skis_women_s_2023",
+      "k2_reckoner_92_skis_women_s_2023",
+      "armada_arw_86_skis_women_s_2023",
+      "elan_ripstick_94_black_edition_skis_women_s_2023",
+      "icelantic_maiden_111_skis_women_s_2023",
+      "atomic_backland_98_w_skis_women_s_2023",
+      "nordica_santa_ana_110_free_skis_women_s_2023",
+      "nordica_unleashed_90_w_skis_2023",
+      "faction_agent_3x_skis_women_s_2023",
+      "armada_arw_96_skis_women_s_2023",
+      "rossignol_escaper_97_nano_skis_women_s_2023",
+      "nordica_santa_ana_93_skis_women_s_2023",
+      "nordica_santa_ana_88_unlimited_skis_women_s_2023",
+      "k2_mindbender_99_ti_skis_women_s_2023",
+      "v_lkl_secret_96_skis_women_s_2023",
+      "black_crows_camox_birdie_skis_women_s_2023",
+      "atomic_backland_107_skis_women_s_2023",
+      "elan_ripstick_94_skis_women_s_2023",
+      "rossignol_rallybird_92_skis_women_s_2023",
+      "atomic_maven_93_c_skis_women_s_2023",
+      "k2_mindbender_85_skis_women_s_2023",
+      "armada_reliance_102_ti_skis_women_s_2023",
+      "k2_mindbender_89_ti_skis_women_s_2023",
+      "blizzard_black_pearl_88_skis_women_s_2023",
+      "armada_reliance_92_ti_skis_women_s_2023",
+      "rossignol_rallybird_104_ti_skis_women_s_2023",
+      "icelantic_maiden_91_skis_women_s_2023",
+      "line_skis_pandora_94_skis_women_s_2023",
+      "line_skis_pandora_110_skis_women_s_2023",
+      "salomon_qst_lux_92_skis_women_s_2023",
+      "rossignol_black_ops_98_skis_women_s_2023",
+      "icelantic_nia_pro_105_skis_women_s_2023",
+      "v_lkl_yumi_84_skis_women_s_2023",
+      "v_lkl_blaze_106_w_skis_women_s_2023",
+      "faction_prodigy_3x_skis_women_s_2023",
+      "faction_prodigy_2x_skis_women_s_2023",
+      "blizzard_sheeva_11_skis_women_s_2023",
+      "icelantic_teton_maiden_101_skis_women_s_2023",
+      "icelantic_mystic_97_skis_women_s_2023",
+      "icelantic_maiden_lite_101_skis_women_s_2023",
+      "rossignol_rallybird_102_skis_women_s_2023",
+      "k2_wayback_96_skis_women_s_2023",
+      "atomic_maven_86_skis_women_s_2023",
+      "k2_mindbender_106_c_skis_women_s_2023",
+      "armada_reliance_88_c_skis_women_s_2023",
+      "faction_dancer_3x_skis_women_s_2023",
+      "nordica_unleashed_98_w_skis_women_s_2023",
+      "icelantic_riveter_95_skis_women_s_2023",
+      "faction_prodigy_0x_skis_women_s_2023",
+      "nordica_santa_ana_104_free_skis_women_s_2023",
+      "blizzard_sheeva_9_skis_women_s_2023",
+      "icelantic_maiden_101_skis_women_s_2023",
+      "blizzard_sheeva_10_skis_women_s_2023",
+      "icelantic_rocky_mountain_maiden_101_skis_women_s_2023",
+      "nordica_santa_ana_93_unlimited_skis_women_s_2023",
+      "faction_agent_2x_skis_women_s_2023",
+      "k2_mindbender_90_c_skis_women_s_2023"
+    ],
+    "name": "Women",
+    "primaryPhoto": {
+      "image": {
+        "height": 675,
+        "thumbnails": [
+          {
+            "height": 675,
+            "url": "http://a.mktgcdn.com/p/picCDI-lIKEP3YgNVCBzN1HQ-LAw5oZqRG33gHYivGE/1080x675.jpg",
+            "width": 1080
+          },
+          {
+            "height": 387,
+            "url": "http://a.mktgcdn.com/p/picCDI-lIKEP3YgNVCBzN1HQ-LAw5oZqRG33gHYivGE/619x387.jpg",
+            "width": 619
+          },
+          {
+            "height": 375,
+            "url": "http://a.mktgcdn.com/p/picCDI-lIKEP3YgNVCBzN1HQ-LAw5oZqRG33gHYivGE/600x375.jpg",
+            "width": 600
+          },
+          {
+            "height": 123,
+            "url": "http://a.mktgcdn.com/p/picCDI-lIKEP3YgNVCBzN1HQ-LAw5oZqRG33gHYivGE/196x123.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/picCDI-lIKEP3YgNVCBzN1HQ-LAw5oZqRG33gHYivGE/1080x675.jpg",
+        "width": 1080
+      }
+    }
+  },
+  "entityType": "ce_gender",
+  "folder": "commerceSite",
+  "labels": []
+}

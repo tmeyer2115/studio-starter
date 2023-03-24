@@ -1,0 +1,56 @@
+{
+  "$id": "k2_reverb_ski_boots_kids_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "224.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "At last, a real kid\u0027s ski boot with 4 buckles and great performance that\u0027s not a junior race boot! The K2 Reverb Ski Boots are based on the relaxed fit of the BFC adult line, and offer superior performance to the usual 2 and 3 buckle strap kid\u0027s models. The Reverb features a 70 flex and is suitable for bigger kids and \u0027tweens who are ready to get after it and need more boot to do it, but aren\u0027t yet ready for an adult boot.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Reverb Ski Boots - Kids\u0027 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201131/824473/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/59zstSgKTMBW4SPz919Bu_ywMkT_w2PadfG8Oe1YEhY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/59zstSgKTMBW4SPz919Bu_ywMkT_w2PadfG8Oe1YEhY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/59zstSgKTMBW4SPz919Bu_ywMkT_w2PadfG8Oe1YEhY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/59zstSgKTMBW4SPz919Bu_ywMkT_w2PadfG8Oe1YEhY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/59zstSgKTMBW4SPz919Bu_ywMkT_w2PadfG8Oe1YEhY/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

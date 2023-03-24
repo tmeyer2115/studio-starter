@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_ultra_85_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "399.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "It\u0027s not true that smaller and less aggressive skiers don\u0027t need a precision fit, sometimes a sloppy fit is the reason they don\u0027t continue to improve. If you\u0027re an intermediate skier with a narrow foot and ankle, check out the Atomic Hawx Ultra 85 W Ski Boots and be prepared to be amazed at how closely they mirror the shape of your foot and lower leg - all of this translates directly to better control of your skis and more confidence and fun on the slopes. The Hawx Ultra 85 also features an extremely low profile shape, super low weight for mobility, and Atomic\u0027s fantastic Memory Fit heat molding process to take care of fit issues, so the boots not only ski great but feel great.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Atomic Hawx Ultra 85 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197855/826610/atomic-hawx-ultra-85-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/OjkOnPtSAonnz2mam99uZbiAeBFrte4WqELXBVM0jDI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/OjkOnPtSAonnz2mam99uZbiAeBFrte4WqELXBVM0jDI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/OjkOnPtSAonnz2mam99uZbiAeBFrte4WqELXBVM0jDI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/OjkOnPtSAonnz2mam99uZbiAeBFrte4WqELXBVM0jDI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/OjkOnPtSAonnz2mam99uZbiAeBFrte4WqELXBVM0jDI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "k2_fl3x_revolver_team_ski_boots_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "599.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "The K2 FL3X Revolver Team Ski Boots are part freeride boot, part park boot. They start with the tried and true freestyle design of the Revolver Plus shell, just like the one found in the Tom Wallisch pro model and other top-level park boots. Then, they add in a burly 120 flex tongue, Gripwalk soles, and an Intuition Pro Tongue liner. It\u0027s a sick Frankenstein fusion that lets you rip, tweak, and rally from powdery cliff drops to sculpted booters.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 FL3X Revolver Team Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224020/955972/k2-fl3x-revolver-team-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Win2B9XyF4akKxBcazmaOc8QPHT-XfvysyASY_qxb2s/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Win2B9XyF4akKxBcazmaOc8QPHT-XfvysyASY_qxb2s/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Win2B9XyF4akKxBcazmaOc8QPHT-XfvysyASY_qxb2s/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Win2B9XyF4akKxBcazmaOc8QPHT-XfvysyASY_qxb2s/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Win2B9XyF4akKxBcazmaOc8QPHT-XfvysyASY_qxb2s/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

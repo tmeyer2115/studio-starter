@@ -1,0 +1,204 @@
+{
+  "$id": "nordica_unleashed_90_w_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/nordica_unleashed_90_w_skis_2023",
+    "c_details": [
+      {
+        "value": "Shovel / Tail Rocker – LONGER RUNNING BASE LENGTH \u003d Less tip and tail rocker depth to better support the playful tip and tail shovel shapes. MORE TURNED UP TAIL \u003d Easier to swivel and break free while also offering a more favorable setup for riding switch. STEEPER TIP SHOVEL \u003d More tip initiation and deflection in soft snow"
+      },
+      {
+        "value": "Performance Wood Core"
+      },
+      {
+        "value": "Terrain Specific Metal – The size and shape of the Titanal layer is specifically engineered for each ski width, providing stability where you need it and flexibility where you want it."
+      },
+      {
+        "value": "Carbon Fiber Glass"
+      },
+      {
+        "value": "ABS Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "399.99",
+    "c_productType": "Skis",
+    "c_sizes": ["160", "168"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "For the park kids and the up and comers who don\u0027t want to sacrifice performance for their trick fix, the Nordica Unleashed 90 W Skis are made to do it all. A confidence boosting full wood core and vertical sidewalls support playful riding that delivers from the park to the piste and beyond. Twin tip rocker and traditional camber support backwards shenanigans while providing grip when you don\u0027t quite land that 360. What can\u0027t the Nordica Unleashed 90 W do? Nothing. The answer is nothing.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Nordica Unleashed 90 W Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224782/910259/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224782/910259/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/xHPJ4WdLrKMPAriUxlTXnX8BbAPLGv5OXbXOh5WvqIM/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224782/910254/nordica-unleashed-90-w-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VINfs-SYQpdiOdIyqCjrZZCSvZdBwNhyBS6cODiShHE/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VINfs-SYQpdiOdIyqCjrZZCSvZdBwNhyBS6cODiShHE/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VINfs-SYQpdiOdIyqCjrZZCSvZdBwNhyBS6cODiShHE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VINfs-SYQpdiOdIyqCjrZZCSvZdBwNhyBS6cODiShHE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VINfs-SYQpdiOdIyqCjrZZCSvZdBwNhyBS6cODiShHE/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224782/984839/nordica-unleashed-90-w-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LijDaPFHbEK9SfiHqfM44vmm3SwrOpryYZ_Qf4y1PP8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LijDaPFHbEK9SfiHqfM44vmm3SwrOpryYZ_Qf4y1PP8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LijDaPFHbEK9SfiHqfM44vmm3SwrOpryYZ_Qf4y1PP8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LijDaPFHbEK9SfiHqfM44vmm3SwrOpryYZ_Qf4y1PP8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LijDaPFHbEK9SfiHqfM44vmm3SwrOpryYZ_Qf4y1PP8/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

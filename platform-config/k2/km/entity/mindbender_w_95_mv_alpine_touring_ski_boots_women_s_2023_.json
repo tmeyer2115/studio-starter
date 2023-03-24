@@ -1,0 +1,56 @@
+{
+  "$id": "k2_mindbender_w_95_mv_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Medium",
+    "description": "The K2 Mindbender W 95 MV Alpine Touring Ski Boots are extremely high quality all-mountain boots that give you everything you need for almost any style of skiing. The freeride inspired design delivers both comfort and performance. It has a medium volume 100mm last, a powerful yet forgiving 95 flex, and an intuitive, reliable walk mode. Plus it comes standard with integrated tech fittings and GripWalk soles, so it\u0027s perfectly at home whether you\u0027re out skinning for your turns, cruising around the resort, or walking back to the car after a long day on the slopes.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 Mindbender W 95 MV Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224008/904618/k2-mindbender-w-95-mv-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/so7aHZ44R0FhB0hs71Bj5PuRS4JtdtJh9iBL0Ufn9vk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/so7aHZ44R0FhB0hs71Bj5PuRS4JtdtJh9iBL0Ufn9vk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/so7aHZ44R0FhB0hs71Bj5PuRS4JtdtJh9iBL0Ufn9vk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/so7aHZ44R0FhB0hs71Bj5PuRS4JtdtJh9iBL0Ufn9vk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/so7aHZ44R0FhB0hs71Bj5PuRS4JtdtJh9iBL0Ufn9vk/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

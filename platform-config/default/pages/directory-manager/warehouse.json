@@ -1,0 +1,32 @@
+{
+  "$id": "warehouse",
+  "$schema": "https://schema.yext.com/config/pages/directory-manager/v1",
+  "name": "Retail",
+  "baseEntities": {
+    "entityTypes": ["ce_skis", "ce_skiBoot"]
+  },
+  "localization": {
+    "locales": ["en"]
+  },
+  "root": {
+    "entityType": "ce_dmRoot",
+    "slug": "index.html"
+  },
+  "levels": [
+    {
+      "entityType": "ce_gender",
+      "field": "c_genderName",
+      "slug": "{{c_genderName}}"
+    },
+    {
+      "entityType": "ce_productType",
+      "field": "c_productType",
+      "slug": "{{c_genderName}}/{{c_productType}}"
+    },
+    {
+      "entityType": "ce_category",
+      "field": "c_categoryName",
+      "slug": "{{c_genderName}}/{{c_productType}}/{{c_categoryName}}"
+    }
+  ]
+}

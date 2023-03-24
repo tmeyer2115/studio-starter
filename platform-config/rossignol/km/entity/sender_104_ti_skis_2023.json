@@ -1,0 +1,246 @@
+{
+  "$id": "rossignol_sender_104_ti_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_sender_104_ti_skis_2023",
+    "c_details": [
+      {
+        "value": "Free Rocker – 25% Tip Rocker / 60% Camber / 15% Tail Rocker"
+      },
+      {
+        "value": "Progressive Sidecut – Firm grip while opening up more scope and fluidity to cruise, dazzle and carve on all terrain and in any snow conditions."
+      },
+      {
+        "value": "Paulownia Wood Core – The paulownia wood core reduces the ski\u0027s weight by up to 30% for improved agility and handling while retaining control."
+      },
+      {
+        "value": "Extended Core – The Extended Core construction increases ski-snow contact and the torsional stability of the ski, boosting precision and control in varied snow conditions."
+      },
+      {
+        "value": "Air Tip – The Air Tip lightens the tip and tail of the ski for improved maneuverability and turn control in all snow conditions."
+      },
+      {
+        "value": "Titanal Beam – The Titanal Beam delivers the right amount of power under the foot and enhances grip across the entire length of the ski."
+      },
+      {
+        "value": "Damp Tech – The Damp Tech insert at the tip reduces ski vibrations to absorb irregularities in the terrain."
+      },
+      {
+        "value": "Double LCT ABS – The Double LCT ABS construction is an adaptation of Line Control Technology on wider skis to improve line control with power and energy."
+      },
+      {
+        "value": "Rectangular Sidewalls"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": ["164", "172", "178", "186"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Rossignol Sender 104 Ti Skis pair a stiff flex with a maneuverable Free Rocker profile to create a stouter waisted all-mountain weapon that can hold it down on both hardpack as well as in the fresh fluff. Ideal for aggressive, hard charging skiers who want to go fast and send \u0027er deep off those natural sidehits and cat tracks, the Sender 104 Ti empowers you to charge all over the mountain without ever holding you back. From pow days to the post-storm chunder, ski confidently with the Rossignol Sender 104 Ti Skis.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Rossignol Sender 104 Ti Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216287/898238/rossignol-sender-104-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216287/898238/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216287/898238/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216287/898238/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/FuCtoB3FTlt-1nwQ8rB02SHWSQOKfhbokpnrzlcer8k/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/216287/914069/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/NPFa2WzHtHUERbrAzL5a9zrbs3JVOKy6SW_xJG8acAU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/NPFa2WzHtHUERbrAzL5a9zrbs3JVOKy6SW_xJG8acAU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/NPFa2WzHtHUERbrAzL5a9zrbs3JVOKy6SW_xJG8acAU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/NPFa2WzHtHUERbrAzL5a9zrbs3JVOKy6SW_xJG8acAU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/NPFa2WzHtHUERbrAzL5a9zrbs3JVOKy6SW_xJG8acAU/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

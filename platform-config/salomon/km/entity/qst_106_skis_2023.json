@@ -1,0 +1,814 @@
+{
+  "$id": "salomon_qst_106_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_106_skis_2023",
+    "c_details": [
+      {
+        "value": "Tip and Tail Rocker"
+      },
+      {
+        "value": "Full Poplar Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations."
+      },
+      {
+        "value": "Cork Damplifier – Cork is 16 times more absorptive than Koroyd. Using it in the tip and/or tail of the ski enables a high level of vibration absorption and dampening while decreasing weight."
+      },
+      {
+        "value": "C/FX Carbon Weave – C/FX is a fiber layer consisting of Carbon and Flax woven together. It combines the strength, stability, minimal weight of carbon with the increased level of dampening of the flax."
+      },
+      {
+        "value": "TI Binding Reinforcement – A titanal insert edge-to-edge underfoot, running throughout the ski, for maximal power and increased hard snow edging."
+      },
+      {
+        "value": "Full Sandwich Sidewalls – A laminate construction with full length ABS sidewalls gives extraordinary smooth ski/snow contact and great terrain adaptation. Laminated construction enables Salomon to combine optimum material layers for targeted performance."
+      },
+      {
+        "value": "Glossy Topsheet"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["165", "173", "181", "189"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Flax, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Series",
+        "value": "QST"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Salomon QST 106 Skis are a masterclass in ski design. Smooth taper into the tips, just the right amount of heft around the middle, and purposeful blunted tails. They\u0027re elegant and directional, meant to balance the demands for fun and practicality in a snow sliding device. They\u0027re lightweight and highly technical, but use a blend of natural materials like cork and flax fiber to counterbalance those that could lead to a twitchy feel when left alone, like carbon and ABS. They\u0027re a perfect synergy of art and science, nature and artifice, and the smooth S turns they leave across snow-swept landscapes are a testament to their success.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Salomon QST 106 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910795/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/990625/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910791/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910792/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910794/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910805/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910795/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/990625/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910791/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910792/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910794/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910805/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910795/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/990625/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910791/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910792/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910794/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910805/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910795/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/M8xio9PyXr59_yENStoItF7hJUuopFdPzkZ16JLFeTg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/990625/salomon-qst-106-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/U3Hy6iMTiVfyia6pQUbmABPB77wY9qB1ERLiKxQ5O0o/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910791/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VIXjEmNEq-unZpMXHtj9cJ9sQ2FgiB5fZEqvukIqchc/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910792/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/s70Y5WMNU2tzTeH9-ZuXt6n6fVotup3zgzRhXvZdaT8/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910794/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_52l4wt71MYlClKU7xrbsKTPUTrKYgrW0-x51dVEWmQ/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219240/910805/salomon-qst-106-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2BMxFnYXYfhO-cCXlO7jNQ2YvWn0yN7_EEikwRSs7Hk/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,56 @@
+{
+  "$id": "nordica_speedmachine_3_85_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "449.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Nordica Speedmachine 85 3 W Ski Boots sound fast, look fast, and are definitely really happy going fast, but that\u0027s not the whole story. Updated with lighter materials, a cork liner, and infrared heat molding technology, these sturdy and performance oriented boots now fit the shape of your body better than ever. Adjust the flex as you improve or tackle different conditions and keep them as you progress from greens to blacks. Take the resort by storm every time you click in with the Nordica Speedmachine 85 W Ski Boots.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Speedmachine 3 85 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/226892/911057/nordica-speedmachine-3-85-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Il4tzJpA4KpZpnYLApIyj6WSHL69PzZqhCGPFCKn9tU/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Il4tzJpA4KpZpnYLApIyj6WSHL69PzZqhCGPFCKn9tU/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Il4tzJpA4KpZpnYLApIyj6WSHL69PzZqhCGPFCKn9tU/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Il4tzJpA4KpZpnYLApIyj6WSHL69PzZqhCGPFCKn9tU/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Il4tzJpA4KpZpnYLApIyj6WSHL69PzZqhCGPFCKn9tU/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

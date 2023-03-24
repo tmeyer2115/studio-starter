@@ -1,0 +1,264 @@
+{
+  "$id": "salomon_mtn_86_pro_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/salomon_mtn_86_pro_skis_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Rocker"
+      },
+      {
+        "value": "Karuba / Poplar Full Woodcore – A woodcore from tip to tail offers optimum stability on snow and powerful rebound. Maximizes ski-to-snow contact and filters vibrations. Karuba is one of the lightest woods available for ski construction."
+      },
+      {
+        "value": "Cork Damplifier – Cork is 16 times more absorptive than Koroyd. Using it in the tip and/or tail of the ski enables a high level of vibration absorption and dampening while decreasing weight."
+      },
+      {
+        "value": "Line Topsheet"
+      },
+      {
+        "value": "Skin Tail Clip"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.99",
+    "c_productType": "Skis",
+    "c_sizes": ["164", "172", "180"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Alpine Touring"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7096784237424891914"],
+    "description": "Ask around in the ski mountaineering community and you\u0027ll find that one name keeps coming up. The Salomon MTN 86 Pro skis are one of the most coveted \"volcano skis\" on the market for good reason. Weighing in at 1230 grams a ski, they definitely fall into the ultralight touring category. These skis were designed for overnight trips, dawn \u0027til dusk missions, and the kinds of vertical stacking days that will leave your GPS watch out of breath and begging you to sit down for a second. But the reason they\u0027ve earned such a reputation is that their downhill performance is nearly unparalleled in the category. If you\u0027re looking for one of the best uphill skis in the world that won\u0027t leave you wanting when it\u0027s time to link turns, this is the one of you.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_alpine_touring"
+    ],
+    "name": "Salomon MTN 86 Pro Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219279/910821/salomon-mtn-86-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Y9VzfyqS-hiLgbq-NmiYdef-gSJ42KCiamLySFfWk0I/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Y9VzfyqS-hiLgbq-NmiYdef-gSJ42KCiamLySFfWk0I/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Y9VzfyqS-hiLgbq-NmiYdef-gSJ42KCiamLySFfWk0I/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Y9VzfyqS-hiLgbq-NmiYdef-gSJ42KCiamLySFfWk0I/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Y9VzfyqS-hiLgbq-NmiYdef-gSJ42KCiamLySFfWk0I/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219279/910826/salomon-mtn-86-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pXqLS8XkKrOV5DegPaKLwCogoAoJWWEo18YIByK88Ec/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pXqLS8XkKrOV5DegPaKLwCogoAoJWWEo18YIByK88Ec/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pXqLS8XkKrOV5DegPaKLwCogoAoJWWEo18YIByK88Ec/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pXqLS8XkKrOV5DegPaKLwCogoAoJWWEo18YIByK88Ec/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pXqLS8XkKrOV5DegPaKLwCogoAoJWWEo18YIByK88Ec/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219279/910820/salomon-mtn-86-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/CowTqJaArswdVirAm1kCh2oUq6manY0GUw5z60ZnVbY/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/CowTqJaArswdVirAm1kCh2oUq6manY0GUw5z60ZnVbY/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/CowTqJaArswdVirAm1kCh2oUq6manY0GUw5z60ZnVbY/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/CowTqJaArswdVirAm1kCh2oUq6manY0GUw5z60ZnVbY/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/CowTqJaArswdVirAm1kCh2oUq6manY0GUw5z60ZnVbY/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219279/910827/salomon-mtn-86-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/p0L62HcUhPPe1cR7erWdHs2PdZ1osylWnSBzOMwDyl0/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/p0L62HcUhPPe1cR7erWdHs2PdZ1osylWnSBzOMwDyl0/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/p0L62HcUhPPe1cR7erWdHs2PdZ1osylWnSBzOMwDyl0/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/p0L62HcUhPPe1cR7erWdHs2PdZ1osylWnSBzOMwDyl0/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/p0L62HcUhPPe1cR7erWdHs2PdZ1osylWnSBzOMwDyl0/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219279/910831/salomon-mtn-86-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/_WnpCiPMq-xtEeHg_o0H5grevlPXtcGREmWpgY3U4TE/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/_WnpCiPMq-xtEeHg_o0H5grevlPXtcGREmWpgY3U4TE/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/_WnpCiPMq-xtEeHg_o0H5grevlPXtcGREmWpgY3U4TE/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/_WnpCiPMq-xtEeHg_o0H5grevlPXtcGREmWpgY3U4TE/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/_WnpCiPMq-xtEeHg_o0H5grevlPXtcGREmWpgY3U4TE/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219279/910824/salomon-mtn-86-pro-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/YElUJgTzudISAyyuiZpsIVD23FPTABtGUIOG521dvKI/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/YElUJgTzudISAyyuiZpsIVD23FPTABtGUIOG521dvKI/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/YElUJgTzudISAyyuiZpsIVD23FPTABtGUIOG521dvKI/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/YElUJgTzudISAyyuiZpsIVD23FPTABtGUIOG521dvKI/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/YElUJgTzudISAyyuiZpsIVD23FPTABtGUIOG521dvKI/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

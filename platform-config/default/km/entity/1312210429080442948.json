@@ -1,0 +1,65 @@
+{
+  "$id": "1312210429080442948",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_icon": {
+      "image": {
+        "height": 16,
+        "thumbnails": [
+          {
+            "height": 16,
+            "url": "http://a.mktgcdn.com/p/WJIws0a6BUNrT8Tp5P7ehPGNsm_NbksuDT1YlBVJINY/16x16.png",
+            "width": 16
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/WJIws0a6BUNrT8Tp5P7ehPGNsm_NbksuDT1YlBVJINY/16x16.png",
+        "width": 16
+      }
+    },
+    "c_skisByTerrain": [
+      "armada_arv_116_jj_skis_2023",
+      "line_skis_pescado_skis_2023",
+      "armada_whitewalker_121_skis_2023"
+    ],
+    "description": "Powder refers to fresh, deep snow that has not been skied on or groomed. Skiers who enjoy powder typically look for resorts or areas with a good snowfall and may prefer wider skis to help them float on top of the snow.",
+    "name": "Powder",
+    "primaryPhoto": {
+      "image": {
+        "height": 1380,
+        "thumbnails": [
+          {
+            "height": 1380,
+            "url": "http://a.mktgcdn.com/p/Pesqc1k-rcIh6Xtpegjn4TPqpMTcRAWpeboz3m26sJQ/2071x1380.jpg",
+            "width": 2071
+          },
+          {
+            "height": 1266,
+            "url": "http://a.mktgcdn.com/p/Pesqc1k-rcIh6Xtpegjn4TPqpMTcRAWpeboz3m26sJQ/1900x1266.jpg",
+            "width": 1900
+          },
+          {
+            "height": 412,
+            "url": "http://a.mktgcdn.com/p/Pesqc1k-rcIh6Xtpegjn4TPqpMTcRAWpeboz3m26sJQ/619x412.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p/Pesqc1k-rcIh6Xtpegjn4TPqpMTcRAWpeboz3m26sJQ/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p/Pesqc1k-rcIh6Xtpegjn4TPqpMTcRAWpeboz3m26sJQ/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/Pesqc1k-rcIh6Xtpegjn4TPqpMTcRAWpeboz3m26sJQ/2071x1380.jpg",
+        "width": 2071
+      }
+    }
+  },
+  "entityType": "ce_terrain",
+  "folder": "commerceSite",
+  "labels": []
+}

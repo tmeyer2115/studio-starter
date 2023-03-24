@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_chakra_elevate_115_id_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "The classic 98mm Chakra got some uplifting upgrades last season — chiefly the addition of tech fittings for rippers who need some touring capability but don\u0027t want to relinquish any downhill performance. This season the Dalbello Chakra Elevate 115 ID Ski Boots march on at the same high level with their 115 flex, super stout construction and 60mm cinch power strap. The all-mountain boot for those who consider 20 foot airs, thigh deep pow, and terrain consistently over 40 degrees the norm.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Chakra Elevate 115 ID Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227768/916399/dalbello-chakra-elevate-115-id-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pUrqqfOgF7yJCmzgX43Rf9CcJnyC7gozeML12Pz-VaQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pUrqqfOgF7yJCmzgX43Rf9CcJnyC7gozeML12Pz-VaQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pUrqqfOgF7yJCmzgX43Rf9CcJnyC7gozeML12Pz-VaQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pUrqqfOgF7yJCmzgX43Rf9CcJnyC7gozeML12Pz-VaQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pUrqqfOgF7yJCmzgX43Rf9CcJnyC7gozeML12Pz-VaQ/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

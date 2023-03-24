@@ -1,0 +1,56 @@
+{
+  "$id": "lange_rx_90_w_lv_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "649.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Lange RX 90 W LV GW Ski Boots bring the highly prized low volume 97mm fit to the mid-flexing 90 range, and it\u0027s a great combination. Advanced skiers who want the precision and heel hold of the \"LV\" don\u0027t have to go with the more powerful 110 boot, but retain the instant response and ability to initiate subtle turns that results from having the shell as close to the foot as possible. The RX 90 LV gets Gripwalk soles this season for added security while walking or booting to that pristine line, so make sure your bindings are Gripwalk compatible.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange RX 90 W LV GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198903/825873/lange-rx-90-w-lv-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/KO1DeQIek-bDRUOvytpNDW7lw-cR4bFU42fKG2kq9aw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/KO1DeQIek-bDRUOvytpNDW7lw-cR4bFU42fKG2kq9aw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/KO1DeQIek-bDRUOvytpNDW7lw-cR4bFU42fKG2kq9aw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/KO1DeQIek-bDRUOvytpNDW7lw-cR4bFU42fKG2kq9aw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/KO1DeQIek-bDRUOvytpNDW7lw-cR4bFU42fKG2kq9aw/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

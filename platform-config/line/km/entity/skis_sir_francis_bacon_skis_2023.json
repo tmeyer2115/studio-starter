@@ -1,0 +1,219 @@
+{
+  "$id": "line_skis_sir_francis_bacon_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_sir_francis_bacon_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 6mm Tip / 4mm Camber / 6mm Tail"
+      },
+      {
+        "value": "Symmetric Flex™ – The same flex pattern in front and behind your boot conforms to terrain equally riding forward \u0026 backward."
+      },
+      {
+        "value": "5-Cut™ – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "3D Convex Technology™ – Convex contouring across the tip and tail of the ski loosed the ski feel by increasing displacement - and creating a tip and tail more inclined to plane - for an added dimension of turn shape."
+      },
+      {
+        "value": "Partly Cloudy™ – A blend of lightweight Paulownia and Maple creating the best strength to weight ratio of Line\u0027s offerings."
+      },
+      {
+        "value": "Sidewall Construction – Ultra-high density Polyethylene vertical walls over the edges to absorb vibrations and provide powerful energy transmission."
+      },
+      {
+        "value": "Fatty Base | Sintered 1.7mm – High density sintered bases reduce friction against the snow allowing for more speed and better durability."
+      },
+      {
+        "value": "Fatty Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 20 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["176", "184", "190"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "By now, this ski needs no introduction. The Line Skis Sir Francis Bacon Skis have inspired generations of fun-loving all-mountain freestyle skis, and generations of fun-loving all-mountain skiers. They feature a silky smooth flex pattern that\u0027s just stiff enough to hold up to explosive resort skiing and just soft enough to absolutely butter the popcorn out of. They have convex tips and tails that beg to be smeared around, and a spring-loaded core that turns every roller into a trampoline waiting to happen. This is the ski that Line made their name on, and it continues to be one of the most fun all-mountain rides in the business.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Sir Francis Bacon Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221772/906611/line-skis-sir-francis-bacon-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/GA_sUf5oxatby4gpZfj1FusJelVJ-FAJFgw1SscOMoE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/GA_sUf5oxatby4gpZfj1FusJelVJ-FAJFgw1SscOMoE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/GA_sUf5oxatby4gpZfj1FusJelVJ-FAJFgw1SscOMoE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/GA_sUf5oxatby4gpZfj1FusJelVJ-FAJFgw1SscOMoE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/GA_sUf5oxatby4gpZfj1FusJelVJ-FAJFgw1SscOMoE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221772/906612/line-skis-sir-francis-bacon-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LUeWI6QjwkV-5G9mo0qDE78wIvmBjg23i_jOaNI8wdc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LUeWI6QjwkV-5G9mo0qDE78wIvmBjg23i_jOaNI8wdc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LUeWI6QjwkV-5G9mo0qDE78wIvmBjg23i_jOaNI8wdc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LUeWI6QjwkV-5G9mo0qDE78wIvmBjg23i_jOaNI8wdc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LUeWI6QjwkV-5G9mo0qDE78wIvmBjg23i_jOaNI8wdc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221772/906740/line-skis-sir-francis-bacon-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/bGgqfhqXQNiNlNnfTS2zh_YANwsLBCIdUYG_iDqT6YU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/bGgqfhqXQNiNlNnfTS2zh_YANwsLBCIdUYG_iDqT6YU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/bGgqfhqXQNiNlNnfTS2zh_YANwsLBCIdUYG_iDqT6YU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/bGgqfhqXQNiNlNnfTS2zh_YANwsLBCIdUYG_iDqT6YU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/bGgqfhqXQNiNlNnfTS2zh_YANwsLBCIdUYG_iDqT6YU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221772/906735/line-skis-sir-francis-bacon-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/virZ9h6di-nQ7fBdnFXNeDMpKAWOtdgio73GZW1k270/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/virZ9h6di-nQ7fBdnFXNeDMpKAWOtdgio73GZW1k270/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/virZ9h6di-nQ7fBdnFXNeDMpKAWOtdgio73GZW1k270/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/virZ9h6di-nQ7fBdnFXNeDMpKAWOtdgio73GZW1k270/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/virZ9h6di-nQ7fBdnFXNeDMpKAWOtdgio73GZW1k270/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

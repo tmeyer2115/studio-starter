@@ -1,0 +1,56 @@
+{
+  "$id": "tecnica_mach1_lv_pro_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "For the pro in all of us, the new Tecnica Mach1 LV Pro W Ski Boots roll the 120 flex low volume fit together with Tecnica\u0027s T-Drive Carbon Spine into a package that the hardest charging ladies have been asking for for a while. For the skier who typically hits the liftline before her guy friends and folds a 105-flex boot when she\u0027s really pushing it, this is the way to enlightenment.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Tecnica Mach1 LV Pro W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/197490/827127/tecnica-mach1-lv-pro-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/TJUxPt2dYwMtR5VIoB6Rfvl_Wez6mScWifwckTDKZZ4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/TJUxPt2dYwMtR5VIoB6Rfvl_Wez6mScWifwckTDKZZ4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/TJUxPt2dYwMtR5VIoB6Rfvl_Wez6mScWifwckTDKZZ4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/TJUxPt2dYwMtR5VIoB6Rfvl_Wez6mScWifwckTDKZZ4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/TJUxPt2dYwMtR5VIoB6Rfvl_Wez6mScWifwckTDKZZ4/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

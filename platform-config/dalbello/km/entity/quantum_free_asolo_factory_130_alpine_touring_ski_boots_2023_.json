@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_quantum_free_asolo_factory_130_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "899.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "Like a blue bolt from the sky (actually, Asolo, Italy) the Dalbello Quantum Free Asolo Factory 130 Ski Boots arrived last spring, and we were blown away. This boot tours as well as any boot ever made, with little need to loosen the power strap or top buckle for most ascending. It also skis very well for a boot in this weight class, and the overall effect is magnificent. Based on last season\u0027s Quantum Asolo Factory, but without the carbon reinforced shell material which was very difficult to modify, the Free Factory 130 shares Dalbello\u0027s Hemispherical construction but adds real buckles instead of the QLS and Dyneema cord closure. In sum, this boot tours as well as its lighter sibling and skis with considerably more power, which should be well worth the extra 300 grams to many skiers.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Dalbello Quantum Free Asolo Factory 130 Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208292/848523/dalbello-quantum-free-asolo-factory-130-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/dZdj_Oe4kme3jaOeCJfxzE4tlD682uKMkEnoZrMLNlM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/dZdj_Oe4kme3jaOeCJfxzE4tlD682uKMkEnoZrMLNlM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/dZdj_Oe4kme3jaOeCJfxzE4tlD682uKMkEnoZrMLNlM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/dZdj_Oe4kme3jaOeCJfxzE4tlD682uKMkEnoZrMLNlM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/dZdj_Oe4kme3jaOeCJfxzE4tlD682uKMkEnoZrMLNlM/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

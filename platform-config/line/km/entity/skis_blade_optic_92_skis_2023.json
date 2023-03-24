@@ -1,0 +1,156 @@
+{
+  "$id": "line_skis_blade_optic_92_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_blade_optic_92_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Proflie – 10mm Tip / 2mm Camber / 9mm Tail"
+      },
+      {
+        "value": "Directional Flex – The softer tip floats and initiates turns easily while the stiffer tail provides power, stability and high speed control."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Aspen Veneer Core – An amalgam of Aspen Stringers brought together for a lightweight, snappy, and engaged feel."
+      },
+      {
+        "value": "Capwall™Construction – Combining the precision of sidewall underfoot, and the lightweight, durable performance of cap construction in the tip and tail, Capwall™ Construction provides the best of both worlds."
+      },
+      {
+        "value": "Sintered 1.3 mm Base – Sintered bases reduce friction against the snow allowing for more speed, and more durability due to the high-density material they\u0027re crafted from."
+      },
+      {
+        "value": "2.1mm x 2mm"
+      },
+      {
+        "value": "Stance Back from Center – 49mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Skis",
+    "c_sizes": ["161", "168", "175", "182"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Line Skis Blade Optic 92 Skis are the narrowest option in the all-new Blade Optic series. They\u0027re hardpack shredding tools for people who don\u0027t like hardpack shredding tools. It\u0027s not a park ski: it has a directional flex profile and thrives on pure, unadulterated speed. But its not at all a traditional groomer ski either: it has a nearly centered -4.9cm mount point and a surprisingly featherweight feel. It\u0027s something in between. It\u0027s designed for playful East Coast chargers, or West Coast powder skiers on their days off. It\u0027s nimble, fast, and powerful, and it turns mellow days of ripping cord into the best days of the season.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Blade Optic 92 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221743/906609/line-skis-blade-optic-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/402FVeFl6arj3K9AhboJvcnmbsW_ZzgbasXD5bsZU80/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/402FVeFl6arj3K9AhboJvcnmbsW_ZzgbasXD5bsZU80/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/402FVeFl6arj3K9AhboJvcnmbsW_ZzgbasXD5bsZU80/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/402FVeFl6arj3K9AhboJvcnmbsW_ZzgbasXD5bsZU80/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/402FVeFl6arj3K9AhboJvcnmbsW_ZzgbasXD5bsZU80/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221743/906608/line-skis-blade-optic-92-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/IpSxV8weh2Kkz98rQZDEeCdLphRjYiEEe9ApEvp25t4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/IpSxV8weh2Kkz98rQZDEeCdLphRjYiEEe9ApEvp25t4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/IpSxV8weh2Kkz98rQZDEeCdLphRjYiEEe9ApEvp25t4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/IpSxV8weh2Kkz98rQZDEeCdLphRjYiEEe9ApEvp25t4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/IpSxV8weh2Kkz98rQZDEeCdLphRjYiEEe9ApEvp25t4/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

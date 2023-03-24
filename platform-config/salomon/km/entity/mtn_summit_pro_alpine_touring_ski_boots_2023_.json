@@ -1,0 +1,56 @@
+{
+  "$id": "salomon_mtn_summit_pro_alpine_touring_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Stiff",
+    "description": "Crush it like Cody Townsend in your new Salomon MTN Summit Pro Alpine Touring Ski Boots. Inspired by high ascents and technical endeavors that require more than an inclination for type 2 fun, the MTN Summit Pro brings years of product development together to create a lightweight and strong boot that\u0027ll hold up during the most intense backcountry missions. Fully heat moldable, this fast and light shell has a 70 degree range of motion in walk mode and an adjustable forward lean that allows you to customize your ride. The single buckle design with BOA adjustment makes transitions easy and fiddle free, and the Surelock Ski Walk Mechanism means it\u0027s a breeze to get in and out of uphill mode. Go on, bag that peak. Meme lord Cody would be proud.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Salomon MTN Summit Pro Alpine Touring Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219484/921930/salomon-mtn-summit-pro-alpine-touring-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/cfuVtMVmDdr76VS_qOyfeY18MtvNEKCxqxYBT8lGn7s/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/cfuVtMVmDdr76VS_qOyfeY18MtvNEKCxqxYBT8lGn7s/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/cfuVtMVmDdr76VS_qOyfeY18MtvNEKCxqxYBT8lGn7s/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/cfuVtMVmDdr76VS_qOyfeY18MtvNEKCxqxYBT8lGn7s/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/cfuVtMVmDdr76VS_qOyfeY18MtvNEKCxqxYBT8lGn7s/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

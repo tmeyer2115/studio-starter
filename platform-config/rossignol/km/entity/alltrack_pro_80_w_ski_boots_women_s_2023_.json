@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_alltrack_pro_80_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "429.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Rossignol Alltrack Pro 80 W Ski Boots give you touring boot comfort in an easy-to-love package that skis with authority and walks like a dream. Rossi uses their top Dual Core technology and Full Custom T3 liner in the Alltrack Pro 80, along with Thinsulate™ Stretch insulation for toasty feet.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Alltrack Pro 80 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/201520/830038/rossignol-alltrack-pro-80-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZIVzwWkew9xZUYEQjJITRtXJJ_pLipDau1qPZMxVW4M/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZIVzwWkew9xZUYEQjJITRtXJJ_pLipDau1qPZMxVW4M/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZIVzwWkew9xZUYEQjJITRtXJJ_pLipDau1qPZMxVW4M/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZIVzwWkew9xZUYEQjJITRtXJJ_pLipDau1qPZMxVW4M/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZIVzwWkew9xZUYEQjJITRtXJJ_pLipDau1qPZMxVW4M/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

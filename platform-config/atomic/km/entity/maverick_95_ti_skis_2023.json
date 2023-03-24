@@ -1,0 +1,336 @@
+{
+  "$id": "atomic_maverick_95_ti_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/atomic_maverick_95_ti_skis_2023",
+    "c_details": [
+      {
+        "value": "All Mountain Rocker – 20% Tip Rocker / 70% Camber / 10% Tail Rocker"
+      },
+      {
+        "value": "Flow Profile – Flow Profile blends the perfect amount of rocker and camber for optimal effective edge contact during every turn. Utilizing the latest generation of HRZN Tech Tip, Flow Profile delivers the ideal combination of camber, shovel taper, and tip rocker to create a ski that hooks up on hardpack as well as floats in fresh snow."
+      },
+      {
+        "value": "HRZN Tech Tip – HRZN Tech adds 10% more surface area at your ski tips. For awesome flotation in powder plus less tip deflection and better tracking through chop."
+      },
+      {
+        "value": "Light Woodcore – Made from poplar wood, this core optimizes the ski\u0027s weight without sacrificing any shock absorption or stability."
+      },
+      {
+        "value": "OMatic Construction – The ultimate balance of stiffness and flex throughout the length of the ski. Precision milled poplar wood, lightweight fiberglass, and titanal layer or carbon insets. OMatic delivers effortless performance, balance, and stability from tip to tail."
+      },
+      {
+        "value": "Fiberglass Inserts"
+      },
+      {
+        "value": "Titanium Powered – Actually, not Titanium but rather .4mm layers of Titanal alloy above and below the core"
+      },
+      {
+        "value": "Dura Cap Sidewall – Sidewall for power transmission combined with a small cap for durability."
+      },
+      {
+        "value": "World Cup Base Finish"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Skis",
+    "c_sizes": ["164", "172", "180", "188"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Atomic Maverick 95 TI Skis are outstanding piste performers with a healthy dose of off-trail capability. Strong and smooth in just about any conceivable set of conditions, the Mavericks utilize a new OMatic core construction that expertly balances stiffness and flex over the length of the ski for top-notch riding through variable snow. Whether you find yourself laying trenches in fresh groomers or dipping into the trees for some leftover freshies, the Atomic Maverick 95 TI Skis make the transition seamless.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Atomic Maverick 95 Ti Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902840/atomic-maverick-95-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902840/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902840/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902840/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/hIxFgW482DOOsOtClfZUFJAY3LAWB6bm4ATl49lB5Bw/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902836/atomic-maverick-95-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/e3-638t90EM_1PYf2pqfTMD-_gDSOClRtTATEcnDMDg/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/e3-638t90EM_1PYf2pqfTMD-_gDSOClRtTATEcnDMDg/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/e3-638t90EM_1PYf2pqfTMD-_gDSOClRtTATEcnDMDg/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/e3-638t90EM_1PYf2pqfTMD-_gDSOClRtTATEcnDMDg/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/e3-638t90EM_1PYf2pqfTMD-_gDSOClRtTATEcnDMDg/700x700.png",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902834/atomic-maverick-95-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/WoFUwDNuDyg_V3uNiEjRLK_jvPPDOORINLceTMdUrOg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/WoFUwDNuDyg_V3uNiEjRLK_jvPPDOORINLceTMdUrOg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/WoFUwDNuDyg_V3uNiEjRLK_jvPPDOORINLceTMdUrOg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/WoFUwDNuDyg_V3uNiEjRLK_jvPPDOORINLceTMdUrOg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/WoFUwDNuDyg_V3uNiEjRLK_jvPPDOORINLceTMdUrOg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902830/atomic-maverick-95-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/2JhM6qAhbGG6i9ExyJuB6feNGonnxsGVExnYueZ-yZw/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/2JhM6qAhbGG6i9ExyJuB6feNGonnxsGVExnYueZ-yZw/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/2JhM6qAhbGG6i9ExyJuB6feNGonnxsGVExnYueZ-yZw/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/2JhM6qAhbGG6i9ExyJuB6feNGonnxsGVExnYueZ-yZw/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/2JhM6qAhbGG6i9ExyJuB6feNGonnxsGVExnYueZ-yZw/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219394/902832/atomic-maverick-95-ti-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/uxwg97gDALe2nAoSLvFE7J-dNsyzBaAZ08f1ahaaDSo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/uxwg97gDALe2nAoSLvFE7J-dNsyzBaAZ08f1ahaaDSo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/uxwg97gDALe2nAoSLvFE7J-dNsyzBaAZ08f1ahaaDSo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/uxwg97gDALe2nAoSLvFE7J-dNsyzBaAZ08f1ahaaDSo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/uxwg97gDALe2nAoSLvFE7J-dNsyzBaAZ08f1ahaaDSo/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

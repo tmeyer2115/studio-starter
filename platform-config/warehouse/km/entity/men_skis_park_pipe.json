@@ -1,0 +1,33 @@
+{
+  "$id": "warehouse_men_skis_park_pipe",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "dm_baseEntityCount": "7",
+    "dm_childEntityIds": [
+      "82280259",
+      "82280421",
+      "82280252",
+      "82280460",
+      "82280239",
+      "82280422",
+      "82280222"
+    ],
+    "dm_directoryChildren": [
+      "line_skis_tom_wallisch_pro_skis_2023",
+      "armada_bdog_skis_2023",
+      "line_skis_chronic_skis_2023",
+      "line_skis_honey_badger_skis_2023",
+      "line_skis_honey_bee_skis_2023",
+      "armada_arv_86_skis_2023",
+      "armada_edollo_skis_2023"
+    ],
+    "dm_directoryChildrenCount": "7",
+    "dm_directoryManagerId": "warehouse",
+    "dm_directoryParents": ["warehouse", "warehouse_men", "warehouse_men_skis"],
+    "name": "Park \u0026 Pipe",
+    "slug": "men/skis/park-pipe"
+  },
+  "entityType": "ce_category",
+  "labels": []
+}

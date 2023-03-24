@@ -1,0 +1,414 @@
+{
+  "$id": "k2_reckoner_112_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_reckoner_112_skis_2023",
+    "c_details": [
+      {
+        "value": "All-Terrain Twin Rocker – All-Terrain Twin Rocker is a gradual, extended rise at the tip and tail for added versatility and control in all conditions with twin tip skis."
+      },
+      {
+        "value": "Double Barrel Core – The backbone of the Factory Team collection, Double Barrel cores combine a dense, Fir core over the edges for power and impact resistance, with a lighter Aspen center core for a lively energetic feel."
+      },
+      {
+        "value": "Carbon Spectral Braid – A variable angle carbon fiber laminate allows the torsional and longitudinal stiffness to be adjusted independently. This construct keeps skis lighter and more playful for conditions when power and damping are less important."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "TwinTech Sidewalls – A durable sidewall construction originally developed for twin tip skis that makes the top edges more resistant to ski vs. ski impact damage"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["177", "184", "191"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Full Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Bounce from treetop pillows? Check. Slash two feet of fresh powder? Check. Cut through crud like butter? Check. The list goes on for the K2 Reckoner 112 Skis. These all purpose, free-style friendly rippers take you from hucking natural features on the frontside to steep and deep descents on the back withough missing a beat. With impact resistance tech in the core and woven carbon stringers throughout, these skis have an energetic rebound so you can stay out all day giving it heck.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "K2 Reckoner 112 Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977820/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977820/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977820/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZerPN2JOGPdErrAWRevW2NPTQKtwr4a3f8M33WLCHNo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977816/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pBiJxQsVDwoB8o3biArIh7UQCqcrqwvOHgYD5IhQadU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pBiJxQsVDwoB8o3biArIh7UQCqcrqwvOHgYD5IhQadU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pBiJxQsVDwoB8o3biArIh7UQCqcrqwvOHgYD5IhQadU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pBiJxQsVDwoB8o3biArIh7UQCqcrqwvOHgYD5IhQadU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pBiJxQsVDwoB8o3biArIh7UQCqcrqwvOHgYD5IhQadU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977812/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/IeMCabzogOz63qWGRbUzXoRcthKh3axgDocxrg0Enes/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/IeMCabzogOz63qWGRbUzXoRcthKh3axgDocxrg0Enes/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/IeMCabzogOz63qWGRbUzXoRcthKh3axgDocxrg0Enes/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/IeMCabzogOz63qWGRbUzXoRcthKh3axgDocxrg0Enes/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/IeMCabzogOz63qWGRbUzXoRcthKh3axgDocxrg0Enes/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977823/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/yaRGfpbiYkQuLT6ruOaNWIuDAPqOSLOhNR8c6afKBMo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/yaRGfpbiYkQuLT6ruOaNWIuDAPqOSLOhNR8c6afKBMo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/yaRGfpbiYkQuLT6ruOaNWIuDAPqOSLOhNR8c6afKBMo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/yaRGfpbiYkQuLT6ruOaNWIuDAPqOSLOhNR8c6afKBMo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/yaRGfpbiYkQuLT6ruOaNWIuDAPqOSLOhNR8c6afKBMo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977818/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/60NN692-w1lbg4ShL56hwUVY3sOwtk7XLSA-34RcpD8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/60NN692-w1lbg4ShL56hwUVY3sOwtk7XLSA-34RcpD8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/60NN692-w1lbg4ShL56hwUVY3sOwtk7XLSA-34RcpD8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/60NN692-w1lbg4ShL56hwUVY3sOwtk7XLSA-34RcpD8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/60NN692-w1lbg4ShL56hwUVY3sOwtk7XLSA-34RcpD8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977815/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ZMDCtyc2wXCD2TyujotnIiqCb40V7BS2BjYxhiq6kLc/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ZMDCtyc2wXCD2TyujotnIiqCb40V7BS2BjYxhiq6kLc/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ZMDCtyc2wXCD2TyujotnIiqCb40V7BS2BjYxhiq6kLc/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ZMDCtyc2wXCD2TyujotnIiqCb40V7BS2BjYxhiq6kLc/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ZMDCtyc2wXCD2TyujotnIiqCb40V7BS2BjYxhiq6kLc/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977814/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Z78Uf42JEum6jAP7p0WYRs1RuFk9jHnzGMNLirNtsG8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Z78Uf42JEum6jAP7p0WYRs1RuFk9jHnzGMNLirNtsG8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Z78Uf42JEum6jAP7p0WYRs1RuFk9jHnzGMNLirNtsG8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Z78Uf42JEum6jAP7p0WYRs1RuFk9jHnzGMNLirNtsG8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Z78Uf42JEum6jAP7p0WYRs1RuFk9jHnzGMNLirNtsG8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977817/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/X9ZmxB5Dsdn7C5kK9S_Ny5MNN4B-7mjn-bHmcUs73LI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/X9ZmxB5Dsdn7C5kK9S_Ny5MNN4B-7mjn-bHmcUs73LI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/X9ZmxB5Dsdn7C5kK9S_Ny5MNN4B-7mjn-bHmcUs73LI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/X9ZmxB5Dsdn7C5kK9S_Ny5MNN4B-7mjn-bHmcUs73LI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/X9ZmxB5Dsdn7C5kK9S_Ny5MNN4B-7mjn-bHmcUs73LI/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221697/977813/k2-reckoner-112-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/P6VX86dgxikgRXUi-8LF0VdWVDy9hlzD1lasXgwSxNk/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/P6VX86dgxikgRXUi-8LF0VdWVDy9hlzD1lasXgwSxNk/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/P6VX86dgxikgRXUi-8LF0VdWVDy9hlzD1lasXgwSxNk/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/P6VX86dgxikgRXUi-8LF0VdWVDy9hlzD1lasXgwSxNk/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/P6VX86dgxikgRXUi-8LF0VdWVDy9hlzD1lasXgwSxNk/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

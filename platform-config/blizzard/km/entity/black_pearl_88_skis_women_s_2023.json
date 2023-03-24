@@ -1,0 +1,450 @@
+{
+  "$id": "blizzard_black_pearl_88_skis_women_s_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/blizzard_black_pearl_88_skis_women_s_2023",
+    "c_details": [
+      {
+        "value": "Rocker Camber Rocker – Ski profile with rocker at the tip and tail, camber in the middle. Reducing the pressure on the edge at the tip and tail makes the ski even easier to handle and increases flotation on powder snow. The camber guarantees great grip on packed snow."
+      },
+      {
+        "value": "TrueBlend W.S.D. Core – TrueBlend core of Beech with seven stringers of Poplar, tailor-made for each length of ski, using lighter Women\u0027s Specific Design woods."
+      },
+      {
+        "value": "W.S.D. Carbon-Reinforced Fiberglass"
+      },
+      {
+        "value": "W.S.D. Titanal Laminate for Grip and Stability"
+      },
+      {
+        "value": "Sandwich Compound Sidewall – All Blizzard skis with the exception of some junior skis are built with ABS or Phenol sidewalls for superior performance (stability, power transmission, handling) and durability."
+      },
+      {
+        "value": "Sintered Graphite Base"
+      },
+      {
+        "value": "Women 2 Women – The Blizzard Women 2 Women program is dedicated to creating a diverse and inclusive environment where ALL women feel a sense of belonging - on the hill, in the mountains, at the shop or wherever their skiing and outdoor adventures take them."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["6490805738900090466"],
+    "c_genderName": "Women",
+    "c_price": "649.95",
+    "c_productType": "Skis",
+    "c_sizes": ["147", "153", "159", "165", "171", "177"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Intermediate-Advanced"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "1 Year"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Blizzard Black Pearl 88 Skis have been a fan favorite for many years, and there\u0027s no sign of a letup. Smooth, balanced, and supremely capable in variable conditions, they offer a versatile ride that won\u0027t let you down on firmer snow, or at faster speeds. And that\u0027s not all. This year the Black Pearl 88 has been redesigned with input from Blizzard\u0027s trailblazing Women 2 Women project, engineered with a women\u0027s specific TrueBlend Flipcore layup that allows you to squeeze the juice out of every run.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_women",
+      "warehouse_women_skis",
+      "warehouse_women_skis_all_mountain"
+    ],
+    "name": "Blizzard Black Pearl 88 Skis - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978825/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978825/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978825/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978825/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978848/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978825/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/pxM14ngswyhmwlzztibHbnaJmaGBczx4J4mKuph1yy4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978824/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/PFEFwM4e4wIALOy1XXWzL4EA3irWxG-TWsTBBQkwwS4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/PFEFwM4e4wIALOy1XXWzL4EA3irWxG-TWsTBBQkwwS4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/PFEFwM4e4wIALOy1XXWzL4EA3irWxG-TWsTBBQkwwS4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/PFEFwM4e4wIALOy1XXWzL4EA3irWxG-TWsTBBQkwwS4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PFEFwM4e4wIALOy1XXWzL4EA3irWxG-TWsTBBQkwwS4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978829/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Vmf8GECIcjM15ved3qvclpqYA8iIGZIWE6xb0djQ7KQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Vmf8GECIcjM15ved3qvclpqYA8iIGZIWE6xb0djQ7KQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Vmf8GECIcjM15ved3qvclpqYA8iIGZIWE6xb0djQ7KQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Vmf8GECIcjM15ved3qvclpqYA8iIGZIWE6xb0djQ7KQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Vmf8GECIcjM15ved3qvclpqYA8iIGZIWE6xb0djQ7KQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978831/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/alnMp2cPpClfoB43KJDMTPNJroRmJ9Dsy371L6ofYJ4/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/alnMp2cPpClfoB43KJDMTPNJroRmJ9Dsy371L6ofYJ4/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/alnMp2cPpClfoB43KJDMTPNJroRmJ9Dsy371L6ofYJ4/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/alnMp2cPpClfoB43KJDMTPNJroRmJ9Dsy371L6ofYJ4/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/alnMp2cPpClfoB43KJDMTPNJroRmJ9Dsy371L6ofYJ4/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978830/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/iWyP2EYw5SPhvrSzmuudQfbf2r0LmITn9uPMxhcViSQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/iWyP2EYw5SPhvrSzmuudQfbf2r0LmITn9uPMxhcViSQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/iWyP2EYw5SPhvrSzmuudQfbf2r0LmITn9uPMxhcViSQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/iWyP2EYw5SPhvrSzmuudQfbf2r0LmITn9uPMxhcViSQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/iWyP2EYw5SPhvrSzmuudQfbf2r0LmITn9uPMxhcViSQ/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/223097/978828/blizzard-black-pearl-88-skis-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/1Qb_-8TtZP4tiGtN6C442mxCgObTUwGmpH-s069n360/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/1Qb_-8TtZP4tiGtN6C442mxCgObTUwGmpH-s069n360/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/1Qb_-8TtZP4tiGtN6C442mxCgObTUwGmpH-s069n360/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/1Qb_-8TtZP4tiGtN6C442mxCgObTUwGmpH-s069n360/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/1Qb_-8TtZP4tiGtN6C442mxCgObTUwGmpH-s069n360/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 360,
+          "sourceUrl": "https://i.vimeocdn.com/video/1521780162-96f5e22e2c37dba4f6c88953077e407ae9aa0bc1821c9390a932cea7bc439640-d_640",
+          "thumbnails": [
+            {
+              "height": 360,
+              "url": "http://a.mktgcdn.com/p/B9eJ5vhzJjSUTYq5SlXN80OSJk0b4-5nezsOkCY78UI/640x360.jpg",
+              "width": 640
+            },
+            {
+              "height": 348,
+              "url": "http://a.mktgcdn.com/p/B9eJ5vhzJjSUTYq5SlXN80OSJk0b4-5nezsOkCY78UI/619x348.jpg",
+              "width": 619
+            },
+            {
+              "height": 338,
+              "url": "http://a.mktgcdn.com/p/B9eJ5vhzJjSUTYq5SlXN80OSJk0b4-5nezsOkCY78UI/600x338.jpg",
+              "width": 600
+            },
+            {
+              "height": 110,
+              "url": "http://a.mktgcdn.com/p/B9eJ5vhzJjSUTYq5SlXN80OSJk0b4-5nezsOkCY78UI/196x110.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/B9eJ5vhzJjSUTYq5SlXN80OSJk0b4-5nezsOkCY78UI/640x360.jpg",
+          "width": 640
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

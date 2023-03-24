@@ -1,0 +1,56 @@
+{
+  "$id": "k2_dispatch_w_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "699.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Medium",
+    "description": "Backcountry skier, meet your new climbing partner. K2 Dispatch W Alpine Touring Ski Boots, meet the feet that are going to to take you to new heights. Together, you are going to climb mountains, descend couloirs, and skip through frosted glades. For you, skier, these boots are going to provide you the lightweight performance, awesome range of motion, powerful downhill handling, and dependable grip you need to stand steady and move through jagged, icy terrain. For you, boots, these feet are going to put in the work, provide the muscle and drive to take you far from your comfy shipping box and into a world of majesty, gravity, and awe. Have fun together, and enjoy the ride.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "K2 Dispatch W Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224018/904669/k2-dispatch-w-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/q38JiDeq9sUPf5gyi3IcO5d51I9AWbg-5c6jAg_amn4/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/q38JiDeq9sUPf5gyi3IcO5d51I9AWbg-5c6jAg_amn4/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/q38JiDeq9sUPf5gyi3IcO5d51I9AWbg-5c6jAg_amn4/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/q38JiDeq9sUPf5gyi3IcO5d51I9AWbg-5c6jAg_amn4/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/q38JiDeq9sUPf5gyi3IcO5d51I9AWbg-5c6jAg_amn4/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

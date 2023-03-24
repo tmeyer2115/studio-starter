@@ -1,0 +1,84 @@
+{
+  "$id": "7200013882251703847",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_icon": {
+      "image": {
+        "height": 16,
+        "thumbnails": [
+          {
+            "height": 16,
+            "url": "http://a.mktgcdn.com/p/LiA5E0Ik3j2hgd7B9DE0Vh4QfZ5gcrMSvh3plFCkb8o/16x16.png",
+            "width": 16
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/LiA5E0Ik3j2hgd7B9DE0Vh4QfZ5gcrMSvh3plFCkb8o/16x16.png",
+        "width": 16
+      }
+    },
+    "c_skisByTerrain": [
+      "k2_mindbender_team_jr_skis_kids_2023",
+      "armada_declivity_x_skis_2023",
+      "faction_mana_3_skis_2023",
+      "k2_reckoner_122_skis_2023",
+      "armada_whitewalker_116_skis_2023",
+      "line_skis_outline_skis_2023",
+      "blizzard_rustler_11_skis_2023",
+      "v_lkl_revolt_121_skis_2023",
+      "rossignol_black_ops_118_tatum_skis_2023",
+      "faction_prodigy_4_skis_2023",
+      "black_crows_anima_skis_2023",
+      "icelantic_maiden_111_skis_women_s_2023",
+      "nordica_santa_ana_110_free_skis_women_s_2023",
+      "fischer_ranger_108_skis_2023",
+      "rossignol_rallybird_104_ti_skis_women_s_2023",
+      "k2_mindbender_116_c_skis_2023",
+      "icelantic_nia_pro_105_skis_women_s_2023",
+      "rossignol_sender_squad_skis_2023",
+      "blizzard_sheeva_11_skis_women_s_2023",
+      "rossignol_rallybird_102_skis_women_s_2023",
+      "fischer_ranger_116_skis_2023",
+      "rossignol_black_ops_118_skis_2023"
+    ],
+    "description": "Big Mountain terrain refers to vast, open slopes that offer a variety of challenges, including steeps, moguls, cliffs, and powder. Skiers who enjoy Big Mountain terrain typically have advanced or expert level skills and are comfortable tackling a wide range of challenging runs.",
+    "name": "Big Mountain",
+    "primaryPhoto": {
+      "image": {
+        "height": 1380,
+        "thumbnails": [
+          {
+            "height": 1380,
+            "url": "http://a.mktgcdn.com/p/H1zE6QP9CCySocKw0wVSfj2bpz7Vz6WHF-HRf9hP5GA/2070x1380.jpg",
+            "width": 2070
+          },
+          {
+            "height": 1267,
+            "url": "http://a.mktgcdn.com/p/H1zE6QP9CCySocKw0wVSfj2bpz7Vz6WHF-HRf9hP5GA/1900x1267.jpg",
+            "width": 1900
+          },
+          {
+            "height": 413,
+            "url": "http://a.mktgcdn.com/p/H1zE6QP9CCySocKw0wVSfj2bpz7Vz6WHF-HRf9hP5GA/619x413.jpg",
+            "width": 619
+          },
+          {
+            "height": 400,
+            "url": "http://a.mktgcdn.com/p/H1zE6QP9CCySocKw0wVSfj2bpz7Vz6WHF-HRf9hP5GA/600x400.jpg",
+            "width": 600
+          },
+          {
+            "height": 131,
+            "url": "http://a.mktgcdn.com/p/H1zE6QP9CCySocKw0wVSfj2bpz7Vz6WHF-HRf9hP5GA/196x131.jpg",
+            "width": 196
+          }
+        ],
+        "url": "http://a.mktgcdn.com/p/H1zE6QP9CCySocKw0wVSfj2bpz7Vz6WHF-HRf9hP5GA/2070x1380.jpg",
+        "width": 2070
+      }
+    }
+  },
+  "entityType": "ce_terrain",
+  "folder": "commerceSite",
+  "labels": []
+}

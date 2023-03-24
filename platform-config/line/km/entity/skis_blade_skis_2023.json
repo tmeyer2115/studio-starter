@@ -1,0 +1,219 @@
+{
+  "$id": "line_skis_blade_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_blade_skis_2023",
+    "c_details": [
+      {
+        "value": "Early Rise™ – Tip and tail lift away from the snow to bring the contact points closer to the center of the ski. This increases a ski\u0027s lift in deep snow and allows it to engage more quickly on hardpack."
+      },
+      {
+        "value": "Rocker Profile – 3mm Tip / 5mm Camber / 1mm Tail"
+      },
+      {
+        "value": "Directional Flex – The softer tip floats and initiates turns easily while the stiffer tail provides power, stability and high speed control."
+      },
+      {
+        "value": "5-Cut™ Geometry – Five different radiuses are blended into the ski\u0027s sidecut. The result? A wide variety of turn shapes and an intuitive feel."
+      },
+      {
+        "value": "Aspen Core – 100% Aspen wood for the lightest, most nimble feel."
+      },
+      {
+        "value": "Gas Pedal Metal™ – Titanal focused across the ski width provides increased edge grip and torsional stability while maintaining a lively feel along the length of the ski. Two independent tip and tail Titanal pieces add power and energy."
+      },
+      {
+        "value": "Sidewall Construction – Ultra-high density Polyethylene vertical walls over the edges to absorb vibrations and provide powerful energy transmission."
+      },
+      {
+        "value": "Fatty™ Base | 1.7mm – 30% thicker base dramatically increases durability and tuning life the skis."
+      },
+      {
+        "value": "Fatty™ Edge | 2.5mm x 2.2mm – 30% thicker edge dramatically increases durability and tuning life of these skis."
+      },
+      {
+        "value": "Stance Back from Center – 40 mm"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "799.95",
+    "c_productType": "Skis",
+    "c_sizes": ["169", "176", "181"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Carving, All-Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Short"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Metal, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "Inspired by the incredible powder performance of the beloved Pescado, the Line Skis Blade Skis take the same volume shifted philosophy to the hardpack. These skis are a totally new take on the all-mountain genre. They are built to ride shorter than your normal size, and their skinny waists and giant shovels lead to a super tight turn radius that allows for a whole new kind of skiing. They\u0027re playful carvers that are ridiculously quick from edge to edge, and pack a tremendous amount of weird, fun skiing into any day. They\u0027re built for spring slush riding, groomer goofin\u0027 and full on party lappin\u0027.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Line Skis Blade Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221748/906599/line-skis-blade-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/JWb96Pi-WVSJTuuUvXBtIfoY6pdek_Bz6_11oWHvsCg/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/JWb96Pi-WVSJTuuUvXBtIfoY6pdek_Bz6_11oWHvsCg/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/JWb96Pi-WVSJTuuUvXBtIfoY6pdek_Bz6_11oWHvsCg/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/JWb96Pi-WVSJTuuUvXBtIfoY6pdek_Bz6_11oWHvsCg/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/JWb96Pi-WVSJTuuUvXBtIfoY6pdek_Bz6_11oWHvsCg/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221748/906600/line-skis-blade-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/IyKl0Nf-_GtVcnbr7SYMnosv5aK93rmcnfuar6EvffE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/IyKl0Nf-_GtVcnbr7SYMnosv5aK93rmcnfuar6EvffE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/IyKl0Nf-_GtVcnbr7SYMnosv5aK93rmcnfuar6EvffE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/IyKl0Nf-_GtVcnbr7SYMnosv5aK93rmcnfuar6EvffE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/IyKl0Nf-_GtVcnbr7SYMnosv5aK93rmcnfuar6EvffE/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221748/906734/line-skis-blade-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Tz1p8gYCbclByiEMPE_Ei6phwhRJUEwMhkEjm7TDloM/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Tz1p8gYCbclByiEMPE_Ei6phwhRJUEwMhkEjm7TDloM/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Tz1p8gYCbclByiEMPE_Ei6phwhRJUEwMhkEjm7TDloM/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Tz1p8gYCbclByiEMPE_Ei6phwhRJUEwMhkEjm7TDloM/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Tz1p8gYCbclByiEMPE_Ei6phwhRJUEwMhkEjm7TDloM/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221748/906736/line-skis-blade-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/DbUo0F3c38r8A4evFzChWV4FB-uVY6UVd1HTwOQpunE/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/DbUo0F3c38r8A4evFzChWV4FB-uVY6UVd1HTwOQpunE/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/DbUo0F3c38r8A4evFzChWV4FB-uVY6UVd1HTwOQpunE/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/DbUo0F3c38r8A4evFzChWV4FB-uVY6UVd1HTwOQpunE/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/DbUo0F3c38r8A4evFzChWV4FB-uVY6UVd1HTwOQpunE/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

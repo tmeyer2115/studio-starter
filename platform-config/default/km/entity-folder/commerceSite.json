@@ -1,0 +1,6 @@
+{
+  "$id": "commerceSite",
+  "$schema": "https://schema.yext.com/config/km/entity-folder/v1",
+  "name": "Commerce Site",
+  "parent": "yext/root"
+}

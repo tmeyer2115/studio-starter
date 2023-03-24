@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_veloce_95_w_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "599.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Finally, Dalbello\u0027s gone and done it. The Dalbello Veloce 95 W GW Ski Boots are classic 2-piece overlap boots with 4-buckle closure system and a 100mm last to fit most average feet. They\u0027ve gone the extra mile with a Memory Foam tongue to combat shin bang, PrimaLoft® insulation to fight off the cold, and specially designed women\u0027s buckles with an easy and friction-free action. Dalbello\u0027s World Cup athletes have always had access to great overlap boots in the DRS series, now it\u0027s your turn.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello Veloce 95 W GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227767/916397/dalbello-veloce-95-w-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rLFbQOYzyvTU5tabtxT-fFaG6hM6bfL6uUQVvEf0YG8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rLFbQOYzyvTU5tabtxT-fFaG6hM6bfL6uUQVvEf0YG8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rLFbQOYzyvTU5tabtxT-fFaG6hM6bfL6uUQVvEf0YG8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rLFbQOYzyvTU5tabtxT-fFaG6hM6bfL6uUQVvEf0YG8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rLFbQOYzyvTU5tabtxT-fFaG6hM6bfL6uUQVvEf0YG8/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

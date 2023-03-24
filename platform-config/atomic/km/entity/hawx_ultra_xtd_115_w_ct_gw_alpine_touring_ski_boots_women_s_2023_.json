@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_ultra_xtd_115_w_ct_gw_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The Atomic Hawx Ultra XTD 115 W CT GW Alpine Touring Ski Boots drop in with narrow width and a powerful flex to satisfy the most demanding backcountry skiers. With a customizable liner and Memory Fit shell, this women\u0027s specific boot is relatively straightforward for a skilled bootfitter to mold to your feet, making it one ski shop visit away from near perfection. Combined with an impressive range of motion, grippy rubber soles, and tech fittings, the Hawx Ultra XTD 115 is a freeride masterpiece. Get in on the action and get out there!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Atomic Hawx Ultra XTD 115 W CT GW Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219601/904927/atomic-hawx-ultra-xtd-115-w-ct-gw-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lwhCskH-Lm-PYwmve_ba4EXuMTLiCMKqu48xY4uvXk0/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lwhCskH-Lm-PYwmve_ba4EXuMTLiCMKqu48xY4uvXk0/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lwhCskH-Lm-PYwmve_ba4EXuMTLiCMKqu48xY4uvXk0/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lwhCskH-Lm-PYwmve_ba4EXuMTLiCMKqu48xY4uvXk0/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lwhCskH-Lm-PYwmve_ba4EXuMTLiCMKqu48xY4uvXk0/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

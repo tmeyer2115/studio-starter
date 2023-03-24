@@ -1,0 +1,354 @@
+{
+  "$id": "k2_mindbender_116_c_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Big Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/k2_mindbender_116_c_skis_2023",
+    "c_details": [
+      {
+        "value": "Powder Rocker – Powder Rocker is designed for unmatched flotation in deep snow. This tip has the most elevation and longest rocker and offers skiers a surfy feel with enhanced soft-snow performance. The camber still exists to ensure edgehold in firmer conditions."
+      },
+      {
+        "value": "Maple / Paulownia Core – Maple and Paulownia combine for the ideal blend of power, energy, and lightweight performance."
+      },
+      {
+        "value": "Carbon Spectral Braid – A variable angle carbon fiber laminate allows the torsional and longitudinal stiffness to be adjusted independently. This construct keeps skis lighter and more playful for conditions when power and damping are less important."
+      },
+      {
+        "value": "Carbon Boost Braid – Longitudinal carbon stringers woven into the K2’s patented Triaxial Braid for added pop and rebound, found on freeride and factory team skis."
+      },
+      {
+        "value": "SlantWall – Adding a 30° angle to the sidewall in K2’s Hybritech construction, SlantWall increases a ski\u0027s agility and responsiveness while maintaining accuracy and power."
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Skis",
+    "c_sizes": ["179", "186", "193"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "Big Mountain, Powder"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Long"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Partial Twin Tip"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["7200013882251703847"],
+    "description": "If you\u0027re an old friend of dreamy powder days but a stranger to fatty skis, allow us to introduce you to the K2 Mindbender 116 C Skis. Release these light yet hefty powder players into their natural habitat to surf through deep snow, or find a sturdy edge hold and plow through chop and crud without missing a beat. The Mindbenders are almost too good to be true, and they\u0027re sure to make you a convert. Sit back, relax, and enjoy the snow!",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_big_mountain"
+    ],
+    "name": "K2 Mindbender 116 C Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978064/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978064/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978064/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/C4x50MxxZ0N37CzI5qCvOgJqKucShn9jeYTwI44Pzjo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978061/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/6AzHltNwLjaQJCuGOshzICn1dcoymTxhKNfEkf4Asx8/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/6AzHltNwLjaQJCuGOshzICn1dcoymTxhKNfEkf4Asx8/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/6AzHltNwLjaQJCuGOshzICn1dcoymTxhKNfEkf4Asx8/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/6AzHltNwLjaQJCuGOshzICn1dcoymTxhKNfEkf4Asx8/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/6AzHltNwLjaQJCuGOshzICn1dcoymTxhKNfEkf4Asx8/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978060/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/elJ7EUs__OIL_sHmoe0n3s-ZipNvsFNSce0glJNzLtU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/elJ7EUs__OIL_sHmoe0n3s-ZipNvsFNSce0glJNzLtU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/elJ7EUs__OIL_sHmoe0n3s-ZipNvsFNSce0glJNzLtU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/elJ7EUs__OIL_sHmoe0n3s-ZipNvsFNSce0glJNzLtU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/elJ7EUs__OIL_sHmoe0n3s-ZipNvsFNSce0glJNzLtU/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978063/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/lr3fiGQa8zXlkWG6tRWC-pGW2ViR6wk3ddhrw1ml53Q/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/lr3fiGQa8zXlkWG6tRWC-pGW2ViR6wk3ddhrw1ml53Q/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/lr3fiGQa8zXlkWG6tRWC-pGW2ViR6wk3ddhrw1ml53Q/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/lr3fiGQa8zXlkWG6tRWC-pGW2ViR6wk3ddhrw1ml53Q/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/lr3fiGQa8zXlkWG6tRWC-pGW2ViR6wk3ddhrw1ml53Q/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978065/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/XFHLqXPc_UBvUvw_uTiq97RKPGe4QGX69xOt_qra7bY/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/XFHLqXPc_UBvUvw_uTiq97RKPGe4QGX69xOt_qra7bY/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/XFHLqXPc_UBvUvw_uTiq97RKPGe4QGX69xOt_qra7bY/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/XFHLqXPc_UBvUvw_uTiq97RKPGe4QGX69xOt_qra7bY/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/XFHLqXPc_UBvUvw_uTiq97RKPGe4QGX69xOt_qra7bY/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978062/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/Rl1ctZhh0LOuFMz27l2zejWXAFr_RI1VnQCjfLUDlOo/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/Rl1ctZhh0LOuFMz27l2zejWXAFr_RI1VnQCjfLUDlOo/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/Rl1ctZhh0LOuFMz27l2zejWXAFr_RI1VnQCjfLUDlOo/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/Rl1ctZhh0LOuFMz27l2zejWXAFr_RI1VnQCjfLUDlOo/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/Rl1ctZhh0LOuFMz27l2zejWXAFr_RI1VnQCjfLUDlOo/700x700.jpg",
+          "width": 700
+        }
+      },
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/221660/978059/k2-mindbender-116-c-skis-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/VJ0ahfY_oNeENZBeu55rkpXTMgduQi9ZJ-U0j7VDqWU/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/VJ0ahfY_oNeENZBeu55rkpXTMgduQi9ZJ-U0j7VDqWU/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/VJ0ahfY_oNeENZBeu55rkpXTMgduQi9ZJ-U0j7VDqWU/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/VJ0ahfY_oNeENZBeu55rkpXTMgduQi9ZJ-U0j7VDqWU/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/VJ0ahfY_oNeENZBeu55rkpXTMgduQi9ZJ-U0j7VDqWU/700x700.jpg",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

@@ -1,0 +1,15 @@
+{
+  "$id": "ce_category.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Category-default",
+  "entityType": "ce_category",
+  "fields": [
+    "dm_baseEntityCount",
+    "dm_childEntityIds",
+    "dm_directoryChildren",
+    "dm_directoryChildrenCount",
+    "dm_directoryManagerId",
+    "dm_directoryParents"
+  ],
+  "required": []
+}

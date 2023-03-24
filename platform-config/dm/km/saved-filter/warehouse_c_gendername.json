@@ -1,0 +1,19 @@
+{
+  "$id": "dm_warehouse_c_gendername",
+  "$schema": "https://schema.yext.com/config/km/saved-filter/v1",
+  "name": "Retail - c_genderName",
+  "filter": {
+    "entityType": [
+      {
+        "entityTypeId": ["ce_gender"],
+        "type": "IS"
+      }
+    ],
+    "fieldsWithData": [
+      {
+        "fieldId": ["dm_directoryChildren"],
+        "type": "ALL"
+      }
+    ]
+  }
+}

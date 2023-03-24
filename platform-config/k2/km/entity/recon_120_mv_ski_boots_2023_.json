@@ -1,0 +1,56 @@
+{
+  "$id": "k2_recon_120_mv_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "549.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Custom",
+    "description": "High performance AND comfortable? In the same sentence? Are we sure we\u0027re still talking about ski boots here? Yeah that\u0027s right, the K2 Recon 120 MV Ski Boots are stiff, high-level all-mountain boots that deliver the goods and also don\u0027t feel like medieval foot-focused torture devices. The 100mm last is comfy snug, even if you have a bit wider feet, and on top of that, every bit of the boot is fully heat-moldable. Plus, these boots pack a serious performance punch with top-end materials, smooth flexing technologies, and precision power transfer to unlock your highest levels of skiing.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "K2 Recon 120 MV Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/224011/904632/k2-recon-120-mv-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/LRGrZRK10rrmN03u-BmxpOGnwKZ3Aijx2-ge-daZg-o/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/LRGrZRK10rrmN03u-BmxpOGnwKZ3Aijx2-ge-daZg-o/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/LRGrZRK10rrmN03u-BmxpOGnwKZ3Aijx2-ge-daZg-o/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/LRGrZRK10rrmN03u-BmxpOGnwKZ3Aijx2-ge-daZg-o/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/LRGrZRK10rrmN03u-BmxpOGnwKZ3Aijx2-ge-daZg-o/700x700.png",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

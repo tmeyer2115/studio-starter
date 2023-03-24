@@ -1,0 +1,56 @@
+{
+  "$id": "lange_rx_80_w_gw_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["4422719013200450384"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "529.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "The Lange RX 80 W GW Ski Boots are a classic that continues on with only minor changes, which is alright with us because they\u0027re great boots already. The RX 80s get Gripwalk soles for security and convenience in walking (make sure your binding is Gripwalk compatible), but the smooth flexing all-polyurethane shell that has performed well for years is still there and ready to transform your skiing.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Lange RX 80 W GW Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198917/825891/lange-rx-80-w-gw-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/jPzsRKAgJuqJsqLxXLEQ-zYkpgymw7_ab8AhYk50erQ/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/jPzsRKAgJuqJsqLxXLEQ-zYkpgymw7_ab8AhYk50erQ/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/jPzsRKAgJuqJsqLxXLEQ-zYkpgymw7_ab8AhYk50erQ/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/jPzsRKAgJuqJsqLxXLEQ-zYkpgymw7_ab8AhYk50erQ/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/jPzsRKAgJuqJsqLxXLEQ-zYkpgymw7_ab8AhYk50erQ/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

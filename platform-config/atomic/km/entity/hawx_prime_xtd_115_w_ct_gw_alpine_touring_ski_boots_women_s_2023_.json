@@ -1,0 +1,56 @@
+{
+  "$id": "atomic_hawx_prime_xtd_115_w_ct_gw_alpine_touring_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Alpine Touring",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Very Stiff",
+    "description": "The Atomic Hawx Prime XTD 115 W CT GW Alpine Touring Ski Boots are a high performance option that provides backcountry skiers with higher volume feet a chance to join in the fun. With a customizable Mimic 3D Platinum Tour W Liner and Memory Fit shell, this women\u0027s specific boot is a breeze to fit to your foot, and it tours fantastically thanks to a solid range of motion, grippy rubber soles, and tech fitting compatibility. The Hawx Prime XTD 115s are ready to revolutionize your skiing, one step at a time.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_alpine_touring"
+    ],
+    "name": "Atomic Hawx Prime XTD 115 W CT GW Alpine Touring Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/219598/904924/atomic-hawx-prime-xtd-115-w-ct-gw-alpine-touring-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/PycChVWKGvxykgGdPwmCRBKJfP1DsFReT4mgxy0pjzI/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/PycChVWKGvxykgGdPwmCRBKJfP1DsFReT4mgxy0pjzI/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/PycChVWKGvxykgGdPwmCRBKJfP1DsFReT4mgxy0pjzI/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/PycChVWKGvxykgGdPwmCRBKJfP1DsFReT4mgxy0pjzI/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/PycChVWKGvxykgGdPwmCRBKJfP1DsFReT4mgxy0pjzI/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

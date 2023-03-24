@@ -1,0 +1,56 @@
+{
+  "$id": "rossignol_evo_70_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "219.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Comfort beyond description and release from the Hell of the Rental Line make the Rossignol Evo 70 Ski Boots a deal you can\u0027t pass up. 104mm lasted comfort, easy on-off, and a forgiving 70 flex make this the perfect starter boot.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Rossignol Evo 70 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/227411/918279/rossignol-evo-70-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/rKyK-UvoJjCxxPaQ_dpdqwdkNKdXcxTLHG1mgTfuk3A/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/rKyK-UvoJjCxxPaQ_dpdqwdkNKdXcxTLHG1mgTfuk3A/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/rKyK-UvoJjCxxPaQ_dpdqwdkNKdXcxTLHG1mgTfuk3A/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/rKyK-UvoJjCxxPaQ_dpdqwdkNKdXcxTLHG1mgTfuk3A/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/rKyK-UvoJjCxxPaQ_dpdqwdkNKdXcxTLHG1mgTfuk3A/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

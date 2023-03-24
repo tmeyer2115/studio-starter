@@ -1,0 +1,56 @@
+{
+  "$id": "nordica_promachine_115_w_ski_boots_women_s_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "749.99",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "High performance boots don\u0027t need to feel like meat grinders, and the Nordica Promachine 115 W Ski Boots prove it. They\u0027re built with a race-inspired low volume fit and high performance Isotherm 3D Cork Fit liners for lightening fast edge to edge response and superior heel retention when you\u0027re threading the needle in tight terrain, but Tri-Fit Technology means comfort isn\u0027t just an afterthought; it\u0027s built right into the DNA. Infrared Fit Technology makes it a breeze to modify the shell to your unique anatomy and the easy entry instep means you can wave a fond farewell to the morning wrestling match.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Nordica Promachine 115 W Ski Boots - Women\u0027s 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/183564/724746/nordica-promachine-115-w-ski-boots-women-s-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/QWFMPFmAcs1izj_F04PoLyD6yUS2zgwtF-eh99-50EA/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/QWFMPFmAcs1izj_F04PoLyD6yUS2zgwtF-eh99-50EA/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/QWFMPFmAcs1izj_F04PoLyD6yUS2zgwtF-eh99-50EA/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/QWFMPFmAcs1izj_F04PoLyD6yUS2zgwtF-eh99-50EA/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/QWFMPFmAcs1izj_F04PoLyD6yUS2zgwtF-eh99-50EA/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}

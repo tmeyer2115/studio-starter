@@ -1,0 +1,124 @@
+{
+  "$id": "elan_ripstick_96_black_edition_skis_2023",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["5195394095823606585"],
+    "c_categoryName": "All-Mountain",
+    "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/elan_ripstick_96_black_edition_skis_2023",
+    "c_details": [
+      {
+        "value": "Amphibio Profile – The Amphibio profile is a revolutionary ski design that integrates both rocker and camber profiles into dedicated left and right skis. Amphibio skis feature a cambered inside edge assuring precision, edge grip, and stability while a rockered outside edge provides forgiveness, turning ease and smooth transitions."
+      },
+      {
+        "value": "Tubelite Wood Core – To create the TubeLite Wood Core, two super lightweight Carbon tubes are inserted into a lightweight laminated wood core. Measuring 5mm in diameter and hollow in their construction, these tubes run along the length of the ski following the arc of the side cut. They provide torsional stability and powerful rebound while allowing for material reduction of the core. The result is incredible lightweight response and stability."
+      },
+      {
+        "value": "Carbon Line Technology – Amphibio Carbon Line technology is a combination of innovations that provide the best balance of lightweight construction with power and performance. Amphibio Carbon Line technology elevates the asymmetrical ski design to the next level by strategically locating carbon reinforcement over the inside edges of the skis providing more power in the turn, while carbon rods inserted into the woodcore maximize weight savings and overall stability. The end result is an extremely lightweight high performance ski with uncompromised versatility and smooth performance."
+      },
+      {
+        "value": "QuadRod Reinforcement – Four carbon tubes are built into the wood core for lightweight and powerful rebound."
+      },
+      {
+        "value": "100% Recycled Vapor Tip Inserts – Vapor Tip inserts are advanced recycled composites that are integrated into the tip and tail area of the ski‘s core. These inserts reduce weight and vibration, dramatically improving stability and ensuring a smooth ride even in the most demanding conditions."
+      },
+      {
+        "value": "SST Sidewall Construction – The SST Sidewall Construction provides quick, nimble and direct power transmission from the ski to snow as well as providing exceptional torsional rigidity."
+      },
+      {
+        "value": "Sintered UHMW Base"
+      },
+      {
+        "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
+      }
+    ],
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "849.99",
+    "c_productType": "Skis",
+    "c_sizes": ["188"],
+    "c_specs": [
+      {
+        "name": "Terrain",
+        "value": "All-Mountain, Big Mountain"
+      },
+      {
+        "name": "Skis",
+        "value": "No Bindings"
+      },
+      {
+        "name": "Ability Level",
+        "value": "Advanced-Expert"
+      },
+      {
+        "name": "Rocker Type",
+        "value": "Rocker/Camber/Rocker"
+      },
+      {
+        "name": "Turning Radius",
+        "value": "Medium"
+      },
+      {
+        "name": "Core/Laminates",
+        "value": "Carbon, Wood"
+      },
+      {
+        "name": "Tail Type",
+        "value": "Flat"
+      },
+      {
+        "name": "Athletes",
+        "value": "Glen Plake"
+      },
+      {
+        "name": "Warranty",
+        "value": "2 Years"
+      }
+    ],
+    "c_terrain": ["1295894924104146377"],
+    "description": "The Ripstick 96 is a special ski. Few sticks can offer the same range of versatility. It\u0027s powerful, precise, charges hard through choppy snow and icy groomers alike, yet can be relaxed and non-demanding enough for everyday riding. The Elan Ripstick 96 Black Edition Skis keeps that same core philosophy, but turns up the volume a little bit. In addition to the more serious topsheet, the Black Edition features an extra dose of carbon for added stiffness and top-end speed. It\u0027s a powerful all-mountain machine for demanding skiers to pick up any day in any conditions. And it\u0027s so lightweight you wouldn\u0027t be bummed at all if you tossed a pair of hybrid touring bindings on to craft a do-it-all weapon for technical backcountry lines.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_skis",
+      "warehouse_men_skis_all_mountain"
+    ],
+    "name": "Elan Ripstick 96 Black Edition Skis 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/198223/788806/clone.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/8N_ztqPwWNX5uMywIl18Ki7mOH_TO65NbC6g1OYrMyw/700x700.png",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/8N_ztqPwWNX5uMywIl18Ki7mOH_TO65NbC6g1OYrMyw/619x619.png",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/8N_ztqPwWNX5uMywIl18Ki7mOH_TO65NbC6g1OYrMyw/450x450.png",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/8N_ztqPwWNX5uMywIl18Ki7mOH_TO65NbC6g1OYrMyw/196x196.png",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/8N_ztqPwWNX5uMywIl18Ki7mOH_TO65NbC6g1OYrMyw/700x700.png",
+          "width": 700
+        }
+      }
+    ],
+    "richTextDescription": "Some ***++bolded text here++***",
+    "slug": "[[c_genderName]]/[[c_productType]]/[[c_categoryName]]/[[entityId]]"
+  },
+  "entityType": "ce_skis",
+  "labels": []
+}

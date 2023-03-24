@@ -1,0 +1,56 @@
+{
+  "$id": "dalbello_ds_mx_75_ski_boots_2023_",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_abilityLevel": ["3726456647343833499"],
+    "c_categoryName": "Downhill",
+    "c_gender": ["5929891552541128688"],
+    "c_genderName": "Men",
+    "c_price": "199.95",
+    "c_productType": "Ski Boots",
+    "c_skiBootFlex": "Semi-Custom",
+    "description": "Skip the rental line and head straight for the Dalbello DS MX 75 Ski Boots. They\u0027ll fit like slippers from day one, help you concentrate on actually learning to ski instead of fixating on your aching feet all day, and they\u0027ll be dry every time you put them on. The DS MX 75 is a classic overlap design with a soft flex designed for newer skiers.",
+    "dm_directoryParents": [
+      "warehouse",
+      "warehouse_men",
+      "warehouse_men_ski_boots",
+      "warehouse_men_ski_boots_downhill"
+    ],
+    "name": "Dalbello DS MX 75 Ski Boots 2023",
+    "photoGallery": [
+      {
+        "image": {
+          "height": 700,
+          "sourceUrl": "https://images.evo.com/imgp/700/208351/848525/dalbello-ds-mx-75-ski-boots-2023-.jpg",
+          "thumbnails": [
+            {
+              "height": 700,
+              "url": "http://a.mktgcdn.com/p/ecKYab97BMcJBFvQwoxtb77rkKXv83mWL1gOs8u_z5w/700x700.jpg",
+              "width": 700
+            },
+            {
+              "height": 619,
+              "url": "http://a.mktgcdn.com/p/ecKYab97BMcJBFvQwoxtb77rkKXv83mWL1gOs8u_z5w/619x619.jpg",
+              "width": 619
+            },
+            {
+              "height": 450,
+              "url": "http://a.mktgcdn.com/p/ecKYab97BMcJBFvQwoxtb77rkKXv83mWL1gOs8u_z5w/450x450.jpg",
+              "width": 450
+            },
+            {
+              "height": 196,
+              "url": "http://a.mktgcdn.com/p/ecKYab97BMcJBFvQwoxtb77rkKXv83mWL1gOs8u_z5w/196x196.jpg",
+              "width": 196
+            }
+          ],
+          "url": "http://a.mktgcdn.com/p/ecKYab97BMcJBFvQwoxtb77rkKXv83mWL1gOs8u_z5w/700x700.jpg",
+          "width": 700
+        }
+      }
+    ]
+  },
+  "entityType": "ce_skiBoot",
+  "labels": []
+}
