@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/elan_ripstick_106_black_edition_skis_2023",
     "c_details": [
@@ -34,16 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "899.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "188"
-    ],
+    "c_sizes": ["172", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +75,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Everybody knows what the Ripsticks do. They rip, of course. Elan\u0027s asymmetrical carbon-powered freeride sticks have gotten a lot of love for their unique combination of a relatively light weight and the ability to lay GS tracks down 50 degree faces with ease. And if that concept gets you a little excited, you\u0027re going to love the Elan Ripstick 106 Black Edition Skis. More than just a sick black topsheet, these beefed up Ripsticks have twice the number of carbon rods and full wall-to-wall reinforcement under the boot. That means you get more rip per stick than ever before, all while maintaining the nimble profile and versatile all mountain width that makes the Ripstick 106 so dang fun to ride.",
     "dm_directoryParents": [
       "warehouse",

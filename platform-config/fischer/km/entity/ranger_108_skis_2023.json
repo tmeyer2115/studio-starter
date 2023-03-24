@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/fischer_ranger_108_skis_2023",
     "c_details": [
@@ -31,18 +29,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "Sand",
-      "171",
-      "178",
-      "185",
-      "192"
-    ],
+    "c_sizes": ["Sand", "171", "178", "185", "192"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -77,9 +67,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "Powder bred, hard snow approved. The all new Fischer Ranger 108 Skis were made for some good old fashioned freeride fluff and that includes the turbulence-riddled runout at the end too. With poplar and beech construction, a shaped titanal insert underfoot, and Fischer\u0027s Freeski Rocker, the Ranger 108 shines through the big turns, and doesn\u0027t mind the little guys either. If you\u0027re looking for hard charging stability that\u0027s now easier than ever to maneuver too, the Fischer Ranger 108 Skis deliver in spades!",
     "dm_directoryParents": [
       "warehouse",

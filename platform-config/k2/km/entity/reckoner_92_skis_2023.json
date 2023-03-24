@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_reckoner_92_skis_2023",
     "c_details": [
@@ -25,18 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "299.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "149",
-      "159",
-      "169",
-      "179"
-    ],
+    "c_sizes": ["149", "159", "169", "179"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -71,9 +62,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Packed with technology that makes this one of the most versatile all-mountain twin tips in the game, the K2 Reckoner 92 Skis are lively, energetic, and durable - ready to get tossed into chunder or sprung around the park all season long. This nimble and saucy waist width is for the indecisive skiers who want to lap the park one day and send it into the steeps the next. Freeeedom!",
     "dm_directoryParents": [
       "warehouse",

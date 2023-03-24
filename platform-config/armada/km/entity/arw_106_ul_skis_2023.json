@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/armada_arw_106_ul_skis_2023",
     "c_details": [
@@ -34,18 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["164", "172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -80,9 +71,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Armada ARW 106 UL Skis are versatile, lightweight, and fun. For a great many skiers, this is the fabled one ski quiver. Wide enough for powder, narrow enough for groomers, sturdy enough for business, and playful enough for pleasure. They have Armada\u0027s freestyle twist on the all-mountain twin in the way of Smear Teach beveled tips for extra surfy buttery goodness, and they\u0027re made with an ultralight layup with that makes them very amenable to pairing with a sturdy set of touring bindings and taking to the the backcountry as well.",
     "dm_directoryParents": [
       "warehouse",

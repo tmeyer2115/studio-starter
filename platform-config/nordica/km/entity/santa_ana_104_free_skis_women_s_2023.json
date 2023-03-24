@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/nordica_santa_ana_104_free_skis_women_s_2023",
     "c_details": [
@@ -34,18 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "749.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "158",
-      "165",
-      "172",
-      "179"
-    ],
+    "c_sizes": ["158", "165", "172", "179"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -80,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Okay, the Nordica Santa Ana is good. By now, everyone who\u0027s read online reviews, talked to ski shop employees, or in any way looked into buying a pair of skis in the last few years knows all about how good the Santa Ana is. Lightweight, yet powerful. Easy to ride, yet incredibly precise. And that all sounds good to you, but you\u0027re looking for something a little more... uninhibited. Power is good, and versatility is great, but what if you want to get a little looser? Maybe hit that mini cliff under the chairlift on the next big powder day? Meet the Nordica Santa Ana 104 Free Skis. It\u0027s everything everyone loves about the Santa Ana, but with a bit more rocker, a bit more waist, and a bit less metal, giving you just a bit of extra wiggle room to get a bit more free the next time you get after it.",
     "dm_directoryParents": [
       "warehouse",

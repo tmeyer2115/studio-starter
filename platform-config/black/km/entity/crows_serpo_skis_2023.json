@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_serpo_skis_2023",
     "c_details": [
@@ -40,18 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "899.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "168",
-      "174",
-      "180",
-      "186"
-    ],
+    "c_sizes": ["168", "174", "180", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +77,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Black Crows Serpo Skis are all-mountain rippers with a frontside focus. They combine a moderate flex with titanal reinforcement to give you the best of both words. They\u0027re powerful and decisive on edge, perfect for ripping down groomers at speed, but they also are forgiving and versatile enough for some off-piste adventuring when the mood strikes you. If you\u0027re looking for an everyday ski that you can lay down some hip dragging carves with, the Serpo is what you need.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/fischer_ranger_90_skis_2023",
     "c_details": [
@@ -34,18 +32,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "163",
-      "170",
-      "177",
-      "184"
-    ],
+    "c_sizes": ["156", "163", "170", "177", "184"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -80,9 +70,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "For high octane performance both on- and off-piste, look to the Fischer Ranger 90 Skis. With a refined combination of stability and nimble responsiveness thanks to Fischer\u0027s Shaped Ti Titanal inserts underfoot and an easy-turning Flex Cut shape, these 90mm waisted skis offer a versatility that will be beloved by intermediate and advanced skiers alike. Complete with fast sintered bases and a durable sandwich sidewall construction, the Fischer Ranger 90 Skis are the perfect skis for those that like to carve deep trenches all over the mountain with minimal effort.",
     "dm_directoryParents": [
       "warehouse",

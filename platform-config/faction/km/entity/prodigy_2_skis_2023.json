@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_prodigy_2_skis_2023",
     "c_details": [
@@ -52,16 +50,11 @@
         "value": "Drill Bit – 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "599.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "183",
-      "189"
-    ],
+    "c_sizes": ["183", "189"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -96,9 +89,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "One ski to do it all — freeride, pow, groomers and hit the park at the end of each lap — is a tall order, and a bit overhyped, but if there ever was such a thing it\u0027s the Faction Prodigy 2 Skis. Clocking in at 98mm underfoot and with a do-it-all directional twin shape that outskis many purpose-built groomer skis but still spins and switches with the best, the Prodigy 2 makes anything possible, run after run after run.",
     "dm_directoryParents": [
       "warehouse",

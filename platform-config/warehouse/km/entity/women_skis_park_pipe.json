@@ -4,12 +4,8 @@
   "primaryLocale": "en",
   "content": {
     "dm_baseEntityCount": "1",
-    "dm_childEntityIds": [
-      "82280309"
-    ],
-    "dm_directoryChildren": [
-      "armada_arw_86_skis_women_s_2023"
-    ],
+    "dm_childEntityIds": ["82280309"],
+    "dm_directoryChildren": ["armada_arw_86_skis_women_s_2023"],
     "dm_directoryChildrenCount": "1",
     "dm_directoryManagerId": "warehouse",
     "dm_directoryParents": [

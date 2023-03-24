@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_agent_2_skis_2023",
     "c_details": [
@@ -58,18 +56,11 @@
         "value": "Drill Bit – 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "171",
-      "177",
-      "182",
-      "187"
-    ],
+    "c_sizes": ["171", "177", "182", "187"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -104,9 +95,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Built with the shape of the frontside specialist Dancer series, but with a heart of ultralight Karuba wood, a carbon-enhanced layup with Titanal only under the bindings, and skintrack-ready flat, notched tail, the Faction Agent 2 Skis are a top \"touring\" choice for technical backcountry skiers, but also excel on steep technical terrain, forests, and bumps. An excellent choice to mount up with a hybrid or full tech binding and take advantage of whatever seems the best option on any particular day.",
     "dm_directoryParents": [
       "warehouse",

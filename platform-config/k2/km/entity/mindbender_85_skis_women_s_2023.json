@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "3726456647343833499"
-    ],
+    "c_abilityLevel": ["3726456647343833499"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/k2_mindbender_85_skis_women_s_2023",
     "c_details": [
@@ -22,17 +20,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "399.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "163",
-      "170"
-    ],
+    "c_sizes": ["156", "163", "170"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -67,9 +59,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "If you\u0027re feeling like it\u0027s time to get some exploration incorporated into your resort days, look no further than the K2 Mindbender 85 Skis. Thay have the versatility to help you maneuver tougher terrain, but once you\u0027re confident in those new skills, the skis keep up as you progress. Like their bigger sisters in the Mindbender Collection, the K2 Mindbender 85 Skis include the lightweight Aspen Veneer core and All-Terrain Rocker profile packed into a more narrow width to keep you on edge for what\u0027s to come.",
     "dm_directoryParents": [
       "warehouse",

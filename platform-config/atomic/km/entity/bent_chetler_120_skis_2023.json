@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/atomic_bent_chetler_120_skis_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "176",
-      "184",
-      "192"
-    ],
+    "c_sizes": ["176", "184", "192"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +78,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "The Atomic Bent Chetler 120 Skis have been going strong for 14 years with no sign of slowing down. As the big brother of the newly expanded Bent family, they continue to set the standard for powder hungry freeriders seeking a more progressive - but no less capable - shape. Light, nimble, impossibly floaty, and stacked with enough guts to stomp every landing from here to Hokkaido, the Bent Chetler 120s are built to nurture your creativity and stoke the fire within.",
     "dm_directoryParents": [
       "warehouse",

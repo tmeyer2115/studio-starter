@@ -8,9 +8,7 @@
       "crawlerConfig": {
         "crawler": "skiboots",
         "urlPatterns": [],
-        "fileTypes": [
-          "HTML"
-        ]
+        "fileTypes": ["HTML"]
       }
     },
     "selectors": [
@@ -80,10 +78,7 @@
     {
       "splitColumn": {
         "inputHeader": "Page Title",
-        "newColumnHeaders": [
-          "Boot Name",
-          "Extra"
-        ],
+        "newColumnHeaders": ["Boot Name", "Extra"],
         "delimiter": "|"
       }
     },
@@ -103,9 +98,7 @@
     {
       "findAndReplace": {
         "inputHeaders": {
-          "headers": [
-            "Price"
-          ]
+          "headers": ["Price"]
         },
         "valueToFind": {
           "plainText": {
@@ -119,9 +112,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Ability Level"
-          ]
+          "headers": ["Ability Level"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getAbilityLevelId"
@@ -130,9 +121,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Gender"
-          ]
+          "headers": ["Gender"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getGenderId"
@@ -141,19 +130,14 @@
     {
       "splitColumn": {
         "inputHeader": "Hero Image",
-        "newColumnHeaders": [
-          "Formatted Image",
-          "Junk"
-        ],
+        "newColumnHeaders": ["Formatted Image", "Junk"],
         "delimiter": ","
       }
     },
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Page URL"
-          ]
+          "headers": ["Page URL"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getBootTypeFromPageUrl"
@@ -177,9 +161,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Boot ID"
-          ]
+          "headers": ["Boot ID"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "generateIdFromName"

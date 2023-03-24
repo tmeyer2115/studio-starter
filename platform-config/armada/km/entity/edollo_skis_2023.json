@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Park \u0026 Pipe",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/park-pipe/armada_edollo_skis_2023",
     "c_details": [
@@ -34,16 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172"
-    ],
+    "c_sizes": ["164", "172"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +75,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "463117075052872663"
-    ],
+    "c_terrain": ["463117075052872663"],
     "description": "Henrik Harlaut is a bonafide ski legend, and his pro model skis are legendary in their own right. Just as he has pushed the envelope of what\u0027s possible on skis over the years, his pro model has pushed the envelope of what defines a modern park ski. The Armada Edollo Skis have a silky smooth medium flex, a bit more tip rocker than you\u0027d expect out of a sub-100 waisted ski, and are built to crush everything in the park. They\u0027re stable, nimble, and can boost to the moon. Wu-tang is for the children, but the Edollo skis are for you.",
     "dm_directoryParents": [
       "warehouse",

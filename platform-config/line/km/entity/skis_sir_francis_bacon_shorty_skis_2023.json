@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_sir_francis_bacon_shorty_skis_2023",
     "c_details": [
@@ -34,16 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "419.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "145",
-      "165"
-    ],
+    "c_sizes": ["145", "165"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -78,9 +71,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "By now, the Sir Francis Bacon needs no introduction. These skis have inspired generations of fun-loving all-mountain freestyle skis, and generations of fun-loving all-mountain skiers. They feature a silky smooth flex pattern that\u0027s just stiff enough to hold up to explosive resort skiing and just soft enough to absolutely butter the popcorn out of. But for riders that are a bit to small to find their size in the standard Bacon, the Line Skis Sir Francis Bacon Shorty Skis provide all that playful all-mountain goodness in a smaller package.",
     "dm_directoryParents": [
       "warehouse",

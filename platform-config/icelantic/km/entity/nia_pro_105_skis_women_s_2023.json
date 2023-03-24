@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/big-mountain/icelantic_nia_pro_105_skis_women_s_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "849.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "162",
-      "169",
-      "177"
-    ],
+    "c_sizes": ["162", "169", "177"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +78,7 @@
         "value": "3 Years"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "Last year\u0027s best topsheet in the ski industry couldn\u0027t be topped, so it\u0027s back on top of the Icelantic Nia Pro 105 Skis. This big mountain crusher comes ready to rip the biggest lines on the mountain straight out of the wrapper, with Icelantic\u0027s Hybrid Flight Core of Poplar and Paulownia woods, ETXL 2200 Tri-Axial Fiberglass, extra fiberglass in the mount area, and of course Icelantic\u0027s fanatical dedication to US-built quality.",
     "dm_directoryParents": [
       "warehouse",

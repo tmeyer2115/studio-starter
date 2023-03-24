@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/line_skis_pandora_110_skis_women_s_2023",
     "c_details": [
@@ -46,17 +44,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "162",
-      "170",
-      "178"
-    ],
+    "c_sizes": ["162", "170", "178"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -91,9 +83,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "From big mountain descents to powdery tours, the Line Skis Pandora 110 Skis are designed to be with you on the best days of the season. These full on freeride sticks are built with Line\u0027s ultra lightweight THC construction, which makes them a breeze to bring up the skin track, and a hurricane to bring down the fall line. They\u0027re fast and directional when charging through chop, yet light and effortless to flick, bounce, and pivot through deep power and tight terrain.",
     "dm_directoryParents": [
       "warehouse",

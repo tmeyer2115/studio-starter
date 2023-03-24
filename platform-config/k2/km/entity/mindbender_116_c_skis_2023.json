@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/k2_mindbender_116_c_skis_2023",
     "c_details": [
@@ -28,17 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "179",
-      "186",
-      "193"
-    ],
+    "c_sizes": ["179", "186", "193"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -73,9 +65,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "If you\u0027re an old friend of dreamy powder days but a stranger to fatty skis, allow us to introduce you to the K2 Mindbender 116 C Skis. Release these light yet hefty powder players into their natural habitat to surf through deep snow, or find a sturdy edge hold and plow through chop and crud without missing a beat. The Mindbenders are almost too good to be true, and they\u0027re sure to make you a convert. Sit back, relax, and enjoy the snow!",
     "dm_directoryParents": [
       "warehouse",

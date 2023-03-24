@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_santa_ana_80_s_skis_kids_2023",
     "c_details": [
@@ -25,16 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "349.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "130",
-      "150"
-    ],
+    "c_sizes": ["130", "150"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -69,9 +62,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "She\u0027s outgrown those wimpy kid\u0027s skis, now what? Get her the Nordica Santa Ana 80 S Skis and step up to real ski construction and performance. Full wood core Energy CA construction with full sidewalls means power and control that rival performance adult skis, all executed with Nordica\u0027s superior build quality. Better skis \u003d better skiing \u003d more fun. Why not go for it?",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/armada_reliance_102_ti_skis_women_s_2023",
     "c_details": [
@@ -34,17 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "180"
-    ],
+    "c_sizes": ["164", "172", "180"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -79,9 +71,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Titanal-infused Reliance series takes over where the Victa left off, and the Armada Reliance 102 Ti Skis are ready to run with it. Armada keeps the weight down by using a Caruba wood core in concert with the Articulated Titanal Band construction, and the EST Freeride Rocker provides the ideal balance between flotation in fresh snow and control on firmer surfaces.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/alpine-touring/icelantic_maiden_lite_101_skis_women_s_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "899.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "155",
-      "162",
-      "169"
-    ],
+    "c_sizes": ["155", "162", "169"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -89,9 +81,7 @@
         "value": "3 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "The \"touring\" version of the best-selling Maiden 101 drops weight by employing a Balsa wood core with imbedded Flax cloth, but keeps the same versatile and playful personality intact. If you\u0027re wanting to get into touring without going to a boring directional design though up by some old Euro codgers 20 years ago, the Icelantic Maiden Lite 111 Skis may be just the thing.",
     "dm_directoryParents": [
       "warehouse",

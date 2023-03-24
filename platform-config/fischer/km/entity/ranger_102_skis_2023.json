@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/fischer_ranger_102_skis_2023",
     "c_details": [
@@ -31,19 +29,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "155",
-      "162",
-      "169",
-      "176",
-      "183",
-      "190"
-    ],
+    "c_sizes": ["155", "162", "169", "176", "183", "190"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -78,9 +67,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Up the ante on your every day with the all new Fischer Ranger 102 Skis. Designed to be agile, stable, and easy to steer, these lovingly developed planks feature Fischer\u0027s Freeski Rocker profile and a Titanal reinforced wood core. If you\u0027re ripping nooks and crannies in the West or Sailing through a fluffy day everywhere else, the Ranger 102 is the tool you need to ski more and worry less.",
     "dm_directoryParents": [
       "warehouse",

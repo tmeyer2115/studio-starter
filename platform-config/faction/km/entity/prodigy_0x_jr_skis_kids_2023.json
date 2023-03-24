@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "3726456647343833499"
-    ],
+    "c_abilityLevel": ["3726456647343833499"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_prodigy_0x_jr_skis_kids_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "Drill Bit – 3.6 x 7mm"
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "279.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "113",
-      "123",
-      "133"
-    ],
+    "c_sizes": ["113", "123", "133"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -85,9 +77,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "A light and forgiving way to get your grom up and skiing in a hurry, the Faction Prodigy 0X JR Skis are a beginner\u0027s treat with their light Polyfly Core and 82mm waist. There\u0027s nothing like a cool ski that makes learning easy to keep it fun.",
     "dm_directoryParents": [
       "warehouse",

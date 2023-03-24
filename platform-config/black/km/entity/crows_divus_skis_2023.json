@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_divus_skis_2023",
     "c_details": [
@@ -43,18 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "869.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "167",
-      "172",
-      "177",
-      "182"
-    ],
+    "c_sizes": ["167", "172", "177", "182"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -89,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Black Crows Divus Skis are made for the corduroy. These skis are narrow, stiff, and tight turning, perfect for laying hip dragging turns and speeding across smooth snow surfaces. They\u0027re reinforced with a double H titanal layer to transfer plenty of pressure to the edges, providing tons of zip and energy from one turn to the next. Explore your speed limit on the piste with the Black Crows Divus Skis.",
     "dm_directoryParents": [
       "warehouse",

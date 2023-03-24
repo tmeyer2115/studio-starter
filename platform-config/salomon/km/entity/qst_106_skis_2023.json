@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_106_skis_2023",
     "c_details": [
@@ -34,18 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "173",
-      "181",
-      "189"
-    ],
+    "c_sizes": ["165", "173", "181", "189"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -84,9 +75,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Salomon QST 106 Skis are a masterclass in ski design. Smooth taper into the tips, just the right amount of heft around the middle, and purposeful blunted tails. They\u0027re elegant and directional, meant to balance the demands for fun and practicality in a snow sliding device. They\u0027re lightweight and highly technical, but use a blend of natural materials like cork and flax fiber to counterbalance those that could lead to a twitchy feel when left alone, like carbon and ABS. They\u0027re a perfect synergy of art and science, nature and artifice, and the smooth S turns they leave across snow-swept landscapes are a testament to their success.",
     "dm_directoryParents": [
       "warehouse",

@@ -5,9 +5,7 @@
   "enabled": true,
   "crawlSchedule": "once",
   "crawlStrategy": "subPages",
-  "domains": [
-    "https://www.evo.com/shop/ski/boots"
-  ],
+  "domains": ["https://www.evo.com/shop/ski/boots"],
   "ignoreQueryParameterOption": "none",
   "blacklistedUrls": [
     "https://www.evo.com/shop/ski/boots#/shop/ski/boots/.*",

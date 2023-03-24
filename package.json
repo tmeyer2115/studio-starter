@@ -14,12 +14,13 @@
     "features": "pages generate features",
     "fmt": "prettier -w .",
     "lint": "eslint .",
+    "prestart": "export NODE_VERSION=18 && source $NVM_DIR/nvm.sh; nvm use $NODE_VERSION",
     "clean": "rm -rf .artifact-output .yext/ dist/ localData sites-rendered-output",
     "generate-notices": "generate-license-file --input package.json --output ./THIRD-PARTY-NOTICES --overwrite",
-    "studio": "npm run features && yext pages generate-test-data -a && studio"
+    "studio": "npm run prestart && npm run features && yext pages generate-test-data -a && studio"
   },
   "engines": {
-    "node": "18"
+    "node": "$NODE_VERSION"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.10",
@@ -27,6 +28,7 @@
     "@yext/search-headless-react": "^2.1.0",
     "@yext/studio": "^0.5.0",
     "@yext/studio-plugin": "^0.5.0",
+    "jq": "^1.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "tailwind-merge": "^1.6.2"

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/fischer_ranger_skis_2023",
     "c_details": [
@@ -25,19 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "499.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "142",
-      "152",
-      "162",
-      "172",
-      "182"
-    ],
+    "c_sizes": ["142", "152", "162", "172", "182"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -72,9 +62,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Fischer brings freeride flexibility and confidence to the groomers with the new Fischer Ranger Skis, with a do-it-all 92mm waist and freeski rocker to make managing any snow conditions a snap. With a full Poplar wood core and Sandwich Sidewall Construction, the Ranger holds its own on harder snow as well, so you\u0027ll be in good hands whatever winter may bring. Pick your length, your color, and let your imagination be your guide.",
     "dm_directoryParents": [
       "warehouse",

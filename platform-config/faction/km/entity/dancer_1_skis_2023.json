@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_dancer_1_skis_2023",
     "c_details": [
@@ -49,17 +47,11 @@
         "value": "Drill Bit – 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "699.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "170",
-      "178",
-      "186"
-    ],
+    "c_sizes": ["170", "178", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -94,9 +86,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Other companies\u0027 frontside carver skis tend to lock you into a particular style of skiing, which is not necessarily a bad thing if you want to look like a racer who\u0027s lost his way to the gates or a Level III instructor. The Faction Dancer 1 Skis, on the other hand, let you mix up your style a bit a vary your turn shape on the way down, all while holding a great edge and running smooth at speed. Which do you prefer? There isn\u0027t a right or wrong answer, but the Faction Dancer philosophy deserves a close look.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/season_aero_skis_2023",
     "c_details": [
@@ -49,17 +47,10 @@
         "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "158",
-      "165",
-      "173",
-      "180"
-    ],
+    "c_sizes": ["158", "165", "173", "180"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -98,9 +89,7 @@
         "value": "Limited Lifetime"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Being creative as a skier in a low tide month - or season - means coming at it with a versatile twin shape, good edgehold, and solid stability for the firm and fast. Enter the Season Aero Skis as evo\u0027s pick for best ski in this category, with its Karuba wood core, Titanal-reinforced construction, and plenty of tail rocker for travelling switch in style.",
     "dm_directoryParents": [
       "warehouse",

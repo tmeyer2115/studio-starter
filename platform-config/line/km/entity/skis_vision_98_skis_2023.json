@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_vision_98_skis_2023",
     "c_details": [
@@ -43,17 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "179",
-      "186"
-    ],
+    "c_sizes": ["172", "179", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -88,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Line Skis Vision 98 Skis can handle it. \"Handle what?\" you\u0027re asking yourself. Doesn\u0027t matter. The Vision 98 Skis have got it. Looking for an everyday resort ski? The Vision 98 is fast, predicable, incredibly versatile. Looking to get crazy on some park jumps? The Vision 98 is balanced, playful, nearly symmetrical. Looking for a fast and light touring ski? The Vision 98 weighs just over 1500 grams. That\u0027s crazy light. Wherever you need nimble, lightweight, performance and standout adaptability, the Line Skis Vision 98 Skis have got you covered.",
     "dm_directoryParents": [
       "warehouse",

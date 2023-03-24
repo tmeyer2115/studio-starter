@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_revolt_104_skis_2023",
     "c_details": [
@@ -28,17 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -73,9 +65,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "OK, there isn\u0027t two feet of fresh but you still want that versatile surfy ride and the ability to throw the skis sideways to scrub speed once in a while. What have ya got? If the answer isn\u0027t \"Völkl Revolt 104 Skis,\" you\u0027re missing out. The Revolt 104 fills the gap between the mondo-wide 121 and whatever you use for your groomer days seamlessly, giving you the best of all worlds. Quick and intuitive in the trees, precise enough to rail the groomed, and enough float for those \"medium deep\" days that pack out in 2 hours. Yeah, time to get a pair.",
     "dm_directoryParents": [
       "warehouse",

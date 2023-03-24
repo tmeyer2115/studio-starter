@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_la_machine_grom_skis_kids_2023",
     "c_details": [
@@ -49,16 +47,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "449.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "147",
-      "156"
-    ],
+    "c_sizes": ["147", "156"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -93,9 +86,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Swiss have a unique perspective on life. Super cautious and meticulous at times (like getting your car registered), but they let toddlers roam playgrounds basically unattended (their parents are there, but not close). They tend toward the latter approach when it comes to mountain sports, so it figures they\u0027d be the ones to build a real touring ski for kids — the Faction La Machine Grom Skis. The Grom features the same carbon and Paulownia layup as the adult La Machine lineup, so if your kid can fend for themselves on the playground it\u0027s high time to get them out on the skintrack.",
     "dm_directoryParents": [
       "warehouse",

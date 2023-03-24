@@ -4,12 +4,7 @@
   "primaryLocale": "en",
   "content": {
     "dm_baseEntityCount": "74",
-    "dm_childEntityIds": [
-      "82281624",
-      "82281625",
-      "82281626",
-      "82281628"
-    ],
+    "dm_childEntityIds": ["82281624", "82281625", "82281626", "82281628"],
     "dm_directoryChildren": [
       "warehouse_women_skis_all_mountain",
       "warehouse_women_skis_alpine_touring",
@@ -18,10 +13,7 @@
     ],
     "dm_directoryChildrenCount": "74",
     "dm_directoryManagerId": "warehouse",
-    "dm_directoryParents": [
-      "warehouse",
-      "warehouse_women"
-    ],
+    "dm_directoryParents": ["warehouse", "warehouse_women"],
     "name": "Skis",
     "slug": "women/skis"
   },

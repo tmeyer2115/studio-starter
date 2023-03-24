@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/elan_ripstick_88_skis_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["164", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -85,9 +77,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Hey you. Yes, you reading this page. Do you like to go fast? Like, really fast? Get in on this, the Elan Ripstick 88 Skis MIGHT just help you beat your friends. Whether you like to smash the Ice Coast or get out on freshly groomed runs everywhere else, these sticks are all but guaranteed to help you beat your pals to the lift. Constructed with carbon rods that provide stability and power and a lightweight Tubelite Wood Core that makes the Ripstick easy to handle, they\u0027re a recipe for success. You\u0027ve heard of the saying \"No friends on a pow day.\" But what about, \"No friends on a fast day?\" You know who you are. Get em\u0027 while they last!",
     "dm_directoryParents": [
       "warehouse",

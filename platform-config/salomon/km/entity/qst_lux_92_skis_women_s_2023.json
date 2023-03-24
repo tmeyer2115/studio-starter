@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/salomon_qst_lux_92_skis_women_s_2023",
     "c_details": [
@@ -28,18 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "549.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "146",
-      "152",
-      "160",
-      "168"
-    ],
+    "c_sizes": ["146", "152", "160", "168"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -78,9 +69,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Once you\u0027ve got a taste of the Salomon QST Lux 92 Skis, your days on the mountain will never be the same. From East Coast groomers to Northwest volcanoes, these skis can handle and type of terrain with style, fun, and flair. They\u0027re made with the highest quality materials available and shaped for smooth edge transfer, tons of pop, and lightweight pivotability.",
     "dm_directoryParents": [
       "warehouse",

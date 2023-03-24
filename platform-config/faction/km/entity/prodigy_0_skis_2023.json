@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_prodigy_0_skis_2023",
     "c_details": [
@@ -52,15 +50,11 @@
         "value": "Drill Bit – 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "349.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "157"
-    ],
+    "c_sizes": ["157"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -95,9 +89,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The narrowest, lightest and most affordable ski in the Prodigy adult lineup isn\u0027t a noodle - the Faction Prodigy 0 Skis will stay in your quiver long after you\u0027ve acquired other quiver arrows as a great ski to learn new tricks on and generally have a blast in the park - but the 85mm waist and lighter Fusion Core mean it is also a great ski for progression both for skiing in general and freestyle specific moves.",
     "dm_directoryParents": [
       "warehouse",

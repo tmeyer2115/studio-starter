@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_sender_94_ti_skis_2023",
     "c_details": [
@@ -37,18 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "699.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "178",
-      "186"
-    ],
+    "c_sizes": ["164", "172", "178", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -83,9 +74,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Rossignol Sender 94 Ti Skis offer a long coveted blend of titanal infused stability and a stiffer flex while still being nimble and easy to maneuver when things get spicy. Ideal for intermediate to advanced skiers who appreciate going fast and sending \u0027er deep off those natural sidehits and cat tracks, the Sender 94 Ti empowers you to charge all over the mountain whether conditions are prime or not!",
     "dm_directoryParents": [
       "warehouse",

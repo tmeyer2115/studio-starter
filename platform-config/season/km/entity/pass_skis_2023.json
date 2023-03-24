@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/season_pass_skis_2023",
     "c_details": [
@@ -37,16 +35,10 @@
         "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "176",
-      "185"
-    ],
+    "c_sizes": ["165", "176", "185"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -85,9 +77,7 @@
         "value": "Limited Lifetime"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "Introducing a backcountry ski for the most creative, pow-hungry earn-your-turners in the land, the Season Pass Skis are a wider, lighter take on the ultra-versatile Nexus skis, because the crew at Season know why you tour. Built with an ultra-light woodcore of Poplar and Paulownia and a nearly symmetrical twin shape, the Pass is light enough for full days on the trail but stout enough to shred hard on the way down. Never has there been such a wealth of options for skiing beyond the confines of the resort - the Season Pass pushes the envelope for the most playful and imaginative among us.",
     "dm_directoryParents": [
       "warehouse",

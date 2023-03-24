@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/black_crows_atris_birdie_skis_women_s_2023",
     "c_details": [
@@ -40,18 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "899.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "160",
-      "166",
-      "172",
-      "178"
-    ],
+    "c_sizes": ["160", "166", "172", "178"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +77,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Atris Birdie is one of the most popular birds in the Black Crows\u0027 flock. This traditionally cambered freeride ski has one of the most balanced skill sets around. It is the quintessential playful charger, providing excellent high end performance in freeride-style lines, while also remaining smooth and accessible for all-mountain endeavors. With a 105 width that\u0027s floaty enough for powder days and maneuverable enough for groomers, the Black Crows Atris Birdie Skis are an excellent choice for competent all-mountain skiers looking to tackle any day of the season.",
     "dm_directoryParents": [
       "warehouse",

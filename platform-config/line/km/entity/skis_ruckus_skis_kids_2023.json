@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "3726456647343833499"
-    ],
+    "c_abilityLevel": ["3726456647343833499"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_ruckus_skis_kids_2023",
     "c_details": [
@@ -34,17 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "329.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "135",
-      "145",
-      "155"
-    ],
+    "c_sizes": ["135", "145", "155"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -79,9 +71,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Those crazy kids you see in YouTube videos throwing tricks you\u0027d never dream of didn\u0027t start from nowhere. For younger riders looking to take their first steps down the path of the park, the Line Skis Ruckus Skis have all the answers. These entry level park skis are soft, light, and quick - perfect for learning to press into butters and slides, and to practice balance on rails and in the air. Plus they\u0027re built to be as durable as possible to hold up to the bumps and crashes that come along with freestyle progression.",
     "dm_directoryParents": [
       "warehouse",

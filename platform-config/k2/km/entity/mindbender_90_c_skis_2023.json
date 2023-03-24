@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_mindbender_90_c_skis_2023",
     "c_details": [
@@ -28,18 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "499.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "163",
-      "170",
-      "177"
-    ],
+    "c_sizes": ["156", "163", "170", "177"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -74,9 +65,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Harnessing some high energy, the K2 Mindbender 90C Skis are ready to carve up the resort with a light and playful feel. These skis utilize K2\u0027s Carbon Spectral Braid technology, allowing them to bend and snap through terrain without having to incorporate the added weight of a Titanal laminate. If you\u0027re searching for a fun, energetic ride on the hill, these planks are where its at.",
     "dm_directoryParents": [
       "warehouse",

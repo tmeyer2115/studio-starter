@@ -3,15 +3,10 @@
   "$schema": "https://schema.yext.com/config/pages/directory-manager/v1",
   "name": "Retail",
   "baseEntities": {
-    "entityTypes": [
-      "ce_skis",
-      "ce_skiBoot"
-    ]
+    "entityTypes": ["ce_skis", "ce_skiBoot"]
   },
   "localization": {
-    "locales": [
-      "en"
-    ]
+    "locales": ["en"]
   },
   "root": {
     "entityType": "ce_dmRoot",

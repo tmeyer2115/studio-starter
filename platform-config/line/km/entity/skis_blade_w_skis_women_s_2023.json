@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/line_skis_blade_w_skis_women_s_2023",
     "c_details": [
@@ -43,17 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "153",
-      "160",
-      "167"
-    ],
+    "c_sizes": ["153", "160", "167"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -88,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Inspired by the incredible powder performance of the beloved Pescado, the Line Skis Blade W Skis take the same volume shifted philosophy to the hardpack. These skis are a totally new take on the all-mountain genre. They are built to ride shorter than your normal size, and their skinny waists and giant shovels lead to a super tight turn radius that allows for a whole new kind of skiing. They\u0027re playful carvers that are ridiculously quick from edge to edge, and pack a tremendous amount of weird, fun skiing into any day. They\u0027re built for spring slush riding, groomer goofin\u0027 and full on party lappin\u0027.",
     "dm_directoryParents": [
       "warehouse",

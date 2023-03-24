@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/v_lkl_blaze_94_w_skis_women_s_2023",
     "c_details": [
@@ -31,18 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "599.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "151",
-      "158",
-      "165",
-      "172"
-    ],
+    "c_sizes": ["151", "158", "165", "172"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -77,9 +68,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Looking for light, nimble, and secure all in one package? Bonus points if that package can be used as a hybrid lift-served/backcountry ski? Check out the Völkl Blaze 94 W Skis, \u0027cause we think you\u0027ll like what you see. At 1455 grams in a 165cm size, this is \"touring weight\", but it\u0027s no noodle - the Blaze 94 delivers typical precision Völkl turns and still rips on harder snow. A prime contender to mount with a hybrid binding and be ready for anything, even if there\u0027s no lift.",
     "dm_directoryParents": [
       "warehouse",

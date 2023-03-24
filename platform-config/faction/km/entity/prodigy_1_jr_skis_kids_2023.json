@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/faction_prodigy_1_jr_skis_kids_2023",
     "c_details": [
@@ -37,18 +35,11 @@
         "value": "Drill Bit – 125, 135, and 145 \u003d 3.6 x 7mm, 155 \u003d 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "379.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "125",
-      "135",
-      "145",
-      "155"
-    ],
+    "c_sizes": ["125", "135", "145", "155"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -83,9 +74,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Start your prodigy out on the right track with the Faction Prodigy 1 JR Skis, a real ski using proven Faction design but scaled down for smaller bodies. This all-mountain freestyle stick will rip anywhere from the beginner run and up (or down) with easy-going precision — perfect for young skiers just learning the ropes.",
     "dm_directoryParents": [
       "warehouse",

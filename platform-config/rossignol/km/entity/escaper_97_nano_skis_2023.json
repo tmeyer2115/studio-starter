@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_escaper_97_nano_skis_2023",
     "c_details": [
@@ -40,16 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "169",
-      "177"
-    ],
+    "c_sizes": ["169", "177"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -84,9 +77,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Escape the resort crowds and scratch your backcountry itch like never before with the all new Rossignol Escaper 97 Nano Skis. Whether you\u0027re embarking on a massive mission with a big approach or just out for a quick dawn patrol mission, the combination of a paulownia core and Air Tip technology make the Escaper 97 Nano Skis extremely light. What\u0027s more, they\u0027ve also been pressed with both Nano Titanal and Nano Basalt layers to ensure AT binding stability for confidence charging down those big backcountry lines. Lightweight, stable, and easy to ski, the Rossignol Escaper 97 Nano Skis are a no-excuses touring weapon.",
     "dm_directoryParents": [
       "warehouse",

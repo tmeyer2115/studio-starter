@@ -5,17 +5,13 @@
   "filter": {
     "entityType": [
       {
-        "entityTypeId": [
-          "ce_category"
-        ],
+        "entityTypeId": ["ce_category"],
         "type": "IS"
       }
     ],
     "fieldsWithData": [
       {
-        "fieldId": [
-          "dm_directoryChildren"
-        ],
+        "fieldId": ["dm_directoryChildren"],
         "type": "ALL"
       }
     ]

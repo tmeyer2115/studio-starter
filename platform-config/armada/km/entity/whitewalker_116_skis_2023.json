@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/armada_whitewalker_116_skis_2023",
     "c_details": [
@@ -37,16 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "849.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "185",
-      "192"
-    ],
+    "c_sizes": ["185", "192"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -85,9 +78,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "The Armada Whitewalker 116 Skis have become something of a cult classic over the past few years. It\u0027s not every day that you get a powder ski that some people are putting touring bindings on, and other people are taking through the terrain park. Sammy Carlson\u0027s pro model ski truly is something special. With a freestyle-minded forward mount point, pin shaped tip and tails, a sturdy flex, and Smear Tech 3D beveling, these skis are incredibly well balanced in the air, poised down the fall line, and flowy through open terrain. They\u0027re one setup you can trust whether you\u0027re bouncing down pillow lines, charging steep faces, or glade hopping through rolling meadows.",
     "dm_directoryParents": [
       "warehouse",

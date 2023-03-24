@@ -5,9 +5,7 @@
   "filter": {
     "entityType": [
       {
-        "entityTypeId": [
-          "ce_searchPage"
-        ],
+        "entityTypeId": ["ce_searchPage"],
         "type": "IS"
       }
     ]

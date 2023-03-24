@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/icelantic_maiden_91_skis_women_s_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "799.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "155",
-      "162",
-      "169"
-    ],
+    "c_sizes": ["155", "162", "169"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -89,9 +81,7 @@
         "value": "3 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "A nimble and spirited frontside performer that won\u0027t be unhappy when that surprise 8\" of fresh snow hits, the Icelantic Maiden 91 Skis keep it real with a Hybrid Poplar-Paulownia wood core and a freestyle-derived rocker profile that let\u0027s you choose between regular and switch without worry.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/head_oblivion_94_skis_2023",
     "c_details": [
@@ -28,16 +26,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "163",
-      "170",
-      "184"
-    ],
+    "c_sizes": ["163", "170", "184"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -72,9 +64,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "When one pair of skis needs to do it all, and you don\u0027t want to ruin a perfectly good powder day because you only have park skis, the Head Oblivion 94 Skis are the way to go. A Park \u0027n Pipe rocker profile combined with a mid-fat directional twin sidecut give you the best of all worlds, letting you rip and trick anywhere there\u0027s snow.",
     "dm_directoryParents": [
       "warehouse",

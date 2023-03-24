@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/atomic_backland_95_skis_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "699.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "169",
-      "177",
-      "185"
-    ],
+    "c_sizes": ["169", "177", "185"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +74,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "The Atomic Backland 95 Skis are a mid-fat, do-it-all touring setup that transcends the need for separate touring rigs. With a tip width of 125+ millimeters and Atomic\u0027s HRZN tip contour, they\u0027re a match for many wider skis in fresh snow, and at 1350 grams in a 177 they fly up the skintrack (actual speed is motor-dependent, of course). Mount these up with a light tech binding and get after it, that snowpack\u0027s not gonna ski itself.",
     "dm_directoryParents": [
       "warehouse",

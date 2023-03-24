@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/rossignol_black_ops_118_tatum_skis_2023",
     "c_details": [
@@ -25,15 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "176"
-    ],
+    "c_sizes": ["176"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -72,9 +66,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "Finding the right combination of playful surfiness and straightline stability in a pow ski is as tough as fishing a Rainbow out of the creek with your bare hands, but Rossi nailed it with the Rossignol Black Ops 118 Tatum Skis. Tatum Monod\u0027s signature ride is a straight-up 176 men\u0027s ski (have you seen her vids?) featuring a one-of-a-kind graphic by David Habben. Get them now before they\u0027re gone.",
     "dm_directoryParents": [
       "warehouse",

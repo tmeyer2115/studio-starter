@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_mantra_junior_skis_kids_2023",
     "c_details": [
@@ -22,19 +20,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "329.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "118",
-      "128",
-      "138",
-      "148",
-      "158"
-    ],
+    "c_sizes": ["118", "128", "138", "148", "158"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -69,9 +59,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "There comes a time in every parent\u0027s life when they look up the hill and go, \"There\u0027s a good skier . . . wait a minute, that\u0027s my kid!\" That\u0027s the moment you know they need real ski, and no company does it better than Völkl. The Völkl Mantra Junior Skis, as one might expect, emulate the power and precision of the adult Mantra skis, but without the Titanal frame or carbon webbing. They still offer rock solid Full Sidewall construction and the Power Construction layup, and deliver the kind of performance good kids deserve.",
     "dm_directoryParents": [
       "warehouse",

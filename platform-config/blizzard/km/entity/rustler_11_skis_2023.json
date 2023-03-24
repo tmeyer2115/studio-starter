@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/blizzard_rustler_11_skis_2023",
     "c_details": [
@@ -49,18 +47,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["164", "172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -95,9 +86,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "Not every ski is capable of satisfying everyone from budding big mountain skiers to bona fide pros, but then the Rustler 11 ain\u0027t just any ski. Blizzard have blurred the lines between \"approachable\" and \"badass\" with a light yet capable Carbon Flipcore layup, reinforced with metal in all the right places. The Rustlers are stable charger one moment, and just plain fun the next. Slash \u0027em, rail, \u0027em, point \u0027em straight down the fall line, the Blizzard Rustler 11 Skis are ready to rumble.",
     "dm_directoryParents": [
       "warehouse",

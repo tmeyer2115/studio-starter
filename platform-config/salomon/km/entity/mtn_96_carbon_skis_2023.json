@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/salomon_mtn_96_carbon_skis_2023",
     "c_details": [
@@ -28,17 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "166",
-      "174",
-      "182"
-    ],
+    "c_sizes": ["166", "174", "182"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -73,9 +65,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "When it comes to pure touring skis, it\u0027s always hard to figure out just the right balance to strike. The better they are for the uphill, usually the worse the are on the way down. The Salomon MTN 96 Carbon Skis are here to put your worries to bed, and get your feet on the trail. These ultralight skis are made with long days of skinning in mind. They weigh in at under 1400 grams per ski, and have specialized carbon fittings to make sure your skin clips are never slipping. But don\u0027t think of them as some chattery carbon ski. The comfortable 100ish waist width is wide enough to make its way through some questionable backcountry snow, and the Cork Damplifiers keep the ride smooth, even when you\u0027re charging hard.",
     "dm_directoryParents": [
       "warehouse",

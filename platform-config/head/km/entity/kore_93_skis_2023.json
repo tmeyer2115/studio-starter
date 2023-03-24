@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/head_kore_93_skis_2023",
     "c_details": [
@@ -40,19 +38,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "163",
-      "170",
-      "177",
-      "184",
-      "191"
-    ],
+    "c_sizes": ["156", "163", "170", "177", "184", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -83,9 +72,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Head Kore 93 Skis are a light and nimble choice for all-mountain skiers who relish a dash through the bumps or trees rather than a non-stop diet of groomers. The Kore 93 gets the same proven build package as the rest of the Kore skis, with a light Karuba-Poplar core, Graphene reinforecement, and Multilayer-Carbon Sandwich Cap Construction for the highest level of lightweight performance in the land, making it a great choice for those who want a lighter setup but don\u0027t want to sacrifice power for the downhill.",
     "dm_directoryParents": [
       "warehouse",

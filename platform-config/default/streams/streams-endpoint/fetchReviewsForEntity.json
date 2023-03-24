@@ -4,17 +4,9 @@
   "name": "Fetch Reviews for Entity",
   "stream": {
     "source": "reviews",
-    "fields": [
-      "entity.id",
-      "authorName",
-      "rating",
-      "reviewDate",
-      "content"
-    ],
+    "fields": ["entity.id", "authorName", "rating", "reviewDate", "content"],
     "filter": {
-      "publishers": [
-        "FIRSTPARTY"
-      ]
+      "publishers": ["FIRSTPARTY"]
     }
   },
   "fieldIndexes": [

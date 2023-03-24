@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/head_kore_105_skis_2023",
     "c_details": [
@@ -37,17 +35,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "170",
-      "177",
-      "184",
-      "191"
-    ],
+    "c_sizes": ["170", "177", "184", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +73,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Head Kore 105 Skis make the best of two worlds. Their pure downhill pedigree shows through on each turn, providing the right level of feedback no matter how hard you push them. Their lightweight Multilayer-Carbon Sandwich Cap Construction means they\u0027re ideal for strong skiers as a backcountry option as well. Stiff enough to hit warp speed without hesitation, yet still maneuverable enough to effortlessly bounce through tight trees, and weighing in at a wickedly light weight — if you\u0027re an aggressive skier looking for a ski that never blinks, these bad mamajamas check all the boxes. The choice is up to you, but the Kore 105 is the right call either way.",
     "dm_directoryParents": [
       "warehouse",

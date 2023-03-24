@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_rustler_10_skis_2023",
     "c_details": [
@@ -49,19 +47,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "Blue",
-      "164",
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["Blue", "164", "172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -96,9 +86,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "With a versatile 100mm+ waist and balanced Carbon Flipcore construction, the Blizzard Rustler 10 Skis live in the Goldilocks zone where anything is possible. Firm groomers? No problem, the Rustlers will lay trenches. 8 inches of fresh overnight? Great, the Rustlers can surf with the best of \u0027em. Chop and chunder? Please, the Rustlers eat those for breakfast. If you\u0027re after a setup that\u0027s capable of handling anything you put in front of it no questions asked, look no further than the Blizzard Rustler 10 Skis.",
     "dm_directoryParents": [
       "warehouse",

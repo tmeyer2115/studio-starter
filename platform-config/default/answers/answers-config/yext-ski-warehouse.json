@@ -17,9 +17,7 @@
         "c_terrain.c_icon",
         "slug"
       ],
-      "entityTypes": [
-        "ce_skis"
-      ],
+      "entityTypes": ["ce_skis"],
       "name": "Skis",
       "searchableFields": {
         "builtin.entityType": {
@@ -51,9 +49,7 @@
     "popularQueriesBlacklistedRegex": [],
     "universalPrompts": [],
     "verticalPrompts": {
-      "skis": [
-        "[[name]]"
-      ]
+      "skis": ["[[name]]"]
     }
   }
 }

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/elan_ripstick_tour_94_skis_2023",
     "c_details": [
@@ -31,18 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "171",
-      "178",
-      "185"
-    ],
+    "c_sizes": ["164", "171", "178", "185"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -77,9 +68,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Elan\u0027s fan favorite Ripstick series has been tearing up resorts around the world for a number of years, but why limit such a capable platform to inbounds terrain? Enter the Elan Ripstick Tour 94 Skis. Weighing an impressively light 1490 grams in a 178cm, the Ripstick Tour 94s hit the sweet spot for freeride skiers transitioning to the backcountry. They come with Elan\u0027s legendary Amphibio Profile, a light, snappy Tubelite Wood Core, and all new Carbon Bridge Technology for stability and vibration damping. Available in unisex lengths, these are up there with the best.",
     "dm_directoryParents": [
       "warehouse",

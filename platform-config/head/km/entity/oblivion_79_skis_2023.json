@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/head_oblivion_79_skis_2023",
     "c_details": [
@@ -22,17 +20,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "154",
-      "163",
-      "172",
-      "181"
-    ],
+    "c_sizes": ["154", "163", "172", "181"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -67,9 +58,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The new Head Oblivion 79 Skis are designed for the skier who is just as likely to spend the day in the park as anywhere else on the mountain, but doesn\u0027t want to be limited to a strictly-park symmetrical twin design. Wood Core twin tip construction with PNP rocker means you can handle it all, all of the time, forward or switch, with no worries.",
     "dm_directoryParents": [
       "warehouse",

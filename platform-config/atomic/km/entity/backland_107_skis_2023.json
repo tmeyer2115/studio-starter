@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/atomic_backland_107_skis_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "175",
-      "182",
-      "189"
-    ],
+    "c_sizes": ["175", "182", "189"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +74,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "You\u0027re going out on big backcountry missions, so you need a ski that\u0027s lightweight, kick turns easily, and isn\u0027t a burden to bring up the skin track. But also, you\u0027re going out on big backcountry missions, so you need a ski that\u0027s composed down the fall line, predictable in tight spots, and powerful at speed. Basically, you\u0027re going out on big backcountry missions, so you need the Atomic Backland 107 Skis.",
     "dm_directoryParents": [
       "warehouse",

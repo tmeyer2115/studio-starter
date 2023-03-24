@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_sender_106_ti_plus_skis_2023",
     "c_details": [
@@ -46,16 +44,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "899.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "180",
-      "187"
-    ],
+    "c_sizes": ["180", "187"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -90,9 +83,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "As crown jewel of their new Sender series, the Rossignol Sender 106 Ti Plus Skis carry the torch passed down from Rossi\u0027s previously iconic S-Series skis and trust us, they carry it well! With a unique combination of a poplar wood core, titanal metal, carbon alloy, and dampening laminates — not to mention Rossignol\u0027s signature AirTip tips/tails — the Sender 106 delivers a fusion of technical precision, high-octane stability, and all-mountain versatility. Whether you\u0027re presented with knee-deep pow, chopped up leftovers, steep trees, or fast, top-to-bottom groomers, you\u0027ll feel right at home on the Rossignol Sender 106 Ti Plus Skis.",
     "dm_directoryParents": [
       "warehouse",
