@@ -53,8 +53,8 @@ export default function Product({ document }: TemplateProps) {
                 </HStack>
                 <Paragraph
                   value={`${document.description}`}
-                  fontWeight=""
-                  textSize=""
+                  fontWeight="light"
+                  textSize="base"
                 />
               </VStack>
               <ProductImage
