@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_rustler_9_skis_2023",
     "c_details": [
@@ -40,18 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["164", "172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +77,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "A funny thing happened in the winter of \u002721-22. Winter went dry for months in most of North America, and the wide ski powder maniacs were stuck for a low tide answer. A few of them got out on the Blizzard Rustler 9 Skis and were blown away. Who woulda thought, with that rocker line and limited edge contact, but here is ski that can rail with the best of the flat-tailed carvers and not punish the rider in bumps and re-frozen slop! The Titanal D.R.T. laminate does just what it was intended to do, namely smooth out the ride and make the ski feel uber-confident at speed, and the tail rocker means the Rustler doesn\u0027t lock in and take you for a ride. Do yourself a favor and check these out.",
     "dm_directoryParents": [
       "warehouse",

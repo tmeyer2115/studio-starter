@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_blank_team_skis_kids_2023",
     "c_details": [
@@ -25,17 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "299.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "128",
-      "137",
-      "152"
-    ],
+    "c_sizes": ["128", "137", "152"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -74,9 +66,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Salomon QST Blank Team Skis are the junior version of Salomon\u0027s premier big mountain freeride ski. If your kid is looking towards the steeps, this ski will keep them comfortable while they expand their skills and push their limits. They\u0027re perfect for riding powder, hitting jumps, and making sweet turns down the corduroy.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "3726456647343833499"
-    ],
+    "c_abilityLevel": ["3726456647343833499"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_mindbender_85_skis_2023",
     "c_details": [
@@ -22,17 +20,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "399.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "170",
-      "177"
-    ],
+    "c_sizes": ["156", "170", "177"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -67,9 +59,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "If rentals just aren\u0027t cutting it anymore and you\u0027re feeling confident that it\u0027s time for an upgrade, the K2 Mindbender 85 Skis are your next step towards continual improvement. This lightweight, forgiving and intuitive setup helps you inch out of your confront zone to tackle new parts of the mountain and have loads of fun doing so. The agility of these skis will help spark confidence in your skills while you take to more challenging terrain, getting you pumped for what\u0027s to come.",
     "dm_directoryParents": [
       "warehouse",

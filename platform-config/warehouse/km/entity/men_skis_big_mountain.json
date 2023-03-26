@@ -42,11 +42,7 @@
     ],
     "dm_directoryChildrenCount": "16",
     "dm_directoryManagerId": "warehouse",
-    "dm_directoryParents": [
-      "warehouse",
-      "warehouse_men",
-      "warehouse_men_skis"
-    ],
+    "dm_directoryParents": ["warehouse", "warehouse_men", "warehouse_men_skis"],
     "name": "Big Mountain",
     "slug": "men/skis/big-mountain"
   },

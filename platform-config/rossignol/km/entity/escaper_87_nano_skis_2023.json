@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_escaper_87_nano_skis_2023",
     "c_details": [
@@ -34,19 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "153",
-      "160",
-      "168",
-      "175",
-      "181"
-    ],
+    "c_sizes": ["153", "160", "168", "175", "181"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -81,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Looking to escape both crowds and COVID? Then you\u0027re in the right place. Whether you\u0027re ducking out into the resort sidecountry or venturing deep into the backcountry, the Rossignol Escaper 87 Nano Skis are the ultralight weight touring solution you need to access new lines while still leaving enough gas in the tank for the epic descent! Rossignol\u0027s Free Rocker profile give the Escaper 87 Nano Skis an easy-to-ski feel in a wide array of snow conditions while their relatively narrow 87mm waist width ensures quick kick turns and reliable edgehold on those steep, no-fall zone areas. If crowds navigating crowds isn\u0027t you\u0027re thing, break free and escape with the help of the Rossignol Escaper 87 Nano Skis.",
     "dm_directoryParents": [
       "warehouse",

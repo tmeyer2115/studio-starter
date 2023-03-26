@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Park \u0026 Pipe",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/park-pipe/armada_arw_86_skis_women_s_2023",
     "c_details": [
@@ -31,17 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "449.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "163",
-      "170"
-    ],
+    "c_sizes": ["156", "163", "170"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -76,9 +68,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "463117075052872663"
-    ],
+    "c_terrain": ["463117075052872663"],
     "description": "From switch landings on big booters to frontside switch ups on the rails, your skiing demands style and perfection at every turn. The Armada ARW 86 Skis are designed to provide all that and more for your freestyle exploits. They\u0027re tried and true park warriors with burly bases, oversized edges, a springy core, and a pressable flex so your and boost, butter, and slide your way through the season.",
     "dm_directoryParents": [
       "warehouse",

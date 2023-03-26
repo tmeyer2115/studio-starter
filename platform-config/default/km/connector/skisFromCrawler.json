@@ -7,12 +7,8 @@
     "sourceConfig": {
       "crawlerConfig": {
         "crawler": "skis",
-        "urlPatterns": [
-          "https://www.evo.com/skis/*"
-        ],
-        "fileTypes": [
-          "HTML"
-        ]
+        "urlPatterns": ["https://www.evo.com/skis/*"],
+        "fileTypes": ["HTML"]
       }
     },
     "selectors": [
@@ -144,9 +140,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Gender ID"
-          ]
+          "headers": ["Gender ID"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getGenderId"
@@ -155,9 +149,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Ability Level"
-          ]
+          "headers": ["Ability Level"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getAbilityLevelId"
@@ -166,9 +158,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Terrain"
-          ]
+          "headers": ["Terrain"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getTerrainId"
@@ -183,9 +173,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Images"
-          ]
+          "headers": ["Images"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getImages"
@@ -194,9 +182,7 @@
     {
       "findAndReplace": {
         "inputHeaders": {
-          "headers": [
-            "Sizes"
-          ]
+          "headers": ["Sizes"]
         },
         "valueToFind": {
           "plainText": {
@@ -210,9 +196,7 @@
     {
       "findAndReplace": {
         "inputHeaders": {
-          "headers": [
-            "Sizes"
-          ]
+          "headers": ["Sizes"]
         },
         "valueToFind": {
           "plainText": {
@@ -226,9 +210,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "Terrain Name"
-          ]
+          "headers": ["Terrain Name"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "getCategoryName"
@@ -237,9 +219,7 @@
     {
       "findAndReplace": {
         "inputHeaders": {
-          "headers": [
-            "Product Details"
-          ]
+          "headers": ["Product Details"]
         },
         "valueToFind": {
           "plainText": {
@@ -276,9 +256,7 @@
     {
       "function": {
         "inputHeaders": {
-          "headers": [
-            "SKI ID"
-          ]
+          "headers": ["SKI ID"]
         },
         "plugin": "ski-warehouse-plugin",
         "function": "generateIdFromName"
@@ -287,9 +265,7 @@
     {
       "findAndReplace": {
         "inputHeaders": {
-          "headers": [
-            "Spec Names"
-          ]
+          "headers": ["Spec Names"]
         },
         "valueToFind": {
           "plainText": {

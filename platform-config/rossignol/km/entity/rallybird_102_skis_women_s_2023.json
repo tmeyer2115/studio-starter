@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/big-mountain/rossignol_rallybird_102_skis_women_s_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "154",
-      "162",
-      "170"
-    ],
+    "c_sizes": ["154", "162", "170"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -85,9 +77,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "For the contemporary all-mountain skier with a freeride flair, the Rossignol Rallybird 102 Skis is a very worthy vessel! Combining a progressive sidecut and Free Rocker profile, the Rallybird 102 gives you the edgehold you need to carve on corduroy while still maintaining a fun, easy-to-turn characteristic when you find yourself navigating through trees or moguls. Simultaneously light yet damp, the Rossignol Rallybird 102 Skis and their 102mm waist width strike the perfect balance of carvability on firmer snow and plenty of float in the pow.",
     "dm_directoryParents": [
       "warehouse",

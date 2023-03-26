@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/faction_dancer_3x_skis_women_s_2023",
     "c_details": [
@@ -61,15 +59,11 @@
         "value": "Drill Bit – 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "799.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164"
-    ],
+    "c_sizes": ["164"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -104,9 +98,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The all-mountain freeride ski for those who like to make clean turns every time and FINISH them for God\u0027s sake, the Faction Dancer 3X Skis combine big mountain width and stoutness with a flatter tail rocker profile and two sheets of Titanal in the build to make you feel invincible even when you\u0027re figure-11\u0027ing it. The 106mm waist is a perfect compromise between powder-worthiness and inbounds dexterity, and the tip rocker/flat tail design nails it when you\u0027re looking for power out of the turn.",
     "dm_directoryParents": [
       "warehouse",

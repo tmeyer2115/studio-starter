@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_vision_108_skis_2023",
     "c_details": [
@@ -43,17 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "175",
-      "183",
-      "189"
-    ],
+    "c_sizes": ["175", "183", "189"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -88,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "108 has long been considered the sweet spot for the width of an everyday freeride ski. But most skis you\u0027re looking at in that category come with a hefty weight, a ton of metal in the build, and a racer-friendly mount point far back on the ski. Not so with the Line Skis Vision 108 Skis. These skis put all the emphasis on the \"free\" part of freeride. They\u0027re nimble, quick edge to edge, and extremely well-balanced in the air. Their feathery 1605 gram weight puts many dedicated touring skis to shame, which has earned them a cult following in the freestyle touring scene, but their blend of pure fun and predictability makes them a top contender for any playful big mountain rider.",
     "dm_directoryParents": [
       "warehouse",

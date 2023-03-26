@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_hustle_10_skis_2023",
     "c_details": [
@@ -34,19 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "164",
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["156", "164", "172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -81,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Take the best-selling Blizzard Ruster 10 shape and drop some weight by substituting a carbon laminate for the metal D.R.T. insert, and what have you got? The new Blizzard Hustle 10 Skis are no longer a figment of some crazy backcountry skier\u0027s imagination. Arguably the most versatile of the new Hustle series at 102mm in the waist (give or take), the Hustle 10 exhibits classic Blizzard power and precision on the descent, but the lighter construction makes it a viable uphill tool as well, perfect for the freerider who wants to get deeper into earning their own turns.",
     "dm_directoryParents": [
       "warehouse",

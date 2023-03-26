@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/armada_arv_116_jj_ul_skis_2023",
     "c_details": [
@@ -37,18 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "175",
-      "185",
-      "192"
-    ],
+    "c_sizes": ["165", "175", "185", "192"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -83,9 +74,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "When it comes to playful pow skis, the Armada JJ pretty wrote the book. But nowadays it ain\u0027t cool unless its human powered, and so Armada is happy to provide. The Armada ARV 116 JJ UL Skis feature the same legendary shape that blends stability with fun, but swaps out for an ultralight core. The reduced weight means it\u0027s even more flickable and pivotable dancing through trees and pillows down the fall line, and more importantly, its no chore at all to drag it up the skin track. Get your feet on a pair today and find out what the hype is all about.",
     "dm_directoryParents": [
       "warehouse",

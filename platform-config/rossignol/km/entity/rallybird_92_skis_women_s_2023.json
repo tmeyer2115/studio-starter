@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/rossignol_rallybird_92_skis_women_s_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "649.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "154",
-      "162",
-      "170"
-    ],
+    "c_sizes": ["154", "162", "170"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -85,9 +77,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "For the all-mountain skier with a freeride flair, the Rossignol Rallybird 92 Skis is a very worthy vessel! Combining a progressive sidecut and Free Rocker profile, the Rallybird 92 gives you the edgehold you need to carve on corduroy while still having the fun, easy-to-turn characteristics when you find yourself navigating through trees or moguls. Simultaneously light yet damp, the Rossignol Rallybird 92 Skis will be a beloved all-mountain staple that makes skiing in any conditions, well...a whole lot of fun!",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_94_unlimited_skis_2023",
     "c_details": [
@@ -28,18 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "172",
-      "179",
-      "186"
-    ],
+    "c_sizes": ["165", "172", "179", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -74,9 +65,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The all new Nordica Enforcer 94 Unlimited Skis are ready to take the touring world by storm. Lightweight, maneuverable, and super efficient on the skin track, they give the classic Enforcer design a gram-conscious makeover that doesn\u0027t skimp on downhill performance. Nordica\u0027s Carbon Chassis LT brings the heat instead of heavy Titanal, and early rise tip and tail rocker makes them formidable in variable snow while remaining plenty approachable to those looking for a powerful, yet easy to control ski. Whether you\u0027re ditching civilization for a Spring tour or just ripping around the sidecountry, the Nordica Enforcer 94 Unlimited Skis deliver the goods.",
     "dm_directoryParents": [
       "warehouse",

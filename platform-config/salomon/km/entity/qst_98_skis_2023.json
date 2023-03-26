@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/salomon_qst_98_skis_2023",
     "c_details": [
@@ -31,18 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "599.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "169",
-      "176",
-      "183",
-      "189"
-    ],
+    "c_sizes": ["169", "176", "183", "189"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -81,9 +72,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The outgoing QST 99 left big shoes to fill, so Salomon went huge on a replacement and absolutely stomped the landing. The Salomon QST 98 Skis bring a fresh freeride philosophy to the mid fat range with an all new shape that takes its cues from QST\u0027s new big brother, the QST Blank. There\u0027s noticeably more rocker and taper in tip and tail, a tighter radius, and a looser, more pivoty feel than their forefathers - think easier tail release, effortless slarves, and more playful riding in featured terrain. But don\u0027t worry, they still know how to rail on edge, with Salomon\u0027s new Double Sidewall Technology for added grip and power transmission. If you\u0027re in the market for a fun-loving everyday ripper, you can call off the search - you just found your forever ski.",
     "dm_directoryParents": [
       "warehouse",

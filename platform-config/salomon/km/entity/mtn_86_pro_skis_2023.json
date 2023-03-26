@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/salomon_mtn_86_pro_skis_2023",
     "c_details": [
@@ -28,17 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "180"
-    ],
+    "c_sizes": ["164", "172", "180"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -73,9 +65,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "Ask around in the ski mountaineering community and you\u0027ll find that one name keeps coming up. The Salomon MTN 86 Pro skis are one of the most coveted \"volcano skis\" on the market for good reason. Weighing in at 1230 grams a ski, they definitely fall into the ultralight touring category. These skis were designed for overnight trips, dawn \u0027til dusk missions, and the kinds of vertical stacking days that will leave your GPS watch out of breath and begging you to sit down for a second. But the reason they\u0027ve earned such a reputation is that their downhill performance is nearly unparalleled in the category. If you\u0027re looking for one of the best uphill skis in the world that won\u0027t leave you wanting when it\u0027s time to link turns, this is the one of you.",
     "dm_directoryParents": [
       "warehouse",

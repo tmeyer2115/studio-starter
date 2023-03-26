@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/season_kin_skis_2023",
     "c_details": [
@@ -40,16 +38,10 @@
         "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "163",
-      "175",
-      "181"
-    ],
+    "c_sizes": ["163", "175", "181"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -88,9 +80,7 @@
         "value": "Limited Lifetime"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Forget gate bashing, aerodynamic optimization, and torture devices disguised as ski boots. Skiing is supposed to be fun, remember? The Season Kin Skis know it, and they won\u0027t let you forget. These twin tools of all mountain destruction are perfect for skiers who view the resort as one giant playground, boasting a playful, pressable flex and a versatile sub-100mm waist width that hits the sweet spot for life spent both in and out of the park.",
     "dm_directoryParents": [
       "warehouse",

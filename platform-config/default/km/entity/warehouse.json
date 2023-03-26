@@ -24,15 +24,8 @@
       }
     },
     "dm_baseEntityCount": "471",
-    "dm_childEntityIds": [
-      "82241806",
-      "82237261",
-      "82281622"
-    ],
-    "dm_directoryChildren": [
-      "warehouse_men",
-      "warehouse_women"
-    ],
+    "dm_childEntityIds": ["82241806", "82237261", "82281622"],
+    "dm_directoryChildren": ["warehouse_men", "warehouse_women"],
     "dm_directoryChildrenCount": "515",
     "dm_directoryManagerId": "warehouse",
     "name": "Warehouse",

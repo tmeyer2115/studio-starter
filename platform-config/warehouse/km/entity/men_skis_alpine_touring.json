@@ -46,11 +46,7 @@
     ],
     "dm_directoryChildrenCount": "18",
     "dm_directoryManagerId": "warehouse",
-    "dm_directoryParents": [
-      "warehouse",
-      "warehouse_men",
-      "warehouse_men_skis"
-    ],
+    "dm_directoryParents": ["warehouse", "warehouse_men", "warehouse_men_skis"],
     "name": "Alpine Touring",
     "slug": "men/skis/alpine-touring"
   },

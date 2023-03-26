@@ -11,11 +11,12 @@ export interface CTASectionWithPhotoProps {
 }
 
 const CTASectionWithPhoto = (props: CTASectionWithPhotoProps) => {
-  const { heading, subheading, bgImage, paragraph, cta1Label, cta1Color } = props;
+  const { heading, subheading, bgImage, paragraph, cta1Label, cta1Color } =
+    props;
 
   const cta1Styling = {
-    backgroundColor: `${cta1Color}`
-  }
+    backgroundColor: `${cta1Color}`,
+  };
 
   return (
     <>
@@ -55,8 +56,12 @@ const CTASectionWithPhoto = (props: CTASectionWithPhotoProps) => {
         </div>
         <div className="relative mx-auto max-w-7xl py-24 sm:py-32 lg:py-40 lg:px-8">
           <div className="pr-6 pl-6 md:ml-auto md:w-2/3 md:pl-16 lg:w-1/2 lg:pl-24 lg:pr-0 xl:pl-32">
-            <h2 className="text-base font-semibold leading-7 text-indigo-400">{heading}</h2>
-            <p className="mt-2 text-4xl font-bold tracking-tight text-white">{subheading}</p>
+            <h2 className="text-base font-semibold leading-7 text-indigo-400">
+              {heading}
+            </h2>
+            <p className="mt-2 text-4xl font-bold tracking-tight text-white">
+              {subheading}
+            </p>
             <p className="mt-6 text-base leading-7 text-gray-300">
               {paragraph}
             </p>

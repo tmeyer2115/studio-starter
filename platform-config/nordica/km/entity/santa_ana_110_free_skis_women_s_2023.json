@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/big-mountain/nordica_santa_ana_110_free_skis_women_s_2023",
     "c_details": [
@@ -34,17 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "799.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "161",
-      "169",
-      "177"
-    ],
+    "c_sizes": ["161", "169", "177"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -79,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "This big mama of the Santa Ana series is the tool of dreams when the snowpack gets deep and the terrain gets gnarly. Pick the Nordica Santa Ana 110 Free Skis out of the rack when you know it\u0027s gonna be that kind of day and you want the right ski for the job. Easy to slash and pivot in tight spots but impeccably solid when you\u0027re really moving, the Santa Ana 110 sports a women-specific design for a lighter and easier handling big ski that handles every big mountain and deep snow scenario with ease.",
     "dm_directoryParents": [
       "warehouse",

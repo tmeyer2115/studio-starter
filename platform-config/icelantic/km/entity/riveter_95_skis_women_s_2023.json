@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/icelantic_riveter_95_skis_women_s_2023",
     "c_details": [
@@ -40,17 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "779.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "155",
-      "162",
-      "169"
-    ],
+    "c_sizes": ["155", "162", "169"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -89,9 +81,7 @@
         "value": "3 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "A scrappy little cur of a ski that grabs a run by its neck and won\u0027t let go until it\u0027s conquered, the Icelantic Riveter 95 Skis will endear themselves to you in any and all conditions. The 95mm waist is tailor-made for just about any snow and any slope, and the Poplar Power Core provides plenty of power and snap. There\u0027s a reason they\u0027re fast becoming known as \"Woman\u0027s Best Friend.\"",
     "dm_directoryParents": [
       "warehouse",

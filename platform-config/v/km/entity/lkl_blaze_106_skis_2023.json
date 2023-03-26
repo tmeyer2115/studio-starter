@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_blaze_106_skis_2023",
     "c_details": [
@@ -34,18 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "172",
-      "179",
-      "186"
-    ],
+    "c_sizes": ["165", "172", "179", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -80,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Tired of researching light mid-fats that can double as touring skis? Put down the Google and jump on the Völkl Blaze 106 Skis, you won\u0027t regret it for a minute. Light enough for long days in the saddle (1593 grams at 165cm) but not so light as to compromise edgehold and security when it gets sketchy, the Blaze 106 exemplifies Völkl\u0027s obsessive attitude toward quality and performance. Built around a Hybrid Multilayer Woodcore with full sidewall construction and Suspension Tips and Tails for smooth riding in all conditions, the Blaze 106 brings the heat to the backcountry.",
     "dm_directoryParents": [
       "warehouse",

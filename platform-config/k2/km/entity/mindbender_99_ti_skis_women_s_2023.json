@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/k2_mindbender_99_ti_skis_women_s_2023",
     "c_details": [
@@ -22,18 +20,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "154",
-      "160",
-      "166",
-      "172"
-    ],
+    "c_sizes": ["154", "160", "166", "172"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -68,9 +59,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The all-new, woman\u0027s specific K2 Mindbender 99Ti Skis are designed for the gals who do it all. These skis do more than bend and stretch in technical terrain - they might be mind readers. You can practically think where you want to go and they\u0027ll take you there. From expert terrain to untouched corduroy groomers, the Titanal Y-Beam technology provides unmatched edge to edge speed and grip, all while remaining extremely stable. All techy talk aside - we dare you to put these skis to the test. They won\u0027t disappoint!",
     "dm_directoryParents": [
       "warehouse",

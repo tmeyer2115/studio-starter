@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/atomic_maverick_100_ti_skis_2023",
     "c_details": [
@@ -43,17 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -88,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "If you\u0027re seeking a no speed limit, no holds barred daily driver that you can grab without wasting time to pore over the forecast, check out the Atomic Maverick 100 TI Skis. Arriving with significant design input from across the ski industry spectrum, they\u0027re built with Atomic\u0027s latest technological advancements, including the supremely balanced OMatic core and an all-new Flow Profile built for precise control in a wide array of conditions. Whether you\u0027re jamming groomer runs, powder runs, tree runs, or bump runs - seasoned pro or regular Joe - these things are the real deal!",
     "dm_directoryParents": [
       "warehouse",

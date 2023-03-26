@@ -3,24 +3,13 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_featuredCollections": [
-      "2630537345253385105",
-      "1944780937862102495"
-    ],
+    "c_featuredCollections": ["2630537345253385105", "1944780937862102495"],
     "dm_baseEntityCount": "397",
-    "dm_childEntityIds": [
-      "82237265",
-      "82237339"
-    ],
-    "dm_directoryChildren": [
-      "warehouse_men_skis",
-      "warehouse_men_ski_boots"
-    ],
+    "dm_childEntityIds": ["82237265", "82237339"],
+    "dm_directoryChildren": ["warehouse_men_skis", "warehouse_men_ski_boots"],
     "dm_directoryChildrenCount": "411",
     "dm_directoryManagerId": "warehouse",
-    "dm_directoryParents": [
-      "warehouse"
-    ],
+    "dm_directoryParents": ["warehouse"],
     "name": "Men",
     "primaryPhoto": {
       "image": {

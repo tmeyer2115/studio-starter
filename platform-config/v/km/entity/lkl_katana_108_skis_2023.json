@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/v_lkl_katana_108_skis_2023",
     "c_details": [
@@ -34,18 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "849.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "170",
-      "177",
-      "184",
-      "191"
-    ],
+    "c_sizes": ["170", "177", "184", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -80,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Want the precision and power of a Mantra, but want it on a pow day, too? Unsheath the Völkl Katana 108 Skis and let the snow fall where it may; you\u0027ve got the tool to slice and dice anything from 2 feet of fresh to yards of corduroy without thinking about what ski to grab. One of the preferred \"big boy\" skis for the all-mountain master, the Katana 108 is perhaps the best choice ever offered for a daily driver in snowy, big mountain environments. 3D Radius Sidecut gives you optimal straightline stability plus the ability to carve it up when you so desire, and the Titanal Frame contributes dampness and stability without weighing you down.",
     "dm_directoryParents": [
       "warehouse",

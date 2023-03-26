@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/faction_prodigy_2x_skis_women_s_2023",
     "c_details": [
@@ -46,16 +44,11 @@
         "value": "Drill Bit – 4.1 x 9mm"
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "599.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "159",
-      "171"
-    ],
+    "c_sizes": ["159", "171"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -90,9 +83,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Faction\u0027s most versatile freeride model for women comes in with a 98mm waist, directional twin shape, and a rocker-camber-rocker profile to let you stomp everything from techy steeps to park features in style. The Faction Prodigy 2X Skis build on a sustainable Poplar wood core with multi-axial fiberglass, an anti-chip topsheet and XL 2.5mm edges for pop, power and longevity.",
     "dm_directoryParents": [
       "warehouse",

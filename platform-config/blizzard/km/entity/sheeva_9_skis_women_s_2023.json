@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/blizzard_sheeva_9_skis_women_s_2023",
     "c_details": [
@@ -46,18 +44,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "649.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "148",
-      "157",
-      "164",
-      "172"
-    ],
+    "c_sizes": ["148", "157", "164", "172"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -92,9 +83,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Blizzard Sheeva 9 Skis went largely undiscovered for the first few years of their existence. Then something amazing happened. It didn\u0027t snow in much of North America, and the powder oriented Sheeva 11 disciples discovered its little 92-waisted sister could rip a carve turned as well as many flat-tailed \"carver\" skis and still not humble you in bumps, re-frozen corn, and tight trees. The migration was on, and many hard chargers (including many of the evo crew) found the Sheeva 9 was the ideal tool for everyday good times.",
     "dm_directoryParents": [
       "warehouse",

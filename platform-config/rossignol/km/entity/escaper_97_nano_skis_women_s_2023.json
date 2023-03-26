@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/alpine-touring/rossignol_escaper_97_nano_skis_women_s_2023",
     "c_details": [
@@ -31,16 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "168",
-      "176"
-    ],
+    "c_sizes": ["168", "176"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -75,9 +68,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "A big mountain touring ski built to take a load off your feet and your mind, the Rossignol Escaper 97 Nano Skis are the burliest, widest and strongest offering in the Escaper Women\u0027s lineup. Rossi doubles down with Nano Titanal and Nano Basalt as dampening agents, while a full Paulownia wood core keeps the weight to a minimum. Packing enough width for pow days and a weight that\u0027s competitive with many brands\u0027 \"ultralight\" options, the Escaper 97 Nano will take you there and back again with a smile.",
     "dm_directoryParents": [
       "warehouse",

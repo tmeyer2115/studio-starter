@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/armada_reliance_92_ti_skis_women_s_2023",
     "c_details": [
@@ -31,18 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "699.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "156",
-      "164",
-      "172",
-      "180"
-    ],
+    "c_sizes": ["156", "164", "172", "180"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -77,9 +68,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Armada Reliance 92 Ti Skis are built to thrive in any snow, any conditions, any time you head to the mountains. Built on a lightweight Caruba chassis with an innovative Articulated Titanal Banding layup, they\u0027re nimble and energetic in tight terrain, with fantastic turn and burn grip on firmer snow. Add a touch of rocker for soft snow versatility and you\u0027ve got an incredibly capable ski you can reach for any day of the season.",
     "dm_directoryParents": [
       "warehouse",

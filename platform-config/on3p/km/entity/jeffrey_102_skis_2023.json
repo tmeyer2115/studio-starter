@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/on3p_jeffrey_102_skis_2023",
     "c_details": [
@@ -37,20 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "849.00",
     "c_productType": "Skis",
-    "c_sizes": [
-      "161",
-      "166",
-      "171",
-      "176",
-      "186",
-      "191"
-    ],
+    "c_sizes": ["161", "166", "171", "176", "186", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -89,9 +78,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The ON3P Jeffrey 102 returns with top-shelf freestyle performance to keep you on your toes from coast to coast. ON3Ps legendary bamboo core construction delivers more pop than a bowl of Rice Krispies, and the 102mm platform hits the sweet spot for all mountain versatility: nimble enough to throw down in the park, but beefy enough to charge through trees and variable snow hunting for natural features. Arguably the most capable all-rounder in ON3P\u0027s lineup, the Jeffrey 102 brings the stoke every day.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_sakana_skis_2023",
     "c_details": [
@@ -46,17 +44,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "166",
-      "174",
-      "181"
-    ],
+    "c_sizes": ["166", "174", "181"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -91,9 +83,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Based on the success of the Pescado, the Line Skis Sakana Skis are swallow tail rippers for the shallower days. Designed to carve up the corduroy, the Sakana\u0027s short length, big shovel, and tight turn radius allow it turn over on a dime, and the long camber section throughout the ski gives it a ton of rebound out of each turn. But just like with it\u0027s big brother, the unique shape can\u0027t help but lend itself to surfy deep snow excellence. It\u0027s not often that one ski is so fun to ride both on the deepest and the shallowest days of the year, but the Sakana is here to your defy expectations.",
     "dm_directoryParents": [
       "warehouse",

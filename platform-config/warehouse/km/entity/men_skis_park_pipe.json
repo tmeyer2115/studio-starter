@@ -24,11 +24,7 @@
     ],
     "dm_directoryChildrenCount": "7",
     "dm_directoryManagerId": "warehouse",
-    "dm_directoryParents": [
-      "warehouse",
-      "warehouse_men",
-      "warehouse_men_skis"
-    ],
+    "dm_directoryParents": ["warehouse", "warehouse_men", "warehouse_men_skis"],
     "name": "Park \u0026 Pipe",
     "slug": "men/skis/park-pipe"
   },

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/line_skis_pandora_84_skis_women_s_2023",
     "c_details": [
@@ -43,16 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "449.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "158",
-      "165"
-    ],
+    "c_sizes": ["158", "165"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -87,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Line Skis Pandora 84 Skis are a sunny day ski done in a special way. The narrow waist, light swing weight, and tight turn radius make these things an absolute joy to lay across groomers. They\u0027re incredibly smooth on edge, easy to bend into a variety of turn shapes, and they provide tons of rebound and energy coming out of each turn. If your ski days consist mostly of zooming around groomers and playing through the occasional mogul field or tree line, the Pandora 84 is the ski for you.",
     "dm_directoryParents": [
       "warehouse",

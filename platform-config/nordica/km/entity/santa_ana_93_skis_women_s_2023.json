@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/nordica_santa_ana_93_skis_women_s_2023",
     "c_details": [
@@ -34,19 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "699.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "151",
-      "158",
-      "165",
-      "172",
-      "179"
-    ],
+    "c_sizes": ["151", "158", "165", "172", "179"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -81,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Santa Ana line has become something of a cult classic by now. Walk into any ski shop and ask the rippingest woman who works there what her favorite skis are, and you won\u0027t have to wait too long for the words \"Nordica Santa Ana\" to come out of her mouth. They\u0027re just so good, and with a wide range of widths available, there\u0027s one that right for every set of daily conditions. As the mid skinny option in the lineup, the Nordica Santa Ana 93 Skis are an ideal daily driver for east coast riders or those who tend to find themselves in firmer conditions. They\u0027re built around a lightweight wood core, and reinforced with a careful blend of carbon fiber and titanal that makes them exceptionally precise, quick, and powerful snapping off turns edge to edge.",
     "dm_directoryParents": [
       "warehouse",

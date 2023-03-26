@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "3726456647343833499"
-    ],
+    "c_abilityLevel": ["3726456647343833499"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_junius_birdie_skis_kids_2023",
     "c_details": [
@@ -31,17 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "259.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "130",
-      "140",
-      "150"
-    ],
+    "c_sizes": ["130", "140", "150"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -76,9 +68,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Black Crows Junius Birdie Skis are the perfect learning tools for new skiers. These little, lightweight skis feature a soft flex, plenty of catch-free rocker in the tip and tails, and a nice short turn radius for easy carving. They encourage having fun, trying new things, falling and getting back up, and trying and having fun all over again. Also available with a blue topsheet under the name Junius.",
     "dm_directoryParents": [
       "warehouse",

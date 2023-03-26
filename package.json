@@ -22,11 +22,8 @@
     "node": "18"
   },
   "dependencies": {
-    "@headlessui/react": "^1.7.10",
-    "@heroicons/react": "^2.0.14",
+    "@headlessui/react": "^1.7.13",
     "@yext/search-headless-react": "^2.1.0",
-    "@yext/studio": "^0.5.0",
-    "@yext/studio-plugin": "^0.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "tailwind-merge": "^1.6.2"
@@ -37,7 +34,9 @@
     "@typescript-eslint/eslint-plugin": "^5.36.2",
     "@typescript-eslint/parser": "^5.36.2",
     "@vitejs/plugin-react": "^3.1.0",
-    "@yext/pages": "1.0.0-beta.20",
+    "@yext/pages": "1.0.0-beta.15",
+    "@yext/studio": "0.3.0-alpha.119",
+    "@yext/studio-plugin": "^0.3.0-alpha.121",
     "autoprefixer": "^10.4.8",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.31.7",

@@ -5,9 +5,7 @@
   "filter": {
     "entityType": [
       {
-        "entityTypeId": [
-          "ce_skis"
-        ],
+        "entityTypeId": ["ce_skis"],
         "type": "IS"
       }
     ]

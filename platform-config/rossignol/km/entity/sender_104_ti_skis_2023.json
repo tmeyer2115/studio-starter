@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/rossignol_sender_104_ti_skis_2023",
     "c_details": [
@@ -40,18 +38,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "172",
-      "178",
-      "186"
-    ],
+    "c_sizes": ["164", "172", "178", "186"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +77,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Rossignol Sender 104 Ti Skis pair a stiff flex with a maneuverable Free Rocker profile to create a stouter waisted all-mountain weapon that can hold it down on both hardpack as well as in the fresh fluff. Ideal for aggressive, hard charging skiers who want to go fast and send \u0027er deep off those natural sidehits and cat tracks, the Sender 104 Ti empowers you to charge all over the mountain without ever holding you back. From pow days to the post-storm chunder, ski confidently with the Rossignol Sender 104 Ti Skis.",
     "dm_directoryParents": [
       "warehouse",

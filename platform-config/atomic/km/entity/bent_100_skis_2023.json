@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/atomic_bent_100_skis_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "599.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "164",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["164", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +78,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "When the Atomic Bent 100 Skis first landed a few years ago, some questioned their utility. Did the world really need a skinny Chetler? The answer, it turned out, was an emphatic HELL YES. Their combination of nimble, playful performance, and easygoing all mountain capability turned curious skiers into die hard fans overnight. The Bent 100s are light on the feet, a gas to throw around in soft snow, and strong enough to cope with the occasional high speed runout without getting squirrely. The perfect all-rounder.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_unleashed_108_skis_2023",
     "c_details": [
@@ -28,18 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "174",
-      "180",
-      "186",
-      "191"
-    ],
+    "c_sizes": ["174", "180", "186", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -74,9 +65,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Release your inner shred machine with the new Nordica Unleashed 108 Skis. This twin tip all mountain crusher is designed with traditional camber underfoot for a poppy and stable ride that supports you on deep days and down days alike. Built with terrain specific metal, a wood core, and shovel tip and tail rocker, this playful ride obliterates bumps while supporting switch tricks off whatever kickers you can find.",
     "dm_directoryParents": [
       "warehouse",

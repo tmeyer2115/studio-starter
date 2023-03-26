@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_captis_skis_2023",
     "c_details": [
@@ -34,17 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "649.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "178",
-      "184"
-    ],
+    "c_sizes": ["172", "178", "184"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -79,9 +71,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The all-mountain ease of the Black Crows Captis Skis will captivate you with it\u0027s style. These smooth-turning skis are like a finely honed fusion delicacy. They borrow a bit from freestyle skis, a bit from carving skis, and a bit from freeride skis to give you an all-around platform that can do anything in the resort with surprising simplicity. They feature a versatile mid-skinny 90mm waist, a gentle flex, and the right blend of camber underfoot and rocker at the tips and tails. Set the Captis free and unlock playful, progressive riding across the whole mountain.",
     "dm_directoryParents": [
       "warehouse",

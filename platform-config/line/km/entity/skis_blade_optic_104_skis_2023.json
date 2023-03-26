@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/line_skis_blade_optic_104_skis_2023",
     "c_details": [
@@ -43,17 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "178",
-      "185",
-      "190"
-    ],
+    "c_sizes": ["178", "185", "190"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -88,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Line Skis Blade Optic 104 Skis are and all-new everyday freeride tool. They have a versatile waist width, playful mount point, and a metal laminate, giving them everything you need to charge hard in the morning and goof off in the afternoon. They\u0027re the perfect ski for a high level skier who doesn\u0027t need to be out crushing GS turns all day, but also doesn\u0027t want to be left undergunned when it\u0027s time to put the hammer down.",
     "dm_directoryParents": [
       "warehouse",

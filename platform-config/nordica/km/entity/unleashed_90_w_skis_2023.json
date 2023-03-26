@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/women/skis/all-mountain/nordica_unleashed_90_w_skis_2023",
     "c_details": [
@@ -28,16 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "6490805738900090466"
-    ],
+    "c_gender": ["6490805738900090466"],
     "c_genderName": "Women",
     "c_price": "399.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "160",
-      "168"
-    ],
+    "c_sizes": ["160", "168"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -72,9 +65,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "For the park kids and the up and comers who don\u0027t want to sacrifice performance for their trick fix, the Nordica Unleashed 90 W Skis are made to do it all. A confidence boosting full wood core and vertical sidewalls support playful riding that delivers from the park to the piste and beyond. Twin tip rocker and traditional camber support backwards shenanigans while providing grip when you don\u0027t quite land that 360. What can\u0027t the Nordica Unleashed 90 W do? Nothing. The answer is nothing.",
     "dm_directoryParents": [
       "warehouse",

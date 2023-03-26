@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/blizzard_hustle_9_skis_2023",
     "c_details": [
@@ -34,19 +32,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "157",
-      "164",
-      "172",
-      "180",
-      "188"
-    ],
+    "c_sizes": ["157", "164", "172", "180", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -81,9 +71,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Ok, now we\u0027re talking. Take the proven Rustler 9 platform, substitute a carbon and fiberglass DRT laminate for the Titanal one to drop weight but keep the classic Blizzard edgehold and precision, and BAM, you\u0027ve got a ripper\u0027s delight that\u0027s light enough to tour on but still has the guts to serve as your daily driver. The new Blizzard Hustle 9 Skis are the droids you seek.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Park \u0026 Pipe",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/park-pipe/line_skis_chronic_skis_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "549.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "171",
-      "178",
-      "185"
-    ],
+    "c_sizes": ["171", "178", "185"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +74,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "463117075052872663"
-    ],
+    "c_terrain": ["463117075052872663"],
     "description": "The Line Skis Chronic Skis are all around freestyle machines that are built with just a little more beef underfoot than your standard park rippers. They\u0027re spring loaded pop pandas that crush big jump lines for breakfast and send cat tracks for a mid morning snack. There\u0027s a reason four out of five park rats recommend the Chronic for daily use.",
     "dm_directoryParents": [
       "warehouse",

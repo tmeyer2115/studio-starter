@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/season_nexus_skis_2023",
     "c_details": [
@@ -49,18 +47,10 @@
         "value": "This product may contain chemicals known to the State of California to cause cancer, or birth defects, or other reproductive harm."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "158",
-      "167",
-      "177",
-      "183",
-      "189"
-    ],
+    "c_sizes": ["158", "167", "177", "183", "189"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -99,9 +89,7 @@
         "value": "Limited Lifetime"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Skiers in snowy locales know the drill well. Powder is always on your mind, but reality often presents itself in the form of crud, mank, leftovers, frozen debris and the like. The Season Nexus Skis are designed and built to shine in any conditions reality lays down, from the sublime to the heinous, and make your day better because of it. With a mid-100s waist and an all-directions tip and tail rocker spec, the Nexus is surprisingly quick edge-to-edge and tracks very well on groomed snow so you won\u0027t be a washout if all else fails and snow doesn\u0027t arrive as hoped for. Pray for pow, but nail down your insurance policy in the form of the Nexus; you won\u0027t be disappointed.",
     "dm_directoryParents": [
       "warehouse",

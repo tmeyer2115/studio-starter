@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/rossignol_sender_squad_skis_2023",
     "c_details": [
@@ -43,15 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "949.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "194"
-    ],
+    "c_sizes": ["194"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -86,9 +80,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "You\u0027re big, strong and know how to bend a ski, and you\u0027ve never found a ski that\u0027s up to your definition of \"charging.\" Hold on to your beer, because the Rossignol Sender Squad Skis are here. Check your complaints about wimpy skis at the door, this monster comes only in a 194 with a race-derived Titanal-infused layup that won\u0027t quit until well after you do. There aren\u0027t many of these to go around, but if you\u0027re the type of skier who needs them, you probably already know it.",
     "dm_directoryParents": [
       "warehouse",

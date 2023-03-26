@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Big Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/big-mountain/k2_reckoner_122_skis_2023",
     "c_details": [
@@ -28,16 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "184",
-      "191"
-    ],
+    "c_sizes": ["184", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -72,9 +65,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7200013882251703847"
-    ],
+    "c_terrain": ["7200013882251703847"],
     "description": "Most of us could use a few more pow days in ourn lives, but if you\u0027re searching for a fatty like this you probably chase the powder as much as you can. Look no further than the K2 Reckoner 122 Skis to be your right-hand man for the mission. A Fir/Aspen wood core combo paired with the carbon fiber laminate allows this ski to be fat and surfy so you can bounce, crush, and soar through the deepest conditions, day after day.",
     "dm_directoryParents": [
       "warehouse",

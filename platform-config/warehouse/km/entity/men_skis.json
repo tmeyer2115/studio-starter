@@ -23,10 +23,7 @@
     ],
     "dm_directoryChildrenCount": "188",
     "dm_directoryManagerId": "warehouse",
-    "dm_directoryParents": [
-      "warehouse",
-      "warehouse_men"
-    ],
+    "dm_directoryParents": ["warehouse", "warehouse_men"],
     "name": "Skis",
     "slug": "men/skis"
   },

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_94_skis_2023",
     "c_details": [
@@ -31,19 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "172",
-      "179",
-      "186",
-      "191"
-    ],
+    "c_sizes": ["165", "172", "179", "186", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -78,9 +68,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Enforcer line has become something of a cult classic by now. They\u0027re just so good, and with a wide range of widths available, there\u0027s one that\u0027s just right for every set of daily conditions. As the mid skinny option in the lineup, the Nordica Enforcer 94 Skis are an ideal daily driver for East Coast riders or those who tend to find themselves in firmer conditions. They\u0027re built around two sheets of titanal and a reinforced carbon chassis that makes them exceptionally precise, quick, and powerful snapping off turns edge to edge.",
     "dm_directoryParents": [
       "warehouse",

@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/head_kore_111_skis_2023",
     "c_details": [
@@ -40,16 +38,10 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_productType": "Skis",
-    "c_sizes": [
-      "177",
-      "184",
-      "191"
-    ],
+    "c_sizes": ["177", "184", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -84,9 +76,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "Head athletes and all-mountain chargers everywhere have drawn a bead on the Head Kore 111 Skis since their release last season and found it a worthy target. The 111mm waist makes it one of the best big mountain options around - wide enough to handle even the deepest dumps but light and nimble enough to snake nasty technical lines with confidence. That leaves you with the decision of whether to mount it alpine or with a hybrid touring binding to really get after the good stuff where it lives.",
     "dm_directoryParents": [
       "warehouse",

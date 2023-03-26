@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_mindbender_108_ti_skis_2023",
     "c_details": [
@@ -25,18 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "179",
-      "186",
-      "193"
-    ],
+    "c_sizes": ["172", "179", "186", "193"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -71,9 +62,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "If the Mindbender series reaffirmed K2\u0027s status as an industry leader in the world of freeride, it\u0027s the 108 Ti that cemented it. The K2 Mindbender 108 Ti Skis are the burliest member of the family, delivering a powerful, smooth ride at the highest speeds while remaining nimble enough to navigate tight, technical terrain with composure and poise. K2 know when they\u0027re onto a good thing, so changes have been kept to a minimum and laser targeted at fine-tuning their already impressive performace. Modifications to the signature Titanal Y-Beam improve turn initiation and edge-hold, and a small increase in tail rocker means they\u0027re a touch more forgiving than the previous generation. A fantastic all-rounder for the modern freerider, the K2 Mindbender 108 Ti Skis are worthy of a place in any quiver.",
     "dm_directoryParents": [
       "warehouse",

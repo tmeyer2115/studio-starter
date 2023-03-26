@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_104_unlimited_skis_2023",
     "c_details": [
@@ -31,19 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "849.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "165",
-      "172",
-      "179",
-      "186",
-      "191"
-    ],
+    "c_sizes": ["165", "172", "179", "186", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -78,9 +68,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "If you thought the Enforcer 104s would make a great touring ski if only they weren\u0027t so heavy, you were right, and Nordica have duly obliged. The Nordica Enforcer 104 Unlimited Skis take the Enforcer shape and put it on a serious diet. Laid up in a lightweight, skintrack friendly package, the new Unlimited series is perfect for skiers seeking a more maneuverable alternative to the traditional model, or Enforcer enthusiasts hungry for life on the other side of the ropes. Whether you\u0027re hiking for your favorite inbounds stash or skinning into the high alpine, the Enforcer 104 Unlimited Skis are raring to go.",
     "dm_directoryParents": [
       "warehouse",

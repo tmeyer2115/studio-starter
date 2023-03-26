@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/nordica_enforcer_100_skis_2023",
     "c_details": [
@@ -31,18 +29,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.99",
     "c_productType": "Skis",
-    "c_sizes": [
-      "172",
-      "179",
-      "186",
-      "191"
-    ],
+    "c_sizes": ["172", "179", "186", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -77,9 +68,7 @@
         "value": "1 Year"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "It\u0027s not easy to make a ski that\u0027s universally loved by seriously badass skiers, and at the same time a no brainer to recommend to strong intermediates. But that\u0027s exactly what Nordica has done with the Nordica Enforcer 100 Skis. The Enforcer line has by now become a perennial staple in \"Best Ski of the Year\" discussions, and the latest rendition is no different. A stout flex underfoot is backed up by two sheets of titanal for smooth stability and edge hold through chop, but when it comes time to transfer your weight, the ski happily flicks over to the other edge, making for a surprisingly user friendly ride. If you haven\u0027t gotten on an Enforcer by now, do yourself a favor - the hype is fully deserved.",
     "dm_directoryParents": [
       "warehouse",

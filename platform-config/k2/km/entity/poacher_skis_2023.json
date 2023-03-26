@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_poacher_skis_2023",
     "c_details": [
@@ -25,18 +23,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "549.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "163",
-      "170",
-      "177",
-      "184"
-    ],
+    "c_sizes": ["163", "170", "177", "184"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -71,9 +62,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "This old friend of freestyle is back and better than ever. For rail assassins that make the city their playground all the way to the tip-top of the podium, the K2 Poacher Skis undoubtedly bring the heat. Their burly build and woven carbon stringers from tip to tail bring out the super stable yet energetic personality that makes them a strong contender in competition. Time to send \u0027er deep, bud!",
     "dm_directoryParents": [
       "warehouse",

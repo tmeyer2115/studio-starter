@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "5195394095823606585"
-    ],
+    "c_abilityLevel": ["5195394095823606585"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/k2_reckoner_112_skis_2023",
     "c_details": [
@@ -28,17 +26,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "177",
-      "184",
-      "191"
-    ],
+    "c_sizes": ["177", "184", "191"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -73,9 +65,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "Bounce from treetop pillows? Check. Slash two feet of fresh powder? Check. Cut through crud like butter? Check. The list goes on for the K2 Reckoner 112 Skis. These all purpose, free-style friendly rippers take you from hucking natural features on the frontside to steep and deep descents on the back withough missing a beat. With impact resistance tech in the core and woven carbon stringers throughout, these skis have an energetic rebound so you can stay out all day giving it heck.",
     "dm_directoryParents": [
       "warehouse",

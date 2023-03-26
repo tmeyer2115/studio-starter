@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "Alpine Touring",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/alpine-touring/black_crows_camox_freebird_skis_2023",
     "c_details": [
@@ -43,20 +41,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "799.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "157",
-      "164",
-      "171",
-      "178",
-      "183",
-      "188"
-    ],
+    "c_sizes": ["157", "164", "171", "178", "183", "188"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -91,9 +80,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "7096784237424891914"
-    ],
+    "c_terrain": ["7096784237424891914"],
     "description": "The Black Crows Camox Freebird Skis make the backcountry more accessible than ever before. These super light touring skis offer easier handling that almost any touring ski on the market, with a smooth directional design and moderate flex. The 95mm waist width is versatile and nimble through the varied conditions you\u0027re likely to find beyond the reach of groomers and ski patrollers, making this an awesome choice for experienced riders to expand their repertoire. They pair well with sturdy touring bindings, a well-rounded avalanche education, and a knowledgeable ski partner.",
     "dm_directoryParents": [
       "warehouse",

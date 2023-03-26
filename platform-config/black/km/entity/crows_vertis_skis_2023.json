@@ -3,9 +3,7 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
-    "c_abilityLevel": [
-      "4422719013200450384"
-    ],
+    "c_abilityLevel": ["4422719013200450384"],
     "c_categoryName": "All-Mountain",
     "c_deployedURL": "https://stylishly-universal-starfish.pgsdemo.com/men/skis/all-mountain/black_crows_vertis_skis_2023",
     "c_details": [
@@ -37,17 +35,11 @@
         "value": "We recommend a brake width equal to or at most 15 mm wider than the ski waist width."
       }
     ],
-    "c_gender": [
-      "5929891552541128688"
-    ],
+    "c_gender": ["5929891552541128688"],
     "c_genderName": "Men",
     "c_price": "749.95",
     "c_productType": "Skis",
-    "c_sizes": [
-      "170",
-      "175",
-      "180"
-    ],
+    "c_sizes": ["170", "175", "180"],
     "c_specs": [
       {
         "name": "Terrain",
@@ -82,9 +74,7 @@
         "value": "2 Years"
       }
     ],
-    "c_terrain": [
-      "1295894924104146377"
-    ],
+    "c_terrain": ["1295894924104146377"],
     "description": "The Black Crows Vertis Skis are smooth turning, short radius carving skis that turn every day into a vert staking festival. If you live for hot lapping groomers and feeling the flow of one turn blending into the next, the Vertis will help you unlock a deeper carver and a tighter arc than ever before. These are the perfect everyday resort ski for making the most of any piste, any time.",
     "dm_directoryParents": [
       "warehouse",
