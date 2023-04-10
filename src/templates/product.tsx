@@ -21,7 +21,7 @@ import "../index.css";
 export const config: TemplateConfig = {
   stream: {
     $id: "skis",
-    filter: { entityTypes: ["ce_skis"] },
+    filter: { entityTypes: ["ce_product"] },
     localization: { locales: ["en"], primary: false },
     fields: ["name", "c_price", "description", "photoGallery", "slug"],
   },

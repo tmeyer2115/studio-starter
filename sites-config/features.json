@@ -14,7 +14,7 @@
       "$id": "skis",
       "filter": {
         "entityTypes": [
-          "ce_skis"
+          "ce_product"
         ]
       },
       "localization": {
